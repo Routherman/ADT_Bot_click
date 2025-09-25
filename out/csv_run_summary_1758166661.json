@@ -1,0 +1,1611 @@
+{
+  "total": 936,
+  "ok": 398,
+  "fail": 2,
+  "items": [
+    {
+      "url": "http://rapragerfamilyfarm.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://eventfest.com/",
+      "status": "error",
+      "error": "Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception\nStacktrace:\n\tGetHandleVerifier [0x0x7ff7539a30f5+79493]\n\tGetHandleVerifier [0x0x7ff7539a3150+79584]\n\t(No symbol) [0x0x7ff7537201ba]\n\t(No symbol) [0x0x7ff75375fc09]\n\t(No symbol) [0x0x7ff753759f50]\n\t(No symbol) [0x0x7ff7537ae47f]\n\t(No symbol) [0x0x7ff7537adc00]\n\t(No symbol) [0x0x7ff7537a04e3]\n\t(No symbol) [0x0x7ff753768e92]\n\t(No symbol) [0x0x7ff753769c63]\n\tGetHandleVerifier [0x0x7ff753c60dbd+2954061]\n\tGetHandleVerifier [0x0x7ff753c5b02a+2930106]\n\tGetHandleVerifier [0x0x7ff753c7b357+3061991]\n\tGetHandleVerifier [0x0x7ff7539bd60e+187294]\n\tGetHandleVerifier [0x0x7ff7539c557f+219919]\n\tGetHandleVerifier [0x0x7ff7539ac294+116772]\n\tGetHandleVerifier [0x0x7ff7539ac449+117209]\n\tGetHandleVerifier [0x0x7ff753992618+11176]\n\tBaseThreadInitThunk [0x0x7ff89e86e8d7+23]\n\tRtlUserThreadStart [0x0x7ff8a06c8d9c+44]\n"
+    },
+    {
+      "url": "https://www.templeterraceartscouncil.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://coppertailbrewing.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.stpeterunfest.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.meachamfarm.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.rutheckerdhall.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://serbdays.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.tampabaymarkets.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.nightsofshimmeringlights.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.centroasturianotampa.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.floridastateparks.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.italian-club.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.sugarsandfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://plantcitypigjam.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.parkesdale.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://christmaslane.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.plantcitymainstreet.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.keelfarms.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.plantcityentertainment.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://kumquatfestival.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.plantcitymlkfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://foxsquirrelcornmaze.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.bayarearenfest.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://bradfordagfair.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://labelleswampcabbagefestival.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://brevardrenaissancefair.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.grantseafoodfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.melbournearts.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://cocoabeachmainstreet.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://grantbbqfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.melbournelightparade.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.ircgov.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.harrisestablishmentfarms.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.palmbayflorida.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.melbourneflorida.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.spacecoastharley.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.facebook.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.grantvalkaria.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.brokenbarreltavern.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.renningers.net/",
+      "status": "ok"
+    },
+    {
+      "url": "https://spacecoast.jl.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://jloequineservices.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://familyrocksproductions.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.greekfestivalmlb.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.321tacostreats.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.vieraarts.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://cocoabeachartshow.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.visitcocoavillage.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.cocoafl.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.cocoabeachpiratefest.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://tituslanding.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.playalindabrewingcompany.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.titusville.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.titusville.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.epictheatres.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.irchurch.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://titusville2113.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.cityoforlando.net/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.northbrevardfuneralhome.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.kindercare.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.filmfervor.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://scbwa.net/",
+      "status": "ok"
+    },
+    {
+      "url": "https://rocketcityentertainment.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.satellitebeach.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://cadillaccovebeachside.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://jaxbeachfestivals.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://brevardmusicgroup.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://fortlauderdalegreekfestival.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.stpatsftl.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.jointherevolution.net/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.browardfair.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.indiecraftbazaar.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.parks.fortlauderdale.gov/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.brazilianfestival.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://semtribefairandpowwow.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://daniabeachwineandseafoodfest.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.massdistrict.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.artwalk.city/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.ren-fest.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.pridefortlauderdale.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://sangennarofeast.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.oceansofsoul.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://fliff.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.flibs.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.hollyweirdfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://camelotdays.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.hollywoodartwalk.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.christmasnearthebeach.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://fl-hollywood2.civicplus.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://daniabeachartsandseafoodcelebration.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.hollywoodfanfest.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://miramaramp.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://miramarparks.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.jerkfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.davie-fl.gov/",
+      "status": "ok"
+    },
+    {
+      "url": "http://floridasupercon.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.oceanbrewsandblues.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.sobeseafoodfest.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://en.m.wikipedia.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.fairexpo.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://miramarculturalcenter.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.visitoasis.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.broward.edu/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.pptopa.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.flamingogardens.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.nightsoffrighthauntedhouse.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.davieranch.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.dutchpotrestaurants.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.miniacipac.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.paintingwithatwist.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.sgi-usa.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.hotoffdegrill.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://fieryirie.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://fl-pembrokepines.civicplus.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://level-twentynine.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.stmax.cc/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.miramarpembrokepines.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://kinkscouture.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://holysacrament.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://signarama.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.donnascaribbean.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.germanamericanclubhollywood.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.simpletix.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://margatefair.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://gardenfestcoralsprings.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://thecharlottecountyfair.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://greekfestportcharlotte.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.ci.punta-gorda.fl.us/",
+      "status": "ok"
+    },
+    {
+      "url": "http://twistedfork.net/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.charlotteplayers.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.charlottecountyfl.gov/",
+      "status": "ok"
+    },
+    {
+      "url": "http://skykingfireworks.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.halloweennotte.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.floridaairshow.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.gulftheater.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://everythingpuntagorda.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://smugglersevents.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.citruscountyfair.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.valerietheatre.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.floridanaturecoastbikefest.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://lakehernandodragonboatfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.coppbrewery.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.plantationadventurecenter.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.crystalriverfl.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.threesistersspringsvisitor.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.riverhawkmusic.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://crystalriverrotary.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.palatkabluecrabfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.citruscountychamber.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://homosassacivicclubinc.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.townoforangepark.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.jacksonvillecarnival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.claycountygov.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://orangeparkmarket.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://dreamlandamusements.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://vintagemarketdays.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.claycountyfair.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.greencovesprings.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://neflgames.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.artfestnaples.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.naplesart.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://artisnaples.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.naplesgov.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.playparadisecoast.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.fifthavenuesouth.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.collierparks.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.naplesgarden.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.naplespride.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.evergladesseafoodfestival.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.tasteofcollier.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.tincityofnaples.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.naplespicasso.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.shakespeareislandstyle.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://marcoislandart.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.evergladescamping.net/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.floridagatewayfairgrounds.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://richardsoncommunitycenter.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.visitlakecity.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.halpatterbrewing.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://lakecityfl.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.americanlegion57.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://denmarkacres.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://arcadiarodeo.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.heartlandbluegrass.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.arcadiamainstreet.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://heardoperahouse.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://m.facebook.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.bostwickblueberryfestival.net/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.townofcrosscity.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://habitatocala.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.floridaseafoodfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://dixiecountychamber.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.townofhorseshoebeachfl.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://floridasandmusicranch.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.fleventsandfestivals.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://rhythmandribs.net/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.citystaug.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.mandarinartfestival.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.divinedripjuice.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://atlanticbeachartsmarket.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://bedlamlive.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.coab.us/",
+      "status": "ok"
+    },
+    {
+      "url": "https://aicmf.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.nbaw.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.jaxbeachartsmarket.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://baldwincountystrawberryfestival.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.flaglercounty.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://cowartranchandfarms.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.flaglercounty.gov/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.floridaagmuseum.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.palmcoast.gov/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.sjcfl.us/",
+      "status": "ok"
+    },
+    {
+      "url": "http://european-village.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://cristybcomedy.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://crtpalmcoast.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.club51palmcoast.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.theserendipitymarketplace.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.cityofflaglerbeach.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://gcmartialarts.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://hamiltoncountyfl.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.mcculleyfarms.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.gatorchevy.net/",
+      "status": "ok"
+    },
+    {
+      "url": "http://hardeecountyfair.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.rotaryclubofhardeecounty.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.mainstreetwauchula.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.heartlandeventsflorida.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.hardeecounty.net/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.townofzolfo.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.hardeecountyfl.gov/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.zolfospringsrv.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://lazyacresrvpark.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.clewistonsugarfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.aitphernando.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.historicdowntownbrooksville.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://swampfestweekiwachee.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.sebringraceway.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://downtownsebring.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.circletheatresebring.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://visitsebring.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.mysebring.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.sfscarts.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.avonpark.cc/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.classiccaladiums.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://apccfl.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.goldenpineappleclub.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://pinellas-park.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://lake-placid-arts.keeq.io/",
+      "status": "ok"
+    },
+    {
+      "url": "http://visitlakeplacidflorida.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.tourlakeplacid.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.verobluesfest.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://vbfilmfest.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.froglegfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://westportfolkbluegrass.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.shrimpfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://townofmayo.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.clermontdowntown.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.shamrockinfest.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.leesburgarts.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.lakecountyfl.gov/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.eustis.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://syfipopfest.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.mountdoraart.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://ci.mount-dora.fl.us/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.lakerenfaire.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://cenflo.us/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.tavarespavilion.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.tavares.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://stanleypondfarm.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.tavarestheater.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.tavareschamber.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.farreachranch.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://fearreachscreampark.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.edisonfestival.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.artfestfortmyers.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://fortmyersbeachshrimpfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://cocofest.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.artfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.edisonfordwinterestates.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.hotworks.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.capecoraloktoberfest.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://ccfriendsofwildlife.org/",
+      "status": "error",
+      "error": "'contact-form-7%20id=\"697\" title=\"Contact Recording Secretary\"' does not appear to be an IPv4 or IPv6 address"
+    },
+    {
+      "url": "http://www.capecabaret.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.capecoral.net/",
+      "status": "ok"
+    },
+    {
+      "url": "http://bonitafair.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.cityofbonitasprings.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.flamingoisland.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://veneziarenaissancefaire.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://sanibelmusicfestival.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://sanibel-captiva.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.bigarts.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.sanibelcommunityhouse.net/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.leegov.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.sanibelrotary.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://santivachronicle.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.townofbronson.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.chieflandfarmersfleamarket.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.chieflandchamber.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.chief-theatre.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://thisaintnomuseum.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://chieflandwomansclub.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://houstonkeen.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.willistonflchamber.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.kirbyfarm.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.homesteadparks.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.willistonhorsemans.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.cedarlakeswoodsandgarden.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://cedarkeypiratefest.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.cedarkeyartscenter.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://madisonchautauqua.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.cityofmadisonfl.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.madisonfl.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.fumch.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://madisonfestivals.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://ragansfamilycampground.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://srrlib.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.madisonchurchofgod.us/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.madisonflwordofmouth.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://thearbitration.us/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.greekforaday.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.manateecountyfair.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.suncoastrenaissancefestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.bradentongulfislands.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://cityofbradenton.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.freedomfactoryusa.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://bradentonpublicmarket.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.palmettofl.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.worldtattooevents.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.islandartleague.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.annamariaislandchamber.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://centerami.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.amichamber.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.theislandplayers.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.theannamariabeachresort.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.compasshotel.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.amisun.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.amihs.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.belleviewfl.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.fairydustcrystals.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.obopry.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.pastafaire.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://stmarksgoc.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.flhorsepark.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.soulsharbor.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.dunnellonchamber.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.rocknriverwalk.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.stuartboatshow.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.beachfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://stuartairshow.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://terrafermata.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.barn-theatre.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.martinarts.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://jensenchamber.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.treasurecoastpiratefest.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.jensenbeachflorida.info/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.martin.fl.us/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.southfloridafair.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.deggeller.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://rockinhranch.farm/",
+      "status": "ok"
+    },
+    {
+      "url": "http://garlicfestfl.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://treasurecoastribswingsfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://events.palmbeachculture.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.historicdowntownstuart.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.flaglerofstuart.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.hstc1.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.lyrictheatre.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.stuartfl.gov/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.palmcitychamber.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://palmcitypres.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://siptequila.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://cityofstuart.us/",
+      "status": "ok"
+    },
+    {
+      "url": "https://treasurecoasttheatre.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.ihg.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.ilovecharlies.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://coamartin.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.americangermanclub.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.christianagaudet.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.pumpkintowne.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.stuartmartinchamber.org/",
+      "status": "ok"
+    },
+    {
+      "url": "http://livingwaterlandscapefl.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.colabkitchenfl.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.staarcon.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://carnavalmiami.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://cgaf.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.bayfrontparkmiami.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.harvestinmiami.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://somiartfest.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.jungleisland.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://luminosamiami.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.standrewfl.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://littlebahamasmiami.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.fplsolaramphitheaterbayfront.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.tasteofbrickell.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://friendsofjapanesegarden.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.northmiamibrewfest.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://miamimusicfestival.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.wynwoodlife.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://grovetoberfest.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.factorytown.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://coconutgrovebahamiangoombayfestival.com/",
+      "status": "ok"
+    }
+  ],
+  "elapsed_sec": 173272.11,
+  "csv": "csv\\rubro_festivals_florida.csv"
+}

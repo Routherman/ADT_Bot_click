@@ -1,0 +1,467 @@
+{
+  "site_url": "https://mywindward.com/",
+  "domain": "mywindward.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://mywindward.com/",
+    "https://mywindward.com/about-us",
+    "https://mywindward.com/contact",
+    "https://mywindward.com/our-marinas"
+  ],
+  "candidates": [
+    "https://mywindward.com/contact",
+    "https://mywindward.com/about-us",
+    "https://mywindward.com/",
+    "https://mywindward.com/contact/",
+    "https://mywindward.com/contact-us",
+    "https://mywindward.com/contact-us/",
+    "https://mywindward.com/contactus",
+    "https://mywindward.com/contactus/",
+    "https://mywindward.com/about",
+    "https://mywindward.com/about/",
+    "https://mywindward.com/about-us/",
+    "https://mywindward.com/visit",
+    "https://mywindward.com/visit/",
+    "https://mywindward.com/location",
+    "https://mywindward.com/location/",
+    "https://mywindward.com/directions",
+    "https://mywindward.com/directions/"
+  ],
+  "per_page": {
+    "https://mywindward.com/contact": {
+      "title": "Windward Marinas",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mywindward.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [
+        "(305) 866 7555",
+        "305) 866 7555"
+      ],
+      "socials": []
+    },
+    "https://mywindward.com/about-us": {
+      "title": "Windward Marinas",
+      "band_hits": {},
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://mywindward.com/": {
+      "title": "Windward Marinas",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mywindward.com/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://mywindward.com/contact/": {
+      "title": "Windward Marinas",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mywindward.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [
+        "(305) 866 7555",
+        "305) 866 7555"
+      ],
+      "socials": []
+    },
+    "https://mywindward.com/contact-us": {
+      "title": "Windward Marinas",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mywindward.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [
+        "(305) 866 7555",
+        "305) 866 7555"
+      ],
+      "socials": []
+    },
+    "https://mywindward.com/contact-us/": {
+      "title": "Windward Marinas",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mywindward.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [
+        "(305) 866 7555",
+        "305) 866 7555"
+      ],
+      "socials": []
+    },
+    "https://mywindward.com/contactus": {
+      "title": "Windward Marinas",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mywindward.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [
+        "(305) 866 7555",
+        "305) 866 7555"
+      ],
+      "socials": []
+    },
+    "https://mywindward.com/contactus/": {
+      "title": "Windward Marinas",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mywindward.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [
+        "(305) 866 7555",
+        "305) 866 7555"
+      ],
+      "socials": []
+    },
+    "https://mywindward.com/about": {
+      "title": "Windward Marinas",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mywindward.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [
+        "(305) 866 7555",
+        "305) 866 7555"
+      ],
+      "socials": []
+    },
+    "https://mywindward.com/about/": {
+      "title": "Windward Marinas",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mywindward.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [
+        "(305) 866 7555",
+        "305) 866 7555"
+      ],
+      "socials": []
+    },
+    "https://mywindward.com/about-us/": {
+      "title": "Windward Marinas",
+      "band_hits": {},
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://mywindward.com/visit": {
+      "title": "Windward Marinas",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mywindward.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [
+        "(305) 866 7555",
+        "305) 866 7555"
+      ],
+      "socials": []
+    },
+    "https://mywindward.com/visit/": {
+      "title": "Windward Marinas",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mywindward.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [
+        "(305) 866 7555",
+        "305) 866 7555"
+      ],
+      "socials": []
+    },
+    "https://mywindward.com/location": {
+      "title": "Windward Marinas",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mywindward.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [
+        "(305) 866 7555",
+        "305) 866 7555"
+      ],
+      "socials": []
+    },
+    "https://mywindward.com/location/": {
+      "title": "Windward Marinas",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mywindward.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [
+        "(305) 866 7555",
+        "305) 866 7555"
+      ],
+      "socials": []
+    },
+    "https://mywindward.com/directions": {
+      "title": "Windward Marinas",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mywindward.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [
+        "(305) 866 7555",
+        "305) 866 7555"
+      ],
+      "socials": []
+    },
+    "https://mywindward.com/directions/": {
+      "title": "Windward Marinas",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mywindward.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mywindward.com"
+      ],
+      "phones": [
+        "(305) 866 7555",
+        "305) 866 7555"
+      ],
+      "socials": []
+    }
+  }
+}

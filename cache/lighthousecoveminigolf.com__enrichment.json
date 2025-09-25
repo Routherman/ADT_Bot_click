@@ -1,0 +1,113 @@
+{
+  "timestamp": "2025-09-23T14:25:22.747295",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T14:25:18.245701",
+      "company": {
+        "name": null,
+        "domain": "lighthousecoveminigolf.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 56101315,
+          "description": "Cocoa Beach Call now Get Directions     PARADISE FALLS AND LOST LAGOON Lighthouse Cove hosts two fun-for-all courses, each with 18 holes. Paradise Falls serves up excitement for the whole family. This winding course has several water features and hills, promising a variety of fun at every hole. For those looking for even more …",
+          "domain": "lighthousecoveminigolf.com",
+          "employees": "11 - 50",
+          "fqdn": "www.lighthousecoveminigolf.com",
+          "name": "Lighthouse Cove Adventure Golf Cocoa Beach",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Wellness & Fitness Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/lighthouse-cove-adventure-golf-cocoa-beach"
+            }
+          },
+          "address": "Cocoa Beach North America United States US 3811 N ATLANTIC AVE; Cocoa Beach, Florida 32931, us Florida FL -80.60922241210938,28.3205509185791 ",
+          "location": {
+            "city": "Cocoa Beach",
+            "country": "United States",
+            "fullLocation": "Cocoa Beach North America United States US 3811 N ATLANTIC AVE; Cocoa Beach, Florida 32931, us Florida FL -80.60922241210938,28.3205509185791 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3811 N ATLANTIC AVE; Cocoa Beach, Florida 32931, us"
+          },
+          "website": "https://lighthousecoveminigolf.com/cocoa-beach"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T14:25:19.303032",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T14:25:22.743854",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

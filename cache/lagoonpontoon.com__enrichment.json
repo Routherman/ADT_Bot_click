@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-09-20T07:52:05.502208",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T07:52:01.162735",
+      "company": {
+        "name": null,
+        "domain": "lagoonpontoon.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 14395660,
+          "description": "Get to the fun faster - Swim with Dolphins! Lagoon Pontoons is one of the closest Boat Rental, Jet Ski Rental and Dolphin Tour companies to Shell Island. We offer Pontoon Boat Rentals, Double Decker Slide Pontoons, and Unguided Jet Ski Rentals. We also have Private Guided Dolphin Tours, Guided Jet Ski Adventure Tours & Snorkeling Trips. Shell Island is Only 10 Minutes Away! We are known for having the cleanest, most reliable equipment on Panama City Beach, FL & for having great customer service. Call Today to Book Your Adventure! (850) 588-8700 - https://lagoonpontoon.com/ Located at: 5201 N Lagoon Dr Suite 1, Panama City, FL 32408",
+          "domain": "lagoonpontoon.com",
+          "employees": "1 - 10",
+          "fqdn": "www.lagoonpontoon.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/8/ea/8ea636c03276c75f035b43913f12d8eb",
+          "name": "Lagoon Pontoons",
+          "revenueRange": [],
+          "mainIndustry": "Transportation, Logistics, Supply Chain & Storage",
+          "subIndustry": "Ground Passenger Transportation",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/lagoonpontoons"
+            }
+          },
+          "address": "Panamá North America Panama PA Panama City, Florida -79.51972961425781,8.993599891662598 ",
+          "location": {
+            "city": "Panamá",
+            "country": "Panama",
+            "fullLocation": "Panamá North America Panama PA Panama City, Florida -79.51972961425781,8.993599891662598 ",
+            "state": "",
+            "stateCode": "PA",
+            "countryIso2": "PA",
+            "rawLocation": "Panama City, Florida"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 4111,
+                "description": "Local and suburban transit"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 485999,
+                "description": "All Other Transit and Ground Passenger Transportation"
+              }
+            ]
+          },
+          "website": "https://lagoonpontoon.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T07:52:02.441809",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T07:52:05.496483",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

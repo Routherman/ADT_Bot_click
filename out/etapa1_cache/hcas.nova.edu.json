@@ -1,0 +1,633 @@
+{
+  "site_url": "https://hcas.nova.edu/",
+  "domain": "hcas.nova.edu",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://hcas.nova.edu/",
+    "https://hcas.nova.edu/admissions/visit-us/index.html",
+    "https://hcas.nova.edu/about/index.html",
+    "https://hcas.nova.edu/about/deans-message.html",
+    "https://hcas.nova.edu/index.html",
+    "https://hcas.nova.edu/request-info/index.html",
+    "https://hcas.nova.edu/apply-now/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/index.html",
+    "https://hcas.nova.edu/degrees/graduate/index.html",
+    "https://hcas.nova.edu/admissions/index.html",
+    "https://hcas.nova.edu/admissions/tuition-fees.html",
+    "https://hcas.nova.edu/scholarships/index.html",
+    "https://hcas.nova.edu/career-pathways/index.html",
+    "https://hcas.nova.edu/career-pathways/success-stories/alumni.html",
+    "https://hcas.nova.edu/career-pathways/success-stories/students.html",
+    "https://hcas.nova.edu/research-achievements/index.html",
+    "https://hcas.nova.edu/research-achievements/shark-research.html",
+    "https://hcas.nova.edu/research-achievements/sea-turtle-research.html",
+    "https://hcas.nova.edu/research-achievements/coral-climate-research.html",
+    "https://hcas.nova.edu/research-achievements/global-conflict-resolution.html",
+    "https://hcas.nova.edu/research-achievements/faculty-research.html",
+    "https://hcas.nova.edu/research-achievements/performing-visual-arts.html",
+    "https://hcas.nova.edu/research-achievements/expert-in-residence.html",
+    "https://hcas.nova.edu/research-achievements/writing-center.html",
+    "https://hcas.nova.edu/research-achievements/elections-social.html",
+    "https://hcas.nova.edu/research/index.html",
+    "https://hcas.nova.edu/faculty/index.html",
+    "https://hcas.nova.edu/current-students/index.html",
+    "https://hcas.nova.edu/sga/index.html",
+    "https://hcas.nova.edu/departments/biological-sciences/index.html",
+    "https://hcas.nova.edu/departments/chemistry-physics/index.html",
+    "https://hcas.nova.edu/departments/communications-media-arts/index.html",
+    "https://hcas.nova.edu/departments/conflict-resolution-studies/index.html",
+    "https://hcas.nova.edu/departments/humanities-politics/index.html",
+    "https://hcas.nova.edu/departments/marine-biology-environmental-sciences/index.html",
+    "https://hcas.nova.edu/departments/mathematics/index.html",
+    "https://hcas.nova.edu/current-happenings/index.html",
+    "https://hcas.nova.edu/in-the-news/index.html",
+    "https://hcas.nova.edu/collaborate-with-us/index.html",
+    "https://hcas.nova.edu/diving-program/index.html",
+    "https://hcas.nova.edu/departments/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/art-design/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/communication/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/dance/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/english/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/interdisciplinary-studies/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/international-studies/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/medical-humanities/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/music/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/theatre/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/applied-professional-studies/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/biology/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/chemistry/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/engineering/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/environmental-science/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/legal-studies/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/marine-biology/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/mathematics/index.html",
+    "https://hcas.nova.edu/degrees/bachelors/political-science/index.html",
+    "https://hcas.nova.edu/degrees/minors/african-diaspora-studies.html",
+    "https://hcas.nova.edu/degrees/minors/anthropology.html",
+    "https://hcas.nova.edu/degrees/minors/applied-humanities.html",
+    "https://hcas.nova.edu/degrees/minors/applied-statistics.html",
+    "https://hcas.nova.edu/degrees/minors/arts-administration.html",
+    "https://hcas.nova.edu/degrees/minors/bioinformatics.html",
+    "https://hcas.nova.edu/degrees/minors/biology.html",
+    "https://hcas.nova.edu/degrees/minors/chemistry.html",
+    "https://hcas.nova.edu/degrees/minors/communication.html",
+    "https://hcas.nova.edu/degrees/minors/dance.html",
+    "https://hcas.nova.edu/degrees/minors/digital-media-production.html",
+    "https://hcas.nova.edu/degrees/minors/english.html",
+    "https://hcas.nova.edu/degrees/minors/film.html",
+    "https://hcas.nova.edu/degrees/minors/geographic-information-studies.html",
+    "https://hcas.nova.edu/degrees/minors/graphic-design.html",
+    "https://hcas.nova.edu/degrees/minors/history.html",
+    "https://hcas.nova.edu/degrees/minors/holocaust-and-genocide-studies.html",
+    "https://hcas.nova.edu/degrees/minors/international-law.html",
+    "https://hcas.nova.edu/degrees/minors/international-studies.html",
+    "https://hcas.nova.edu/degrees/minors/journalism.html",
+    "https://hcas.nova.edu/degrees/minors/latin-american-and-caribbean-studies.html",
+    "https://hcas.nova.edu/degrees/minors/legal-studies.html",
+    "https://hcas.nova.edu/degrees/minors/marine-biology.html",
+    "https://hcas.nova.edu/degrees/minors/marine-ecology.html",
+    "https://hcas.nova.edu/degrees/minors/mathematics.html",
+    "https://hcas.nova.edu/degrees/minors/medical-humanities.html",
+    "https://hcas.nova.edu/degrees/minors/music.html",
+    "https://hcas.nova.edu/degrees/minors/optometry.html",
+    "https://hcas.nova.edu/degrees/minors/pharmaceutical-sciences.html",
+    "https://hcas.nova.edu/degrees/minors/philosophy.html",
+    "https://hcas.nova.edu/degrees/minors/physics.html",
+    "https://hcas.nova.edu/degrees/minors/political-science.html",
+    "https://hcas.nova.edu/degrees/minors/pre-health.html",
+    "https://hcas.nova.edu/degrees/minors/scientific-diving.html",
+    "https://hcas.nova.edu/degrees/minors/sociology.html",
+    "https://hcas.nova.edu/degrees/minors/spanish.html",
+    "https://hcas.nova.edu/degrees/minors/strategic-communication.html",
+    "https://hcas.nova.edu/degrees/minors/studio-art.html",
+    "https://hcas.nova.edu/degrees/minors/theatre.html",
+    "https://hcas.nova.edu/degrees/minors/writing.html",
+    "https://hcas.nova.edu/degrees/masters/composition-rhetoric-digital-media.html"
+  ],
+  "candidates": [
+    "https://hcas.nova.edu/about/deans-message.html",
+    "https://hcas.nova.edu/about/index.html",
+    "https://hcas.nova.edu/admissions/visit-us",
+    "https://hcas.nova.edu/admissions/visit-us/index.html",
+    "https://hcas.nova.edu/",
+    "https://hcas.nova.edu/carpenter-house-meec/programs-and-events/index.html",
+    "https://hcas.nova.edu/contact",
+    "https://hcas.nova.edu/contact/",
+    "https://hcas.nova.edu/contact-us",
+    "https://hcas.nova.edu/contact-us/",
+    "https://hcas.nova.edu/contactus",
+    "https://hcas.nova.edu/contactus/",
+    "https://hcas.nova.edu/about",
+    "https://hcas.nova.edu/about/",
+    "https://hcas.nova.edu/about-us",
+    "https://hcas.nova.edu/about-us/",
+    "https://hcas.nova.edu/visit",
+    "https://hcas.nova.edu/visit/",
+    "https://hcas.nova.edu/location",
+    "https://hcas.nova.edu/location/",
+    "https://hcas.nova.edu/directions",
+    "https://hcas.nova.edu/directions/"
+  ],
+  "per_page": {
+    "https://hcas.nova.edu/about/deans-message.html": {
+      "title": "Dean's Message | NSU Halmos College of Arts and Sciences",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/about/deans-message.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": [
+        "https://www.facebook.com/NSUHCAS",
+        "https://www.instagram.com/nsuhcas/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.youtube.com/channel/UCOT4JVKcj6GW7I6PUBSSHqw"
+      ]
+    },
+    "https://hcas.nova.edu/about/index.html": {
+      "title": "About the College | NSU Halmos College of Arts and Sciences",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/about/index.html"
+          ]
+        },
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/about/index.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": [
+        "https://www.facebook.com/NSUHCAS",
+        "https://www.instagram.com/nsuhcas/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.youtube.com/channel/UCOT4JVKcj6GW7I6PUBSSHqw"
+      ]
+    },
+    "https://hcas.nova.edu/admissions/visit-us": {
+      "title": "Visit Us | NSU Halmos College of Arts and Sciences",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/admissions/visit-us"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/admissions/visit-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-541-6682",
+        "954-262-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/NSUHCAS",
+        "https://www.instagram.com/nsuhcas/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.youtube.com/channel/UCOT4JVKcj6GW7I6PUBSSHqw"
+      ]
+    },
+    "https://hcas.nova.edu/admissions/visit-us/index.html": {
+      "title": "Visit Us | NSU Halmos College of Arts and Sciences",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/admissions/visit-us/index.html"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/admissions/visit-us/index.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-541-6682",
+        "954-262-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/NSUHCAS",
+        "https://www.instagram.com/nsuhcas/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.youtube.com/channel/UCOT4JVKcj6GW7I6PUBSSHqw"
+      ]
+    },
+    "https://hcas.nova.edu/": {
+      "title": "Halmos College of Arts and Sciences | Nova Southeastern University",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/"
+          ]
+        },
+        "artists": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": [
+        "https://www.facebook.com/NSUHCAS",
+        "https://www.instagram.com/nsuhcas/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.youtube.com/channel/UCOT4JVKcj6GW7I6PUBSSHqw",
+        "https://youtube.com/watch"
+      ]
+    },
+    "https://hcas.nova.edu/carpenter-house-meec/programs-and-events/index.html": {
+      "title": "Programs and Events | NSU Marine Environmental Education Center",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/carpenter-house-meec/programs-and-events/index.html"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/carpenter-house-meec/programs-and-events/index.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(954) 357-5125",
+        "800-541-6682"
+      ],
+      "socials": [
+        "https://www.facebook.com/NSUHCAS",
+        "https://www.instagram.com/seekthemeec/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.youtube.com/channel/UCOT4JVKcj6GW7I6PUBSSHqw",
+        "https://www.youtube.com/playlist"
+      ]
+    },
+    "https://hcas.nova.edu/contact": {
+      "title": "404 Error - File Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": []
+    },
+    "https://hcas.nova.edu/contact/": {
+      "title": "404 Error - File Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": []
+    },
+    "https://hcas.nova.edu/contact-us": {
+      "title": "404 Error - File Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": []
+    },
+    "https://hcas.nova.edu/contact-us/": {
+      "title": "404 Error - File Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": []
+    },
+    "https://hcas.nova.edu/contactus": {
+      "title": "404 Error - File Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": []
+    },
+    "https://hcas.nova.edu/contactus/": {
+      "title": "404 Error - File Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": []
+    },
+    "https://hcas.nova.edu/about": {
+      "title": "About the College | NSU Halmos College of Arts and Sciences",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/about"
+          ]
+        },
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": [
+        "https://www.facebook.com/NSUHCAS",
+        "https://www.instagram.com/nsuhcas/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.youtube.com/channel/UCOT4JVKcj6GW7I6PUBSSHqw"
+      ]
+    },
+    "https://hcas.nova.edu/about/": {
+      "title": "About the College | NSU Halmos College of Arts and Sciences",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/about/"
+          ]
+        },
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hcas.nova.edu/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": [
+        "https://www.facebook.com/NSUHCAS",
+        "https://www.instagram.com/nsuhcas/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.youtube.com/channel/UCOT4JVKcj6GW7I6PUBSSHqw"
+      ]
+    },
+    "https://hcas.nova.edu/about-us": {
+      "title": "404 Error - File Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": []
+    },
+    "https://hcas.nova.edu/about-us/": {
+      "title": "404 Error - File Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": []
+    },
+    "https://hcas.nova.edu/visit": {
+      "title": "404 Error - File Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": []
+    },
+    "https://hcas.nova.edu/visit/": {
+      "title": "404 Error - File Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": []
+    },
+    "https://hcas.nova.edu/location": {
+      "title": "404 Error - File Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": []
+    },
+    "https://hcas.nova.edu/location/": {
+      "title": "404 Error - File Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": []
+    },
+    "https://hcas.nova.edu/directions": {
+      "title": "404 Error - File Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": []
+    },
+    "https://hcas.nova.edu/directions/": {
+      "title": "404 Error - File Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "800-541-6682"
+      ],
+      "socials": []
+    }
+  }
+}

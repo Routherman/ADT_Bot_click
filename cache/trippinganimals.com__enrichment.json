@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-20T06:55:34.046948",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T06:55:29.843464",
+      "company": {
+        "name": null,
+        "domain": "trippinganimals.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 98939476,
+          "description": "Tripping Animals Brewing Co. was born from a relentless passion for craft beer and a wild spirit of experimentation. It all started in a garage in Caracas, Venezuela, back in 2011—where four friends, Daniel Chocron, Ignacio Montenegro, Iker Elorriaga, and Juan-Manuel Torres, brewed whatever they could get their hands on. Fueled by curiosity and a desire to push the limits of brewing, the team spent years traveling the world, learning from global beer cultures and perfecting their craft.\n\nIn 2018, their journey brought them to the heart of Doral, Florida, where they found the perfect home to turn their dream into reality. Today, Tripping Animals has expanded into two vibrant locations—our flagship brewery and taproom in Doral, and our newest experience-driven outpost in Oakland Park, featuring a beer garden and kitchen concept that reflects our love for food, flavor, and good times.\n\nCONNECTING THROUGH BEER\nAt Tripping Animals, beer is just the beginning. We’re committed to building an inclusive and creative community—championing craft culture through local outreach, live music, art collaborations, and community-focused events. Our spaces are designed to bring people together, spark dialogue, and inspire new ways of thinking.\n\nOUR VISION\nWe believe in pushing the boundaries of what beer can be. Our vision is to brew with boldness, creativity, and purpose—crafting exceptional beers that excite, surprise, and bring people together. As an independent and family-owned brewery, we stay true to our roots, creating a culture that values authenticity, artistic expression, and quality above all else.\n\nWhether you're in Doral or Oakland Park, we invite you to discover the world of Tripping Animals—a space where flavor meets creativity, and community feels like family.\n\nThis is more than a brewery. It’s a movement.",
+          "domain": "trippinganimals.com",
+          "employees": "11 - 50",
+          "founded": "2018",
+          "fqdn": "www.trippinganimals.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/0/2f/02f565cd00c9674b6d5c125efdf9c86e",
+          "name": "Tripping Animals Brewing Co.",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Manufacturing",
+          "subIndustry": "Food & Beverage",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/tripping-animals-brewing-co"
+            }
+          },
+          "address": "Doral North America United States US 2685 NW 105th Ave; Doral, Florida 33172, US Florida FL -80.35533142089844,25.81954002380371 ",
+          "location": {
+            "city": "Doral",
+            "country": "United States",
+            "fullLocation": "Doral North America United States US 2685 NW 105th Ave; Doral, Florida 33172, US Florida FL -80.35533142089844,25.81954002380371 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "2685 NW 105th Ave; Doral, Florida 33172, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 2082,
+                "description": "Malt beverages"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 312120,
+                "description": "Breweries"
+              }
+            ]
+          },
+          "website": "https://trippinganimals.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T06:55:31.159618",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T06:55:34.042016",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,675 @@
+{
+  "site_url": "https://hootersflorida.com/",
+  "domain": "hootersflorida.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://hootersflorida.com/",
+    "https://hootersflorida.com/category/news/",
+    "https://hootersflorida.com/calendar-girls/",
+    "https://hootersflorida.com/contact/",
+    "https://hootersflorida.com/calendar-reveal-copy/",
+    "https://hootersflorida.com/joinourteam",
+    "https://hootersflorida.com/food-2/",
+    "https://hootersflorida.com/drinks-2/",
+    "https://hootersflorida.com/gluten-free/",
+    "https://hootersflorida.com/catering-menu/",
+    "https://hootersflorida.com/current-specials/",
+    "https://hootersflorida.com/locations/",
+    "https://hootersflorida.com/category/community/",
+    "https://hootersflorida.com/community-partners/",
+    "https://hootersflorida.com/upcoming-events/",
+    "https://hootersflorida.com/category/hootscoop/promo/",
+    "https://hootersflorida.com/careers/",
+    "https://hootersflorida.com/draft_party_locations/",
+    "https://hootersflorida.com/jeep-night",
+    "https://hootersflorida.com/ezcater/",
+    "https://hootersflorida.com/friendraisers/",
+    "https://hootersflorida.com/instagram/",
+    "https://hootersflorida.com/careers",
+    "https://hootersflorida.com/car-show-at-hooters-of-bradenton-on-july-13/",
+    "https://hootersflorida.com/meet-and-greet-with-the-bob-does-sports-team-at-boca-raton-hooters/",
+    "https://hootersflorida.com/port-charlotte-hooters-and-cape-coral-hooters-supports-youth-sports/",
+    "https://hootersflorida.com/fort-myers-hooters-employees-give-back-to-the-community/",
+    "https://hootersflorida.com/firefighters-team-up-with-hooters-sarasota-to-fight-muscular-dystrophy/",
+    "https://hootersflorida.com/get-ready-for-game-day-with-hooters-to-go-wings-packages/",
+    "https://hootersflorida.com/southwest-florida-hooters-donations/",
+    "https://hootersflorida.com/hooters-calendar-tour-visits-fort-myers-naples-cape-port-charlotte/",
+    "https://hootersflorida.com/weston-hooters-calendar-signing/",
+    "https://hootersflorida.com/swfl-hooters-will-open-early-for-dolphins-and-chiefs-game-in-germany/",
+    "https://hootersflorida.com/2024-calendar-girls/",
+    "https://hootersflorida.com/hooters-of-south-florida-employees-deliver-meals-books-and-summer-themed-activities-to-several-hospitals/",
+    "https://hootersflorida.com/naples-hooters-presents-6000-donation-and-backpacks-to-christmas-in-july-foundation-of-collier-county/",
+    "https://hootersflorida.com/beach-place-hooters-employees-deliver-meals-books-and-summer-themed-activities/",
+    "https://hootersflorida.com/fort-myers-hooters-employees-make-monthly-visit-to-valaries-house/",
+    "https://hootersflorida.com/naples-hooters-collecting-school-supplies-for-homeless-youth-2/",
+    "https://hootersflorida.com/fort-myers-hooters-employees-deliver-books-for-lending-library-at-lee-regional-cancer-center/",
+    "https://hootersflorida.com/naples-hooters-collecting-school-supplies-for-homeless-youth/",
+    "https://hootersflorida.com/doral-hooters-employees-visit-ppec/",
+    "https://hootersflorida.com/port-charlotte-hooters-friendraiser-for-punta-gorda-youth-baseball-and-softball-all-stars/",
+    "https://hootersflorida.com/hooters-delivers-playground-equipment-to-schools-in-bimini/",
+    "https://hootersflorida.com/calendar-tour-dates/",
+    "https://hootersflorida.com/kids-in-costume-eat-free-at-hooters-on-halloween/",
+    "https://hootersflorida.com/your-kids-eat-free-in-costume-at-swfl-hooters-on-halloween/",
+    "https://hootersflorida.com/have-you-gotten-your-2022-calendar/",
+    "https://hootersflorida.com/2019-lagbrai-cure-on-wheels/",
+    "https://hootersflorida.com/help-us-end-hunger-for-children-in-ghana/",
+    "https://hootersflorida.com/vote-for-your-fan-favorites/",
+    "https://hootersflorida.com/shred-your-ex-2/",
+    "https://hootersflorida.com/wings-to-fly/",
+    "https://hootersflorida.com/fort-myers-hooters-makes-monthly-visit-to-valaries-house/",
+    "https://hootersflorida.com/several-south-florida-hooters-calendar-signing-events-this-october/",
+    "https://hootersflorida.com/corvette-night-and-sports-equipment-drive-at-doral-hooters-on-march-28/",
+    "https://hootersflorida.com/give-a-hoot-3/",
+    "https://hootersflorida.com/hooters-of-cypress-creek-employees-visit-childrens-hospital/",
+    "https://hootersflorida.com/florida-born-business-helping-one-woman-make-a-name-for-herself-after-moving-to-the-states/",
+    "https://hootersflorida.com/doral-hooters-employees-provide-st-patricks-day-themed-activities-for-kids/",
+    "https://hootersflorida.com/lagbrai/",
+    "https://hootersflorida.com/swfl-hooters-employees-deliver-books-for-lending-libraries-in-fort-myers-and-bonita-springs/",
+    "https://hootersflorida.com/hooters-pageant-they-modeled-red-bikinis-and-more-how-did-naples-burchett-do/",
+    "https://hootersflorida.com/hooters-presents-donation-to-weston-ymca-to-make-sure-every-child-has-access-to-early-life-saving-techniques/",
+    "https://hootersflorida.com/2019-hooters-calendar-tour/"
+  ],
+  "candidates": [
+    "https://hootersflorida.com/contact/",
+    "https://hootersflorida.com/calendar-girls/",
+    "https://hootersflorida.com/calendar-reveal-copy/",
+    "https://hootersflorida.com/calendar-tour-dates/",
+    "https://hootersflorida.com/category/news/",
+    "https://hootersflorida.com/",
+    "https://hootersflorida.com/2019-hooters-calendar-tour/",
+    "https://hootersflorida.com/2024-calendar-girls/",
+    "https://hootersflorida.com/car-show-at-hooters-of-bradenton-on-july-13/",
+    "https://hootersflorida.com/have-you-gotten-your-2022-calendar/",
+    "https://hootersflorida.com/hooters-calendar-tour-visits-fort-myers-naples-cape-port-charlotte/",
+    "https://hootersflorida.com/several-south-florida-hooters-calendar-signing-events-this-october/",
+    "https://hootersflorida.com/upcoming-events/",
+    "https://hootersflorida.com/weston-hooters-calendar-signing/"
+  ],
+  "per_page": {
+    "https://hootersflorida.com/contact/": {
+      "title": "Hooters Florida |  » Contact",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hootersflorida.com/calendar-girls/": {
+      "title": "Hooters Florida |  » Calendar Girls",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/calendar-girls/"
+          ]
+        },
+        "calendar": {
+          "total": 12,
+          "zones": {
+            "title": 1,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/calendar-girls/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hootersflorida.com/calendar-reveal-copy/": {
+      "title": "Hooters Florida |  » 2026 Calendar Reveal",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/calendar-reveal-copy/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/calendar-reveal-copy/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/share/16h8RHKyDq/",
+        "https://www.facebook.com/share/171Mp32PBZ/",
+        "https://www.facebook.com/share/176QoHHLjf/",
+        "https://www.facebook.com/share/18jBHq6MiL/",
+        "https://www.facebook.com/share/19bJBMpB2W/",
+        "https://www.facebook.com/share/19iziLxbNm/",
+        "https://www.facebook.com/share/1BF2U4LrWV/",
+        "https://www.facebook.com/share/1BVtmgUyHv/",
+        "https://www.facebook.com/share/1DGH989Ns3/",
+        "https://www.facebook.com/share/1E9kmdWNfS/",
+        "https://www.facebook.com/share/1FT56bV1FB/",
+        "https://www.facebook.com/share/1GQNknJjvJ/",
+        "https://www.facebook.com/share/1K8nscGUX1/",
+        "https://www.facebook.com/share/1NB88TSoyG/",
+        "https://www.facebook.com/share/1YWr6fRg1z/"
+      ]
+    },
+    "https://hootersflorida.com/calendar-tour-dates/": {
+      "title": "Hooters Florida |  » Calendar Tour",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/calendar-tour-dates/"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/calendar-tour-dates/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hootersflorida.com/category/news/": {
+      "title": "Hooters Florida |  » News",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/category/news/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/category/news/"
+          ]
+        },
+        "calendar": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/category/news/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/category/news/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hootersflorida.com/": {
+      "title": "Hooters Florida |",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/southflhooters",
+        "https://www.facebook.com/hootersflorida/",
+        "https://www.tiktok.com/@southflhooters"
+      ]
+    },
+    "https://hootersflorida.com/2019-hooters-calendar-tour/": {
+      "title": "Hooters Florida |  » 2019 Hooters Calendar Tour",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/2019-hooters-calendar-tour/"
+          ]
+        },
+        "calendar": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/2019-hooters-calendar-tour/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hootersflorida.com/2024-calendar-girls/": {
+      "title": "Hooters Florida |  » 2024 Calendar Girls",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/2024-calendar-girls/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/2024-calendar-girls/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hootersflorida.com/car-show-at-hooters-of-bradenton-on-july-13/": {
+      "title": "Hooters Florida |  » Car Show at Hooters of Bradenton on July 13",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/car-show-at-hooters-of-bradenton-on-july-13/"
+          ]
+        },
+        "show": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/car-show-at-hooters-of-bradenton-on-july-13/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/car-show-at-hooters-of-bradenton-on-july-13/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hootersflorida.com/have-you-gotten-your-2022-calendar/": {
+      "title": "Hooters Florida |  » HAVE YOU GOTTEN YOUR 2022 CALENDAR?",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/have-you-gotten-your-2022-calendar/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/have-you-gotten-your-2022-calendar/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hootersflorida.com/hooters-calendar-tour-visits-fort-myers-naples-cape-port-charlotte/": {
+      "title": "Hooters Florida |  » Hooters Calendar Tour visits Fort Myers, Naples, Cape, Port Charlotte",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/hooters-calendar-tour-visits-fort-myers-naples-cape-port-charlotte/"
+          ]
+        },
+        "calendar": {
+          "total": 12,
+          "zones": {
+            "title": 1,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/hooters-calendar-tour-visits-fort-myers-naples-cape-port-charlotte/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/hooters-calendar-tour-visits-fort-myers-naples-cape-port-charlotte/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hootersflorida.com/several-south-florida-hooters-calendar-signing-events-this-october/": {
+      "title": "Hooters Florida |  » Several South Florida Hooters Calendar Signing Events this October",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/several-south-florida-hooters-calendar-signing-events-this-october/"
+          ]
+        },
+        "calendar": {
+          "total": 18,
+          "zones": {
+            "title": 1,
+            "body": 17,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/several-south-florida-hooters-calendar-signing-events-this-october/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hootersflorida.com/upcoming-events/": {
+      "title": "Hooters Florida |  » Upcoming Events",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/upcoming-events/"
+          ]
+        },
+        "show": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/upcoming-events/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/upcoming-events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hootersflorida.com/weston-hooters-calendar-signing/": {
+      "title": "Hooters Florida |  » Weston, Sunrise and Beach Place Hooters Calendar Signing",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/weston-hooters-calendar-signing/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/weston-hooters-calendar-signing/"
+          ]
+        },
+        "calendar": {
+          "total": 18,
+          "zones": {
+            "title": 1,
+            "body": 17,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hootersflorida.com/weston-hooters-calendar-signing/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "url": "http://www.tropicisles.net/about-us",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nPortal\nHOME\nABOUT US\nMARINA & BOAT STORAGE\nAVAILABLE HOMES\nNEW HOMES\nRE-SALES\nRESIDENTS\nCOMMUNITY RESOURCES\nBREEZES NEWSLETTERS\nCALENDAR\nFORMS\nMAP\nGALLERY\nCONTACT US\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nABOUT US\nABOUT US\nIn many ways, Tropic Isles is more than just a resident-owned 55+ waterfront community. Sitting comfortably on top of almost 60 acres of incredible real estate directly on the Terra Ceia Bay, it is one of the most unique communities in Florida.\nTropic Isles features over 2.5 miles of gorgeous waterfront homes, with three enclosed harbors, direct access to both Tampa Bay and the Gulf of Mexico, and so much more. If you had to make a list of words that adequately describe such an incredible environment, “paradise” would undoubtedly be right at the top.\nAt Tropic Isles Co-Op, we understand how important your lifestyle is to your long-term goals. That’s why we’ve gone out of our way to make sure that you can finally enjoy the lifestyle that you want.\nAMENITIES\nWaterfront Clubhouse\nAuditorium\nWi-Fi at Clubhouse & Auditorium\nHeated Pool\nHeated Spa\n﻿\nFitness Center\nShuffleboard\nLibrary\nSocial/Card Room\nBilliard Room\nKayak Launch & Storage Racks\nMarina & Bait Shop\nBoat Slips\nBoat Ramp\nPet Friendly\nACTIVITIES\nP\nlease note that any activity may be changed or cancelled at any time.\nPlease check the calendar under the Residents tab for the times of the current activities.\nAerobics\n8:00 AM Monday- Friday - Yacht Club – Year-round\nCoordinators - Cindy Shaw & Mary Welch\nArchitechtural Review Committee (ARC)\nChairman – Steve Tourtillotte\nBingo\n7:00 PM Tuesdays – Auditorium – Year-round\nCards sold beginning at 6:00 pm\nChairperson - Cyndi Belle\nBoat Club\n7:00 PM 1st & 3rd Wednesdays – Yacht Club – Nov-Apr\nCommodore – Denny Vitton\nBook Club\n1:00PM – 2nd Tuesday – Yacht Club – Year-round\nCoordinator – Irene Casey & Betty Bean\nBoosters\n9:00 AM 1st Friday – Auditorium – Nov-Apr\nPresident – Jim Martin\nBowling League\n1:00 PM Thursdays – AMF Lanes – Nov-Mar\nPresident – Lisa Thurlow\nCards-Bridge, Canasta, Euchre, and Poker\nVarious hours and days, check the calendar, Yacht Club\nCoffee Hour\n8:30AM Saturdays – Auditorium - Year-round\nChairperson – Kay Lynn Duncan\nSummer Coffee - Irene Casey\nEntertainment Committee\n10:15 AM – 1st Thursday – Yacht Club – Nov-Apr\nChairman –\nFun & Fitness\n9:00AM – Mon – Fri – Yacht Club – Nov–May\nCoordinator - Shirley Kaye\nGame Night\n7:00 PM – Thursdays – Yacht Club – Nov-May\nCoordinators – Julie Bruursema & Judy Gutwein\nGolf League\n10:00 AM – Wednesdays – Terra Ceia Golf Course - Nov-March\nCoordinators – Gail & Ron Stewart\nLibrary\nOpen Daily – Librarians Meet 1st Saturday - Nov–Apr\nPresident – Phyllis Ann Smith\nVice President – Summer Library – Irene Casey\nLine Dancing\n7:00PM – Mondays – Auditorium – Nov–April\nCoordinator – Nancy Larsen\nLessons - As Announced\nMahjong\n4:00PM – Sunday – 6:00PM Thursday – Yacht Club - Year-round\nCoordinators – Irene Casey & Leslie Cheney\nMovie Night\n7:00 PM - 2nd Thursday – Auditorium – Sept–May\nCoordinators – Mark and Jan Krueger\nNeighbors Helping Neighbors (NHN)\nYear-round\nCoordinators – Jan Krueger, Sharon Williams, & Pam Hennessy\nNewsletter\nDeadline for information is 10th of each month for following month\nEditor – Cindy Shaw – tibreezes1@aol.com\nShuffle Club\n10:00 AM - Mon-Sat & 2:00 PM Sun  Sept-May\n5:00 PM – 2nd Wednesday Meeting – Auditorium – Nov-March\nPresident – Al MacKenzie\nTropicaires\n9:00 AM – Tuesdays – Auditorium – Jan-Mar\nPresident – Diane Schoettle\nDirector – Jackie Tripp & Mary Buckley\nTropical Red Hatters\n4:00 PM – 1st Wednesday – Yacht Club – Year-round\nQueen Hummingbird – Anna Antonacci\nWater Aerobics\n10:00 AM – Monday-Friday – Pool (Weather Permitting) – Nov-Apr\nInstructors–Denise Smaglis, Cindi Myers, Barb Oliveto & Wendy Verstringhe\nWelcome Committee\nCoordinator – Kathryn Wells\nNew Resident Interviews - Cindy Shaw\nYoga\n10:00 AM – As Announced – Yacht Club\nTropic Isles\nButton\nButton\nButton\nTropic Isles\nButton\nContact Us\n(941) 721-8888\n(941) 729-0687\nINFO@TROPICISLES.NET\n1503 28th Ave W, Palmetto, FL 34221, United States\nSitemap\n© 2022 All Rights Reserved.\nTropic Isles Co-Op, Inc.\nAdd full CSS and Javascript before the close tag of the body if needed\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: d0540e1e\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup\nBegin Product Custom HTML Markup\nEnd Product Custom HTML Markup",
+      "emails": [
+        "info@tropicisles.net",
+        "tibreezes1@aol.com"
+      ]
+    },
+    {
+      "url": "http://www.tropicisles.net/contact-us",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nPortal\nHOME\nABOUT US\nMARINA & BOAT STORAGE\nAVAILABLE HOMES\nNEW HOMES\nRE-SALES\nRESIDENTS\nCOMMUNITY RESOURCES\nBREEZES NEWSLETTERS\nCALENDAR\nFORMS\nMAP\nGALLERY\nCONTACT US\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nCONTACT US\nCONTACT US\nPhone:\n(941) 721-8888\nFax:\n(941) 729-0687\nEmail\n:\nINFO@TROPICISLES.NET\nAddress:\n1503 28th Ave W Palmetto, FL 34221\nFirst Name*\nLast Name*\nEmail*\nMessage\nThank you for contacting us.\nWe will get back to you as soon as possible\nOops, there was an error sending your message.\nPlease try again later\nContact Us\n(941) 721-8888\n(941) 729-0687\nINFO@TROPICISLES.NET\n1503 28th Ave W, Palmetto, FL 34221, United States\nSitemap\n© 2022 All Rights Reserved.\nTropic Isles Co-Op, Inc.\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: d0540e1e\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup\nBegin Product Custom HTML Markup\nEnd Product Custom HTML Markup",
+      "emails": [
+        "info@tropicisles.net"
+      ]
+    }
+  ],
+  "all_links": [
+    "http://www.tropicisles.net/gallery",
+    "http://www.tropicisles.net/about-us",
+    "http://www.tropicisles.net/breezes-newsletters",
+    "http://www.tropicisles.net/real-estate-services",
+    "http://www.tropicisles.net/calendar",
+    "http://www.tropicisles.net/contact-us",
+    "http://www.tropicisles.net/",
+    "http://www.tropicisles.net/new-homes",
+    "http://www.tropicisles.net/#e1",
+    "http://www.tropicisles.net/forms",
+    "http://www.tropicisles.net/resident-resources",
+    "http://www.tropicisles.net/tenant-portals",
+    "http://www.tropicisles.net/sitemap",
+    "mailto:info@tropicisles.net",
+    "http://www.tropicisles.net/re-sales",
+    "http://www.tropicisles.net/boat-storage"
+  ],
+  "candidate_links": [
+    "http://www.tropicisles.net/about-us",
+    "http://www.tropicisles.net/contact-us"
+  ],
+  "visited": [
+    "http://www.tropicisles.net/",
+    "http://www.tropicisles.net/about",
+    "http://www.tropicisles.net/contact",
+    "http://www.tropicisles.net/staff",
+    "http://www.tropicisles.net/team",
+    "http://www.tropicisles.net/board",
+    "http://www.tropicisles.net/directory",
+    "http://www.tropicisles.net/events",
+    "http://www.tropicisles.net/sitemap.xml",
+    "http://www.tropicisles.net/council",
+    "http://www.tropicisles.net/leadership",
+    "http://www.tropicisles.net/management",
+    "http://www.tropicisles.net/producers",
+    "http://www.tropicisles.net/support",
+    "http://www.tropicisles.net/crew",
+    "http://www.tropicisles.net/members",
+    "http://www.tropicisles.net/bios",
+    "http://www.tropicisles.net/people",
+    "http://www.tropicisles.net/artists",
+    "http://www.tropicisles.net/musicians",
+    "http://www.tropicisles.net/faculty",
+    "http://www.tropicisles.net/administration",
+    "http://www.tropicisles.net/about-us",
+    "http://www.tropicisles.net/contact-us"
+  ],
+  "base_url": "http://www.tropicisles.net/"
+}

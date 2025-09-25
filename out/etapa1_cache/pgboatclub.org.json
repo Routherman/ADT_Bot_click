@@ -1,0 +1,860 @@
+{
+  "site_url": "https://pgboatclub.org/",
+  "domain": "pgboatclub.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://pgboatclub.org/",
+    "https://pgboatclub.org/content.aspx?page_id=31&club_id=891222&action=login&user=5",
+    "https://pgboatclub.org/content.aspx?page_id=0&club_id=891222",
+    "https://pgboatclub.org/content.aspx?page_id=4001&club_id=891222",
+    "https://pgboatclub.org/content.aspx?page_id=22&club_id=891222&module_id=644813",
+    "https://pgboatclub.org/content.aspx?page_id=22&club_id=891222&module_id=613792",
+    "https://pgboatclub.org/content.aspx?page_id=187&club_id=891222",
+    "https://pgboatclub.org/content.aspx?page_id=4&club_id=891222",
+    "https://pgboatclub.org/content.aspx?page_id=22&club_id=891222&module_id=639460",
+    "https://pgboatclub.org/content.aspx?page_id=1478&club_id=891222&item_id=9998",
+    "https://pgboatclub.org/content.aspx",
+    "https://pgboatclub.org/content.aspx?page_id=4001&club_id=891222&action=cira&vd=9/21/2025",
+    "https://pgboatclub.org/content.aspx?page_id=4001&club_id=891222&action=cira&vm=MonthView",
+    "https://pgboatclub.org/content.aspx?page_id=4091&club_id=891222&item_id=2481433",
+    "https://pgboatclub.org/content.aspx?page_id=4091&club_id=891222&item_id=2660099",
+    "https://pgboatclub.org/content.aspx?page_id=4091&club_id=891222&item_id=2547226",
+    "https://pgboatclub.org/content.aspx?page_id=4091&club_id=891222&item_id=2714724",
+    "https://pgboatclub.org/content.aspx?page_id=4091&club_id=891222&item_id=2665681",
+    "https://pgboatclub.org/content.aspx?page_id=4091&club_id=891222&item_id=2717997",
+    "https://pgboatclub.org/content.aspx?page_id=4091&club_id=891222&item_id=2706163",
+    "https://pgboatclub.org/content.aspx?page_id=4001&club_id=891222&action=cira&vm=MonthGrid",
+    "https://pgboatclub.org/content.aspx?page_id=4001&club_id=891222&action=cira&vm=MonthView&sif=0",
+    "https://pgboatclub.org/content.aspx?page_id=4001&club_id=891222&action=cira&vm=WeekView&sif=0",
+    "https://pgboatclub.org/content.aspx?page_id=4001&club_id=891222&action=cira&vm=DayView&sif=0",
+    "https://pgboatclub.org/content.aspx?page_id=4001&club_id=891222&action=cira&vm=Future&sif=0",
+    "https://pgboatclub.org/content.aspx?page_id=4002&club_id=891222&item_id=2481433",
+    "https://pgboatclub.org/content.aspx?page_id=4002&club_id=891222&item_id=2660099",
+    "https://pgboatclub.org/content.aspx?page_id=4002&club_id=891222&item_id=2547226",
+    "https://pgboatclub.org/content.aspx?page_id=4002&club_id=891222&item_id=2714724",
+    "https://pgboatclub.org/content.aspx?page_id=4002&club_id=891222&item_id=2665681",
+    "https://pgboatclub.org/content.aspx?page_id=4002&club_id=891222&item_id=2717997",
+    "https://pgboatclub.org/content.aspx?page_id=4002&club_id=891222&item_id=2706163",
+    "https://pgboatclub.org/content.aspx?page_id=4002&club_id=891222&item_id=2481434",
+    "https://pgboatclub.org/content.aspx?page_id=4002&club_id=891222&item_id=2547228",
+    "https://pgboatclub.org/content.aspx?page_id=4002&club_id=891222&item_id=2655051",
+    "https://pgboatclub.org/content.aspx?page_id=4002&club_id=891222&item_id=2481436",
+    "https://pgboatclub.org/content.aspx?page_id=4002&club_id=891222&item_id=2547230",
+    "https://pgboatclub.org/content.aspx?page_id=4002&club_id=891222&item_id=2481438",
+    "https://pgboatclub.org/content.aspx?page_id=4002&club_id=891222&item_id=2547235"
+  ],
+  "candidates": [
+    "https://pgboatclub.org/",
+    "https://pgboatclub.org/contact",
+    "https://pgboatclub.org/contact/",
+    "https://pgboatclub.org/contact-us",
+    "https://pgboatclub.org/contact-us/",
+    "https://pgboatclub.org/contactus",
+    "https://pgboatclub.org/contactus/",
+    "https://pgboatclub.org/about",
+    "https://pgboatclub.org/about/",
+    "https://pgboatclub.org/about-us",
+    "https://pgboatclub.org/about-us/",
+    "https://pgboatclub.org/visit",
+    "https://pgboatclub.org/visit/",
+    "https://pgboatclub.org/location",
+    "https://pgboatclub.org/location/",
+    "https://pgboatclub.org/directions",
+    "https://pgboatclub.org/directions/"
+  ],
+  "per_page": {
+    "https://pgboatclub.org/": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/contact": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contact"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contact"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/contact/": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contact/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/contact-us": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contact-us"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/contact-us/": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contact-us/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/contactus": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contactus"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/contactus/": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contactus/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/about": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/about"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/about"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/about/": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/about/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/about/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/about-us": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/about-us"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/about-us/": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/about-us/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/visit": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/visit"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/visit"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/visit/": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/visit/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/location": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/location"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/location"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/location/": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/location/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/location/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/directions": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/directions"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/directions"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pgboatclub.org/directions/": {
+      "title": "Home - Punta Gorda Boat Club",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/directions/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pgboatclub.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

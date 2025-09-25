@@ -1,0 +1,216 @@
+{
+  "site_url": "https://cateringbybob.com/",
+  "domain": "cateringbybob.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://cateringbybob.com/",
+    "https://cateringbybob.com/contact",
+    "https://cateringbybob.com/wedding-info",
+    "https://cateringbybob.com/faq",
+    "https://cateringbybob.com/about-us",
+    "https://cateringbybob.com/hors-doeuvres",
+    "https://cateringbybob.com/dinner-1",
+    "https://cateringbybob.com/luau-hors-doeuvres%E2%80%8E",
+    "https://cateringbybob.com/mardi-gras-hors-doeuvres",
+    "https://cateringbybob.com/mexican-hors-doeuvres",
+    "https://cateringbybob.com/grill-menu",
+    "https://cateringbybob.com/drinks",
+    "https://cateringbybob.com/desserts",
+    "https://cateringbybob.com/lunch",
+    "https://cateringbybob.com/breakfast",
+    "https://cateringbybob.com/vegetarian-%2F-vegan",
+    "https://cateringbybob.com/links",
+    "https://cateringbybob.com/testimonials",
+    "https://cateringbybob.com/photos",
+    "https://cateringbybob.com/equipment-rental"
+  ],
+  "candidates": [
+    "https://cateringbybob.com/contact",
+    "https://cateringbybob.com/about-us",
+    "https://cateringbybob.com/wedding-info",
+    "https://cateringbybob.com/faq",
+    "https://cateringbybob.com/"
+  ],
+  "per_page": {
+    "https://cateringbybob.com/contact": {
+      "title": "Contact",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cateringbybob.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "becky@cateringbybob.com"
+      ],
+      "phones": [
+        "850-832-7074"
+      ],
+      "socials": []
+    },
+    "https://cateringbybob.com/about-us": {
+      "title": "About Us",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cateringbybob.com/about-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cateringbybob.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cateringbybob.com/wedding-info": {
+      "title": "Wedding Info",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cateringbybob.com/faq": {
+      "title": "FAQ",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cateringbybob.com/faq"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cateringbybob.com/faq"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-832-7074"
+      ],
+      "socials": [
+        "https://www.facebook.com/CateringByBob/"
+      ]
+    },
+    "https://cateringbybob.com/": {
+      "title": "Catering By Bob - Home",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cateringbybob.com/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cateringbybob.com/"
+          ]
+        }
+      },
+      "emails": [
+        "becky@cateringbybob.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CateringByBob"
+      ]
+    }
+  }
+}

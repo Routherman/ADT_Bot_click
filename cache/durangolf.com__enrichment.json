@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-23T02:32:20.230796",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T02:32:16.768222",
+      "company": {
+        "name": null,
+        "domain": "durangolf.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 704008,
+          "description": "The Duran Golf Club, completed in 2005, is truly one of the most unique golf properties on the East Central Coast of Florida. The facility features the area’s top rated 18-hole, par 72 championship course, and a world class Development Center consisting of the entertaining 9-hole - Par 3 golf course, expansive driving range, and the home of the Duran Academy of Golf. The Development Center is illuminated for night use and is open until 9pm. Duran’s Clubhouse offers the spectacular, full service Tradewinds Restaurant, and fully stocked golf shop. The Tradewinds Restaurant provides the perfect atmosphere for any intimate gathering any time of the year.  The club has become a very popular destination for Corporate Functions, Weddings, Holiday parties, Birthday parties, and offers daily lunch service and a wonderful Sunday Brunch. Duran provides an unforgettable golfing and dining experience.",
+          "domain": "durangolf.com",
+          "employees": "51 - 200",
+          "founded": "2004",
+          "fqdn": "www.durangolf.com",
+          "name": "Duran Golf Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/duran-golf-club"
+            }
+          },
+          "address": "North America United States US Viera, Fl, United States Florida FL ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US Viera, Fl, United States Florida FL ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Viera, Fl, United States"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://durangolf.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T02:32:17.867328",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T02:32:20.227220",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

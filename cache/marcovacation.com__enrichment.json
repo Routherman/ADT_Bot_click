@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-23T16:16:06.512862",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T16:16:02.586789",
+      "company": {
+        "name": null,
+        "domain": "marcovacation.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 29214564,
+          "description": "Welcome to Marco Island Vacation Properties ®. If you’re searching for a once-in-a-lifetime tropical vacation, you’ve come to the right place.\n\nWe offer a huge selection of the Island’s finest vacation rentals in every price range. Whether you want to stay a week, several weeks, or even months, we can match you with a home or condo ideally suited to your needs.\n\nHave a look at some of our properties. You’ll find everything from secluded bungalows to waterfront houses with direct access to the Gulf of Mexico to opulent beachfront condos with sweeping ocean views.\n\nWe’ve called Marco Island home since 1989, and we take great satisfaction in introducing new visitors to our tropical paradise. Should you have any questions or require additional assistance, please email us at info@marcovacation.com or telephone us at (800) 462-7264.",
+          "domain": "marcovacation.com",
+          "employees": "1 - 10",
+          "fqdn": "www.marcovacation.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/f/85/f857a5b50cb5fe2fec2f6e9ded4aa8c4",
+          "name": "Marco Island Vacation Properties",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/marco-island-vacation-properties"
+            }
+          },
+          "address": "Marco North America United States US 847 N Collier Blvd; Marco, Florida 34145, US Florida FL -81.7289810180664,25.97260093688965 ",
+          "location": {
+            "city": "Marco",
+            "country": "United States",
+            "fullLocation": "Marco North America United States US 847 N Collier Blvd; Marco, Florida 34145, US Florida FL -81.7289810180664,25.97260093688965 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "847 N Collier Blvd; Marco, Florida 34145, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://marcovacation.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T16:16:03.704040",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T16:16:06.507719",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

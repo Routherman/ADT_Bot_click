@@ -1,0 +1,608 @@
+{
+  "site_url": "https://lakecityhumane.org/",
+  "domain": "lakecityhumane.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://lakecityhumane.org/",
+    "https://lakecityhumane.org/about/",
+    "https://lakecityhumane.org/contact-us/",
+    "https://lakecityhumane.org/category/blog/",
+    "https://lakecityhumane.org/cart/",
+    "https://lakecityhumane.org/adoptions/",
+    "https://lakecityhumane.org/adopting/",
+    "https://lakecityhumane.org/available-dogs/",
+    "https://lakecityhumane.org/available-cats/",
+    "https://lakecityhumane.org/animal-services/",
+    "https://lakecityhumane.org/helping-your-animals/",
+    "https://lakecityhumane.org/helping-stray-animals/",
+    "https://lakecityhumane.org/lost-animals/",
+    "https://lakecityhumane.org/frequently-asked-questions/",
+    "https://lakecityhumane.org/thrift-store/",
+    "https://lakecityhumane.org/donate/",
+    "https://lakecityhumane.org/corporate-engagement/",
+    "https://lakecityhumane.org/volunteering/",
+    "https://lakecityhumane.org/animal-rescue/",
+    "https://lakecityhumane.org/careers/",
+    "https://lakecityhumane.org/sponsors/",
+    "https://lakecityhumane.org//adoptions",
+    "https://lakecityhumane.org//volunteering",
+    "https://lakecityhumane.org//donate",
+    "https://lakecityhumane.org/humane-society/",
+    "https://lakecityhumane.org/how-to-safely-bring-home-shelter-dog/",
+    "https://lakecityhumane.org/10-ways-to-engage-your-dog-indoors/",
+    "https://lakecityhumane.org/pet-adoption-how-to-and-what-for/",
+    "https://lakecityhumane.org//thrift-store",
+    "https://lakecityhumane.org/author/admin/",
+    "https://lakecityhumane.org/product/animal-bowl/"
+  ],
+  "candidates": [
+    "https://lakecityhumane.org/contact-us/",
+    "https://lakecityhumane.org/about/",
+    "https://lakecityhumane.org/category/blog/",
+    "https://lakecityhumane.org/",
+    "https://lakecityhumane.org/contact",
+    "https://lakecityhumane.org/contact/",
+    "https://lakecityhumane.org/contact-us",
+    "https://lakecityhumane.org/contactus",
+    "https://lakecityhumane.org/contactus/",
+    "https://lakecityhumane.org/about",
+    "https://lakecityhumane.org/about-us",
+    "https://lakecityhumane.org/about-us/",
+    "https://lakecityhumane.org/visit",
+    "https://lakecityhumane.org/visit/",
+    "https://lakecityhumane.org/location",
+    "https://lakecityhumane.org/location/",
+    "https://lakecityhumane.org/directions",
+    "https://lakecityhumane.org/directions/"
+  ],
+  "per_page": {
+    "https://lakecityhumane.org/contact-us/": {
+      "title": "Contact us – Lake City Humane",
+      "band_hits": {},
+      "emails": [
+        "aco@lakecityhumane.org",
+        "adoptions@lakecityhumane.org",
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191",
+        "386-752-4702"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/about/": {
+      "title": "About – Lake City Humane",
+      "band_hits": {},
+      "emails": [
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/category/blog/": {
+      "title": "Blog – Lake City Humane",
+      "band_hits": {},
+      "emails": [
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/": {
+      "title": "Lake City Humane",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/contact": {
+      "title": "Contact us – Lake City Humane",
+      "band_hits": {},
+      "emails": [
+        "aco@lakecityhumane.org",
+        "adoptions@lakecityhumane.org",
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191",
+        "386-752-4702"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/contact/": {
+      "title": "Contact us – Lake City Humane",
+      "band_hits": {},
+      "emails": [
+        "aco@lakecityhumane.org",
+        "adoptions@lakecityhumane.org",
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191",
+        "386-752-4702"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/contact-us": {
+      "title": "Contact us – Lake City Humane",
+      "band_hits": {},
+      "emails": [
+        "aco@lakecityhumane.org",
+        "adoptions@lakecityhumane.org",
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191",
+        "386-752-4702"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/contactus": {
+      "title": "Page not found – Lake City Humane",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/contactus"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/contactus/": {
+      "title": "Page not found – Lake City Humane",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/contactus/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/about": {
+      "title": "About – Lake City Humane",
+      "band_hits": {},
+      "emails": [
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/about-us": {
+      "title": "About Us – Lake City Humane",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/about-us/": {
+      "title": "About Us – Lake City Humane",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/visit": {
+      "title": "Page not found – Lake City Humane",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/visit"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/visit"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/visit/": {
+      "title": "Page not found – Lake City Humane",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/visit/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/location": {
+      "title": "Page not found – Lake City Humane",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/location"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/location"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/location/": {
+      "title": "Page not found – Lake City Humane",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/location/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/location/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/directions": {
+      "title": "Page not found – Lake City Humane",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/directions"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/directions"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    },
+    "https://lakecityhumane.org/directions/": {
+      "title": "Page not found – Lake City Humane",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/directions/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakecityhumane.org/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakecityhumane.org"
+      ],
+      "phones": [
+        "386-752-3191"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakeCityHumaneSociety",
+        "https://www.instagram.com/lakecityhumanesociety/"
+      ]
+    }
+  }
+}

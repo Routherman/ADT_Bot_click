@@ -1,0 +1,643 @@
+{
+  "site_url": "https://imperialgolfclub.org/",
+  "domain": "imperialgolfclub.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://imperialgolfclub.org/",
+    "https://imperialgolfclub.org/membership-smart-value",
+    "https://imperialgolfclub.org/membership-smart-value/membership-brochure-copy",
+    "https://imperialgolfclub.org/private-events",
+    "https://imperialgolfclub.org/contact-the-club",
+    "https://imperialgolfclub.org/contact-the-club/contact-us-and-directions",
+    "https://imperialgolfclub.org/contact-the-club/employment-opportunities",
+    "https://imperialgolfclub.org/contact-the-club/request-information",
+    "https://imperialgolfclub.org/contact-the-club/guest-information",
+    "https://imperialgolfclub.org/contact-the-club/guest-information/dress-code",
+    "https://imperialgolfclub.org/private-events/club-policies",
+    "https://imperialgolfclub.org/golf-top-tier-experience",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/map-overview",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/1",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/2",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/3",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/4",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/5",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/6",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/7",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/8",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/9",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/10",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/11",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/12",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/13",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/14",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/15",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/16",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/17",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/west-course/18",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/course-gallery",
+    "https://imperialgolfclub.org/golf-top-tier-experience/top-tier-practice-facilities",
+    "https://imperialgolfclub.org/golf-top-tier-experience/innovating-the-golf-experience",
+    "https://imperialgolfclub.org/social-prioritize-fun",
+    "https://imperialgolfclub.org/member-login",
+    "https://imperialgolfclub.org/private-events/banquet-and-meeting-rooms",
+    "https://imperialgolfclub.org/private-events/request-information",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/map-overview",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/1",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/2",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/3",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/4",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/5",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/6",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/7",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/8",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/9",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/10",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/11",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/12",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/13",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/14",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/15",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/16",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/17",
+    "https://imperialgolfclub.org/golf-top-tier-experience/the-golf-courses/east-course/18"
+  ],
+  "candidates": [
+    "https://imperialgolfclub.org/contact-the-club",
+    "https://imperialgolfclub.org/contact-the-club/contact-us-and-directions",
+    "https://imperialgolfclub.org/contact-the-club/employment-opportunities",
+    "https://imperialgolfclub.org/contact-the-club/guest-information",
+    "https://imperialgolfclub.org/contact-the-club/guest-information/dress-code",
+    "https://imperialgolfclub.org/contact-the-club/request-information",
+    "https://imperialgolfclub.org/membership-smart-value",
+    "https://imperialgolfclub.org/membership-smart-value/membership-brochure-copy",
+    "https://imperialgolfclub.org/private-events",
+    "https://imperialgolfclub.org/private-events/banquet-and-meeting-rooms",
+    "https://imperialgolfclub.org/private-events/club-policies",
+    "https://imperialgolfclub.org/private-events/request-information",
+    "https://imperialgolfclub.org/",
+    "https://imperialgolfclub.org/contact",
+    "https://imperialgolfclub.org/contact/",
+    "https://imperialgolfclub.org/contact-us",
+    "https://imperialgolfclub.org/contact-us/",
+    "https://imperialgolfclub.org/contactus",
+    "https://imperialgolfclub.org/contactus/",
+    "https://imperialgolfclub.org/about",
+    "https://imperialgolfclub.org/about/",
+    "https://imperialgolfclub.org/about-us",
+    "https://imperialgolfclub.org/about-us/",
+    "https://imperialgolfclub.org/visit",
+    "https://imperialgolfclub.org/visit/",
+    "https://imperialgolfclub.org/location",
+    "https://imperialgolfclub.org/location/",
+    "https://imperialgolfclub.org/directions",
+    "https://imperialgolfclub.org/directions/"
+  ],
+  "per_page": {
+    "https://imperialgolfclub.org/contact-the-club": {
+      "title": "Golf Club in Naples FL | Naples Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/contact-the-club"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/contact-the-club"
+          ]
+        }
+      },
+      "emails": [
+        "jdl@imperialgolfclub.org",
+        "lynseya@imperialgolfclub.org",
+        "mmdirector@imperialgolfclub.org"
+      ],
+      "phones": [
+        "(239) 597-8165",
+        "239-597-4289",
+        "239-597-8165"
+      ],
+      "socials": [
+        "https://www.facebook.com/ImperialGolfClub/"
+      ]
+    },
+    "https://imperialgolfclub.org/contact-the-club/contact-us-and-directions": {
+      "title": "Golf Club in Naples FL | Naples Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/contact-the-club/contact-us-and-directions"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/contact-the-club/contact-us-and-directions"
+          ]
+        }
+      },
+      "emails": [
+        "jdl@imperialgolfclub.org",
+        "lynseya@imperialgolfclub.org",
+        "mmdirector@imperialgolfclub.org"
+      ],
+      "phones": [
+        "(239) 597-8165",
+        "239-597-4289",
+        "239-597-8165"
+      ],
+      "socials": [
+        "https://www.facebook.com/ImperialGolfClub/"
+      ]
+    },
+    "https://imperialgolfclub.org/contact-the-club/employment-opportunities": {
+      "title": "Golf Club in Naples FL | Naples Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/contact-the-club/employment-opportunities"
+          ]
+        }
+      },
+      "emails": [
+        "careers@imperialgolfclub.org",
+        "hr@imperialgolfclub.org"
+      ],
+      "phones": [
+        "(239) 597-8165"
+      ],
+      "socials": [
+        "https://www.facebook.com/ImperialGolfClub/"
+      ]
+    },
+    "https://imperialgolfclub.org/contact-the-club/guest-information": {
+      "title": "Golf Club in Naples FL | Naples Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/contact-the-club/guest-information"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 597-8165"
+      ],
+      "socials": [
+        "https://www.facebook.com/ImperialGolfClub/"
+      ]
+    },
+    "https://imperialgolfclub.org/contact-the-club/guest-information/dress-code": {
+      "title": "Golf Club in Naples FL | Naples Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/contact-the-club/guest-information/dress-code"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 597-8165"
+      ],
+      "socials": [
+        "https://www.facebook.com/ImperialGolfClub/"
+      ]
+    },
+    "https://imperialgolfclub.org/contact-the-club/request-information": {
+      "title": "Golf Club in Naples FL | Naples Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/contact-the-club/request-information"
+          ]
+        }
+      },
+      "emails": [
+        "mmdirector@imperialgolfclub.org"
+      ],
+      "phones": [
+        "(239) 597-8165",
+        "239-260-8500",
+        "239-597-8165"
+      ],
+      "socials": [
+        "https://www.facebook.com/ImperialGolfClub/"
+      ]
+    },
+    "https://imperialgolfclub.org/membership-smart-value": {
+      "title": "Golf Club Membership Naples| Private Golf Course | Imperial Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/membership-smart-value"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/membership-smart-value"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 597-8165"
+      ],
+      "socials": [
+        "https://www.facebook.com/ImperialGolfClub/"
+      ]
+    },
+    "https://imperialgolfclub.org/membership-smart-value/membership-brochure-copy": {
+      "title": "Golf Club in Naples FL | Naples Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/membership-smart-value/membership-brochure-copy"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 597-8165"
+      ],
+      "socials": [
+        "https://www.facebook.com/ImperialGolfClub/"
+      ]
+    },
+    "https://imperialgolfclub.org/private-events": {
+      "title": "Golf Club in Naples FL | Naples Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/private-events"
+          ]
+        }
+      },
+      "emails": [
+        "lynseya@imperialgolfclub.org"
+      ],
+      "phones": [
+        "(239) 597-8165",
+        "239-260-8524"
+      ],
+      "socials": [
+        "https://www.facebook.com/ImperialGolfClub/"
+      ]
+    },
+    "https://imperialgolfclub.org/private-events/banquet-and-meeting-rooms": {
+      "title": "Golf Club in Naples FL | Naples Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/private-events/banquet-and-meeting-rooms"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/private-events/banquet-and-meeting-rooms"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 597-8165"
+      ],
+      "socials": [
+        "https://www.facebook.com/ImperialGolfClub/"
+      ]
+    },
+    "https://imperialgolfclub.org/private-events/club-policies": {
+      "title": "Golf Club in Naples FL | Naples Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/private-events/club-policies"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 597-8165"
+      ],
+      "socials": [
+        "https://www.facebook.com/ImperialGolfClub/"
+      ]
+    },
+    "https://imperialgolfclub.org/private-events/request-information": {
+      "title": "Golf Club in Naples FL | Naples Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/private-events/request-information"
+          ]
+        }
+      },
+      "emails": [
+        "mmdirector@imperialgolfclub.org"
+      ],
+      "phones": [
+        "(239) 597-8165",
+        "239-260-8500",
+        "239-597-8165"
+      ],
+      "socials": [
+        "https://www.facebook.com/ImperialGolfClub/"
+      ]
+    },
+    "https://imperialgolfclub.org/": {
+      "title": "Private Golf Club Naples | Private Golf Courses | Imperial Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://imperialgolfclub.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 597-8165"
+      ],
+      "socials": [
+        "https://www.facebook.com/ImperialGolfClub/"
+      ]
+    },
+    "https://imperialgolfclub.org/contact": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://imperialgolfclub.org/contact/": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://imperialgolfclub.org/contact-us": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://imperialgolfclub.org/contact-us/": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://imperialgolfclub.org/contactus": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://imperialgolfclub.org/contactus/": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://imperialgolfclub.org/about": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://imperialgolfclub.org/about/": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://imperialgolfclub.org/about-us": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://imperialgolfclub.org/about-us/": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://imperialgolfclub.org/visit": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://imperialgolfclub.org/visit/": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://imperialgolfclub.org/location": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://imperialgolfclub.org/location/": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://imperialgolfclub.org/directions": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://imperialgolfclub.org/directions/": {
+      "title": "IIS 7.5 Detailed Error - 404.0 - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

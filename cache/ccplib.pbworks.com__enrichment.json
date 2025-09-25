@@ -1,0 +1,203 @@
+{
+  "timestamp": "2025-09-25T01:03:13.763680",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T01:03:10.343198",
+      "company": {
+        "name": null,
+        "domain": "ccplib.pbworks.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 167577,
+          "description": "More than just the world's most popular hosted intranet solution (over 100,000 businesses use our service), PBworks can transform how you collaborate with your clients. Ad agencies, law firms, educators, and creative services professionals of all types find that our secure, hosted platform helps them work with their clients in a rich, participative, and timely environment. Using PBworks to mediate your client relationships means fewer bothersome status meetings, more brainstorming, better ideas, faster vetting, and faster execution.\n\nCome join the millions of users who every month enjoy the benefits of highly usable team collaboration. You'll be up and running in less time than it takes to make a sandwich.",
+          "domain": "pbworks.com",
+          "employees": "11 - 50",
+          "founded": "2003",
+          "fqdn": "www.pbworks.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/4/7f/47f509e088acc39a48fad36a000bf5f7",
+          "name": "PBworks",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Technology, Information & Media",
+          "subIndustry": "Software Development",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/pbworks"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/pbworks"
+            }
+          },
+          "address": "North America United States US 1825 S Grant St, Suite 850; San Mateo, CA 94402-7041, US ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 1825 S Grant St, Suite 850; San Mateo, CA 94402-7041, US ",
+            "state": "",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1825 S Grant St, Suite 850; San Mateo, CA 94402-7041, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7372,
+                "description": "Prepackaged software"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 541511,
+                "description": "Custom Computer Programming Services"
+              }
+            ]
+          },
+          "website": "https://pbworks.com",
+          "specialities": [
+            "collaboration",
+            "hosted",
+            "software services",
+            "wiki"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "currency": "USD",
+                "roundAmount": 1749995,
+                "roundType": "Venture Round",
+                "roundDate": "Jun 21, 2017"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 600000,
+                "roundType": "Venture Round",
+                "roundDate": "Aug 25, 2015"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 1814369,
+                "roundType": "Venture Round",
+                "roundDate": "Nov 5, 2014"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 421095,
+                "roundType": "Debt Financing",
+                "roundDate": "Mar 28, 2014"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 3908252,
+                "roundType": "Venture Round",
+                "roundDate": "Apr 1, 2013"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 650000,
+                "roundType": "Venture Round",
+                "roundDate": "Nov 20, 2009"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 3500000,
+                "roundType": "Series A",
+                "roundDate": "Jun 1, 2008"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 2100000,
+                "roundType": "Seed Round",
+                "roundDate": "Feb 1, 2007"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 350000,
+                "roundType": "Angel Round",
+                "roundDate": "Sep 11, 2006"
+              }
+            ],
+            "totalRounds": 9,
+            "totalRoundsAmount": 15093711,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundType": "Venture Round",
+            "lastRoundAmount": 1749995,
+            "lastRoundDate": "Jun 21, 2017"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T01:03:11.494869",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T01:03:13.754636",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

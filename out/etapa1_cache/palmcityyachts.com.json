@@ -1,0 +1,939 @@
+{
+  "site_url": "https://palmcityyachts.com/",
+  "domain": "palmcityyachts.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://palmcityyachts.com/",
+    "https://www.palmcityyachts.com/Services/Schedule-Service",
+    "https://www.palmcityyachts.com/About/Our-Dealership",
+    "https://www.palmcityyachts.com/About/Our-Crew",
+    "https://www.palmcityyachts.com/About/Events",
+    "https://www.palmcityyachts.com/About/Location-Hours",
+    "https://www.palmcityyachts.com/Contact",
+    "https://palmcityyachts.com/Services/Schedule-Service",
+    "https://palmcityyachts.com/Contact",
+    "https://www.palmcityyachts.com/",
+    "https://palmcityyachts.com/Directions",
+    "https://www.palmcityyachts.com/Inventory/All-Inventory-In-Stock",
+    "https://www.palmcityyachts.com/Inventory/New-Inventory-In-Stock",
+    "https://www.palmcityyachts.com/Inventory/Used-Inventory",
+    "https://www.palmcityyachts.com/Inventory/Manufacturer-Models",
+    "https://www.palmcityyachts.com/Inventory/Value-Your-Trade-In",
+    "https://www.palmcityyachts.com/Inventory/Request-a-Model",
+    "https://www.palmcityyachts.com/Financing",
+    "https://www.palmcityyachts.com/Suzuki-Re-Power",
+    "https://www.palmcityyachts.com/Suzuki-Re-Power/Re-Power",
+    "https://www.palmcityyachts.com/Suzuki-Re-Power/Recent-Re-Powers",
+    "https://www.palmcityyachts.com/Services",
+    "https://www.palmcityyachts.com/Services/Service-Department",
+    "https://www.palmcityyachts.com/Services/Parts-Department",
+    "https://www.palmcityyachts.com/Services/Request-Parts",
+    "https://www.palmcityyachts.com/Customers",
+    "https://www.palmcityyachts.com/Customers/Recently-Sold",
+    "https://www.palmcityyachts.com/Promotion-Details-a45e938a-c714-4b95-bcba-b05300294a12",
+    "https://palmcityyachts.com/New-Inventory",
+    "https://palmcityyachts.com/Suzuki-Re-Power/Re-Power",
+    "https://palmcityyachts.com/Services/Service-Department",
+    "https://palmcityyachts.com/Financing",
+    "https://palmcityyachts.com/oempromo",
+    "https://palmcityyachts.com/Inventory/Manufacturer-Models/Model-List/Suzuki-Marine/Boat-Engines",
+    "https://palmcityyachts.com/Inventory/All-Inventory-In-Stock/Sea-Pro",
+    "https://palmcityyachts.com/Inventory/All-Inventory-In-Stock/Pioneer",
+    "https://palmcityyachts.com/Inventory/All-Inventory-In-Stock/Bluewater",
+    "https://palmcityyachts.com/Inventory/All-Inventory-In-Stock/Sea-Fox",
+    "https://palmcityyachts.com/Inventory/All-Inventory-In-Stock/Avenger",
+    "https://palmcityyachts.com/Inventory/All-Inventory-In-Stock/Bulls-Bay",
+    "https://palmcityyachts.com/Inventory/All-Inventory-In-Stock/Twin-Vee",
+    "https://palmcityyachts.com/Inventory/All-Inventory-In-Stock/Ocean-Master"
+  ],
+  "candidates": [
+    "https://www.palmcityyachts.com/About/Events",
+    "https://palmcityyachts.com/Contact",
+    "https://www.palmcityyachts.com/Contact",
+    "https://www.palmcityyachts.com/About/Location-Hours",
+    "https://www.palmcityyachts.com/About/Our-Crew",
+    "https://www.palmcityyachts.com/About/Our-Dealership",
+    "https://palmcityyachts.com/Services/Schedule-Service",
+    "https://www.palmcityyachts.com/Services/Schedule-Service",
+    "https://palmcityyachts.com/",
+    "https://palmcityyachts.com/contact",
+    "https://palmcityyachts.com/contact/",
+    "https://palmcityyachts.com/contact-us",
+    "https://palmcityyachts.com/contact-us/",
+    "https://palmcityyachts.com/contactus",
+    "https://palmcityyachts.com/contactus/",
+    "https://palmcityyachts.com/about",
+    "https://palmcityyachts.com/about/",
+    "https://palmcityyachts.com/about-us",
+    "https://palmcityyachts.com/about-us/",
+    "https://palmcityyachts.com/visit",
+    "https://palmcityyachts.com/visit/",
+    "https://palmcityyachts.com/location",
+    "https://palmcityyachts.com/location/",
+    "https://palmcityyachts.com/directions",
+    "https://palmcityyachts.com/directions/"
+  ],
+  "per_page": {
+    "https://www.palmcityyachts.com/About/Events": {
+      "title": "Events at Palm City Yachts, Stuart FL",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palmcityyachts.com/About/Events"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palmcityyachts.com/About/Events"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palmcityyachts.com/About/Events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://palmcityyachts.com/Contact": {
+      "title": "Contact Palm City Yachts | 2901 SE Gran Park Way, Stuart FL | (772) 220-3000",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/Contact"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/Contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://www.palmcityyachts.com/Contact": {
+      "title": "Contact Palm City Yachts | 2901 SE Gran Park Way, Stuart FL | (772) 220-3000",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palmcityyachts.com/Contact"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palmcityyachts.com/Contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://www.palmcityyachts.com/About/Location-Hours": {
+      "title": "Map & Hours for Palm City Yachts, Stuart FL",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palmcityyachts.com/About/Location-Hours"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palmcityyachts.com/About/Location-Hours"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000",
+        "2425769951",
+        "8546089057"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://www.palmcityyachts.com/About/Our-Crew": {
+      "title": "Our Staff | Palm City Yachts, Stuart FL",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palmcityyachts.com/About/Our-Crew"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palmcityyachts.com/About/Our-Crew"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://www.palmcityyachts.com/About/Our-Dealership": {
+      "title": "Stuart FL Dealership | About Palm City Yachts",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palmcityyachts.com/About/Our-Dealership"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palmcityyachts.com/About/Our-Dealership"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000",
+        "772-220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://palmcityyachts.com/Services/Schedule-Service": {
+      "title": "Schedule Service | Palm City Yachts, Stuart FL",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/Services/Schedule-Service"
+          ]
+        },
+        "schedule": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/Services/Schedule-Service"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://www.palmcityyachts.com/Services/Schedule-Service": {
+      "title": "Schedule Service | Palm City Yachts, Stuart FL",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palmcityyachts.com/Services/Schedule-Service"
+          ]
+        },
+        "schedule": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palmcityyachts.com/Services/Schedule-Service"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://palmcityyachts.com/": {
+      "title": "Palm City Yachts | Powersports Dealer in Stuart FL",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://palmcityyachts.com/contact": {
+      "title": "Contact Palm City Yachts | 2901 SE Gran Park Way, Stuart FL | (772) 220-3000",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/contact"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://palmcityyachts.com/contact/": {
+      "title": "Contact Palm City Yachts | 2901 SE Gran Park Way, Stuart FL | (772) 220-3000",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/contact/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://palmcityyachts.com/contact-us": {
+      "title": "Contact Palm City Yachts | 2901 SE Gran Park Way, Stuart FL | (772) 220-3000",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/contact-us"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://palmcityyachts.com/contact-us/": {
+      "title": "Contact Palm City Yachts | 2901 SE Gran Park Way, Stuart FL | (772) 220-3000",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/contact-us/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://palmcityyachts.com/contactus": {
+      "title": "Service unavailable",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "0000000330"
+      ],
+      "socials": []
+    },
+    "https://palmcityyachts.com/contactus/": {
+      "title": "Service unavailable",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://palmcityyachts.com/about": {
+      "title": "Stuart FL Dealership | About Palm City Yachts",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/about"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000",
+        "772-220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://palmcityyachts.com/about/": {
+      "title": "Stuart FL Dealership | About Palm City Yachts",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/about/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000",
+        "772-220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://palmcityyachts.com/about-us": {
+      "title": "Stuart FL Dealership | About Palm City Yachts",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/about-us"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000",
+        "772-220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://palmcityyachts.com/about-us/": {
+      "title": "Stuart FL Dealership | About Palm City Yachts",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/about-us/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000",
+        "772-220-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://palmcityyachts.com/visit": {
+      "title": "Service unavailable",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "0000000011"
+      ],
+      "socials": []
+    },
+    "https://palmcityyachts.com/visit/": {
+      "title": "Service unavailable",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "0000000001"
+      ],
+      "socials": []
+    },
+    "https://palmcityyachts.com/location": {
+      "title": "Service unavailable",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "0000000020"
+      ],
+      "socials": []
+    },
+    "https://palmcityyachts.com/location/": {
+      "title": "Service unavailable",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "0000000019"
+      ],
+      "socials": []
+    },
+    "https://palmcityyachts.com/directions": {
+      "title": "Map & Hours for Palm City Yachts, Stuart FL",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/directions"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000",
+        "2425769951",
+        "8546089057"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    },
+    "https://palmcityyachts.com/directions/": {
+      "title": "Map & Hours for Palm City Yachts, Stuart FL",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/directions/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palmcityyachts.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(772) 220-3000",
+        "2425769951",
+        "8546089057"
+      ],
+      "socials": [
+        "https://www.facebook.com/palmcityyachts/",
+        "https://www.instagram.com/palmcityyachts/",
+        "https://www.tiktok.com/@palmcityyachts",
+        "https://www.youtube.com/channel/UC8RfRf-g5zvhcFSVttStkDQ"
+      ]
+    }
+  }
+}

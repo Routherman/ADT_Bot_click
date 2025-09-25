@@ -1,0 +1,137 @@
+{
+  "timestamp": "2025-09-19T01:07:18.138949",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T01:07:14.073439",
+      "company": {
+        "name": null,
+        "domain": "casino.hardrock.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 9919,
+          "description": "Hard Rock International (HRI) is one of the most globally recognized companies with venues in over 70 countries spanning 265 locations that include owned/licensed or managed Rock Shops®, Live Performance Venues and Cafes. HRI also launched a joint venture named Hard Rock Digital in 2020, an online sportsbook, retail sportsbook and internet gaming platform. Beginning with an Eric Clapton guitar, Hard Rock owns the world’s largest and most valuable collection of authentic music memorabilia at more than 86,000 pieces, which are displayed at its locations around the globe. Hard Rock Hotels has been honored with Outstanding Guest Satisfaction and above for four consecutive years among Upper Upscale Hotels in J.D. Power’s North America Hotel Guest Satisfaction Study and in 2022, the iconic brand was ranked as the number one brand for the second year in a row. HRI is the first privately-owned gaming company designated U.S. Best Managed Company by Deloitte Private and The Wall Street Journal for the second year. Hard Rock was also honored as one of Forbes’ Best Employers for Women, Diversity and New Grads and a Top Large Employer in the Travel & Leisure, Gaming, and Entertainment Industry. In 2021, Hard Rock Hotels & Casinos received first place ranking in the Casino Gaming Executive Satisfaction Survey conducted by Bristol Associates Inc. and Spectrum Gaming Group for six of the last seven years. \n \nWe are committed to fostering diversity, equity and inclusion. DE&I aims to address the needs of all team members – including Native Americans, women, LGBTQ+ community, people of color (BIPOC), people with disabilities and military veterans. \n\nDiversity: is the celebration of differences and leveraging those difference to produce stellar results. \n \nEquity: is a process of seeking fairness through deliberate and intentional actions.\n \nInclusion: is when everyone has the freedom and comfort to express their thoughts, ideas, and opinions in a safe, trusting, and open environment.",
+          "domain": "hardrock.com",
+          "employees": "10001 - 100000",
+          "founded": "1971",
+          "fqdn": "www.hardrock.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=29/j_lvl9g88xcgu0nf1ue.0b75cf64ac577e1029aa35305db67a712a0e64b2.file_lvl9z9u81wipnal6n6.logo_cached.jpg",
+          "name": "Hard Rock International",
+          "revenueRange": [
+            1000000000,
+            10000000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/hard-rock-cafe"
+            }
+          },
+          "address": "Davie North America United States US 5701 Stirling Road; Davie, FL 33314, US Florida FL -80.23310089111328,26.062870025634766 ",
+          "location": {
+            "city": "Davie",
+            "country": "United States",
+            "fullLocation": "Davie North America United States US 5701 Stirling Road; Davie, FL 33314, US Florida FL -80.23310089111328,26.062870025634766 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "5701 Stirling Road; Davie, FL 33314, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://hardrock.com",
+          "specialities": [
+            "casino",
+            "hospitality",
+            "hotel",
+            "live music",
+            "restaurant",
+            "retail"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T01:07:15.467101",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T01:07:18.129459",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

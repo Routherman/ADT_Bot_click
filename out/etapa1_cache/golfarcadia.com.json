@@ -1,0 +1,468 @@
+{
+  "site_url": "https://golfarcadia.com/",
+  "domain": "golfarcadia.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://golfarcadia.com/",
+    "https://golfarcadia.com/events",
+    "https://golfarcadia.com/staff",
+    "https://golfarcadia.com/home",
+    "https://golfarcadia.com/rates",
+    "https://golfarcadia.com/clinics-%2F-lessons",
+    "https://golfarcadia.com/range",
+    "https://golfarcadia.com/banquet-room-rental",
+    "https://golfarcadia.com/junior-golf"
+  ],
+  "candidates": [
+    "https://golfarcadia.com/events",
+    "https://golfarcadia.com/staff",
+    "https://golfarcadia.com/",
+    "https://golfarcadia.com/contact",
+    "https://golfarcadia.com/contact/",
+    "https://golfarcadia.com/contact-us",
+    "https://golfarcadia.com/contact-us/",
+    "https://golfarcadia.com/contactus",
+    "https://golfarcadia.com/contactus/",
+    "https://golfarcadia.com/about",
+    "https://golfarcadia.com/about/",
+    "https://golfarcadia.com/about-us",
+    "https://golfarcadia.com/about-us/",
+    "https://golfarcadia.com/visit",
+    "https://golfarcadia.com/visit/",
+    "https://golfarcadia.com/location",
+    "https://golfarcadia.com/location/",
+    "https://golfarcadia.com/directions",
+    "https://golfarcadia.com/directions/"
+  ],
+  "per_page": {
+    "https://golfarcadia.com/events": {
+      "title": "EVENTS",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/staff": {
+      "title": "STAFF",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/staff"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/": {
+      "title": "HOME",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-494-4223"
+      ],
+      "socials": [
+        "http://Follow us on Facebook: www.facebook.com/arcadiagolfcourse"
+      ]
+    },
+    "https://golfarcadia.com/contact": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/contact/": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/contact-us": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/contact-us/": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/contactus": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/contactus/": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/about": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/about/": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/about-us": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/about-us/": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/visit": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/visit/": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/location": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/location/": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/directions": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://golfarcadia.com/directions/": {
+      "title": "Golf Arcadia",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://golfarcadia.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "pages": [
+    {
+      "url": "http://www.k-kbakery.com/contact.php",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "Questions or Feedback?\nSend us a message! We love hearing from you\nWe Respond ASAP\nCustomer satisfaction is our top priority\nContact Us\nOr Call 941-423-1700\n<form id=\"contactForm\" class=\"contact-form\" action=\"assets/php/contact.php\" method=\"post\">\n                            <div class=\"row row-tb-15 row-tb-10\">\n                                <div class=\"col-xs-12 t-center\">\n                                    <h2 class=\"color-theme mb-10 font-30 font-oleo\">Contact Us</h2>\n                                    <h5 class=\"mb-22 color-mid font-oleo\">Or Call 941-423-1700</h5>\n                                </div>\n                                <div class=\"col-xs-12\">\n                                    <div id=\"contactResponse\"></div>\n                                </div>\n                                <div class=\"col-md-6\">\n                                    <div class=\"row row-tb-10\">\n                                        <div class=\"col-xs-12\">\n                                            <input type=\"text\" name=\"contactName\" class=\"form-control input-lg\" placeholder=\"Full Name\">\n                                        </div>\n                                        <div class=\"col-xs-12\">\n                                            <input type=\"text\" name=\"contactEmail\" class=\"form-control input-lg\" placeholder=\"Email Address\">\n                                        </div>\n                                        <div class=\"col-xs-12\">\n                                            <input type=\"text\" name=\"contactPhone\" class=\"form-control input-lg\" placeholder=\"Your Phone\">\n                                        </div>\n                                    </div>\n                                </div>\n                                <div class=\"col-md-6\">\n                                    <textarea class=\"form-control input-lg\" placeholder=\"Your Message\" name=\"contactMessage\" style=\"height: 178px\"></textarea>\n                                </div>\n                                <div class=\"col-xs-12 t-center\">\n                                    <button class=\"btn btn-lg\">Send Message</button>\n                                </div>\n                            </div>\n                        </form>\nPlease fill out the required fields!\nQuestions or Feedback?\nSend us a message! We love hearing from you\nWe Respond ASAP\nCustomer satisfaction is our top priority\nContact Us\nOr Call 941-423-1700\n<form id=\"contactForm\" class=\"contact-form\" action=\"assets/php/contact.php\" method=\"post\">\n                            <div class=\"row row-tb-15 row-tb-10\">\n                                <div class=\"col-xs-12 t-center\">\n                                    <h2 class=\"color-theme mb-10 font-30 font-oleo\">Contact Us</h2>\n                                    <h5 class=\"mb-22 color-mid font-oleo\">Or Call 941-423-1700</h5>\n                                </div>\n                                <div class=\"col-xs-12\">\n                                    <div id=\"contactResponse\"></div>\n                                </div>\n                                <div class=\"col-md-6\">\n                                    <div class=\"row row-tb-10\">\n                                        <div class=\"col-xs-12\">\n                                            <input type=\"text\" name=\"contactName\" class=\"form-control input-lg\" placeholder=\"Full Name\">\n                                        </div>\n                                        <div class=\"col-xs-12\">\n                                            <input type=\"text\" name=\"contactEmail\" class=\"form-control input-lg\" placeholder=\"Email Address\">\n                                        </div>\n                                        <div class=\"col-xs-12\">\n                                            <input type=\"text\" name=\"contactPhone\" class=\"form-control input-lg\" placeholder=\"Your Phone\">\n                                        </div>\n                                    </div>\n                                </div>\n                                <div class=\"col-md-6\">\n                                    <textarea class=\"form-control input-lg\" placeholder=\"Your Message\" name=\"contactMessage\" style=\"height: 178px\"></textarea>\n                                </div>\n                                <div class=\"col-xs-12 t-center\">\n                                    <button class=\"btn btn-lg\">Send Message</button>\n                                </div>\n                            </div>\n                        </form>\nPlease fill out the required fields!",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "http://www.k-kbakery.com/index.php",
+    "http://www.k-kbakery.com/menu.php",
+    "http://www.k-kbakery.com/about.php",
+    "http://www.k-kbakery.com/contact.php",
+    "http://www.k-kbakery.com/gallery.php"
+  ],
+  "candidate_links": [
+    "http://www.k-kbakery.com/contact.php"
+  ],
+  "visited": [
+    "http://www.k-kbakery.com/",
+    "http://www.k-kbakery.com/about",
+    "http://www.k-kbakery.com/contact",
+    "http://www.k-kbakery.com/staff",
+    "http://www.k-kbakery.com/team",
+    "http://www.k-kbakery.com/board",
+    "http://www.k-kbakery.com/directory",
+    "http://www.k-kbakery.com/events",
+    "http://www.k-kbakery.com/sitemap.xml",
+    "http://www.k-kbakery.com/council",
+    "http://www.k-kbakery.com/leadership",
+    "http://www.k-kbakery.com/management",
+    "http://www.k-kbakery.com/producers",
+    "http://www.k-kbakery.com/support",
+    "http://www.k-kbakery.com/crew",
+    "http://www.k-kbakery.com/members",
+    "http://www.k-kbakery.com/bios",
+    "http://www.k-kbakery.com/people",
+    "http://www.k-kbakery.com/artists",
+    "http://www.k-kbakery.com/musicians",
+    "http://www.k-kbakery.com/faculty",
+    "http://www.k-kbakery.com/administration",
+    "http://www.k-kbakery.com/contact.php"
+  ],
+  "base_url": "http://www.k-kbakery.com/"
+}

@@ -1,0 +1,2190 @@
+{
+  "site_url": "https://marcocivic.com/",
+  "domain": "marcocivic.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://marcocivic.com/",
+    "https://www.marcocivic.com/calendar/",
+    "https://www.marcocivic.com/about-mica/",
+    "https://www.marcocivic.com/contact/",
+    "https://www.marcocivic.com/category/news/",
+    "https://www.marcocivic.com/contact/mica-feedback/",
+    "https://marcocivic.com/category/news/",
+    "https://www.marcocivic.com/calendar/action~oneday/exact_date~19-10-2025/",
+    "https://www.marcocivic.com/event/beach-cleanup-meet-at-residents-beach/?instance_id=276",
+    "https://www.marcocivic.com/calendar/action~oneday/exact_date~8-11-2025/",
+    "https://www.marcocivic.com/event/beach-cleanup-at-south-beach-12/?instance_id=272",
+    "https://www.marcocivic.com/calendar/action~oneday/exact_date~6-12-2025/",
+    "https://www.marcocivic.com/event/tigertail-beach-cleanup-4/?instance_id=273",
+    "https://marcocivic.com/contact/",
+    "https://www.marcocivic.com/resident-breach-cams/",
+    "https://www.marcocivic.com/paradise-grill/",
+    "https://www.marcocivic.com/residents-beach/",
+    "https://marcocivic.com/discount-directory/",
+    "https://www.marcocivic.com/board-of-directors/",
+    "https://www.marcocivic.com/sarazen-park/",
+    "https://www.marcocivic.com/applications/",
+    "https://www.marcocivic.com/deed-restrictions/",
+    "https://www.marcocivic.com/photo-galleries/",
+    "https://www.marcocivic.com/micawave/",
+    "https://www.marcocivic.com/",
+    "https://www.marcocivic.com/2023/02/08/important-information-regulations-mica-residents-beach-members/",
+    "https://www.marcocivic.com/2015/11/02/the-eagles-have-landed/",
+    "https://www.marcocivic.com/newsletter/micawave-fall-2025/",
+    "https://marcocivic.com/micawave/",
+    "https://www.marcocivic.com/press/",
+    "https://www.marcocivic.com/discount-directory/",
+    "https://www.marcocivic.com/calendar/action~agenda/page_offset~-1/request_format~html/",
+    "https://www.marcocivic.com/calendar/action~agenda/page_offset~1/request_format~html/",
+    "https://www.marcocivic.com/2019/08/20/2019-mica-membership-survey-results/",
+    "https://www.marcocivic.com/2018/02/09/why-would-you-be-a-good-choice-for-the-mica-board-of-directors/",
+    "https://www.marcocivic.com/author/marcocivicadmin/",
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1760846400/request_format~html/",
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~1/time_limit~1760846400/request_format~html/",
+    "https://www.marcocivic.com/event/beach-cleanup-meet-at-residents-beach/",
+    "https://www.marcocivic.com/event/quarterly-beach-cleanup-at-tigertail-beach-2/",
+    "https://www.marcocivic.com/event/residents-beach-members-only-concert/",
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1762578000/request_format~html/",
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~1/time_limit~1762578000/request_format~html/",
+    "https://www.marcocivic.com/event/beach-cleanup-at-south-beach-12/",
+    "https://www.marcocivic.com/event/beach-cleanup-at-south-beach-11/",
+    "https://www.marcocivic.com/event/tigertail-beach-annual-international-coastal-cleanup/",
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1764997200/request_format~html/",
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~1/time_limit~1764997200/request_format~html/",
+    "https://www.marcocivic.com/event/tigertail-beach-cleanup-4/",
+    "https://www.marcocivic.com/event/residents-beach-members-only-concert-2/",
+    "https://www.marcocivic.com/event/annual-bay-days-tigertail-beach-cleanup/",
+    "https://www.marcocivic.com/discount-application/",
+    "https://www.marcocivic.com/app-discount/",
+    "https://www.marcocivic.com/app-discount/?wpbdp_view=all_listings",
+    "https://www.marcocivic.com/app-discount/wpbdp_category/adventures-tours/",
+    "https://www.marcocivic.com/app-discount/wpbdp_category/apparel-jewelry/",
+    "https://www.marcocivic.com/app-discount/wpbdp_category/dining/",
+    "https://www.marcocivic.com/app-discount/wpbdp_category/dry-cleaners/",
+    "https://www.marcocivic.com/app-discount/wpbdp_category/healthcare-wellness/",
+    "https://www.marcocivic.com/app-discount/wpbdp_category/home-services-improvement/",
+    "https://www.marcocivic.com/app-discount/wpbdp_category/marine-auto/",
+    "https://www.marcocivic.com/app-discount/wpbdp_category/professional-services/",
+    "https://www.marcocivic.com/app-discount/wpbdp_category/retail-stores/",
+    "https://www.marcocivic.com/app-discount/wpbdp_category/non-apparel/",
+    "https://www.marcocivic.com/app-discount/wpbdp_category/salon-spas/",
+    "https://www.marcocivic.com/applications/fill/1/",
+    "https://www.marcocivic.com/applications/fill/2/"
+  ],
+  "candidates": [
+    "https://marcocivic.com/contact/",
+    "https://www.marcocivic.com/contact/",
+    "https://www.marcocivic.com/contact/mica-feedback/",
+    "https://www.marcocivic.com/about-mica/",
+    "https://www.marcocivic.com/calendar/",
+    "https://www.marcocivic.com/calendar/action~agenda/page_offset~-1/request_format~html/",
+    "https://www.marcocivic.com/calendar/action~agenda/page_offset~1/request_format~html/",
+    "https://www.marcocivic.com/calendar/action~oneday/exact_date~19-10-2025/",
+    "https://www.marcocivic.com/calendar/action~oneday/exact_date~6-12-2025/",
+    "https://www.marcocivic.com/calendar/action~oneday/exact_date~8-11-2025/",
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1760846400/request_format~html/",
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1762578000/request_format~html/",
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1764997200/request_format~html/",
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~1/time_limit~1760846400/request_format~html/",
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~1/time_limit~1762578000/request_format~html/",
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~1/time_limit~1764997200/request_format~html/",
+    "https://www.marcocivic.com/event/annual-bay-days-tigertail-beach-cleanup/",
+    "https://www.marcocivic.com/event/beach-cleanup-at-south-beach-11/",
+    "https://www.marcocivic.com/event/beach-cleanup-at-south-beach-12/",
+    "https://www.marcocivic.com/event/beach-cleanup-at-south-beach-12/?instance_id=272",
+    "https://www.marcocivic.com/event/beach-cleanup-meet-at-residents-beach/",
+    "https://www.marcocivic.com/event/beach-cleanup-meet-at-residents-beach/?instance_id=276",
+    "https://www.marcocivic.com/event/quarterly-beach-cleanup-at-tigertail-beach-2/",
+    "https://www.marcocivic.com/event/residents-beach-members-only-concert-2/",
+    "https://www.marcocivic.com/event/residents-beach-members-only-concert/",
+    "https://www.marcocivic.com/event/tigertail-beach-annual-international-coastal-cleanup/",
+    "https://www.marcocivic.com/event/tigertail-beach-cleanup-4/",
+    "https://www.marcocivic.com/event/tigertail-beach-cleanup-4/?instance_id=273",
+    "https://marcocivic.com/category/news/",
+    "https://www.marcocivic.com/category/news/",
+    "https://marcocivic.com/",
+    "https://marcocivic.com/contact",
+    "https://marcocivic.com/contact-us",
+    "https://marcocivic.com/contact-us/",
+    "https://marcocivic.com/contactus",
+    "https://marcocivic.com/contactus/",
+    "https://marcocivic.com/about",
+    "https://marcocivic.com/about/",
+    "https://marcocivic.com/about-us",
+    "https://marcocivic.com/about-us/",
+    "https://marcocivic.com/visit",
+    "https://marcocivic.com/visit/",
+    "https://marcocivic.com/location",
+    "https://marcocivic.com/location/",
+    "https://marcocivic.com/directions",
+    "https://marcocivic.com/directions/"
+  ],
+  "per_page": {
+    "https://marcocivic.com/contact/": {
+      "title": "Contact Us - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@marcocivic.com"
+      ],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778",
+        "(239) 642-8663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/contact/": {
+      "title": "Contact Us - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@marcocivic.com"
+      ],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778",
+        "(239) 642-8663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/contact/mica-feedback/": {
+      "title": "MICA Feedback - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/contact/mica-feedback/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/contact/mica-feedback/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/about-mica/": {
+      "title": "About The Marco Island Civic Association (MICA) - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/about-mica/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/about-mica/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/calendar/": {
+      "title": "Event Calendar - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/"
+          ]
+        },
+        "calendar": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/calendar/action~agenda/page_offset~-1/request_format~html/": {
+      "title": "Event Calendar - Marco Island Civic Association",
+      "band_hits": {
+        "concert": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~agenda/page_offset~-1/request_format~html/"
+          ]
+        },
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~agenda/page_offset~-1/request_format~html/"
+          ]
+        },
+        "sound system": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~agenda/page_offset~-1/request_format~html/"
+          ]
+        },
+        "calendar": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~agenda/page_offset~-1/request_format~html/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/calendar/action~agenda/page_offset~1/request_format~html/": {
+      "title": "Event Calendar - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~agenda/page_offset~1/request_format~html/"
+          ]
+        },
+        "calendar": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~agenda/page_offset~1/request_format~html/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/calendar/action~oneday/exact_date~19-10-2025/": {
+      "title": "Event Calendar - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/exact_date~19-10-2025/"
+          ]
+        },
+        "calendar": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/exact_date~19-10-2025/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/calendar/action~oneday/exact_date~6-12-2025/": {
+      "title": "Event Calendar - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/exact_date~6-12-2025/"
+          ]
+        },
+        "calendar": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/exact_date~6-12-2025/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/calendar/action~oneday/exact_date~8-11-2025/": {
+      "title": "Event Calendar - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/exact_date~8-11-2025/"
+          ]
+        },
+        "calendar": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/exact_date~8-11-2025/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1760846400/request_format~html/": {
+      "title": "Event Calendar - Marco Island Civic Association",
+      "band_hits": {
+        "concert": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1760846400/request_format~html/"
+          ]
+        },
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1760846400/request_format~html/"
+          ]
+        },
+        "sound system": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1760846400/request_format~html/"
+          ]
+        },
+        "calendar": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1760846400/request_format~html/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1762578000/request_format~html/": {
+      "title": "Event Calendar - Marco Island Civic Association",
+      "band_hits": {
+        "concert": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1762578000/request_format~html/"
+          ]
+        },
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1762578000/request_format~html/"
+          ]
+        },
+        "sound system": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1762578000/request_format~html/"
+          ]
+        },
+        "calendar": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1762578000/request_format~html/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1764997200/request_format~html/": {
+      "title": "Event Calendar - Marco Island Civic Association",
+      "band_hits": {
+        "concert": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1764997200/request_format~html/"
+          ]
+        },
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1764997200/request_format~html/"
+          ]
+        },
+        "sound system": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1764997200/request_format~html/"
+          ]
+        },
+        "calendar": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~-1/time_limit~1764997200/request_format~html/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~1/time_limit~1760846400/request_format~html/": {
+      "title": "Event Calendar - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~1/time_limit~1760846400/request_format~html/"
+          ]
+        },
+        "calendar": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~1/time_limit~1760846400/request_format~html/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~1/time_limit~1762578000/request_format~html/": {
+      "title": "Event Calendar - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~1/time_limit~1762578000/request_format~html/"
+          ]
+        },
+        "calendar": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~1/time_limit~1762578000/request_format~html/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/calendar/action~oneday/page_offset~1/time_limit~1764997200/request_format~html/": {
+      "title": "Event Calendar - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~1/time_limit~1764997200/request_format~html/"
+          ]
+        },
+        "calendar": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/calendar/action~oneday/page_offset~1/time_limit~1764997200/request_format~html/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/event/annual-bay-days-tigertail-beach-cleanup/": {
+      "title": "Annual Bay Days - Tigertail Beach Cleanup - Marco Island Civic Association",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/annual-bay-days-tigertail-beach-cleanup/"
+          ]
+        },
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/annual-bay-days-tigertail-beach-cleanup/"
+          ]
+        },
+        "calendar": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/annual-bay-days-tigertail-beach-cleanup/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/event/beach-cleanup-at-south-beach-11/": {
+      "title": "Beach Cleanup at South Beach - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/beach-cleanup-at-south-beach-11/"
+          ]
+        },
+        "calendar": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/beach-cleanup-at-south-beach-11/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778",
+        "239-389-5000"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/event/beach-cleanup-at-south-beach-12/": {
+      "title": "Beach Cleanup at South Beach - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/beach-cleanup-at-south-beach-12/"
+          ]
+        },
+        "calendar": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/beach-cleanup-at-south-beach-12/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778",
+        "239-389-5000"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/event/beach-cleanup-at-south-beach-12/?instance_id=272": {
+      "title": "Beach Cleanup at South Beach - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/beach-cleanup-at-south-beach-12/?instance_id=272"
+          ]
+        },
+        "calendar": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/beach-cleanup-at-south-beach-12/?instance_id=272"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778",
+        "239-389-5000"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/event/beach-cleanup-meet-at-residents-beach/": {
+      "title": "Beach Cleanup - Meet at Residents' Beach - Marco Island Civic Association",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/beach-cleanup-meet-at-residents-beach/"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/beach-cleanup-meet-at-residents-beach/"
+          ]
+        },
+        "calendar": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/beach-cleanup-meet-at-residents-beach/"
+          ]
+        }
+      },
+      "emails": [
+        "info@marcocivic.com"
+      ],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778",
+        "2396427778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/event/beach-cleanup-meet-at-residents-beach/?instance_id=276": {
+      "title": "Beach Cleanup - Meet at Residents' Beach - Marco Island Civic Association",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/beach-cleanup-meet-at-residents-beach/?instance_id=276"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/beach-cleanup-meet-at-residents-beach/?instance_id=276"
+          ]
+        },
+        "calendar": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/beach-cleanup-meet-at-residents-beach/?instance_id=276"
+          ]
+        }
+      },
+      "emails": [
+        "info@marcocivic.com"
+      ],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778",
+        "2396427778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/event/quarterly-beach-cleanup-at-tigertail-beach-2/": {
+      "title": "Quarterly Beach Cleanup at Tigertail Beach - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/quarterly-beach-cleanup-at-tigertail-beach-2/"
+          ]
+        },
+        "calendar": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/quarterly-beach-cleanup-at-tigertail-beach-2/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/event/residents-beach-members-only-concert-2/": {
+      "title": "Residents' Beach Members Only Concert - Marco Island Civic Association",
+      "band_hits": {
+        "concert": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/residents-beach-members-only-concert-2/"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/residents-beach-members-only-concert-2/"
+          ]
+        },
+        "calendar": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/residents-beach-members-only-concert-2/"
+          ]
+        }
+      },
+      "emails": [
+        "mica@marcocivic.com"
+      ],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778",
+        "2396427778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/event/residents-beach-members-only-concert/": {
+      "title": "Residents' Beach Members Only Concert - Marco Island Civic Association",
+      "band_hits": {
+        "concert": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/residents-beach-members-only-concert/"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/residents-beach-members-only-concert/"
+          ]
+        },
+        "calendar": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/residents-beach-members-only-concert/"
+          ]
+        }
+      },
+      "emails": [
+        "mica@marcocivic.com"
+      ],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/event/tigertail-beach-annual-international-coastal-cleanup/": {
+      "title": "Tigertail Beach Annual International Coastal Cleanup - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/tigertail-beach-annual-international-coastal-cleanup/"
+          ]
+        },
+        "calendar": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/tigertail-beach-annual-international-coastal-cleanup/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/event/tigertail-beach-cleanup-4/": {
+      "title": "Tigertail Beach Cleanup - Marco Island Civic Association",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/tigertail-beach-cleanup-4/"
+          ]
+        },
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/tigertail-beach-cleanup-4/"
+          ]
+        },
+        "calendar": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/tigertail-beach-cleanup-4/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/event/tigertail-beach-cleanup-4/?instance_id=273": {
+      "title": "Tigertail Beach Cleanup - Marco Island Civic Association",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/tigertail-beach-cleanup-4/?instance_id=273"
+          ]
+        },
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/tigertail-beach-cleanup-4/?instance_id=273"
+          ]
+        },
+        "calendar": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/event/tigertail-beach-cleanup-4/?instance_id=273"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/category/news/": {
+      "title": "News Archives - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/category/news/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/category/news/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://www.marcocivic.com/category/news/": {
+      "title": "News Archives - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/category/news/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.marcocivic.com/category/news/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/": {
+      "title": "Home - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/contact": {
+      "title": "Contact Us - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/contact"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@marcocivic.com"
+      ],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778",
+        "(239) 642-8663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/contact-us": {
+      "title": "Contact Us - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@marcocivic.com"
+      ],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778",
+        "(239) 642-8663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/contact-us/": {
+      "title": "Contact Us - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@marcocivic.com"
+      ],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778",
+        "(239) 642-8663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/contactus": {
+      "title": "Page not found - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/contactus/": {
+      "title": "Page not found - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/about": {
+      "title": "About The Marco Island Civic Association (MICA) - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/about"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/about/": {
+      "title": "About The Marco Island Civic Association (MICA) - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/about/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 394-1475",
+        "(239) 394-4260",
+        "(239) 642-7778"
+      ],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/about-us": {
+      "title": "Page not found - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/about-us/": {
+      "title": "Page not found - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/visit": {
+      "title": "Page not found - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/visit"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/visit/": {
+      "title": "Page not found - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/location": {
+      "title": "Page not found - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/location"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/location/": {
+      "title": "Page not found - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/location/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/directions": {
+      "title": "Page not found - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/directions"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    },
+    "https://marcocivic.com/directions/": {
+      "title": "Page not found - Marco Island Civic Association",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://marcocivic.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Marco-Island-Civic-Association-161617827193340/",
+        "https://www.facebook.com/Paradise-Grill-320753147975377/",
+        "https://www.facebook.com/Residents-Beach-211919135490563/"
+      ]
+    }
+  }
+}

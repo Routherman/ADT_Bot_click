@@ -1,0 +1,115 @@
+{
+  "timestamp": "2025-09-22T21:44:34.741932",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T21:44:30.950129",
+      "company": {
+        "name": null,
+        "domain": "panamacountryclub.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 7141801,
+          "description": "The golf course at Panama Country Club was built in 1927 by famed designer Donald J. Ross, ASGCA. At just under 6,700 yards the course offers subtle contours, narrow to medium width fairways, and provides a great test of golf for all handicaps. The greens are strategically sized and are very indicative of the era in which they were built. Multiple tees are available ranging from Championship up to the forward tees that come in at 5,400 yards.\n \nAs you’ll find out quickly the course is a sanctuary for wildlife from both land and sea and during your round you may see eagles, egrets, herons, turtles, and even the origin of our logo the famed “fox squirrel”. There are no homes on the interior of the course which leaves a nice protected habitat for most all coastal wildlife.\n\nOur location offers a beautiful view of North Bay in Lynn Haven, FL visible from our wraparound patio, lawns and our floor to ceiling windows covering the entire back of our clubhouse.  Panama Country Club is secluded within the quiet neighborhood of Country Club Harbor Estates. Wedding photographers love our venue for our incredible live oaks and stunning sunsets overlooking the Bailey Bridge. \n \n      We offer full service banquet catering and a full bar. We strive to create a magical experience here where you and your guests can relax and feel like everything is handled for you. You do not have to be a member to access our space for your event.",
+          "domain": "panamacountryclub.com",
+          "employees": "11 - 50",
+          "founded": "1927",
+          "fqdn": "www.panamacountryclub.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/3/67/367635e0a900ce66c5824cfc3da5f597",
+          "name": "Panama Country Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Sports",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/panama-country-club"
+            }
+          },
+          "address": "Lynn Haven North America United States US 100 Country Club Dr; Lynn Haven, Florida 32444, US Florida FL -85.64826202392578,30.245479583740234 ",
+          "location": {
+            "city": "Lynn Haven",
+            "country": "United States",
+            "fullLocation": "Lynn Haven North America United States US 100 Country Club Dr; Lynn Haven, Florida 32444, US Florida FL -85.64826202392578,30.245479583740234 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "100 Country Club Dr; Lynn Haven, Florida 32444, US"
+          },
+          "website": "https://panamacountryclub.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T21:44:32.182422",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T21:44:34.735399",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

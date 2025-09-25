@@ -1,0 +1,829 @@
+{
+  "site_url": "https://sortishotel.com/",
+  "domain": "sortishotel.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://sortishotel.com/",
+    "https://sortishotel.com/es/restaurantes/id/8/room-service",
+    "https://sortishotel.com/es/eventos",
+    "https://sortishotel.com/es/eventos/id/1/bodas",
+    "https://sortishotel.com/es/eventos/id/2/despedidas-de-soltera",
+    "https://sortishotel.com/es/eventos/id/3/graduacion",
+    "https://sortishotel.com/es/eventos/id/4/quince-anos",
+    "https://sortishotel.com/es/eventos/id/5/primera-comunion",
+    "https://sortishotel.com/es/eventos/id/6/eventos-corporativos",
+    "https://sortishotel.com/es/home",
+    "https://sortishotel.com/es/habitaciones",
+    "https://sortishotel.com/es/habitaciones/id/1/deluxe-king",
+    "https://sortishotel.com/es/habitaciones/id/2/deluxe-king-accesible",
+    "https://sortishotel.com/es/habitaciones/id/3/deluxe-2-double-beds",
+    "https://sortishotel.com/es/habitaciones/id/4/deluxe-2-double-beds-accessible",
+    "https://sortishotel.com/es/habitaciones/id/5/deluxe-city-view-king",
+    "https://sortishotel.com/es/habitaciones/id/6/deluxe-city-view-2-double-beds",
+    "https://sortishotel.com/es/habitaciones/id/7/one-bedroom-suite",
+    "https://sortishotel.com/es/habitaciones/id/9/loft",
+    "https://sortishotel.com/es/habitaciones/id/8/two-bedroom-suite",
+    "https://sortishotel.com/es/habitaciones/id/10/apartamento",
+    "https://sortishotel.com/es/restaurantes",
+    "https://sortishotel.com/es/restaurantes/id/1/the-garden-lobby-bar",
+    "https://sortishotel.com/es/restaurantes/id/2/acua-pool-lounge",
+    "https://sortishotel.com/es/restaurantes/id/3/jackie-s-sport-bar",
+    "https://sortishotel.com/es/restaurantes/id/5/fenicia",
+    "https://sortishotel.com/es/restaurantes/id/6/la-brasserie",
+    "https://sortishotel.com/es/restaurantes/id/7/sortis-market",
+    "https://sortishotel.com/es/spa",
+    "https://sortishotel.com/es/casino",
+    "https://sortishotel.com/es/corporativo/legal",
+    "https://sortishotel.com/es/corporativo",
+    "https://sortishotel.com/es/restaurantes/id/8/es/restaurantes/id/8/room-service",
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos",
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/1/bodas",
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/2/despedidas-de-soltera",
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/3/graduacion",
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/4/quince-anos",
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/5/primera-comunion",
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/6/eventos-corporativos",
+    "https://sortishotel.com/es/restaurantes/id/8/es/home",
+    "https://sortishotel.com/es/restaurantes/id/8/es/habitaciones",
+    "https://sortishotel.com/es/restaurantes/id/8/es/habitaciones/id/1/deluxe-king",
+    "https://sortishotel.com/es/restaurantes/id/8/es/habitaciones/id/2/deluxe-king-accesible",
+    "https://sortishotel.com/es/restaurantes/id/8/es/habitaciones/id/3/deluxe-2-double-beds",
+    "https://sortishotel.com/es/restaurantes/id/8/es/habitaciones/id/4/deluxe-2-double-beds-accessible",
+    "https://sortishotel.com/es/restaurantes/id/8/es/habitaciones/id/5/deluxe-city-view-king",
+    "https://sortishotel.com/es/restaurantes/id/8/es/habitaciones/id/6/deluxe-city-view-2-double-beds",
+    "https://sortishotel.com/es/restaurantes/id/8/es/habitaciones/id/7/one-bedroom-suite",
+    "https://sortishotel.com/es/restaurantes/id/8/es/habitaciones/id/9/loft",
+    "https://sortishotel.com/es/restaurantes/id/8/es/habitaciones/id/8/two-bedroom-suite",
+    "https://sortishotel.com/es/restaurantes/id/8/es/habitaciones/id/10/apartamento",
+    "https://sortishotel.com/es/restaurantes/id/8/es/restaurantes",
+    "https://sortishotel.com/es/restaurantes/id/8/es/restaurantes/id/1/the-garden-lobby-bar",
+    "https://sortishotel.com/es/restaurantes/id/8/es/restaurantes/id/2/acua-pool-lounge",
+    "https://sortishotel.com/es/restaurantes/id/8/es/restaurantes/id/3/jackie-s-sport-bar",
+    "https://sortishotel.com/es/restaurantes/id/8/es/restaurantes/id/5/fenicia",
+    "https://sortishotel.com/es/restaurantes/id/8/es/restaurantes/id/6/la-brasserie",
+    "https://sortishotel.com/es/restaurantes/id/8/es/restaurantes/id/7/sortis-market"
+  ],
+  "candidates": [
+    "https://sortishotel.com/es/eventos",
+    "https://sortishotel.com/es/eventos/id/1/bodas",
+    "https://sortishotel.com/es/eventos/id/2/despedidas-de-soltera",
+    "https://sortishotel.com/es/eventos/id/3/graduacion",
+    "https://sortishotel.com/es/eventos/id/4/quince-anos",
+    "https://sortishotel.com/es/eventos/id/5/primera-comunion",
+    "https://sortishotel.com/es/eventos/id/6/eventos-corporativos",
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos",
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/1/bodas",
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/2/despedidas-de-soltera",
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/3/graduacion",
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/4/quince-anos",
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/5/primera-comunion",
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/6/eventos-corporativos",
+    "https://sortishotel.com/es/restaurantes/id/8/es/restaurantes/id/8/room-service",
+    "https://sortishotel.com/es/restaurantes/id/8/room-service",
+    "https://sortishotel.com/"
+  ],
+  "per_page": {
+    "https://sortishotel.com/es/eventos": {
+      "title": "Habitaciones | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/eventos"
+          ]
+        },
+        "evento": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/eventos"
+          ]
+        }
+      },
+      "emails": [
+        "aventas@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/es/eventos/id/1/bodas": {
+      "title": "Bodas | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/eventos/id/1/bodas"
+          ]
+        },
+        "evento": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/eventos/id/1/bodas"
+          ]
+        }
+      },
+      "emails": [
+        "aventas@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/es/eventos/id/2/despedidas-de-soltera": {
+      "title": "Despedidas de soltera | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/eventos/id/2/despedidas-de-soltera"
+          ]
+        },
+        "evento": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/eventos/id/2/despedidas-de-soltera"
+          ]
+        }
+      },
+      "emails": [
+        "aventas@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/es/eventos/id/3/graduacion": {
+      "title": "Graduación | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/eventos/id/3/graduacion"
+          ]
+        },
+        "evento": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/eventos/id/3/graduacion"
+          ]
+        }
+      },
+      "emails": [
+        "aventas@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/es/eventos/id/4/quince-anos": {
+      "title": "Quince Años | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/eventos/id/4/quince-anos"
+          ]
+        },
+        "evento": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/eventos/id/4/quince-anos"
+          ]
+        }
+      },
+      "emails": [
+        "aventas@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/es/eventos/id/5/primera-comunion": {
+      "title": "Primera Comunión | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/eventos/id/5/primera-comunion"
+          ]
+        },
+        "evento": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/eventos/id/5/primera-comunion"
+          ]
+        }
+      },
+      "emails": [
+        "aventas@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/es/eventos/id/6/eventos-corporativos": {
+      "title": "Eventos Corporativos | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/eventos/id/6/eventos-corporativos"
+          ]
+        },
+        "evento": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/eventos/id/6/eventos-corporativos"
+          ]
+        }
+      },
+      "emails": [
+        "aventas@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos": {
+      "title": "Room Service | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/eventos"
+          ]
+        },
+        "evento": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/eventos"
+          ]
+        }
+      },
+      "emails": [
+        "reservaciones@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/1/bodas": {
+      "title": "Room Service | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/1/bodas"
+          ]
+        },
+        "evento": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/1/bodas"
+          ]
+        }
+      },
+      "emails": [
+        "reservaciones@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/2/despedidas-de-soltera": {
+      "title": "Room Service | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/2/despedidas-de-soltera"
+          ]
+        },
+        "evento": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/2/despedidas-de-soltera"
+          ]
+        }
+      },
+      "emails": [
+        "reservaciones@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/3/graduacion": {
+      "title": "Room Service | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/3/graduacion"
+          ]
+        },
+        "evento": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/3/graduacion"
+          ]
+        }
+      },
+      "emails": [
+        "reservaciones@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/4/quince-anos": {
+      "title": "Room Service | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/4/quince-anos"
+          ]
+        },
+        "evento": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/4/quince-anos"
+          ]
+        }
+      },
+      "emails": [
+        "reservaciones@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/5/primera-comunion": {
+      "title": "Room Service | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/5/primera-comunion"
+          ]
+        },
+        "evento": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/5/primera-comunion"
+          ]
+        }
+      },
+      "emails": [
+        "reservaciones@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/6/eventos-corporativos": {
+      "title": "Room Service | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/6/eventos-corporativos"
+          ]
+        },
+        "evento": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/eventos/id/6/eventos-corporativos"
+          ]
+        }
+      },
+      "emails": [
+        "reservaciones@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/es/restaurantes/id/8/es/restaurantes/id/8/room-service": {
+      "title": "Room Service | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/restaurantes/id/8/room-service"
+          ]
+        },
+        "evento": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/es/restaurantes/id/8/room-service"
+          ]
+        }
+      },
+      "emails": [
+        "reservaciones@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/es/restaurantes/id/8/room-service": {
+      "title": "Room Service | Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/room-service"
+          ]
+        },
+        "evento": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/es/restaurantes/id/8/room-service"
+          ]
+        }
+      },
+      "emails": [
+        "reservaciones@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    },
+    "https://sortishotel.com/": {
+      "title": "Sortis | Hotel Spa Casino | Panama",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/"
+          ]
+        },
+        "evento": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sortishotel.com/"
+          ]
+        }
+      },
+      "emails": [
+        "reservaciones@sortishotel.com"
+      ],
+      "phones": [
+        "(507) 398 8888",
+        "888 236 2427"
+      ],
+      "socials": [
+        "https://es-la.facebook.com/sortishotel/",
+        "https://www.instagram.com/sortishotel/",
+        "https://www.youtube.com/@sortishotelspacasino8467"
+      ]
+    }
+  }
+}

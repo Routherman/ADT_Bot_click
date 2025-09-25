@@ -1,0 +1,109 @@
+{
+  "site_url": "https://emtikibar.com/",
+  "domain": "emtikibar.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://emtikibar.com/",
+    "https://www.emtikibar.com/events",
+    "https://www.emtikibar.com",
+    "https://www.emtikibar.com/blank-1",
+    "https://www.emtikibar.com/menu",
+    "https://www.emtikibar.com/blank-2",
+    "https://www.emtikibar.com/category/all-products"
+  ],
+  "candidates": [
+    "https://www.emtikibar.com/events",
+    "https://emtikibar.com/"
+  ],
+  "per_page": {
+    "https://www.emtikibar.com/events": {
+      "title": "Events | Ellie Mae S Tiki Bar",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.emtikibar.com/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321-613-5870"
+      ],
+      "socials": []
+    },
+    "https://emtikibar.com/": {
+      "title": "Ellie Mae's Tiki Bar | food cape Canaveral | 116 Jackson Avenue, Cape Canaveral, FL, USA",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emtikibar.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321-613-5870"
+      ],
+      "socials": []
+    }
+  }
+}

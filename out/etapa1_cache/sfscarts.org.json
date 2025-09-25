@@ -1,0 +1,2301 @@
+{
+  "site_url": "https://sfscarts.org/",
+  "domain": "sfscarts.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://sfscarts.org/",
+    "https://sfscarts.org/about/parking/",
+    "https://sfscarts.org/about/",
+    "https://sfscarts.org/contact/",
+    "https://sfscarts.org/about/accessibility/",
+    "https://sfscarts.org",
+    "https://sfscarts.org/rental/",
+    "https://sfscarts.org/shows/",
+    "https://sfscarts.org/box-office/",
+    "https://sfscarts.org/support-us/",
+    "https://sfscarts.org/box-office/education/",
+    "https://sfscarts.org/support-us/2024-2025-memberships/",
+    "https://sfscarts.org/show/love-story-taylor-swift-tribute-with-rikki-lee-wilson/",
+    "https://sfscarts.org/show/california-toe-jam/",
+    "https://sfscarts.org/show/the-charlie-redd-band-2/",
+    "https://sfscarts.org/show/seger-experience-2/",
+    "https://sfscarts.org/show/u-s-army-field-band-and-soldiers-chorus/",
+    "https://sfscarts.org/support-us/donate/",
+    "https://sfscarts.org/mailing-list/",
+    "https://sfscarts.org/sitemap/",
+    "https://sfscarts.org/privacy-security-policy/",
+    "https://sfscarts.org/terms-conditions/",
+    "https://sfscarts.org/box-office/return-refund-policy/",
+    "https://sfscarts.org/about/staff/",
+    "https://sfscarts.org/about/technical-specs/",
+    "https://sfscarts.org/about/season-brochure/",
+    "https://sfscarts.org/rental/rental-faq/",
+    "https://sfscarts.org/rental/rental-application/",
+    "https://sfscarts.org/box-office/season-tickets/",
+    "https://sfscarts.org/shows/month/",
+    "https://sfscarts.org/show/astralis-ensemble-free-performance/",
+    "https://sfscarts.org/show/an-olde-english-christmas-with-peter-noone/",
+    "https://sfscarts.org/show/christmas-concert-highlands-county-concert-band/",
+    "https://sfscarts.org/show/flor-de-la-noche-buena-2/",
+    "https://sfscarts.org/show/deana-carter/",
+    "https://sfscarts.org/shows/list/?tribe_event_display=past&tribe_paged=1",
+    "https://sfscarts.org/shows/list/?tribe_event_display=list&tribe_paged=2",
+    "https://sfscarts.org/box-office/box-office-policies/",
+    "https://sfscarts.org/box-office/education/pyp/",
+    "https://sfscarts.org/box-office/education/school-workshops/",
+    "https://sfscarts.org/box-office/education/ypt/",
+    "https://sfscarts.org/box-office/group-sales/",
+    "https://sfscarts.org/box-office/portal-login-help/",
+    "https://sfscarts.org/box-office/seating-chart/",
+    "https://sfscarts.org/box-office/teacher/",
+    "https://sfscarts.org/box-office/5-for-15/"
+  ],
+  "candidates": [
+    "https://sfscarts.org/about/staff/",
+    "https://sfscarts.org/contact/",
+    "https://sfscarts.org/about/",
+    "https://sfscarts.org/about/accessibility/",
+    "https://sfscarts.org/about/parking/",
+    "https://sfscarts.org/about/season-brochure/",
+    "https://sfscarts.org/about/technical-specs/",
+    "https://sfscarts.org",
+    "https://sfscarts.org/",
+    "https://sfscarts.org/show/an-olde-english-christmas-with-peter-noone/",
+    "https://sfscarts.org/show/astralis-ensemble-free-performance/",
+    "https://sfscarts.org/show/california-toe-jam/",
+    "https://sfscarts.org/show/christmas-concert-highlands-county-concert-band/",
+    "https://sfscarts.org/show/deana-carter/",
+    "https://sfscarts.org/show/flor-de-la-noche-buena-2/",
+    "https://sfscarts.org/show/love-story-taylor-swift-tribute-with-rikki-lee-wilson/",
+    "https://sfscarts.org/show/seger-experience-2/",
+    "https://sfscarts.org/show/the-charlie-redd-band-2/",
+    "https://sfscarts.org/show/u-s-army-field-band-and-soldiers-chorus/",
+    "https://sfscarts.org/shows/",
+    "https://sfscarts.org/shows/list/?tribe_event_display=list&tribe_paged=2",
+    "https://sfscarts.org/shows/list/?tribe_event_display=past&tribe_paged=1",
+    "https://sfscarts.org/shows/month/",
+    "https://sfscarts.org/contact",
+    "https://sfscarts.org/contact-us",
+    "https://sfscarts.org/contact-us/",
+    "https://sfscarts.org/contactus",
+    "https://sfscarts.org/contactus/",
+    "https://sfscarts.org/about",
+    "https://sfscarts.org/about-us",
+    "https://sfscarts.org/about-us/",
+    "https://sfscarts.org/visit",
+    "https://sfscarts.org/visit/",
+    "https://sfscarts.org/location",
+    "https://sfscarts.org/location/",
+    "https://sfscarts.org/directions",
+    "https://sfscarts.org/directions/"
+  ],
+  "per_page": {
+    "https://sfscarts.org/about/staff/": {
+      "title": "Staff - SFSC Performing Arts",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/staff/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/staff/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/staff/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/staff/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-784-7193",
+        "863-784-7194",
+        "863-784-7201",
+        "863-784-7284",
+        "863-784-7287"
+      ],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/contact/": {
+      "title": "Contact - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contact/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-784-7178",
+        "863-784-7284"
+      ],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/about/": {
+      "title": "About - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/about/accessibility/": {
+      "title": "Accessibility - SFSC Performing Arts",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/accessibility/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/accessibility/"
+          ]
+        },
+        "performance": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/accessibility/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/accessibility/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-784-7178",
+        "863-784-7287"
+      ],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/about/parking/": {
+      "title": "Directions and Parking - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/parking/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/parking/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/parking/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/about/season-brochure/": {
+      "title": "Electronic Season Brochure - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/season-brochure/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/season-brochure/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/season-brochure/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/about/technical-specs/": {
+      "title": "Technical Specifications - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/technical-specs/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/technical-specs/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/technical-specs/"
+          ]
+        },
+        "sound system": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/technical-specs/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/technical-specs/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about/technical-specs/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org": {
+      "title": "Home - SFSC Performing Arts",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/": {
+      "title": "Home - SFSC Performing Arts",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/show/an-olde-english-christmas-with-peter-noone/": {
+      "title": "An Olde English Christmas with Peter Noone - SFSC Performing Arts",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/an-olde-english-christmas-with-peter-noone/"
+          ]
+        },
+        "show": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/an-olde-english-christmas-with-peter-noone/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/an-olde-english-christmas-with-peter-noone/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/an-olde-english-christmas-with-peter-noone/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/an-olde-english-christmas-with-peter-noone/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/an-olde-english-christmas-with-peter-noone/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/show/astralis-ensemble-free-performance/": {
+      "title": "Astralis Ensemble - Free Performance - SFSC Performing Arts",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/astralis-ensemble-free-performance/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/astralis-ensemble-free-performance/"
+          ]
+        },
+        "performance": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/astralis-ensemble-free-performance/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/astralis-ensemble-free-performance/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/show/california-toe-jam/": {
+      "title": "California Toe Jam - SFSC Performing Arts",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/california-toe-jam/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/california-toe-jam/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/california-toe-jam/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/california-toe-jam/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/california-toe-jam/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/show/christmas-concert-highlands-county-concert-band/": {
+      "title": "Christmas Concert - Highlands County Concert Band - SFSC Performing Arts",
+      "band_hits": {
+        "concert": {
+          "total": 11,
+          "zones": {
+            "title": 2,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/christmas-concert-highlands-county-concert-band/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/christmas-concert-highlands-county-concert-band/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/christmas-concert-highlands-county-concert-band/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/christmas-concert-highlands-county-concert-band/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/show/deana-carter/": {
+      "title": "Deana Carter - SFSC Performing Arts",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/deana-carter/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/deana-carter/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/deana-carter/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/deana-carter/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/deana-carter/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/deana-carter/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/show/flor-de-la-noche-buena-2/": {
+      "title": "Flor de la Noche Buena - SFSC Performing Arts",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/flor-de-la-noche-buena-2/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/flor-de-la-noche-buena-2/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/flor-de-la-noche-buena-2/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/flor-de-la-noche-buena-2/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/flor-de-la-noche-buena-2/"
+          ]
+        },
+        "concierto": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/flor-de-la-noche-buena-2/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/show/love-story-taylor-swift-tribute-with-rikki-lee-wilson/": {
+      "title": "Love Story: Taylor Swift Tribute with Rikki Lee Wilson - SFSC Performing Arts",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/love-story-taylor-swift-tribute-with-rikki-lee-wilson/"
+          ]
+        },
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/love-story-taylor-swift-tribute-with-rikki-lee-wilson/"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/love-story-taylor-swift-tribute-with-rikki-lee-wilson/"
+          ]
+        },
+        "performance": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/love-story-taylor-swift-tribute-with-rikki-lee-wilson/"
+          ]
+        },
+        "stage": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/love-story-taylor-swift-tribute-with-rikki-lee-wilson/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/love-story-taylor-swift-tribute-with-rikki-lee-wilson/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/love-story-taylor-swift-tribute-with-rikki-lee-wilson/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/show/seger-experience-2/": {
+      "title": "Seger Experience - SFSC Performing Arts",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/seger-experience-2/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/seger-experience-2/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/seger-experience-2/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/seger-experience-2/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/seger-experience-2/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/seger-experience-2/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/show/the-charlie-redd-band-2/": {
+      "title": "The Charlie Redd Band - SFSC Performing Arts",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/the-charlie-redd-band-2/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/the-charlie-redd-band-2/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/the-charlie-redd-band-2/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/the-charlie-redd-band-2/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/the-charlie-redd-band-2/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/the-charlie-redd-band-2/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/show/u-s-army-field-band-and-soldiers-chorus/": {
+      "title": "U.S. Army Field Band and Soldier's Chorus - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/u-s-army-field-band-and-soldiers-chorus/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/u-s-army-field-band-and-soldiers-chorus/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/u-s-army-field-band-and-soldiers-chorus/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/show/u-s-army-field-band-and-soldiers-chorus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/shows/": {
+      "title": "Shows Archive - SFSC Performing Arts",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/shows/"
+          ]
+        },
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/shows/"
+          ]
+        },
+        "show": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/shows/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/shows/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/shows/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/shows/list/?tribe_event_display=list&tribe_paged=2": {
+      "title": "Shows Archive - Page 2 of 3 - SFSC Performing Arts",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/shows/list/?tribe_event_display=list&tribe_paged=2"
+          ]
+        },
+        "show": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/shows/list/?tribe_event_display=list&tribe_paged=2"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/shows/list/?tribe_event_display=list&tribe_paged=2"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/shows/list/?tribe_event_display=past&tribe_paged=1": {
+      "title": "Shows Archive - SFSC Performing Arts",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/shows/list/?tribe_event_display=past&tribe_paged=1"
+          ]
+        },
+        "show": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/shows/list/?tribe_event_display=past&tribe_paged=1"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/shows/list/?tribe_event_display=past&tribe_paged=1"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/shows/list/?tribe_event_display=past&tribe_paged=1"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/shows/month/": {
+      "title": "Shows Archive - SFSC Performing Arts",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/shows/month/"
+          ]
+        },
+        "show": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/shows/month/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/shows/month/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/contact": {
+      "title": "Contact - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contact"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contact"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-784-7178",
+        "863-784-7284"
+      ],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/contact-us": {
+      "title": "Page not found - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contact-us"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/contact-us/": {
+      "title": "Page not found - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contact-us/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/contactus": {
+      "title": "Page not found - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contactus"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/contactus/": {
+      "title": "Page not found - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contactus/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/about": {
+      "title": "About - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/about-us": {
+      "title": "Page not found - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about-us"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/about-us/": {
+      "title": "Page not found - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about-us/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/visit": {
+      "title": "Page not found - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/visit"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/visit"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/visit/": {
+      "title": "Page not found - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/visit/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/location": {
+      "title": "Page not found - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/location"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/location"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/location/": {
+      "title": "Page not found - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/location/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/location/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/directions": {
+      "title": "Page not found - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/directions"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/directions"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    },
+    "https://sfscarts.org/directions/": {
+      "title": "Page not found - SFSC Performing Arts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/directions/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sfscarts.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sfscarts",
+        "https://www.youtube.com/user/sfscperformances"
+      ]
+    }
+  }
+}

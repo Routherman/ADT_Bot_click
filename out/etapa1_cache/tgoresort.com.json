@@ -1,0 +1,781 @@
+{
+  "site_url": "https://tgoresort.com/",
+  "domain": "tgoresort.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://tgoresort.com/",
+    "https://www.tgoresort.com/contact/",
+    "https://www.tgoresort.com/about/",
+    "https://www.tgoresort.com",
+    "https://www.tgoresort.com/",
+    "https://www.tgoresort.com/rentals/",
+    "https://www.tgoresort.com/properties/",
+    "https://www.tgoresort.com/recreation/",
+    "https://www.tgoresort.com/rallies/",
+    "https://www.tgoresort.com/location/",
+    "https://www.tgoresort.com/properties/rv-lot/",
+    "https://www.tgoresort.com/properties/rv-site-with-executive-suite/",
+    "https://www.tgoresort.com/properties/rv-port-site/",
+    "https://www.tgoresort.com/properties/park-home/",
+    "https://www.tgoresort.com/properties/resort-home/",
+    "https://www.tgoresort.com/properties/rv-site-package/",
+    "https://www.tgoresort.com/property-details/483-fawn-trail/",
+    "https://www.tgoresort.com/property-details/191-plantation-drive/",
+    "https://www.tgoresort.com/property-details/the-great-outdoors-upscale-deluxe-central-florida-rv-33/",
+    "https://www.tgoresort.com/property-details/371-oak-cove-road/",
+    "https://www.tgoresort.com/property-details/312-oak-cove-road-2/",
+    "https://www.tgoresort.com/property-details/22-sunset-drive/",
+    "https://www.tgoresort.com/property-details/417-oak-cove-road/",
+    "https://www.tgoresort.com/property-details/13-sunset-drive/",
+    "https://www.tgoresort.com/property-details/473-oak-cove-road/",
+    "https://www.tgoresort.com/property-details/40-sunset-drive/",
+    "https://www.tgoresort.com/property-details/490-oak-cove-road-2/",
+    "https://www.tgoresort.com/property-details/439-oak-cove-road/",
+    "https://www.tgoresort.com/property-details/the-great-outdoors-upscale-deluxe-central-florida-rv-29/",
+    "https://www.tgoresort.com/property-details/408-oak-cove-road/",
+    "https://www.tgoresort.com/property-details/the-great-outdoors-upscale-deluxe-central-florida-rv-42/",
+    "https://www.tgoresort.com/property-details/368-plantation-drive/",
+    "https://www.tgoresort.com/property-details/the-great-outdoors-upscale-deluxe-central-florida-rv-37/",
+    "https://www.tgoresort.com/property-details/6-sunset-drive/",
+    "https://www.tgoresort.com/property-details/453-fawn-trail/",
+    "https://www.tgoresort.com/property-details/499-oak-cove-road-2/",
+    "https://www.tgoresort.com/property-details/50-sunset-drive-2/",
+    "https://www.tgoresort.com/property-details/181-greenwing-trail/",
+    "https://www.tgoresort.com/property-details/183-coach-club-drive/",
+    "https://www.tgoresort.com/property-details/840-plantation-drive/",
+    "https://www.tgoresort.com/property-details/308-club-cove-drive/",
+    "https://www.tgoresort.com/property-details/204-coach-club-drive/",
+    "https://www.tgoresort.com/property-details/828a-plantation-drive-2/",
+    "https://www.tgoresort.com/property-details/65-sunset-drive/",
+    "https://www.tgoresort.com/property-details/108-sunset-drive/",
+    "https://www.tgoresort.com/property-details/77-sunset-drive/",
+    "https://www.tgoresort.com/property-details/289-plantation-drive-3/",
+    "https://www.tgoresort.com/property-details/518-lake-drive/",
+    "https://www.tgoresort.com/property-details/557-lake-drive-2/",
+    "https://www.tgoresort.com/property-details/534-lake-drive-2/",
+    "https://www.tgoresort.com/property-details/238-plantation-drive/",
+    "https://www.tgoresort.com/property-details/587-lake-drive/",
+    "https://www.tgoresort.com/property-details/524-lake-drive/",
+    "https://www.tgoresort.com/property-details/522-twin-lakes-drive/",
+    "https://www.tgoresort.com/property-details/517-twin-lakes-drive/",
+    "https://www.tgoresort.com/property-details/787-plantation-drive/",
+    "https://www.tgoresort.com/property-details/461-harmony-lane/",
+    "https://www.tgoresort.com/property-details/194-windsong-way/",
+    "https://www.tgoresort.com/property-details/779-plantation-drive/",
+    "https://www.tgoresort.com/property-details/719-plantation-drive/",
+    "https://www.tgoresort.com/property-details/537-fairways-drive/",
+    "https://www.tgoresort.com/property-details/728-plantation-drive/",
+    "https://www.tgoresort.com/property-details/505-fairways-drive/",
+    "https://www.tgoresort.com/property-details/610-plantation-drive/",
+    "https://www.tgoresort.com/property-details/916-grande-haven-drive/",
+    "https://www.tgoresort.com/property-details/701-baytree-drive/",
+    "https://www.tgoresort.com/property-details/137-harmony-lane/",
+    "https://www.tgoresort.com/property-details/217-harmony-lane-2/",
+    "https://www.tgoresort.com/property-details/445-harmony-lane/",
+    "https://www.tgoresort.com/property-details/437-harmony-lane/",
+    "https://www.tgoresort.com/property-details/252-harmony-lane/",
+    "https://www.tgoresort.com/property-details/270-harmony-lane/"
+  ],
+  "candidates": [
+    "https://www.tgoresort.com/contact/",
+    "https://www.tgoresort.com/about/",
+    "https://tgoresort.com/",
+    "https://tgoresort.com/contact",
+    "https://tgoresort.com/contact/",
+    "https://tgoresort.com/contact-us",
+    "https://tgoresort.com/contact-us/",
+    "https://tgoresort.com/contactus",
+    "https://tgoresort.com/contactus/",
+    "https://tgoresort.com/about",
+    "https://tgoresort.com/about/",
+    "https://tgoresort.com/about-us",
+    "https://tgoresort.com/about-us/",
+    "https://tgoresort.com/visit",
+    "https://tgoresort.com/visit/",
+    "https://tgoresort.com/location",
+    "https://tgoresort.com/location/",
+    "https://tgoresort.com/directions",
+    "https://tgoresort.com/directions/"
+  ],
+  "per_page": {
+    "https://www.tgoresort.com/contact/": {
+      "title": "Contact - The Great Outdoors",
+      "band_hits": {
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.tgoresort.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "321-269-5004",
+        "321-567-4444"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://www.tgoresort.com/about/": {
+      "title": "About The Great Outdoors - Central Florida RV Golf Resort",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.tgoresort.com/about/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.tgoresort.com/about/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.tgoresort.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "(321) 269-5524",
+        "321-269-5004",
+        "321-383-9198",
+        "321-567-4444",
+        "800-621-2267"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/": {
+      "title": "Florida RV Resorts | Central Florida RV & Golf Resort - The Great Outdoors",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/"
+          ]
+        },
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "321-269-5004",
+        "321-567-4444",
+        "800-621-2267"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/contact": {
+      "title": "Contact - The Great Outdoors",
+      "band_hits": {
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "321-269-5004",
+        "321-567-4444"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/contact/": {
+      "title": "Contact - The Great Outdoors",
+      "band_hits": {
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "321-269-5004",
+        "321-567-4444"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/contact-us": {
+      "title": "Page not found - The Great Outdoors",
+      "band_hits": {
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "321-269-5004",
+        "321-567-4444"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/contact-us/": {
+      "title": "Page not found - The Great Outdoors",
+      "band_hits": {
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "321-269-5004",
+        "321-567-4444"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/contactus": {
+      "title": "Page not found - The Great Outdoors",
+      "band_hits": {
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "321-269-5004",
+        "321-567-4444"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/about": {
+      "title": "About The Great Outdoors - Central Florida RV Golf Resort",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/about"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/about"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "(321) 269-5524",
+        "321-269-5004",
+        "321-383-9198",
+        "321-567-4444",
+        "800-621-2267"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/about/": {
+      "title": "About The Great Outdoors - Central Florida RV Golf Resort",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/about/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/about/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "(321) 269-5524",
+        "321-269-5004",
+        "321-383-9198",
+        "321-567-4444",
+        "800-621-2267"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/about-us": {
+      "title": "Page not found - The Great Outdoors",
+      "band_hits": {
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "321-269-5004",
+        "321-567-4444"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/about-us/": {
+      "title": "Page not found - The Great Outdoors",
+      "band_hits": {
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "321-269-5004",
+        "321-567-4444"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/visit": {
+      "title": "Page not found - The Great Outdoors",
+      "band_hits": {
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "321-269-5004",
+        "321-567-4444"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/visit/": {
+      "title": "Page not found - The Great Outdoors",
+      "band_hits": {
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "321-269-5004",
+        "321-567-4444"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/location": {
+      "title": "Location and Directions - The Great Outdoors RV, Nature and Golf Resort",
+      "band_hits": {
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "321-269-5004",
+        "321-567-4444"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/location/": {
+      "title": "Location and Directions - The Great Outdoors RV, Nature and Golf Resort",
+      "band_hits": {
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "321-269-5004",
+        "321-567-4444"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/directions": {
+      "title": "Page not found - The Great Outdoors",
+      "band_hits": {
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "321-269-5004",
+        "321-567-4444"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    },
+    "https://tgoresort.com/directions/": {
+      "title": "Page not found - The Great Outdoors",
+      "band_hits": {
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tgoresort.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@tgoresort.com"
+      ],
+      "phones": [
+        "321-269-5004",
+        "321-567-4444"
+      ],
+      "socials": [
+        "https://www.facebook.com/TGO-Realty-at-The-Great-Outdoors-1439638416260045",
+        "https://www.facebook.com/The-Great-Outdoors-RVGolf-Resort-126389964081561/"
+      ]
+    }
+  }
+}

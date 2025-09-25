@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-09-20T18:39:49.086653",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T18:39:45.493868",
+      "company": {
+        "name": null,
+        "domain": "restaurants.ihop.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 164305,
+          "description": "67 years – that is a long time to smile. But at IHOP, we have been smiling and serving joy one plate at a time ever since Al and Jerry Lapin opened the first International House of Pancakes in Toluca Lake, California in 1958. It is even more important today, amid our chaotic and busy world, for our guests to receive a friendly greeting, great food, and time well-spent with those they care about.  \n \nOur founders never dreamed decades later the family restaurant they started would become the American icon it is today. The home of all things breakfast and everything delicious, we offer made-to-order breakfast options and a wide selection of lunch and dinner items, including Hand Crafted Melts, Ultimate Steakburgers and more. Our team members and restaurants create a sense of belonging, togetherness and joy for our guests as they connect over breakfast, enjoy study breaks, or grab a bite before or after sporting events. No matter what the reason or time of day, we are ready to serve up a smile and deliver some joy.\n  \nWant to help us serve that joy to our customers and communities? With more than 1,800 IHOP restaurants around the world and counting, we’re always looking for new franchisees and team members to come pancake with us! \n \nAs a member of our International Bank of Pancakes, you’ll always get a return on your ingestments! Join our rewards program for stackholder perks such as: free birthday pancakes, exclusive offers, secret menu offerings and Pay ’N Go from the app. \n\nJoin the pancake family: ihop.com/careers\n\nStart earning stackholder perks: ihop.com/rewards\n\nBecome a franchisee of one of the most well-known brands today: ihop.com/en/about-ihop/franchise-opportunities",
+          "domain": "ihop.com",
+          "employees": "10001 - 100000",
+          "fqdn": "www.ihop.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=30/j_lvlu4vke2g05yqy27.5aa4328397f950506866ed06178f6ac0a7658ad7.file_lvlu573y49iohep2u.logo_cached.jpg",
+          "name": "IHOP",
+          "revenueRange": [],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/ihop"
+            }
+          },
+          "address": "Los Angeles North America United States US Los Angeles, US California CA -118.24368286132812,34.05223083496094 ",
+          "location": {
+            "city": "Los Angeles",
+            "country": "United States",
+            "fullLocation": "Los Angeles North America United States US Los Angeles, US California CA -118.24368286132812,34.05223083496094 ",
+            "state": "California",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Los Angeles, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://ihop.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T18:39:46.721203",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T18:39:49.083137",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

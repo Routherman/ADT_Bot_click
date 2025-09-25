@@ -1,0 +1,132 @@
+{
+  "timestamp": "2025-09-19T15:23:49.206236",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T15:23:45.516836",
+      "company": {
+        "name": null,
+        "domain": "hookedonharrys.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 3302840,
+          "description": "A distinctively different menu, the food of Harry’s Seafood Bar and Grille captures the essence of a city not only known worldwide as the birthplace of Jazz but also the birthplace of a unique style of cooking.\n\nWe’ve taken the best of Cajun, Creole and Southern flavors infused with a current day twist to create some of our most popular dishes like Shrimp and Scallop Orleans, Grilled Chicken Baton Rouge, Crab Crusted Blackened Red Fish, Bourbon Street Salmon and French Quarter Beef Tenderloin to name a few.\n\nWith a great selection of Seafood, Chicken, Beef, Pork along with Burgers, Po ‘Boys, Salads and much more, Harry’s menu is sure to have something for everyone.",
+          "domain": "hookedonharrys.com",
+          "employees": "201 - 500",
+          "founded": "1987",
+          "fqdn": "www.hookedonharrys.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/a2/ba2c3faed6bfd005d94d81c277af222d",
+          "name": "Harry's of America, LLC.",
+          "revenueRange": [],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/harry%27s-of-america-llc-"
+            }
+          },
+          "address": "Gainesville North America United States US 9995 Gate Parkway North 400B; Gainesville, FL 32246, US Florida FL -82.3248291015625,29.651630401611328 ",
+          "location": {
+            "city": "Gainesville",
+            "country": "United States",
+            "fullLocation": "Gainesville North America United States US 9995 Gate Parkway North 400B; Gainesville, FL 32246, US Florida FL -82.3248291015625,29.651630401611328 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "9995 Gate Parkway North 400B; Gainesville, FL 32246, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://hookedonharrys.com",
+          "specialities": [
+            "cajun",
+            "sandwiches",
+            "seafood",
+            "specialty drinks"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T15:23:46.708690",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T15:23:49.202203",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

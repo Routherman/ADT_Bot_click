@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-09-18T02:43:27.801208",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-18T02:43:24.008782",
+      "company": {
+        "name": null,
+        "domain": "kennedyspacecenter.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 35635269,
+          "description": "Go beyond imagination and into something real at Kennedy Space Center Visitor Complex. Get up-close to real flight flown artifacts, meet a veteran NASA astronaut, feel the rumble of a rocket launch and so much more. Just 45 minutes from Orlando, Fla., Kennedy Space Center Visitor Complex opens daily at 9 a.m. with closing times varying by season. The popular, two-day ticket, which can be used for up to six months from purchase and averages a cost of less than $45 per day, is now available for $89 per adult and $79 per child. Single-day admission is $75 per adult, $65 per child. For more information, call 877-313-2610 or visit www.KennedySpaceCenter.com",
+          "domain": "kennedyspacecenter.com",
+          "employees": "501 - 1000",
+          "fqdn": "www.kennedyspacecenter.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/7/7a/77a448130767de989368a3f49a4c91b7",
+          "name": "Kennedy Space Center Visitor Complex",
+          "revenueRange": [],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Entertainment Providers",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/kennedy-space-center-visitor-complex"
+            }
+          },
+          "address": "North America United States US Space Commerce Way; Merritt Island, Florida 32953, US Florida FL ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US Space Commerce Way; Merritt Island, Florida 32953, US Florida FL ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Space Commerce Way; Merritt Island, Florida 32953, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7999,
+                "description": "Amusement and recreation, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 713990,
+                "description": "All Other Amusement and Recreation Industries"
+              }
+            ]
+          },
+          "website": "https://kennedyspacecenter.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-18T02:43:25.237234",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-18T02:43:27.797517",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "timestamp": "2025-09-19T13:50:24.784010",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T13:50:21.172808",
+      "company": {
+        "name": null,
+        "domain": "charlesfdodgecitycenter.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 81751900,
+          "description": "Welcome to the Charles F. Dodge City Center – Your Premier Event Destination!\n\nDiscover a world of possibilities for your next event at the Charles F. Dodge City Center, where sophistication meets versatility. Our state-of-the-art venue is the perfect canvas for creating unforgettable experiences, whether you're planning a corporate conference, a gala celebration, a trade show, or a social gathering. \nNestled in the heart of Pembroke Pines, our center offers an unparalleled setting designed to elevate your event to new heights.\n\nExplore Our Exceptional Spaces-The Great Hall, Conference Rooms and our expansive Outdoor Patio.\n\nWhy Choose Charles F. Dodge City Center- From its contemporary architecture to its cutting-edge facilities, the Charles F. Dodge City Center is more than just a venue; it's an embodiment of innovation and excellence. With a commitment to providing exceptional service, we ensure every aspect of your event is flawlessly executed, from planning to execution.\n\nPrime Location: Centrally located in Pembroke Pines, our venue offers easy accessibility for your guests, making it convenient for both local and out-of-town attendees.\n\nFlexible Spaces: Our range of spaces can be tailored to suit your event's unique requirements, ensuring that your vision comes to life exactly as you envision it from stadium seating, to round tables or open floor plan!\n\nAdvanced Technology: Stay ahead in the digital age with our advanced audiovisual capabilities, including high-speed internet, state-of-the-art sound systems, and projection equipment.\n\nExpert Team: Our experienced event professionals are dedicated to assisting you throughout the planning process, guaranteeing a seamless and stress-free experience.\n\nParking: We have a large free parking area on site so your guests can easily park and walk up to the venue.\n\nElevate your event at the Charles F. Dodge City Center, where every detail is designed to make your occasion extraordinary.",
+          "domain": "charlesfdodgecitycenter.com",
+          "employees": "11 - 50",
+          "founded": "2015",
+          "fqdn": "www.charlesfdodgecitycenter.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/8d/b8d893878afe58802b25a340bb36d752",
+          "name": "Charles F. Dodge City Center- ASM Global",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Entertainment Providers",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/charlesfdodgecitycenter"
+            }
+          },
+          "address": "Pembroke Pines North America United States US 601 City Center Way; Pembroke Pines, Florida 33025, US Florida FL -80.22393798828125,26.003150939941406 ",
+          "location": {
+            "city": "Pembroke Pines",
+            "country": "United States",
+            "fullLocation": "Pembroke Pines North America United States US 601 City Center Way; Pembroke Pines, Florida 33025, US Florida FL -80.22393798828125,26.003150939941406 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "601 City Center Way; Pembroke Pines, Florida 33025, US"
+          },
+          "website": "https://charlesfdodgecitycenter.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T13:50:22.418747",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T13:50:24.779948",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

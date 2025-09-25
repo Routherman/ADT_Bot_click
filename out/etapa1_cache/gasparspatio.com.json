@@ -1,0 +1,406 @@
+{
+  "site_url": "https://gasparspatio.com/",
+  "domain": "gasparspatio.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://gasparspatio.com/",
+    "https://www.gasparspatio.com/about-us",
+    "https://www.gasparspatio.com",
+    "https://www.gasparspatio.com/history",
+    "https://www.gasparspatio.com/facilities",
+    "https://www.gasparspatio.com/grid",
+    "https://www.gasparspatio.com/location",
+    "http://www.gasparspatio.com"
+  ],
+  "candidates": [
+    "https://www.gasparspatio.com/about-us",
+    "https://gasparspatio.com/",
+    "https://gasparspatio.com/contact",
+    "https://gasparspatio.com/contact/",
+    "https://gasparspatio.com/contact-us",
+    "https://gasparspatio.com/contact-us/",
+    "https://gasparspatio.com/contactus",
+    "https://gasparspatio.com/contactus/",
+    "https://gasparspatio.com/about",
+    "https://gasparspatio.com/about/",
+    "https://gasparspatio.com/about-us",
+    "https://gasparspatio.com/about-us/",
+    "https://gasparspatio.com/visit",
+    "https://gasparspatio.com/visit/",
+    "https://gasparspatio.com/location",
+    "https://gasparspatio.com/location/",
+    "https://gasparspatio.com/directions",
+    "https://gasparspatio.com/directions/"
+  ],
+  "per_page": {
+    "https://www.gasparspatio.com/about-us": {
+      "title": "CONTACT US | gasparspatio",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.gasparspatio.com/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.gasparspatio.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(813) 988-6959"
+      ],
+      "socials": [
+        "https://www.facebook.com/GasparsPatio/",
+        "https://www.instagram.com/gasparspatio/"
+      ]
+    },
+    "https://gasparspatio.com/": {
+      "title": "HOME | gasparspatio",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gasparspatio.com/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gasparspatio.com/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gasparspatio.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(813) 988-6959"
+      ],
+      "socials": [
+        "https://www.facebook.com/GasparsPatio/",
+        "https://www.instagram.com/gasparspatio/"
+      ]
+    },
+    "https://gasparspatio.com/contact": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://gasparspatio.com/contact/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://gasparspatio.com/contact-us": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://gasparspatio.com/contact-us/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://gasparspatio.com/contactus": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://gasparspatio.com/contactus/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://gasparspatio.com/about": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://gasparspatio.com/about/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://gasparspatio.com/about-us": {
+      "title": "CONTACT US | gasparspatio",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gasparspatio.com/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gasparspatio.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(813) 988-6959"
+      ],
+      "socials": [
+        "https://www.facebook.com/GasparsPatio/",
+        "https://www.instagram.com/gasparspatio/"
+      ]
+    },
+    "https://gasparspatio.com/about-us/": {
+      "title": "CONTACT US | gasparspatio",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gasparspatio.com/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gasparspatio.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(813) 988-6959"
+      ],
+      "socials": [
+        "https://www.facebook.com/GasparsPatio/",
+        "https://www.instagram.com/gasparspatio/"
+      ]
+    },
+    "https://gasparspatio.com/visit": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://gasparspatio.com/visit/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://gasparspatio.com/location": {
+      "title": "LOCATION | gasparspatio",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gasparspatio.com/location"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gasparspatio.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(813) 988-6959",
+        "813-988-6959",
+        "813-989-0470"
+      ],
+      "socials": [
+        "http://www.facebook.com/wix",
+        "https://www.facebook.com/GasparsPatio/",
+        "https://www.instagram.com/gasparspatio/"
+      ]
+    },
+    "https://gasparspatio.com/location/": {
+      "title": "LOCATION | gasparspatio",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gasparspatio.com/location/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gasparspatio.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(813) 988-6959",
+        "813-988-6959",
+        "813-989-0470"
+      ],
+      "socials": [
+        "http://www.facebook.com/wix",
+        "https://www.facebook.com/GasparsPatio/",
+        "https://www.instagram.com/gasparspatio/"
+      ]
+    },
+    "https://gasparspatio.com/directions": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://gasparspatio.com/directions/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

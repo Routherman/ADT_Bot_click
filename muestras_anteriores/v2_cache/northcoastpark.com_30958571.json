@@ -1,0 +1,59 @@
+{
+  "pages": [
+    {
+      "url": "http://northcoastpark.com/id4.html",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "Contact Us\nnavbar Type=\"Vert\" uses-text=\"N\"\nHome\nAccommodations\nLocal Information\nDirections/Map\nEvents Gallery\nContact Us\n/navbar\narea Type=\"subhead\" class=\"user subhead\"\ngem:tlx.tlx.tellyourfriends\nend gem\n\"''\"\nThank you for visiting our web site.\n/area Type=\"subhead\"\narea Type=\"main\" class=\"user main\"\nWe would love to hear from you. If you have any questions or\n         would like additional information about our facilities, rates, or availability, please let us know.\nYou can reach\n         us at:\nPhone:\n(954)\n         983-2083\nMail:\nNorthCoast Park & Marina\n4500 Anglers Avenue\nFort Lauderdale, FL\n33312\nSend us an e-mail or simply fill out the form below\n         to inquire about availability and we will contact you within 24 hrs!\nPlease be sure to include your phone number.\n\"''\"\ninfo@northcoastpark.com\n/area Type=\"main\"\narea Type=\"area_a\" class=\"user area_a\"\ntable tableId=\"table_d2e26\"\na script should be here\nFull name:\n\"''\"\nfe r\n* required\n/fe\nPhone Number:\n\"''\"\nfe r\n* required\n/fe\nEmail address:\n\"''\"\nfe r\n* required\n/fe\nComments:\n\"''\"\nfe\n/fe\nfe\n/fe\n/table tableId=\"table_d2e26\"\n/area Type=\"area_a\"\narea Type=\"area_b\" class=\"user area_b\"\n/area Type=\"area_b\"\narea Type=\"area_c\" class=\"user area_c\"\n/area Type=\"area_c\"\narea Type=\"runner\" class=\"user runner\"\nWe would also like to hear feedback about our web site!\n\"''\"\narea Type=\"footer\" class=\"user footer\"\n/area Type=\"footer\"\n/area Type=\"runner\"",
+      "emails": [
+        "info@northcoastpark.com"
+      ]
+    },
+    {
+      "url": "http://northcoastpark.com/id7.html",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "Events Gallery\nnavbar Type=\"Vert\" uses-text=\"N\"\nHome\nAccommodations\nLocal Information\nDirections/Map\nEvents Gallery\nContact Us\n/navbar\narea Type=\"subhead\" class=\"user subhead\"\nEnter subhead content here\n/area Type=\"subhead\"\narea Type=\"main\" class=\"user main\"\n/area Type=\"main\"\narea Type=\"area_a\" class=\"user area_a\"\n/area Type=\"area_a\"\narea Type=\"area_b\" class=\"user area_b\"\n/area Type=\"area_b\"\narea Type=\"area_c\" class=\"user area_c\"\n/area Type=\"area_c\"\narea Type=\"runner\" class=\"user runner\"\narea Type=\"footer\" class=\"user footer\"\n/area Type=\"footer\"\n/area Type=\"runner\"",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "http://northcoastpark.com/id6.html",
+    "http://northcoastpark.com/id3.html",
+    "http://northcoastpark.com/id1.html",
+    "http://northcoastpark.com/id4.html",
+    "http://northcoastpark.com/id7.html",
+    "http://northcoastpark.com/index.html"
+  ],
+  "candidate_links": [
+    "http://northcoastpark.com/id4.html",
+    "http://northcoastpark.com/id7.html"
+  ],
+  "visited": [
+    "http://northcoastpark.com/",
+    "http://northcoastpark.com/about",
+    "http://northcoastpark.com/contact",
+    "http://northcoastpark.com/staff",
+    "http://northcoastpark.com/team",
+    "http://northcoastpark.com/board",
+    "http://northcoastpark.com/directory",
+    "http://northcoastpark.com/events",
+    "http://northcoastpark.com/sitemap.xml",
+    "http://northcoastpark.com/council",
+    "http://northcoastpark.com/leadership",
+    "http://northcoastpark.com/management",
+    "http://northcoastpark.com/producers",
+    "http://northcoastpark.com/support",
+    "http://northcoastpark.com/crew",
+    "http://northcoastpark.com/members",
+    "http://northcoastpark.com/bios",
+    "http://northcoastpark.com/people",
+    "http://northcoastpark.com/artists",
+    "http://northcoastpark.com/musicians",
+    "http://northcoastpark.com/faculty",
+    "http://northcoastpark.com/administration",
+    "http://northcoastpark.com/id4.html",
+    "http://northcoastpark.com/id7.html"
+  ],
+  "base_url": "http://northcoastpark.com/"
+}

@@ -1,0 +1,114 @@
+{
+  "timestamp": "2025-09-24T22:02:47.042394",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T22:02:43.249859",
+      "company": {
+        "name": null,
+        "domain": "tigerpointgolf.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 54961639,
+          "description": "Nestled along the gentle shores of the Santa Rosa Sound, Tiger Point provides the perfect balance of recreation and challenge. With awe-inspiring water views, we invite residents and visitors alike to come experience our coastal playground. From the welcoming charm of our facilities to the warmth of our team members, Tiger Point Golf Club is the perfect place to reconnect with family, friends and coworkers.",
+          "domain": "tigerpointgolf.com",
+          "employees": "11 - 50",
+          "founded": "2021",
+          "fqdn": "www.tigerpointgolf.com",
+          "name": "Tiger Point Golf Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Wellness & Fitness Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/tiger-point-golf-club"
+            }
+          },
+          "address": "Gulf Breeze North America United States US 1255 COUNTRY CLUB RD; Gulf Breeze, Florida 32563, us Florida FL -87.16385650634766,30.357139587402344 ",
+          "location": {
+            "city": "Gulf Breeze",
+            "country": "United States",
+            "fullLocation": "Gulf Breeze North America United States US 1255 COUNTRY CLUB RD; Gulf Breeze, Florida 32563, us Florida FL -87.16385650634766,30.357139587402344 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1255 COUNTRY CLUB RD; Gulf Breeze, Florida 32563, us"
+          },
+          "website": "https://tigerpointgolf.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T22:02:44.388484",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T22:02:47.037462",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

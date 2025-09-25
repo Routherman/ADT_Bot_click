@@ -1,0 +1,132 @@
+{
+  "site_url": "https://wyndemere.com/",
+  "domain": "wyndemere.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://wyndemere.com/",
+    "https://wyndemere.com/membership",
+    "https://wyndemere.com/default.aspx?p=DynamicModule&PageId=408&ssid=100452&vnf=1",
+    "https://wyndemere.com/the-club",
+    "https://wyndemere.com/golf"
+  ],
+  "candidates": [
+    "https://wyndemere.com/membership",
+    "https://wyndemere.com/",
+    "https://wyndemere.com/contact",
+    "https://wyndemere.com/contact/",
+    "https://wyndemere.com/contact-us",
+    "https://wyndemere.com/contact-us/",
+    "https://wyndemere.com/contactus",
+    "https://wyndemere.com/contactus/",
+    "https://wyndemere.com/about",
+    "https://wyndemere.com/about/",
+    "https://wyndemere.com/about-us",
+    "https://wyndemere.com/about-us/",
+    "https://wyndemere.com/visit",
+    "https://wyndemere.com/visit/",
+    "https://wyndemere.com/location",
+    "https://wyndemere.com/location/",
+    "https://wyndemere.com/directions",
+    "https://wyndemere.com/directions/"
+  ],
+  "per_page": {
+    "https://wyndemere.com/membership": {
+      "title": "Membership - Wyndemere Country Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(239) 263-1700",
+        "239-643-6336"
+      ],
+      "socials": []
+    },
+    "https://wyndemere.com/": {
+      "title": "Wyndemere Country Club | Naples, FL | Distinguished Club of the World - Wyndemere Country Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wyndemere.com/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wyndemere.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(239) 263-1700"
+      ],
+      "socials": []
+    },
+    "https://wyndemere.com/directions": {
+      "title": "Wyndemere Country Club | Downtown Naples | Southwest Florida - Wyndemere Country Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(239) 263-1700"
+      ],
+      "socials": []
+    }
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "site_url": "https://connect.ucf.edu/",
+  "domain": "connect.ucf.edu",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://connect.ucf.edu/",
+    "https://connect.ucf.edu/about-us/",
+    "https://connect.ucf.edu/transfer-connect/faq/",
+    "https://connect.ucf.edu",
+    "https://connect.ucf.edu/administration/",
+    "https://connect.ucf.edu/partnerships/",
+    "https://connect.ucf.edu/conexiones/",
+    "https://connect.ucf.edu/articulation-agreements/",
+    "https://connect.ucf.edu/transfer-connect/",
+    "https://connect.ucf.edu/current-students/",
+    "https://connect.ucf.edu/altamonte-springs/",
+    "https://connect.ucf.edu/cocoa/",
+    "https://connect.ucf.edu/daytona-beach/",
+    "https://connect.ucf.edu/transfer-connect/transfer-connect-center/",
+    "https://connect.ucf.edu/ocala/",
+    "https://connect.ucf.edu/sanfordlake-mary/",
+    "https://connect.ucf.edu/south-lake/",
+    "https://connect.ucf.edu/valencia-east/",
+    "https://connect.ucf.edu/valencia-osceola/",
+    "https://connect.ucf.edu/valencia-west/",
+    "https://connect.ucf.edu/altamonte-springs",
+    "https://connect.ucf.edu/cocoa",
+    "https://connect.ucf.edu/daytona-beach",
+    "https://connect.ucf.edu/ocala",
+    "https://connect.ucf.edu/sanfordlake-mary",
+    "https://connect.ucf.edu/south-lake",
+    "https://connect.ucf.edu/valencia-east",
+    "https://connect.ucf.edu/valencia-osceola",
+    "https://connect.ucf.edu/valencia-west",
+    "https://connect.ucf.edu/transfer-connect/current-students/",
+    "https://ucf.edu/online",
+    "https://connect.ucf.edu/transfer-connect/transfer-connect-center",
+    "https://ucf.edu",
+    "https://connect.ucf.edu/transfer-connect",
+    "https://connect.ucf.edu/transfer-connect/transfercenter/",
+    "https://connect.ucf.edu/transfer-connect/connect-with-us/",
+    "https://connect.ucf.edu/transfer-connect/success-coaches-faq/",
+    "https://connect.ucf.edu/transfer-connect/transfer-connect-community-or-state-college-journey/",
+    "https://connect.ucf.edu/transfer-connect/transfer-connect-university-journey/",
+    "https://connect.ucf.edu/transfer-connect/transfer-connect-international-journey/",
+    "https://connect.ucf.edu/transfer-connect/transfer-connect-readmission-journey/",
+    "https://connect.ucf.edu/transfer-connect/other-transfer-journey/",
+    "https://connect.ucf.edu/transfer-connect/success-coaches/",
+    "https://connect.ucf.edu/annual-safety-and-fire-safety-guide/",
+    "https://connect.ucf.edu/student-complaints-and-appeals/",
+    "https://connect.ucf.edu/transfer-connect/question/how-can-i-make-an-appointment-to-meet-with-success-coach/",
+    "https://connect.ucf.edu/transfer-connect/question/how-can-i-prepare-for-my-success-coaching-appointment/",
+    "https://connect.ucf.edu/transfer-connect/question/how-will-a-success-coach-help-me/",
+    "https://connect.ucf.edu/transfer-connect/question/are-success-coach-appointments-virtual-or-in-person/",
+    "https://connect.ucf.edu/transfer-connect/question/what-is-a-success-coach/",
+    "https://connect.ucf.edu/transfer-connect/transfer-connect-community-journey-get-started-checklist/",
+    "https://connect.ucf.edu/pathway-degree-list/",
+    "https://connect.ucf.edu/transfer-connect/transfer-connect-community-journey-during-checklist/",
+    "https://connect.ucf.edu/transfer-connect/transfer-connect-community-journey-after-checklist/",
+    "https://connect.ucf.edu/transfer-connect/transfer-connect-university-journey-get-started-checklist/",
+    "https://connect.ucf.edu/transfer-connect/transfer-connect-university-journey-during-checklist/",
+    "https://connect.ucf.edu/transfer-connect/transfer-connect-university-journey-after-checklist/",
+    "https://connect.ucf.edu/transfer-connect/transfer-connect-international-journey-get-started-checklist/",
+    "https://connect.ucf.edu/transfer-connect/transfer-connect-international-journey-during-checklist/",
+    "https://connect.ucf.edu/transfer-connect/transfer-connect-international-journey-after-checklist/",
+    "https://connect.ucf.edu/sign-up/",
+    "https://connect.ucf.edu/success-pathway-faq/",
+    "https://connect.ucf.edu/pathway-catalogs/",
+    "https://connect.ucf.edu/question/how-do-i-verify-that-my-credits-from-previous-schools-transferred-to-ucf/",
+    "https://connect.ucf.edu/question/how-will-my-credits-transfer-to-ucf/",
+    "https://connect.ucf.edu/question/what-a-limited-access-program/",
+    "https://connect.ucf.edu/question/what-does-x-denote-in-a-course-number-e-g-bsc-x210/",
+    "https://connect.ucf.edu/question/what-is-a-common-program-prerequisite-cpp/",
+    "https://connect.ucf.edu/question/what-is-a-course-prerequisite/",
+    "https://connect.ucf.edu/question/what-is-a-critical-course/",
+    "https://connect.ucf.edu/question/what-is-a-directconnect-to-ucf-success-coach/",
+    "https://connect.ucf.edu/question/what-is-a-restricted-access-program/",
+    "https://connect.ucf.edu/question/how-can-i-contact-a-success-coach/",
+    "https://connect.ucf.edu/question/what-is-the-catalog-year/",
+    "https://connect.ucf.edu/question/what-is-the-cost-of-attendance-at-ucf/",
+    "https://connect.ucf.edu/question/what-is-the-application-admission-deadlines-to-ucf/",
+    "https://connect.ucf.edu/question/where-can-i-go-to-get-additional-information-about-my-major/"
+  ],
+  "candidates": [
+    "https://connect.ucf.edu/about-us/",
+    "https://connect.ucf.edu/transfer-connect/faq/",
+    "https://connect.ucf.edu",
+    "https://connect.ucf.edu/",
+    "https://connect.ucf.edu/contact",
+    "https://connect.ucf.edu/contact/",
+    "https://connect.ucf.edu/contact-us",
+    "https://connect.ucf.edu/contact-us/",
+    "https://connect.ucf.edu/contactus",
+    "https://connect.ucf.edu/contactus/",
+    "https://connect.ucf.edu/about",
+    "https://connect.ucf.edu/about/",
+    "https://connect.ucf.edu/about-us",
+    "https://connect.ucf.edu/visit",
+    "https://connect.ucf.edu/visit/",
+    "https://connect.ucf.edu/location",
+    "https://connect.ucf.edu/location/",
+    "https://connect.ucf.edu/directions",
+    "https://connect.ucf.edu/directions/"
+  ],
+  "per_page": {
+    "https://connect.ucf.edu/about-us/": {
+      "title": "About Us - UCF Connect",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://connect.ucf.edu/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/transfer-connect/faq/": {
+      "title": "FAQ - Transfer Connect",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://connect.ucf.edu/transfer-connect/faq/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu": {
+      "title": "UCF Connect - Centers and Campuses Supporting Students in Central Florida",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://connect.ucf.edu"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/": {
+      "title": "UCF Connect - Centers and Campuses Supporting Students in Central Florida",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://connect.ucf.edu/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/contact": {
+      "title": "Page not found - UCF Connect",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/contact/": {
+      "title": "Page not found - UCF Connect",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/contact-us": {
+      "title": "Administration - UCF Connect",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "321-433-7809",
+        "352-536-2165",
+        "407-582-5688",
+        "407-823-2004",
+        "407-823-3654",
+        "407-823-4547",
+        "407-882-0253"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/contact-us/": {
+      "title": "Administration - UCF Connect",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "321-433-7809",
+        "352-536-2165",
+        "407-582-5688",
+        "407-823-2004",
+        "407-823-3654",
+        "407-823-4547",
+        "407-882-0253"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/contactus": {
+      "title": "Page not found - UCF Connect",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/contactus/": {
+      "title": "Page not found - UCF Connect",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/about": {
+      "title": "Page not found - UCF Connect",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/about/": {
+      "title": "Page not found - UCF Connect",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/about-us": {
+      "title": "About Us - UCF Connect",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://connect.ucf.edu/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/visit": {
+      "title": "Page not found - UCF Connect",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/visit/": {
+      "title": "Page not found - UCF Connect",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/location": {
+      "title": "Page not found - UCF Connect",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/location/": {
+      "title": "Page not found - UCF Connect",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/directions": {
+      "title": "Page not found - UCF Connect",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    },
+    "https://connect.ucf.edu/directions/": {
+      "title": "Page not found - UCF Connect",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "407-823-4547"
+      ],
+      "socials": [
+        "https://www.facebook.com/TransferConnectToUCF/",
+        "https://www.instagram.com/transferconnecttoucf/"
+      ]
+    }
+  }
+}

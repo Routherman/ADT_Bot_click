@@ -1,0 +1,554 @@
+{
+  "site_url": "https://edlugoresort.com/",
+  "domain": "edlugoresort.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://edlugoresort.com/",
+    "https://edlugoresort.com/about/",
+    "https://edlugoresort.com/contact-us/",
+    "https://edlugoresort.com/events/",
+    "https://edlugoresort.com/location/",
+    "https://edlugoresort.com/gallery/"
+  ],
+  "candidates": [
+    "https://edlugoresort.com/contact-us/",
+    "https://edlugoresort.com/about/",
+    "https://edlugoresort.com/events/",
+    "https://edlugoresort.com/",
+    "https://edlugoresort.com/contact",
+    "https://edlugoresort.com/contact/",
+    "https://edlugoresort.com/contact-us",
+    "https://edlugoresort.com/contactus",
+    "https://edlugoresort.com/contactus/",
+    "https://edlugoresort.com/about",
+    "https://edlugoresort.com/about-us",
+    "https://edlugoresort.com/about-us/",
+    "https://edlugoresort.com/visit",
+    "https://edlugoresort.com/visit/",
+    "https://edlugoresort.com/location",
+    "https://edlugoresort.com/location/",
+    "https://edlugoresort.com/directions",
+    "https://edlugoresort.com/directions/"
+  ],
+  "per_page": {
+    "https://edlugoresort.com/contact-us/": {
+      "title": "» Contact Us Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-275-8299",
+        "954-537-2165"
+      ],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/about/": {
+      "title": "» About Us Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/about/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/events/": {
+      "title": "» Upcoming Events Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/": {
+      "title": "Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-275-8299"
+      ],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/contact": {
+      "title": "» Contact Us Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-275-8299",
+        "954-537-2165"
+      ],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/contact/": {
+      "title": "» Contact Us Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-275-8299",
+        "954-537-2165"
+      ],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/contact-us": {
+      "title": "» Contact Us Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-275-8299",
+        "954-537-2165"
+      ],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/contactus": {
+      "title": "» Page not found Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-275-8299"
+      ],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/contactus/": {
+      "title": "» Page not found Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-275-8299"
+      ],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/about": {
+      "title": "» About Us Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/about"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/about-us": {
+      "title": "» Page not found Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-275-8299"
+      ],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/about-us/": {
+      "title": "» Page not found Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-275-8299"
+      ],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/visit": {
+      "title": "» Page not found Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-275-8299"
+      ],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/visit/": {
+      "title": "» Page not found Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-275-8299"
+      ],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/location": {
+      "title": "» Far From Common, Close To Everything Else Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/location"
+          ]
+        },
+        "audio equipment": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/location/": {
+      "title": "» Far From Common, Close To Everything Else Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/location/"
+          ]
+        },
+        "audio equipment": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/directions": {
+      "title": "» Page not found Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-275-8299"
+      ],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    },
+    "https://edlugoresort.com/directions/": {
+      "title": "» Page not found Ed Lugo Resort",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://edlugoresort.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-275-8299"
+      ],
+      "socials": [
+        "https://www.facebook.com/edlugoresort"
+      ]
+    }
+  }
+}

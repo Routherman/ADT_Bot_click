@@ -1,0 +1,771 @@
+{
+  "site_url": "https://fortwhitegunclub.org/",
+  "domain": "fortwhitegunclub.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://fortwhitegunclub.org/",
+    "https://fortwhitegunclub.org/about/",
+    "https://fortwhitegunclub.org/calendar/",
+    "https://fortwhitegunclub.org/membership-application/",
+    "https://fortwhitegunclub.org/membership-renewal/",
+    "https://fortwhitegunclub.org/board-meeting/",
+    "https://fortwhitegunclub.org/by-laws/",
+    "https://fortwhitegunclub.org/directions/",
+    "https://fortwhitegunclub.org/discipline-sop/",
+    "https://fortwhitegunclub.org/disciplines/",
+    "https://fortwhitegunclub.org/disciplines/22-fun-match/",
+    "https://fortwhitegunclub.org/disciplines/22-long-ranger/",
+    "https://fortwhitegunclub.org/disciplines/5-stand/",
+    "https://fortwhitegunclub.org/disciplines/black-powder/",
+    "https://fortwhitegunclub.org/disciplines/cowboy-action/",
+    "https://fortwhitegunclub.org/disciplines/duel-of-steel/",
+    "https://fortwhitegunclub.org/disciplines/edc-home-defense/",
+    "https://fortwhitegunclub.org/disciplines/enemy-at-the-gate/",
+    "https://fortwhitegunclub.org/disciplines/new-age-steel-plate/",
+    "https://fortwhitegunclub.org/disciplines/precision-pistol/",
+    "https://fortwhitegunclub.org/disciplines/rims-afire/",
+    "https://fortwhitegunclub.org/disciplines/trap/",
+    "https://fortwhitegunclub.org/disciplines/urban-cowboy/",
+    "https://fortwhitegunclub.org/disciplines/varmint-rifle/",
+    "https://fortwhitegunclub.org/disciplines/youth-sharpshooters/",
+    "https://fortwhitegunclub.org/incident-report/",
+    "https://fortwhitegunclub.org/meeting-minutes/",
+    "https://fortwhitegunclub.org/newsletter/",
+    "https://fortwhitegunclub.org/officers/",
+    "https://fortwhitegunclub.org/range-rules/",
+    "https://fortwhitegunclub.org/target-stands/",
+    "https://fortwhitegunclub.org/calendar/?format=calendar",
+    "https://fortwhitegunclub.org/calendar/?format=list",
+    "https://fortwhitegunclub.org/calendar/?time=month&cid=my-calendar",
+    "https://fortwhitegunclub.org/calendar/?time=week&dy=7&month=9&yr=2025&cid=my-calendar",
+    "https://fortwhitegunclub.org/calendar/?time=day&dy=7&cid=my-calendar",
+    "https://fortwhitegunclub.org/calendar/?yr=2025&month=8&dy&cid=my-calendar&time=month",
+    "https://fortwhitegunclub.org/calendar/?cid=my-calendar",
+    "https://fortwhitegunclub.org/calendar/?yr=2025&month=10&dy&cid=my-calendar&time=month",
+    "https://fortwhitegunclub.org",
+    "https://fortwhitegunclub.org/mc-locations/pistol-range/",
+    "https://fortwhitegunclub.org/mc-events/new-age-steel-plate/?mc_id=194",
+    "https://fortwhitegunclub.org/mc-locations/rifle-range/",
+    "https://fortwhitegunclub.org/mc-events/varmint-rifle/?mc_id=405",
+    "https://fortwhitegunclub.org/mc-locations/sporting-clays-range/",
+    "https://fortwhitegunclub.org/mc-events/sporting-clays-5/?mc_id=910",
+    "https://fortwhitegunclub.org/mc-locations/club-house/"
+  ],
+  "candidates": [
+    "https://fortwhitegunclub.org/about/",
+    "https://fortwhitegunclub.org/calendar/",
+    "https://fortwhitegunclub.org/calendar/?cid=my-calendar",
+    "https://fortwhitegunclub.org/calendar/?format=calendar",
+    "https://fortwhitegunclub.org/calendar/?format=list",
+    "https://fortwhitegunclub.org/calendar/?time=day&dy=7&cid=my-calendar",
+    "https://fortwhitegunclub.org/calendar/?time=month&cid=my-calendar",
+    "https://fortwhitegunclub.org/calendar/?time=week&dy=7&month=9&yr=2025&cid=my-calendar",
+    "https://fortwhitegunclub.org/calendar/?yr=2025&month=10&dy&cid=my-calendar&time=month",
+    "https://fortwhitegunclub.org/calendar/?yr=2025&month=8&dy&cid=my-calendar&time=month",
+    "https://fortwhitegunclub.org/membership-application/",
+    "https://fortwhitegunclub.org/membership-renewal/",
+    "https://fortwhitegunclub.org",
+    "https://fortwhitegunclub.org/",
+    "https://fortwhitegunclub.org/mc-events/new-age-steel-plate/?mc_id=194",
+    "https://fortwhitegunclub.org/mc-events/sporting-clays-5/?mc_id=910",
+    "https://fortwhitegunclub.org/mc-events/varmint-rifle/?mc_id=405",
+    "https://fortwhitegunclub.org/contact",
+    "https://fortwhitegunclub.org/contact/",
+    "https://fortwhitegunclub.org/contact-us",
+    "https://fortwhitegunclub.org/contact-us/",
+    "https://fortwhitegunclub.org/contactus",
+    "https://fortwhitegunclub.org/contactus/",
+    "https://fortwhitegunclub.org/about",
+    "https://fortwhitegunclub.org/about-us",
+    "https://fortwhitegunclub.org/about-us/",
+    "https://fortwhitegunclub.org/visit",
+    "https://fortwhitegunclub.org/visit/",
+    "https://fortwhitegunclub.org/location",
+    "https://fortwhitegunclub.org/location/",
+    "https://fortwhitegunclub.org/directions",
+    "https://fortwhitegunclub.org/directions/"
+  ],
+  "per_page": {
+    "https://fortwhitegunclub.org/about/": {
+      "title": "About – Fort White Gun Club",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(386) 497-9403"
+      ],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/calendar/": {
+      "title": "Calendar – Fort White Gun Club",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/calendar/?cid=my-calendar": {
+      "title": "Calendar – Fort White Gun Club",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/?cid=my-calendar"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/?cid=my-calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/calendar/?format=calendar": {
+      "title": "Calendar – Fort White Gun Club",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/?format=calendar"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/?format=calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/calendar/?format=list": {
+      "title": "Calendar – Fort White Gun Club",
+      "band_hits": {
+        "event": {
+          "total": 22,
+          "zones": {
+            "title": 0,
+            "body": 22,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/?format=list"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/?format=list"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/calendar/?time=day&dy=7&cid=my-calendar": {
+      "title": "Calendar – Fort White Gun Club",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/?time=day&dy=7&cid=my-calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/calendar/?time=month&cid=my-calendar": {
+      "title": "Calendar – Fort White Gun Club",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/?time=month&cid=my-calendar"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/?time=month&cid=my-calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/calendar/?time=week&dy=7&month=9&yr=2025&cid=my-calendar": {
+      "title": "Calendar – Fort White Gun Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/?time=week&dy=7&month=9&yr=2025&cid=my-calendar"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/?time=week&dy=7&month=9&yr=2025&cid=my-calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/calendar/?yr=2025&month=10&dy&cid=my-calendar&time=month": {
+      "title": "Calendar – Fort White Gun Club",
+      "band_hits": {
+        "event": {
+          "total": 26,
+          "zones": {
+            "title": 0,
+            "body": 26,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/?yr=2025&month=10&dy&cid=my-calendar&time=month"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/?yr=2025&month=10&dy&cid=my-calendar&time=month"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/calendar/?yr=2025&month=8&dy&cid=my-calendar&time=month": {
+      "title": "Calendar – Fort White Gun Club",
+      "band_hits": {
+        "event": {
+          "total": 21,
+          "zones": {
+            "title": 0,
+            "body": 21,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/?yr=2025&month=8&dy&cid=my-calendar&time=month"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/calendar/?yr=2025&month=8&dy&cid=my-calendar&time=month"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/membership-application/": {
+      "title": "Membership Application – Fort White Gun Club",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/membership-application/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/membership-renewal/": {
+      "title": "Membership Renewal – Fort White Gun Club",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/membership-renewal/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org": {
+      "title": "Fort White Gun Club",
+      "band_hits": {
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org"
+          ]
+        }
+      },
+      "emails": [
+        "membership@fortwhitegunclub.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/": {
+      "title": "Fort White Gun Club",
+      "band_hits": {
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/"
+          ]
+        }
+      },
+      "emails": [
+        "membership@fortwhitegunclub.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/mc-events/new-age-steel-plate/?mc_id=194": {
+      "title": "New Age Steel Plate / September 1, 2025 / Fort White Gun Club",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/mc-events/new-age-steel-plate/?mc_id=194"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/mc-events/sporting-clays-5/?mc_id=910": {
+      "title": "Sporting Clays / September 3, 2025 / Fort White Gun Club",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/mc-events/sporting-clays-5/?mc_id=910"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/mc-events/varmint-rifle/?mc_id=405": {
+      "title": "Varmint Rifle / September 2, 2025 / Fort White Gun Club",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/mc-events/varmint-rifle/?mc_id=405"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/contact": {
+      "title": "Page not found – Fort White Gun Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/contact/": {
+      "title": "Page not found – Fort White Gun Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/contact-us": {
+      "title": "Page not found – Fort White Gun Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/contact-us/": {
+      "title": "Page not found – Fort White Gun Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/contactus": {
+      "title": "Page not found – Fort White Gun Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/contactus/": {
+      "title": "Page not found – Fort White Gun Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/about": {
+      "title": "About – Fort White Gun Club",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(386) 497-9403"
+      ],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/about-us": {
+      "title": "Page not found – Fort White Gun Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/about-us/": {
+      "title": "Page not found – Fort White Gun Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/visit": {
+      "title": "Page not found – Fort White Gun Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/visit/": {
+      "title": "Page not found – Fort White Gun Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/location": {
+      "title": "Page not found – Fort White Gun Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/location/": {
+      "title": "Page not found – Fort White Gun Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/directions": {
+      "title": "Directions – Fort White Gun Club",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://fortwhitegunclub.org/directions/": {
+      "title": "Directions – Fort White Gun Club",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fortwhitegunclub.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

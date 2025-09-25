@@ -1,0 +1,1560 @@
+{
+  "site_url": "https://fwb.org/",
+  "domain": "fwb.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://fwb.org/",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=23&CID=14",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=14",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=30&CID=14",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=2&CID=14",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=14",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=4&CID=14",
+    "https://fwb.org/Calendar.aspx?EID=1084",
+    "https://fwb.org/Calendar.aspx?EID=988",
+    "https://fwb.org/Calendar.aspx?EID=1086",
+    "https://fwb.org/Calendar.aspx?EID=1074",
+    "https://fwb.org/calendar.aspx?CID=14",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=24",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=2&CID=24",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=24",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=4&CID=24",
+    "https://fwb.org/calendar.aspx?CID=24",
+    "https://fwb.org/directory.aspx",
+    "https://fwb.org/Search/Results",
+    "https://fwb.org/27/Our-Government",
+    "https://fwb.org/518/Project-Dashboard",
+    "https://fwb.org/101/Departments",
+    "https://fwb.org/31/Community",
+    "https://fwb.org/9/How-Do-I",
+    "https://fwb.org/197/Customer-Service",
+    "https://fwb.org/281/Recreation-Cultural-Services",
+    "https://fwb.org/239/Police-Department",
+    "https://fwb.org/225/Employment-Opportunities",
+    "https://fwb.org/DocumentCenter/View/1945/2024-Consumer-Water-Quality-Report-PDF",
+    "https://fwb.org/215/Disaster-Flood-Information",
+    "https://fwb.org/227/Purchasing",
+    "https://fwb.org/198/Community-Redevelopment-Agency",
+    "https://fwb.org/CivicAlerts.aspx?AID=572",
+    "https://fwb.org/CivicAlerts.aspx?AID=571",
+    "https://fwb.org/CivicAlerts.aspx?AID=570",
+    "https://fwb.org/CivicAlerts.aspx?AID=508",
+    "https://fwb.org/CivicAlerts.aspx?CID=1"
+  ],
+  "candidates": [
+    "https://fwb.org/Calendar.aspx?EID=1074",
+    "https://fwb.org/Calendar.aspx?EID=1084",
+    "https://fwb.org/Calendar.aspx?EID=1086",
+    "https://fwb.org/Calendar.aspx?EID=988",
+    "https://fwb.org/calendar.aspx?CID=14",
+    "https://fwb.org/calendar.aspx?CID=24",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=2&CID=14",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=2&CID=24",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=14",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=24",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=4&CID=14",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=4&CID=24",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=23&CID=14",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=14",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=24",
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=30&CID=14",
+    "https://fwb.org/directory.aspx",
+    "https://fwb.org/",
+    "https://fwb.org/contact",
+    "https://fwb.org/contact/",
+    "https://fwb.org/contact-us",
+    "https://fwb.org/contact-us/",
+    "https://fwb.org/contactus",
+    "https://fwb.org/contactus/",
+    "https://fwb.org/about",
+    "https://fwb.org/about/",
+    "https://fwb.org/about-us",
+    "https://fwb.org/about-us/",
+    "https://fwb.org/visit",
+    "https://fwb.org/visit/",
+    "https://fwb.org/location",
+    "https://fwb.org/location/",
+    "https://fwb.org/directions",
+    "https://fwb.org/directions/"
+  ],
+  "per_page": {
+    "https://fwb.org/Calendar.aspx?EID=1074": {
+      "title": "Calendar • Concerts at The Landing with Rockstarfish",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=1074"
+          ]
+        },
+        "concert": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=1074"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=1074"
+          ]
+        },
+        "show": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=1074"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=1074"
+          ]
+        },
+        "calendar": {
+          "total": 19,
+          "zones": {
+            "title": 1,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=1074"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/Calendar.aspx?EID=1084": {
+      "title": "Calendar • City of Fort Walton Beach City Council Special Me",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=1084"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=1084"
+          ]
+        },
+        "calendar": {
+          "total": 20,
+          "zones": {
+            "title": 1,
+            "body": 19,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=1084"
+          ]
+        }
+      },
+      "emails": [
+        "cityclerk@fwb.org",
+        "clerk@fwb.org"
+      ],
+      "phones": [
+        "(850) 833-9509",
+        "850-833-9500",
+        "850-833-9509"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/Calendar.aspx?EID=1086": {
+      "title": "Calendar • City of Fort Walton Beach City Council Special Me",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=1086"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=1086"
+          ]
+        },
+        "calendar": {
+          "total": 20,
+          "zones": {
+            "title": 1,
+            "body": 19,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=1086"
+          ]
+        }
+      },
+      "emails": [
+        "cityclerk@fwb.org",
+        "clerk@fwb.org"
+      ],
+      "phones": [
+        "(850) 833-9509",
+        "850-833-9500",
+        "850-833-9509"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/Calendar.aspx?EID=988": {
+      "title": "Calendar • City of Fort Walton Beach City Council Regular Me",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=988"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=988"
+          ]
+        },
+        "calendar": {
+          "total": 20,
+          "zones": {
+            "title": 1,
+            "body": 19,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=988"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/Calendar.aspx?EID=988"
+          ]
+        }
+      },
+      "emails": [
+        "cityclerk@fwb.org",
+        "clerk@fwb.org"
+      ],
+      "phones": [
+        "(850) 833-9509",
+        "850-833-9500",
+        "850-833-9509"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/calendar.aspx?CID=14": {
+      "title": "Calendar • City Calendar",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?CID=14"
+          ]
+        },
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?CID=14"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?CID=14"
+          ]
+        },
+        "calendar": {
+          "total": 24,
+          "zones": {
+            "title": 2,
+            "body": 22,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?CID=14"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?CID=14"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/calendar.aspx?CID=24": {
+      "title": "Calendar • Community Events",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?CID=24"
+          ]
+        },
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?CID=24"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?CID=24"
+          ]
+        },
+        "calendar": {
+          "total": 19,
+          "zones": {
+            "title": 1,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?CID=24"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=2&CID=14": {
+      "title": "Calendar • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=2&CID=14"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=2&CID=14"
+          ]
+        },
+        "calendar": {
+          "total": 22,
+          "zones": {
+            "title": 1,
+            "body": 21,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=2&CID=14"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=2&CID=24": {
+      "title": "Calendar • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=2&CID=24"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=2&CID=24"
+          ]
+        },
+        "calendar": {
+          "total": 19,
+          "zones": {
+            "title": 1,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=2&CID=24"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=14": {
+      "title": "Calendar • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=14"
+          ]
+        },
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=14"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=14"
+          ]
+        },
+        "calendar": {
+          "total": 22,
+          "zones": {
+            "title": 1,
+            "body": 21,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=14"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=24": {
+      "title": "Calendar • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=24"
+          ]
+        },
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=24"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=24"
+          ]
+        },
+        "calendar": {
+          "total": 19,
+          "zones": {
+            "title": 1,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=24"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=4&CID=14": {
+      "title": "Calendar • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=4&CID=14"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=4&CID=14"
+          ]
+        },
+        "calendar": {
+          "total": 22,
+          "zones": {
+            "title": 1,
+            "body": 21,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=4&CID=14"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=4&CID=24": {
+      "title": "Calendar • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=4&CID=24"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=4&CID=24"
+          ]
+        },
+        "calendar": {
+          "total": 19,
+          "zones": {
+            "title": 1,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=10&day=4&CID=24"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=23&CID=14": {
+      "title": "Calendar • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=23&CID=14"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=23&CID=14"
+          ]
+        },
+        "calendar": {
+          "total": 22,
+          "zones": {
+            "title": 1,
+            "body": 21,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=23&CID=14"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=23&CID=14"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=14": {
+      "title": "Calendar • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=14"
+          ]
+        },
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=14"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=14"
+          ]
+        },
+        "calendar": {
+          "total": 22,
+          "zones": {
+            "title": 1,
+            "body": 21,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=14"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=24": {
+      "title": "Calendar • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=24"
+          ]
+        },
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=24"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=24"
+          ]
+        },
+        "calendar": {
+          "total": 19,
+          "zones": {
+            "title": 1,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=24"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=30&CID=14": {
+      "title": "Calendar • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=30&CID=14"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=30&CID=14"
+          ]
+        },
+        "calendar": {
+          "total": 22,
+          "zones": {
+            "title": 1,
+            "body": 21,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/calendar.aspx?view=list&year=2025&month=9&day=30&CID=14"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/directory.aspx": {
+      "title": "Staff Directory • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/directory.aspx"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 833-9500",
+        "850-833-9500",
+        "850-833-9513",
+        "850-833-9523",
+        "850-833-9546",
+        "850-833-9565",
+        "850-833-9569",
+        "850-833-9576",
+        "850-833-9587",
+        "850-833-9590",
+        "850-833-9591",
+        "850-833-9595",
+        "850-833-9609",
+        "850-833-9611",
+        "850-833-9613",
+        "850-833-9648",
+        "850-833-9655",
+        "850-833-9664"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/": {
+      "title": "Fort Walton Beach, FL | Official Website",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/contact": {
+      "title": "Custom404 • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/contact/": {
+      "title": "Custom404 • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/contact-us": {
+      "title": "Custom404 • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/contact-us/": {
+      "title": "Custom404 • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/contactus": {
+      "title": "Staff Directory • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 833-9500",
+        "850-833-9500",
+        "850-833-9513",
+        "850-833-9523",
+        "850-833-9546",
+        "850-833-9565",
+        "850-833-9569",
+        "850-833-9576",
+        "850-833-9587",
+        "850-833-9590",
+        "850-833-9591",
+        "850-833-9595",
+        "850-833-9609",
+        "850-833-9611",
+        "850-833-9613",
+        "850-833-9648",
+        "850-833-9655",
+        "850-833-9664"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/contactus/": {
+      "title": "Custom404 • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/about": {
+      "title": "Custom404 • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/about/": {
+      "title": "Custom404 • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/about-us": {
+      "title": "Custom404 • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/about-us/": {
+      "title": "Custom404 • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/visit": {
+      "title": "Custom404 • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/visit/": {
+      "title": "Custom404 • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/location": {
+      "title": "Custom404 • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/location/": {
+      "title": "Custom404 • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/directions": {
+      "title": "Custom404 • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    },
+    "https://fwb.org/directions/": {
+      "title": "Custom404 • Fort Walton Beach, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fwb.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-833-9500"
+      ],
+      "socials": [
+        "https://www.linkedin.com/company/city-of-fort-walton-beach"
+      ]
+    }
+  }
+}

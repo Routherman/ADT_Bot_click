@@ -1,0 +1,136 @@
+{
+  "timestamp": "2025-09-21T06:43:11.011014",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T06:43:07.208480",
+      "company": {
+        "name": null,
+        "domain": "costco.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 163225,
+          "description": "Costco Wholesale is a multibillion dollar global retailer with warehouse club operations in 14 countries. We are the recognized leader in our field, dedicated to quality in every area of our business and respected for our outstanding business ethics. Despite our large size and rapid international expansion, we continue to provide an atmosphere in which our employees thrive and succeed. \n\nIf you are an ambitious, energetic person who enjoys a fast-paced team environment filled with challenges and opportunities, you've come to the right place. Our successful employees are service-oriented with integrity and commitment toward a common goal of excellence. Costco offers great jobs, great pay, great benefits and a great place to work.\n\nLike us on Facebook: www.facebook.com/Costco\nFollow us on Pinterest: www.pinterest.com/Costco",
+          "domain": "costco.com",
+          "employees": "10001 - 100000",
+          "founded": "1983",
+          "fqdn": "www.costco.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=30/j_lvlu4vke2g05yqy27.625274e64aed0916b7152c07100109fe926251e8.file_lvlu59m81i9kvzlqd9.logo_cached.jpg",
+          "name": "Costco Wholesale",
+          "revenueRange": [
+            1000000000,
+            10000000000
+          ],
+          "mainIndustry": "Retail",
+          "subIndustry": "Other",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/costco-wholesale"
+            }
+          },
+          "address": "Seattle North America United States US 4401 4th Ave S; Seattle, WA 98134, US Washington WA -122.33206939697266,47.60620880126953 ",
+          "location": {
+            "city": "Seattle",
+            "country": "United States",
+            "fullLocation": "Seattle North America United States US 4401 4th Ave S; Seattle, WA 98134, US Washington WA -122.33206939697266,47.60620880126953 ",
+            "state": "Washington",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "4401 4th Ave S; Seattle, WA 98134, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5331,
+                "description": "Variety stores"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 455110,
+                "description": "Department Stores"
+              }
+            ]
+          },
+          "website": "https://costco.com",
+          "specialities": [
+            "ecommerce",
+            "merchandising",
+            "operations",
+            "retail",
+            "travel"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T06:43:08.629002",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T06:43:11.007532",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

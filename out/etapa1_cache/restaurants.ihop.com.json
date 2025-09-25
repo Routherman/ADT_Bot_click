@@ -1,0 +1,628 @@
+{
+  "site_url": "https://restaurants.ihop.com/",
+  "domain": "restaurants.ihop.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://restaurants.ihop.com/",
+    "https://restaurants.ihop.com/en-us/",
+    "https://restaurants.ihop.com/en-us/al/",
+    "https://restaurants.ihop.com/en-us/ak/",
+    "https://restaurants.ihop.com/en-us/az/",
+    "https://restaurants.ihop.com/en-us/ar/",
+    "https://restaurants.ihop.com/en-us/ca/",
+    "https://restaurants.ihop.com/en-us/co/",
+    "https://restaurants.ihop.com/en-us/ct/",
+    "https://restaurants.ihop.com/en-us/de/",
+    "https://restaurants.ihop.com/en-us/dc/",
+    "https://restaurants.ihop.com/en-us/fl/",
+    "https://restaurants.ihop.com/en-us/ga/",
+    "https://restaurants.ihop.com/en-us/hi/",
+    "https://restaurants.ihop.com/en-us/id/",
+    "https://restaurants.ihop.com/en-us/il/",
+    "https://restaurants.ihop.com/en-us/in/",
+    "https://restaurants.ihop.com/en-us/ia/",
+    "https://restaurants.ihop.com/en-us/ks/",
+    "https://restaurants.ihop.com/en-us/ky/",
+    "https://restaurants.ihop.com/en-us/la/",
+    "https://restaurants.ihop.com/en-us/me/",
+    "https://restaurants.ihop.com/en-us/md/",
+    "https://restaurants.ihop.com/en-us/ma/",
+    "https://restaurants.ihop.com/en-us/mi/",
+    "https://restaurants.ihop.com/en-us/mn/",
+    "https://restaurants.ihop.com/en-us/ms/",
+    "https://restaurants.ihop.com/en-us/mo/",
+    "https://restaurants.ihop.com/en-us/mt/",
+    "https://restaurants.ihop.com/en-us/ne/",
+    "https://restaurants.ihop.com/en-us/nv/",
+    "https://restaurants.ihop.com/en-us/nh/",
+    "https://restaurants.ihop.com/en-us/nj/",
+    "https://restaurants.ihop.com/en-us/nm/",
+    "https://restaurants.ihop.com/en-us/ny/",
+    "https://restaurants.ihop.com/en-us/nc/",
+    "https://restaurants.ihop.com/en-us/nd/",
+    "https://restaurants.ihop.com/en-us/oh/",
+    "https://restaurants.ihop.com/en-us/ok/",
+    "https://restaurants.ihop.com/en-us/or/",
+    "https://restaurants.ihop.com/en-us/pa/",
+    "https://restaurants.ihop.com/en-us/ri/",
+    "https://restaurants.ihop.com/en-us/sc/",
+    "https://restaurants.ihop.com/en-us/sd/",
+    "https://restaurants.ihop.com/en-us/tn/",
+    "https://restaurants.ihop.com/en-us/tx/",
+    "https://restaurants.ihop.com/en-us/ut/",
+    "https://restaurants.ihop.com/en-us/va/",
+    "https://restaurants.ihop.com/en-us/wa/",
+    "https://restaurants.ihop.com/en-us/wv/",
+    "https://restaurants.ihop.com/en-us/wi/",
+    "https://restaurants.ihop.com/en-us/pr/",
+    "https://restaurants.ihop.com/en-us/al/athens/",
+    "https://restaurants.ihop.com/en-us/al/decatur/",
+    "https://restaurants.ihop.com/en-us/al/dothan/",
+    "https://restaurants.ihop.com/en-us/al/homewood/",
+    "https://restaurants.ihop.com/en-us/al/hoover/",
+    "https://restaurants.ihop.com/en-us/al/huntsville/",
+    "https://restaurants.ihop.com/en-us/al/madison/",
+    "https://restaurants.ihop.com/en-us/al/mobile/",
+    "https://restaurants.ihop.com/en-us/al/montgomery/",
+    "https://restaurants.ihop.com/en-us/al/oxford/",
+    "https://restaurants.ihop.com/en-us/al/pelham/",
+    "https://restaurants.ihop.com/en-us/al/phenix-city/",
+    "https://restaurants.ihop.com/en-us/al/prattville/",
+    "https://restaurants.ihop.com/en-us/al/tuscaloosa/",
+    "https://restaurants.ihop.com/en-us/ak/anchorage/",
+    "https://restaurants.ihop.com/en-us/ak/wasilla/",
+    "https://restaurants.ihop.com/en-us/az/avondale/",
+    "https://restaurants.ihop.com/en-us/az/bullhead-city/",
+    "https://restaurants.ihop.com/en-us/az/casa-grande/",
+    "https://restaurants.ihop.com/en-us/az/chandler/",
+    "https://restaurants.ihop.com/en-us/az/flagstaff/",
+    "https://restaurants.ihop.com/en-us/az/gilbert/",
+    "https://restaurants.ihop.com/en-us/az/glendale/",
+    "https://restaurants.ihop.com/en-us/az/kingman/",
+    "https://restaurants.ihop.com/en-us/az/lake-havasu-city/",
+    "https://restaurants.ihop.com/en-us/az/maricopa/",
+    "https://restaurants.ihop.com/en-us/az/mesa/"
+  ],
+  "candidates": [
+    "https://restaurants.ihop.com/",
+    "https://restaurants.ihop.com/contact",
+    "https://restaurants.ihop.com/contact/",
+    "https://restaurants.ihop.com/contact-us",
+    "https://restaurants.ihop.com/contact-us/",
+    "https://restaurants.ihop.com/contactus",
+    "https://restaurants.ihop.com/contactus/",
+    "https://restaurants.ihop.com/about",
+    "https://restaurants.ihop.com/about/",
+    "https://restaurants.ihop.com/about-us",
+    "https://restaurants.ihop.com/about-us/",
+    "https://restaurants.ihop.com/visit",
+    "https://restaurants.ihop.com/visit/",
+    "https://restaurants.ihop.com/location",
+    "https://restaurants.ihop.com/location/",
+    "https://restaurants.ihop.com/directions",
+    "https://restaurants.ihop.com/directions/"
+  ],
+  "per_page": {
+    "https://restaurants.ihop.com/": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/contact": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/contact/": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/contact-us": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/contact-us/": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/contactus": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/contactus/": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/about": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/about/": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/about-us": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/about-us/": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/visit": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/visit/": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/location": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/location/": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/directions": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    },
+    "https://restaurants.ihop.com/directions/": {
+      "title": "IHOP® Restaurant Locations | Breakfast, Lunch & Dinner - Pancakes 24/7",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://restaurants.ihop.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IHOP",
+        "https://www.facebook.com/IHOP/",
+        "https://www.instagram.com/ihop/",
+        "https://www.linkedin.com/company/ihop/",
+        "https://www.tiktok.com/@ihop",
+        "https://www.youtube.com/@IHOP/videos",
+        "https://www.youtube.com/user/IHOP"
+      ]
+    }
+  }
+}

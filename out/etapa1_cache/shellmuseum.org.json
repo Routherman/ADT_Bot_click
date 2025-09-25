@@ -1,0 +1,809 @@
+{
+  "site_url": "https://shellmuseum.org/",
+  "domain": "shellmuseum.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://shellmuseum.org/",
+    "https://shellmuseum.org/blog/",
+    "https://shellmuseum.org/about/",
+    "https://shellmuseum.org/about/museum-story/",
+    "https://shellmuseum.org/about/board-staff/",
+    "https://shellmuseum.org/support/private-events/",
+    "https://shellmuseum.org/support/membership/",
+    "https://shellmuseum.org"
+  ],
+  "candidates": [
+    "https://shellmuseum.org/about/",
+    "https://shellmuseum.org/about/board-staff/",
+    "https://shellmuseum.org/about/museum-story/",
+    "https://shellmuseum.org/blog/",
+    "https://shellmuseum.org/support/membership/",
+    "https://shellmuseum.org/support/private-events/",
+    "https://shellmuseum.org",
+    "https://shellmuseum.org/",
+    "https://shellmuseum.org/contact",
+    "https://shellmuseum.org/contact/",
+    "https://shellmuseum.org/contact-us",
+    "https://shellmuseum.org/contact-us/",
+    "https://shellmuseum.org/contactus",
+    "https://shellmuseum.org/contactus/",
+    "https://shellmuseum.org/about",
+    "https://shellmuseum.org/about-us",
+    "https://shellmuseum.org/about-us/",
+    "https://shellmuseum.org/visit",
+    "https://shellmuseum.org/visit/",
+    "https://shellmuseum.org/location",
+    "https://shellmuseum.org/location/",
+    "https://shellmuseum.org/directions",
+    "https://shellmuseum.org/directions/"
+  ],
+  "per_page": {
+    "https://shellmuseum.org/about/": {
+      "title": "About - Bailey-Matthews National Shell Museum & Aquarium",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/about/"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/about/board-staff/": {
+      "title": "Board & Staff - Bailey-Matthews National Shell Museum & Aquarium",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/about/board-staff/"
+          ]
+        }
+      },
+      "emails": [
+        "cdagostino@shellmuseum.org",
+        "cwhitt@shellmuseum.org",
+        "eswatfigure@shellmuseum.org",
+        "info@shellmuseum.org",
+        "jfalker@shellmuseum.org",
+        "jleal@shellmuseum.org",
+        "jmacaluso@shellmuseum.org",
+        "larnold@shellmuseum.org",
+        "pnehls@shellmuseum.org",
+        "rpowell@shellmuseum.org",
+        "rrussell@shellmuseum.org",
+        "sankerson@shellmuseum.org",
+        "smuddell@shellmuseum.org",
+        "swilkinson@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/about/museum-story/": {
+      "title": "Museum Story - Bailey-Matthews National Shell Museum & Aquarium",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/about/museum-story/"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/blog/": {
+      "title": "Curator's Corner - Bailey-Matthews National Shell Museum & Aquarium",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/blog/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/blog/"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/support/membership/": {
+      "title": "Membership - Bailey-Matthews National Shell Museum & Aquarium",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/support/membership/"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org",
+        "membership@shellmuseum.org"
+      ],
+      "phones": [
+        "(239) 347-5114",
+        "239-347-5119",
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/support/private-events/": {
+      "title": "Private Events - Bailey-Matthews National Shell Museum & Aquarium",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/support/private-events/"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org",
+        "jfalker@shellmuseum.org",
+        "sankerson@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org": {
+      "title": "Bailey-Matthews National Shell Museum & Aquarium",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/": {
+      "title": "Bailey-Matthews National Shell Museum & Aquarium",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/contact": {
+      "title": "Page not found - Bailey-Matthews National Shell Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/contact/": {
+      "title": "Page not found - Bailey-Matthews National Shell Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/contact-us": {
+      "title": "Page not found - Bailey-Matthews National Shell Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/contact-us/": {
+      "title": "Page not found - Bailey-Matthews National Shell Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/contactus": {
+      "title": "Page not found - Bailey-Matthews National Shell Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/contactus/": {
+      "title": "Page not found - Bailey-Matthews National Shell Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/about": {
+      "title": "About - Bailey-Matthews National Shell Museum & Aquarium",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/about"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/about-us": {
+      "title": "Page not found - Bailey-Matthews National Shell Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/about-us/": {
+      "title": "Page not found - Bailey-Matthews National Shell Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/visit": {
+      "title": "Plan Your Visit - Bailey-Matthews National Shell Museum & Aquarium",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/visit"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/visit"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/visit"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/visit/": {
+      "title": "Plan Your Visit - Bailey-Matthews National Shell Museum & Aquarium",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/visit/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/visit/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/location": {
+      "title": "Page not found - Bailey-Matthews National Shell Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/location"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/location/": {
+      "title": "Page not found - Bailey-Matthews National Shell Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/location/"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/directions": {
+      "title": "Page not found - Bailey-Matthews National Shell Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/directions"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    },
+    "https://shellmuseum.org/directions/": {
+      "title": "Page not found - Bailey-Matthews National Shell Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellmuseum.org/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@shellmuseum.org"
+      ],
+      "phones": [
+        "239-395-2233"
+      ],
+      "socials": [
+        "http://www.instagram.com/shellmuseum",
+        "https://www.facebook.com/shellmuseum/",
+        "https://www.youtube.com/channel/UCn__KeCb9_0hRZUhzoGMn-A"
+      ]
+    }
+  }
+}

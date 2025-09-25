@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-24T20:05:55.090492",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T20:05:50.689173",
+      "company": {
+        "name": null,
+        "domain": "florida-golf.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 27061461,
+          "description": "Florida’s First Coast of Golf (FFCG) is a not-for-profit golf destination marketing company charged with advertising our region’s (Amelia Island, Jacksonville, Ponte Vedra Beach, St. Augustine, Flagler County & Clay County,) greatest tourist attraction – Golf.  The organization combines 5 tourist boards from the areas mentioned above, Jacksonville Aviation Authority and over 50 accommodations and golf courses celebrating our 25th year of operation.\n\nNortheast Florida’s Coast is a premier golf destination, named Golf Destination of the year for 2017 by the International Association of Golf Tour Operators. The region is globally recognized as the home of THE PLAYERS Championship played at TPC Sawgrass’ THE PLAYERS Stadium Course.  The region is also home to the World Golf Hall of Fame and PGA Tour Head Quarters. Northeast Florida, and its 196 kilometer stretch along Florida’s Atlantic Coast, is home to some of the world’s finest coastal golf courses, resorts and teaching academies in the USA.",
+          "domain": "florida-golf.org",
+          "employees": "1 - 10",
+          "founded": "1992",
+          "fqdn": "www.florida-golf.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/f/f2/ff2e38b6207fdafd9302d0adab2198c1",
+          "name": "Florida's First Coast of Golf",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Sports",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/florida-s-first-coast-of-golf"
+            }
+          },
+          "address": "Jacksonville Beach North America United States US Jacksonville Beach, FL Florida FL -81.39314270019531,30.294689178466797 ",
+          "location": {
+            "city": "Jacksonville Beach",
+            "country": "United States",
+            "fullLocation": "Jacksonville Beach North America United States US Jacksonville Beach, FL Florida FL -81.39314270019531,30.294689178466797 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Jacksonville Beach, FL"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7999,
+                "description": "Amusement and recreation, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 713990,
+                "description": "All Other Amusement and Recreation Industries"
+              }
+            ]
+          },
+          "website": "https://florida-golf.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T20:05:52.017972",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T20:05:55.085284",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

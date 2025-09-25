@@ -1,0 +1,155 @@
+{
+  "site_url": "https://braggingrights.com/",
+  "domain": "braggingrights.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://braggingrights.com/",
+    "https://braggingrights.com/book-an-event",
+    "https://braggingrights.com/faq",
+    "https://braggingrights.com/shop?olsPage=cart",
+    "https://braggingrights.com/our-games",
+    "https://braggingrights.com/house-rules"
+  ],
+  "candidates": [
+    "https://braggingrights.com/book-an-event",
+    "https://braggingrights.com/faq",
+    "https://braggingrights.com/"
+  ],
+  "per_page": {
+    "https://braggingrights.com/book-an-event": {
+      "title": "Book an Event",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://braggingrights.com/book-an-event"
+          ]
+        }
+      },
+      "emails": [
+        "events@braggingrights.com"
+      ],
+      "phones": [
+        "352 663 8165",
+        "352-663-8165"
+      ],
+      "socials": [
+        "https://www.facebook.com/BraggingRightsGNV",
+        "https://www.instagram.com/BraggingRightsGNV",
+        "https://www.tiktok.com/@braggingrightsgnv"
+      ]
+    },
+    "https://braggingrights.com/faq": {
+      "title": "FAQ",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://braggingrights.com/faq"
+          ]
+        }
+      },
+      "emails": [
+        "events@braggingrights.com"
+      ],
+      "phones": [
+        "352 663 8165",
+        "352-663-8165"
+      ],
+      "socials": [
+        "https://facebook.com/braggingrightsgnv",
+        "https://instagram.com/braggingrightsgnv",
+        "https://tiktok.com/@braggingrightsgnv",
+        "https://www.facebook.com/BraggingRightsGNV",
+        "https://www.instagram.com/BraggingRightsGNV",
+        "https://www.tiktok.com/@braggingrightsgnv"
+      ]
+    },
+    "https://braggingrights.com/": {
+      "title": "Gainesville's Best Arcade - Bragging Rights Amusements",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://braggingrights.com/"
+          ]
+        }
+      },
+      "emails": [
+        "events@braggingrights.com"
+      ],
+      "phones": [
+        "352 663 8165",
+        "352-663-8165"
+      ],
+      "socials": [
+        "https://www.facebook.com/BraggingRightsGNV",
+        "https://www.instagram.com/BraggingRightsGNV",
+        "https://www.tiktok.com/@braggingrightsgnv"
+      ]
+    }
+  }
+}

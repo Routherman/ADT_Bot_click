@@ -1,0 +1,230 @@
+{
+  "site_url": "https://goebro.com/",
+  "domain": "goebro.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://goebro.com/",
+    "https://goebro.com/calendars.html",
+    "https://goebro.com/calendars/simulcast-calendar.html",
+    "https://goebro.com/calendars/poker-room-calendar.html"
+  ],
+  "candidates": [
+    "https://goebro.com/calendars.html",
+    "https://goebro.com/calendars/poker-room-calendar.html",
+    "https://goebro.com/calendars/simulcast-calendar.html",
+    "https://goebro.com/"
+  ],
+  "per_page": {
+    "https://goebro.com/calendars.html": {
+      "title": "Calendars",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://goebro.com/calendars.html"
+          ]
+        },
+        "calendar": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://goebro.com/calendars.html"
+          ]
+        },
+        "schedule": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://goebro.com/calendars.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850.234.3943"
+      ],
+      "socials": [
+        "//www.facebook.com/EbroCardCasino"
+      ]
+    },
+    "https://goebro.com/calendars/poker-room-calendar.html": {
+      "title": "Poker Room Calendar",
+      "band_hits": {
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 1,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://goebro.com/calendars/poker-room-calendar.html"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://goebro.com/calendars/poker-room-calendar.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850.234.3943"
+      ],
+      "socials": [
+        "//www.facebook.com/EbroCardCasino"
+      ]
+    },
+    "https://goebro.com/calendars/simulcast-calendar.html": {
+      "title": "Simulcast Calendar",
+      "band_hits": {
+        "calendar": {
+          "total": 12,
+          "zones": {
+            "title": 1,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://goebro.com/calendars/simulcast-calendar.html"
+          ]
+        },
+        "schedule": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://goebro.com/calendars/simulcast-calendar.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850.234.3943"
+      ],
+      "socials": [
+        "//www.facebook.com/EbroCardCasino"
+      ]
+    },
+    "https://goebro.com/": {
+      "title": "Ebro Card Casino & Racebook",
+      "band_hits": {
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://goebro.com/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://goebro.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "1719686189",
+        "1721775175",
+        "1727224936",
+        "1755564850",
+        "1755564864",
+        "1755564875",
+        "1755564884",
+        "1755842550",
+        "1756350654",
+        "2027514497",
+        "850.234.3943"
+      ],
+      "socials": [
+        "//www.facebook.com/EbroCardCasino"
+      ]
+    }
+  }
+}

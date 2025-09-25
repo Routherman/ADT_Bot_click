@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-16T22:57:00.277644",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-16T22:56:56.293942",
+      "company": {
+        "name": null,
+        "domain": "greengables.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 2006991,
+          "description": "Green Gables at Historic Riverview Village, Inc. is a Florida not-for-profit corporation formed for the general purpose of promoting historic preservation in South Brevard County, Florida. The corporation takes its name from the most significant building left to preserve (or rehab for contemporary use), Green Gables, the Queen Anne \"cottage\" built by industrialist William T. Wells in 1896.",
+          "domain": "greengables.org",
+          "employees": "11 - 50",
+          "founded": "2010",
+          "fqdn": "www.greengables.org",
+          "name": "Green Gables at Historic Riverview Village, Inc.",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/green-gables-at-historic-riverview-village-inc."
+            }
+          },
+          "address": "Melbourne North America United States US PO BOX 1086; Melbourne, Florida 32902, US Florida FL -80.60810852050781,28.083629608154297 ",
+          "location": {
+            "city": "Melbourne",
+            "country": "United States",
+            "fullLocation": "Melbourne North America United States US PO BOX 1086; Melbourne, Florida 32902, US Florida FL -80.60810852050781,28.083629608154297 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "PO BOX 1086; Melbourne, Florida 32902, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8412,
+                "description": "Museums and art galleries"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 712120,
+                "description": "Historical Sites"
+              }
+            ]
+          },
+          "website": "https://greengables.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-16T22:56:57.599593",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-16T22:57:00.272511",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

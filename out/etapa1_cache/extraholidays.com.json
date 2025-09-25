@@ -1,0 +1,130 @@
+{
+  "site_url": "https://extraholidays.com/",
+  "domain": "extraholidays.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://extraholidays.com/",
+    "https://extraholidays.com/about-us",
+    "https://extraholidays.com/contact-us",
+    "https://extraholidays.com/InsiderExtras",
+    "https://extraholidays.com/us-vacation-specials",
+    "https://extraholidays.com/where-we-are",
+    "https://extraholidays.com/travel-destinations",
+    "https://extraholidays.com/groups-reunions-resorts",
+    "https://extraholidays.com/photos",
+    "https://extraholidays.com/stories"
+  ],
+  "candidates": [
+    "https://extraholidays.com/contact-us",
+    "https://extraholidays.com/about-us",
+    "https://extraholidays.com/"
+  ],
+  "per_page": {
+    "https://extraholidays.com/contact-us": {
+      "title": "Contact Extra Holidays",
+      "band_hits": {},
+      "emails": [
+        "hello@insiderextras.extraholidays.com",
+        "info@extraholidays.com"
+      ],
+      "phones": [
+        "800-428-1932",
+        "800-446-1860",
+        "800-619-4831",
+        "866-438-4877"
+      ],
+      "socials": [
+        "https://www.facebook.com/ExtraHolidaysByWyndham",
+        "https://www.instagram.com/ExtraHolidays/",
+        "https://www.tiktok.com/@extraholidays",
+        "https://www.youtube.com/user/WyndhamVRVideos"
+      ]
+    },
+    "https://extraholidays.com/about-us": {
+      "title": "About Extra Holidays",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://extraholidays.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@extraholidays.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/ExtraHolidaysByWyndham",
+        "https://www.instagram.com/ExtraHolidays/",
+        "https://www.tiktok.com/@extraholidays",
+        "https://www.youtube.com/user/WyndhamVRVideos"
+      ]
+    },
+    "https://extraholidays.com/": {
+      "title": "Extra Holidays Family Resort Vacation Rentals",
+      "band_hits": {},
+      "emails": [
+        "info@extraholidays.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/ExtraHolidaysByWyndham",
+        "https://www.instagram.com/ExtraHolidays/",
+        "https://www.tiktok.com/@extraholidays",
+        "https://www.youtube.com/user/WyndhamVRVideos"
+      ]
+    }
+  }
+}

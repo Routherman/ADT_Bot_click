@@ -1,0 +1,562 @@
+{
+  "site_url": "https://siptequila.com/",
+  "domain": "siptequila.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://siptequila.com/",
+    "https://siptequila.com/search",
+    "https://siptequila.com/collections/best-sellers",
+    "https://siptequila.com/collections/our-new-additions",
+    "https://siptequila.com/collections/tasting-kits",
+    "https://siptequila.com/collections/the-engraving-collection",
+    "https://siptequila.com/collections/bundle-save",
+    "https://siptequila.com/collections/tequila-gifts-under-151",
+    "https://siptequila.com/collections/tequila-gear",
+    "https://siptequila.com/collections/blanco-plata",
+    "https://siptequila.com/collections/reposado",
+    "https://siptequila.com/collections/anejo",
+    "https://siptequila.com/collections/extra-anejo",
+    "https://siptequila.com/collections/cristalino",
+    "https://siptequila.com/collections/high-proof-tequila-collection",
+    "https://siptequila.com/collections/mezcal-other-spirits",
+    "https://siptequila.com/collections/other-agave-spirits",
+    "https://siptequila.com/collections/if-you-like-wine",
+    "https://siptequila.com/collections/if-you-like-whiskey",
+    "https://siptequila.com/collections/what-you-should-be-drinking",
+    "https://siptequila.com/collections/tequila-gifts-under-101",
+    "https://siptequila.com/collections/tequila-gifts-under-251",
+    "https://siptequila.com/pages/tequila-gift-guide",
+    "https://siptequila.com/pages/corporate-gifting",
+    "https://siptequila.com/pages/sip-membership"
+  ],
+  "candidates": [
+    "https://siptequila.com/",
+    "https://siptequila.com/contact",
+    "https://siptequila.com/contact/",
+    "https://siptequila.com/contact-us",
+    "https://siptequila.com/contact-us/",
+    "https://siptequila.com/contactus",
+    "https://siptequila.com/contactus/",
+    "https://siptequila.com/about",
+    "https://siptequila.com/about/",
+    "https://siptequila.com/about-us",
+    "https://siptequila.com/about-us/",
+    "https://siptequila.com/visit",
+    "https://siptequila.com/visit/",
+    "https://siptequila.com/location",
+    "https://siptequila.com/location/",
+    "https://siptequila.com/directions",
+    "https://siptequila.com/directions/"
+  ],
+  "per_page": {
+    "https://siptequila.com/": {
+      "title": "Sip Tequila | Tequila & Agave Spirits Delivered To Your Door",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://siptequila.com/contact": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://siptequila.com/contact/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://siptequila.com/contact-us": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://siptequila.com/contact-us/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://siptequila.com/contactus": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://siptequila.com/contactus/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://siptequila.com/about": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/about"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(833) 747-1110"
+      ],
+      "socials": [
+        "https://www.facebook.com/sippingtequila/",
+        "https://www.instagram.com/sip_tequila/",
+        "https://www.linkedin.com/company/sip-tequila/",
+        "https://www.youtube.com/channel/UC0PzrFlNq9Bb6Om2fRbf0rQ"
+      ]
+    },
+    "https://siptequila.com/about/": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/about/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(833) 747-1110"
+      ],
+      "socials": [
+        "https://www.facebook.com/sippingtequila/",
+        "https://www.instagram.com/sip_tequila/",
+        "https://www.linkedin.com/company/sip-tequila/",
+        "https://www.youtube.com/channel/UC0PzrFlNq9Bb6Om2fRbf0rQ"
+      ]
+    },
+    "https://siptequila.com/about-us": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/about-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(833) 747-1110"
+      ],
+      "socials": [
+        "https://www.facebook.com/sippingtequila/",
+        "https://www.instagram.com/sip_tequila/",
+        "https://www.linkedin.com/company/sip-tequila/",
+        "https://www.youtube.com/channel/UC0PzrFlNq9Bb6Om2fRbf0rQ"
+      ]
+    },
+    "https://siptequila.com/about-us/": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/about-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(833) 747-1110"
+      ],
+      "socials": [
+        "https://www.facebook.com/sippingtequila/",
+        "https://www.instagram.com/sip_tequila/",
+        "https://www.linkedin.com/company/sip-tequila/",
+        "https://www.youtube.com/channel/UC0PzrFlNq9Bb6Om2fRbf0rQ"
+      ]
+    },
+    "https://siptequila.com/visit": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/visit"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(833) 747-1110"
+      ],
+      "socials": [
+        "https://www.facebook.com/sippingtequila/",
+        "https://www.instagram.com/sip_tequila/",
+        "https://www.linkedin.com/company/sip-tequila/",
+        "https://www.youtube.com/channel/UC0PzrFlNq9Bb6Om2fRbf0rQ"
+      ]
+    },
+    "https://siptequila.com/visit/": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/visit/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(833) 747-1110"
+      ],
+      "socials": [
+        "https://www.facebook.com/sippingtequila/",
+        "https://www.instagram.com/sip_tequila/",
+        "https://www.linkedin.com/company/sip-tequila/",
+        "https://www.youtube.com/channel/UC0PzrFlNq9Bb6Om2fRbf0rQ"
+      ]
+    },
+    "https://siptequila.com/location": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/location"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(833) 747-1110"
+      ],
+      "socials": [
+        "https://www.facebook.com/sippingtequila/",
+        "https://www.instagram.com/sip_tequila/",
+        "https://www.linkedin.com/company/sip-tequila/",
+        "https://www.youtube.com/channel/UC0PzrFlNq9Bb6Om2fRbf0rQ"
+      ]
+    },
+    "https://siptequila.com/location/": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/location/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(833) 747-1110"
+      ],
+      "socials": [
+        "https://www.facebook.com/sippingtequila/",
+        "https://www.instagram.com/sip_tequila/",
+        "https://www.linkedin.com/company/sip-tequila/",
+        "https://www.youtube.com/channel/UC0PzrFlNq9Bb6Om2fRbf0rQ"
+      ]
+    },
+    "https://siptequila.com/directions": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/directions"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(833) 747-1110"
+      ],
+      "socials": [
+        "https://www.facebook.com/sippingtequila/",
+        "https://www.instagram.com/sip_tequila/",
+        "https://www.linkedin.com/company/sip-tequila/",
+        "https://www.youtube.com/channel/UC0PzrFlNq9Bb6Om2fRbf0rQ"
+      ]
+    },
+    "https://siptequila.com/directions/": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/directions/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://siptequila.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(833) 747-1110"
+      ],
+      "socials": [
+        "https://www.facebook.com/sippingtequila/",
+        "https://www.instagram.com/sip_tequila/",
+        "https://www.linkedin.com/company/sip-tequila/",
+        "https://www.youtube.com/channel/UC0PzrFlNq9Bb6Om2fRbf0rQ"
+      ]
+    }
+  }
+}

@@ -1,0 +1,977 @@
+{
+  "site_url": "https://swflyc.com/",
+  "domain": "swflyc.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://swflyc.com/",
+    "https://swflyc.com/content.aspx?page_id=585&club_id=112799",
+    "https://swflyc.com/content.aspx?page_id=31&club_id=112799&action=login&user=5&",
+    "https://swflyc.com/content.aspx?page_id=0&club_id=112799",
+    "https://swflyc.com/content.aspx?page_id=22&club_id=112799&module_id=342824",
+    "https://swflyc.com/content.aspx?page_id=22&club_id=112799&module_id=342831",
+    "https://swflyc.com/content.aspx?page_id=22&club_id=112799&module_id=349604",
+    "https://swflyc.com/content.aspx?page_id=22&club_id=112799&module_id=357908",
+    "https://swflyc.com/content.aspx?page_id=22&club_id=112799&module_id=357971",
+    "https://swflyc.com/content.aspx?page_id=22&club_id=112799&module_id=357972",
+    "https://swflyc.com/content.aspx?page_id=22&club_id=112799&module_id=357973",
+    "https://swflyc.com/content.aspx?page_id=22&club_id=112799&module_id=358083",
+    "https://swflyc.com/content.aspx?page_id=22&club_id=112799&module_id=358081",
+    "https://swflyc.com/content.aspx?page_id=22&club_id=112799&module_id=342834",
+    "https://swflyc.com/content.aspx?page_id=60&club_id=112799",
+    "https://swflyc.com/content.aspx?page_id=4001&club_id=112799",
+    "https://swflyc.com/content.aspx?page_id=22&club_id=112799&module_id=357979",
+    "https://swflyc.com/content.aspx?page_id=187&club_id=112799",
+    "https://www.swflyc.com/docs.ashx?id=1552643",
+    "https://swflyc.com/content.aspx?page_id=4&club_id=112799",
+    "https://swflyc.com/content.aspx",
+    "https://swflyc.com/handlers/celinks.ashx?id=56917",
+    "https://swflyc.com/docs.ashx?id=1107342",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2406516",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2406517",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2406518",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2406519",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2406520",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2406521",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2406522",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2406523",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2406524",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2406525",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2406526",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2546694",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2553173",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2341566",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2341569",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2573621",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2341570",
+    "https://swflyc.com/handlers/celinks.ashx?id=87084",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2341571",
+    "https://swflyc.com/content.aspx?page_id=4091&club_id=112799&item_id=2341572",
+    "https://www.swflyc.com/content.aspx?page_id=4002&club_id=112799&item_id=2101436",
+    "https://www.swflyc.com/content.aspx?page_id=4002&club_id=112799&item_id=2050956",
+    "https://www.swflyc.com/content.aspx?page_id=4002&club_id=112799&item_id=2050994",
+    "https://www.swflyc.com/content.aspx?page_id=4002&club_id=112799&item_id=2123752",
+    "https://www.swflyc.com/content.aspx?page_id=4002&club_id=112799&item_id=2050995",
+    "https://www.swflyc.com/content.aspx?page_id=4002&club_id=112799&item_id=2050996",
+    "https://www.swflyc.com/content.aspx?page_id=4002&club_id=112799&item_id=2214295",
+    "https://www.swflyc.com/content.aspx?page_id=4002&club_id=112799&item_id=2050998",
+    "https://www.swflyc.com/handlers/celinks.ashx?id=16654",
+    "https://www.swflyc.com/handlers/celinks.ashx?id=16658",
+    "https://www.swflyc.com/handlers/celinks.ashx?id=23104"
+  ],
+  "candidates": [
+    "https://swflyc.com/",
+    "https://swflyc.com/contact",
+    "https://swflyc.com/contact/",
+    "https://swflyc.com/contact-us",
+    "https://swflyc.com/contact-us/",
+    "https://swflyc.com/contactus",
+    "https://swflyc.com/contactus/",
+    "https://swflyc.com/about",
+    "https://swflyc.com/about/",
+    "https://swflyc.com/about-us",
+    "https://swflyc.com/about-us/",
+    "https://swflyc.com/visit",
+    "https://swflyc.com/visit/",
+    "https://swflyc.com/location",
+    "https://swflyc.com/location/",
+    "https://swflyc.com/directions",
+    "https://swflyc.com/directions/"
+  ],
+  "per_page": {
+    "https://swflyc.com/": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/contact": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contact"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contact"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/contact/": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contact/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/contact-us": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contact-us"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/contact-us/": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contact-us/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/contactus": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contactus"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/contactus/": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contactus/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/about": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/about"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/about"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/about/": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/about/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/about/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/about-us": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/about-us"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/about-us/": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/about-us/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/visit": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/visit"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/visit"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/visit/": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/visit/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/location": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/location"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/location"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/location/": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/location/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/location/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/directions": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/directions"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/directions"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    },
+    "https://swflyc.com/directions/": {
+      "title": "Home - Southwest Florida Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/directions/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swflyc.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "membership@swflyc.com"
+      ],
+      "phones": [
+        "440-487-7200"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFYC-Southwest-Florida-Yacht-Club-363225277609362/"
+      ]
+    }
+  }
+}

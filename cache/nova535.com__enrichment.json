@@ -1,0 +1,145 @@
+{
+  "timestamp": "2025-09-25T01:11:04.948573",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T01:11:00.791929",
+      "company": {
+        "name": null,
+        "domain": "nova535.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 222670,
+          "description": "Hi I’m St. Pete native Michael Scott Novilla, founder of NOVA 535. From 2005 to 2008, we modernized our 1920 built five-and-dime store into NOVA 535, so we would have a unique venue to throw really fun weddings and parties. Not another boring ballroom with too many rules. Then we created our MyNovaEvent system, to help us do all the work, so you can have all the fun! At NOVA 535, we take YOUR VISION and apply OUR 5 STAR RESULTS. Now over 2000 events later, we are honored to host your next Wedding, Celebration, Corporate Event, Film Shoot or Trade Show here at our world-class venue so we can show you why Clients and Vendors rate NOVA 535 as the Best Reviewed, Eco-Friendly Event Space, in beautiful Downtown St. Pete. \nGet started https://nova535.com",
+          "domain": "nova535.com",
+          "employees": "1 - 10",
+          "founded": "2008",
+          "fqdn": "www.nova535.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/a/ab/aab8e0f9c90ff7d48fa0dd5772befc2b",
+          "name": "NOVA 535",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Events Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/nova-535"
+            }
+          },
+          "address": "St. Petersburg North America United States US 535 Dr. M. L. King Jr. Street North; St. Petersburg, FL 33701, US Florida FL -82.67926788330078,27.77086067199707 ",
+          "location": {
+            "city": "St. Petersburg",
+            "country": "United States",
+            "fullLocation": "St. Petersburg North America United States US 535 Dr. M. L. King Jr. Street North; St. Petersburg, FL 33701, US Florida FL -82.67926788330078,27.77086067199707 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "535 Dr. M. L. King Jr. Street North; St. Petersburg, FL 33701, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "naics": [
+              {
+                "naics": 561920,
+                "description": "Convention and Trade Show Organizers"
+              }
+            ]
+          },
+          "website": "https://nova535.com",
+          "specialities": [
+            "awards",
+            "awards dinners",
+            "banquet hall",
+            "cocktail parties",
+            "comedy",
+            "corporate events",
+            "fashion shows",
+            "film shoots",
+            "fundraising",
+            "holiday parties",
+            "live music",
+            "meetings",
+            "product launches",
+            "receptions",
+            "special events",
+            "trade shows",
+            "tv commercial production",
+            "vendors",
+            "vip events",
+            "weddings"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T01:11:01.953158",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T01:11:04.943633",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

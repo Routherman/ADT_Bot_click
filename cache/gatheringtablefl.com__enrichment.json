@@ -1,0 +1,115 @@
+{
+  "timestamp": "2025-09-23T13:24:40.216710",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T13:24:36.372262",
+      "company": {
+        "name": null,
+        "domain": "gatheringtablefl.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 18826383,
+          "description": "The Gathering Table is an interactive cooking class that has been created for anyone who enjoys cooking, eating good food or just looking for a unique cooking experience. Our hands-on classes are designed to create a delicious family style meal focused around fresh ingredients and scratch made cooking. Our goal is to make gourmet cooking fun and easy in a kitchen that is warm and inviting. Whether you are looking to learn something new, enjoy a unique night out or celebrating a special occasion we’ve got a menu that you are sure to enjoy. We’ve created a kitchen for guests of all cooking levels and our staff is there to help you every step of the way!",
+          "domain": "gatheringtablefl.com",
+          "employees": "1 - 10",
+          "founded": "2016",
+          "fqdn": "www.gatheringtablefl.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/5/09/509957845d18390e2db1dcfbb0379e57",
+          "name": "The Gathering Table",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Food & Beverage Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/the-gathering-table"
+            }
+          },
+          "address": "Melbourne North America United States US 318 E New Haven Ave; Melbourne, Florida 32901, US Florida FL -80.60810852050781,28.083629608154297 ",
+          "location": {
+            "city": "Melbourne",
+            "country": "United States",
+            "fullLocation": "Melbourne North America United States US 318 E New Haven Ave; Melbourne, Florida 32901, US Florida FL -80.60810852050781,28.083629608154297 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "318 E New Haven Ave; Melbourne, Florida 32901, US"
+          },
+          "website": "https://gatheringtablefl.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T13:24:37.600825",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T13:24:40.213718",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

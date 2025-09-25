@@ -1,0 +1,668 @@
+{
+  "site_url": "https://solplayce.com/",
+  "domain": "solplayce.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://solplayce.com/",
+    "https://solplayce.com/about-us/",
+    "https://solplayce.com/events/category/children-event/",
+    "https://solplayce.com/contact-us/",
+    "https://solplayce.com/event/fall-mini-photoshoot-2-0-2/",
+    "https://solplayce.com/event/mickeys-not-so-spooky-halloween-party/",
+    "https://solplayce.com/event/",
+    "https://solplayce.com/open-play/",
+    "https://solplayce.com/parties/",
+    "https://solplayce.com/classes/",
+    "https://solplayce.com/after-dark/",
+    "https://solplayce.com/cart/"
+  ],
+  "candidates": [
+    "https://solplayce.com/contact-us/",
+    "https://solplayce.com/about-us/",
+    "https://solplayce.com/events/category/children-event/",
+    "https://solplayce.com/event/",
+    "https://solplayce.com/event/fall-mini-photoshoot-2-0-2/",
+    "https://solplayce.com/event/mickeys-not-so-spooky-halloween-party/",
+    "https://solplayce.com/",
+    "https://solplayce.com/contact",
+    "https://solplayce.com/contact/",
+    "https://solplayce.com/contact-us",
+    "https://solplayce.com/contactus",
+    "https://solplayce.com/contactus/",
+    "https://solplayce.com/about",
+    "https://solplayce.com/about/",
+    "https://solplayce.com/about-us",
+    "https://solplayce.com/visit",
+    "https://solplayce.com/visit/",
+    "https://solplayce.com/location",
+    "https://solplayce.com/location/",
+    "https://solplayce.com/directions",
+    "https://solplayce.com/directions/"
+  ],
+  "per_page": {
+    "https://solplayce.com/contact-us/": {
+      "title": "Contact Us - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-533-8957"
+      ],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/about-us/": {
+      "title": "About Us - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce",
+        "https://www.youtube.com/watch"
+      ]
+    },
+    "https://solplayce.com/events/category/children-event/": {
+      "title": "Upcoming Events › Children Event ›  – Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 14,
+          "zones": {
+            "title": 2,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/events/category/children-event/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/events/category/children-event/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/events/category/children-event/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/events/category/children-event/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/event/": {
+      "title": "Upcoming Events – Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/event/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/event/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/event/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/event/fall-mini-photoshoot-2-0-2/": {
+      "title": "Fall Mini Photoshoot 2.0 - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/event/fall-mini-photoshoot-2-0-2/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/event/fall-mini-photoshoot-2-0-2/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/event/fall-mini-photoshoot-2-0-2/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/event/mickeys-not-so-spooky-halloween-party/": {
+      "title": "Mickey's Not So Spooky Halloween Party - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/event/mickeys-not-so-spooky-halloween-party/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/": {
+      "title": "Home - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/contact": {
+      "title": "Contact Us - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-533-8957"
+      ],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/contact/": {
+      "title": "Contact Us - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-533-8957"
+      ],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/contact-us": {
+      "title": "Contact Us - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-533-8957"
+      ],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/contactus": {
+      "title": "Page not found - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/contactus/": {
+      "title": "Page not found - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/about": {
+      "title": "About Us - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce",
+        "https://www.youtube.com/watch"
+      ]
+    },
+    "https://solplayce.com/about/": {
+      "title": "About Us - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce",
+        "https://www.youtube.com/watch"
+      ]
+    },
+    "https://solplayce.com/about-us": {
+      "title": "About Us - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce",
+        "https://www.youtube.com/watch"
+      ]
+    },
+    "https://solplayce.com/visit": {
+      "title": "Page not found - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/visit/": {
+      "title": "Page not found - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/location": {
+      "title": "Page not found - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/location/": {
+      "title": "Page not found - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/directions": {
+      "title": "Page not found - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    },
+    "https://solplayce.com/directions/": {
+      "title": "Page not found - Sol Playce",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://solplayce.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/solplayce",
+        "https://www.instagram.com/solplayce"
+      ]
+    }
+  }
+}

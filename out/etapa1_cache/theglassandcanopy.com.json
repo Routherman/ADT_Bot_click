@@ -1,0 +1,787 @@
+{
+  "site_url": "https://theglassandcanopy.com/",
+  "domain": "theglassandcanopy.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://theglassandcanopy.com/",
+    "https://theglassandcanopy.com/contact/",
+    "https://theglassandcanopy.com/about/",
+    "https://theglassandcanopy.com/events/",
+    "https://theglassandcanopy.com/weddings/",
+    "https://theglassandcanopy.com/the-grounds/",
+    "https://theglassandcanopy.com/gallery/"
+  ],
+  "candidates": [
+    "https://theglassandcanopy.com/contact/",
+    "https://theglassandcanopy.com/about/",
+    "https://theglassandcanopy.com/events/",
+    "https://theglassandcanopy.com/weddings/",
+    "https://theglassandcanopy.com/",
+    "https://theglassandcanopy.com/contact",
+    "https://theglassandcanopy.com/contact-us",
+    "https://theglassandcanopy.com/contact-us/",
+    "https://theglassandcanopy.com/contactus",
+    "https://theglassandcanopy.com/contactus/",
+    "https://theglassandcanopy.com/about",
+    "https://theglassandcanopy.com/about-us",
+    "https://theglassandcanopy.com/about-us/",
+    "https://theglassandcanopy.com/visit",
+    "https://theglassandcanopy.com/visit/",
+    "https://theglassandcanopy.com/location",
+    "https://theglassandcanopy.com/location/",
+    "https://theglassandcanopy.com/directions",
+    "https://theglassandcanopy.com/directions/"
+  ],
+  "per_page": {
+    "https://theglassandcanopy.com/contact/": {
+      "title": "Contact | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/about/": {
+      "title": "About | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/about/"
+          ]
+        },
+        "stage": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/events/": {
+      "title": "Events | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 1,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/events/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/events/"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/weddings/": {
+      "title": "Weddings | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/weddings/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/weddings/"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/": {
+      "title": "The Glass & Canopy | Venue and Events",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 1,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/contact": {
+      "title": "Contact | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/contact-us": {
+      "title": "404 Not Found | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/contact-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/contact-us/": {
+      "title": "404 Not Found | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/contact-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/contactus": {
+      "title": "404 Not Found | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/contactus"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/contactus/": {
+      "title": "404 Not Found | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/contactus/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/about": {
+      "title": "About | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/about"
+          ]
+        },
+        "stage": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/about-us": {
+      "title": "404 Not Found | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/about-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/about-us/": {
+      "title": "404 Not Found | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/about-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/visit": {
+      "title": "404 Not Found | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/visit"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/visit/": {
+      "title": "404 Not Found | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/visit/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/location": {
+      "title": "404 Not Found | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/location"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/location/": {
+      "title": "404 Not Found | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/location/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/directions": {
+      "title": "404 Not Found | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/directions"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    },
+    "https://theglassandcanopy.com/directions/": {
+      "title": "404 Not Found | The Glass & Canopy",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/directions/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://theglassandcanopy.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@theglassandcanopy.com"
+      ],
+      "phones": [
+        "(386) 855-1011"
+      ],
+      "socials": [
+        "https://www.facebook.com/theglassandcanopy/",
+        "https://www.instagram.com/glassandcanopy/"
+      ]
+    }
+  }
+}

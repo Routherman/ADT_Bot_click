@@ -1,0 +1,379 @@
+{
+  "site_url": "https://baldwincitygolf.com/",
+  "domain": "baldwincitygolf.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://baldwincitygolf.com/",
+    "https://www.baldwincitygolf.com/about-us",
+    "https://www.baldwincitygolf.com/events-1",
+    "https://www.baldwincitygolf.com/events",
+    "https://www.baldwincitygolf.com",
+    "https://www.baldwincitygolf.com/more",
+    "https://www.baldwincitygolf.com/forms",
+    "https://www.baldwincitygolf.com/contato-1"
+  ],
+  "candidates": [
+    "https://www.baldwincitygolf.com/about-us",
+    "https://www.baldwincitygolf.com/events",
+    "https://www.baldwincitygolf.com/events-1",
+    "https://baldwincitygolf.com/",
+    "https://baldwincitygolf.com/contact",
+    "https://baldwincitygolf.com/contact/",
+    "https://baldwincitygolf.com/contact-us",
+    "https://baldwincitygolf.com/contact-us/",
+    "https://baldwincitygolf.com/contactus",
+    "https://baldwincitygolf.com/contactus/",
+    "https://baldwincitygolf.com/about",
+    "https://baldwincitygolf.com/about/",
+    "https://baldwincitygolf.com/about-us",
+    "https://baldwincitygolf.com/about-us/",
+    "https://baldwincitygolf.com/visit",
+    "https://baldwincitygolf.com/visit/",
+    "https://baldwincitygolf.com/location",
+    "https://baldwincitygolf.com/location/",
+    "https://baldwincitygolf.com/directions",
+    "https://baldwincitygolf.com/directions/"
+  ],
+  "per_page": {
+    "https://www.baldwincitygolf.com/about-us": {
+      "title": "ABOUT US | BGA Site",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.baldwincitygolf.com/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.baldwincitygolf.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "bgagolfks@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.baldwincitygolf.com/events": {
+      "title": "SPONSORS | BGA Site",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.baldwincitygolf.com/events"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.baldwincitygolf.com/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Trendel-Lumber-Company-441216859271574/",
+        "https://www.facebook.com/Whitneys-Hair-Salon-525695237464057/",
+        "https://www.facebook.com/baldwinfeed/"
+      ]
+    },
+    "https://www.baldwincitygolf.com/events-1": {
+      "title": "CALENDAR | BGA Site",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.baldwincitygolf.com/events-1"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.baldwincitygolf.com/events-1"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/": {
+      "title": "HOME | BGA Site",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://baldwincitygolf.com/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://baldwincitygolf.com/"
+          ]
+        }
+      },
+      "emails": [
+        "bgagolfks@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/contact": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/contact/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/contact-us": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/contact-us/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/contactus": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/contactus/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/about": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/about/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/about-us": {
+      "title": "ABOUT US | BGA Site",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://baldwincitygolf.com/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://baldwincitygolf.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "bgagolfks@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/about-us/": {
+      "title": "ABOUT US | BGA Site",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://baldwincitygolf.com/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://baldwincitygolf.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "bgagolfks@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/visit": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/visit/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/location": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/directions": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://baldwincitygolf.com/directions/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

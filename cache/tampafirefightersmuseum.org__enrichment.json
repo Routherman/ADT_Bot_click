@@ -1,0 +1,111 @@
+{
+  "timestamp": "2025-09-24T23:57:42.558565",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T23:57:38.709089",
+      "company": {
+        "name": null,
+        "domain": "tampafirefightersmuseum.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 15962959,
+          "description": "The Tampa Firefighters Museum is housed in a beautifully restored 1911 firehouse that once served as the headquarters of the Tampa Fire Department until 1978. During its 63 years of active service, the building witnessed the department’s evolution—from horse-drawn fire wagons to modern diesel-powered engines.\n\nSaved from demolition by a passionate group of active and retired firefighters, the museum now stands as a National Historic Landmark and a proud 501(c)(3) nonprofit. Our mission is to honor the legacy of Tampa’s firefighters, past and present, by preserving the history of the department and promoting fire safety and emergency awareness throughout the community.\n\nThe museum is open to the public and always free to visit, offering a powerful visual timeline through historic artifacts and vintage firetrucks that tell the story of Tampa’s firefighting heritage.\n\nOur second life is as a unique event venue. The former firefighters' bunkhouse is now the 1911 Ballroom—a historic, character-rich space perfect for weddings, corporate meetings, galas, and more. The venue program continues to grow, supported by a dedicated team and ongoing investments in both museum exhibits and event services.\n\nEvery event held here helps fund our mission.\nWhen you host with us, you support the preservation of Tampa’s history and the continued education of future generations.",
+          "domain": "tampafirefightersmuseum.org",
+          "employees": "1 - 10",
+          "founded": "1995",
+          "fqdn": "www.tampafirefightersmuseum.org",
+          "name": "TAMPA FIREFIGHTERS MUSEUM INC",
+          "revenueRange": [],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/tampa-firefighters-museum-inc"
+            }
+          },
+          "address": "Tampa North America United States US 720 E Zack St; Tampa, FL 33602, US Florida FL -82.45842742919922,27.947519302368164 ",
+          "location": {
+            "city": "Tampa",
+            "country": "United States",
+            "fullLocation": "Tampa North America United States US 720 E Zack St; Tampa, FL 33602, US Florida FL -82.45842742919922,27.947519302368164 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "720 E Zack St; Tampa, FL 33602, US"
+          },
+          "website": "https://tampafirefightersmuseum.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T23:57:40.089537",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T23:57:42.552058",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

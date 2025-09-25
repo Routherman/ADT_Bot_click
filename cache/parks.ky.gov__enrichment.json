@@ -1,0 +1,126 @@
+{
+  "timestamp": "2025-09-24T19:13:45.082022",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T19:13:41.483917",
+      "company": {
+        "name": null,
+        "domain": "parks.ky.gov",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 10135152,
+          "description": "Come for a job. Stay for a career. Make a difference for a lifetime!\n\nGROW your career! Looking for interesting and diverse career opportunities?  Look no further!  Explore the many unique and fascinating jobs found across the Commonwealth of Kentucky.  \n\nLEARN with us!  The Commonwealth of Kentucky offers our employees on-the-job training and online professional development courses. With thousands of unique positions available throughout the Commonwealth, you can increase your knowledge on the job -- and set your career goals for the future.  \n\nLEAD with us!   We are a community of doers, thinkers, learners, leaders, and achievers.  We can help you  find your perfect job match and then excel in that role.  We have programs and tools to help you grow in your position and become a leader as the best version of yourself! \n\nSERVE with us!  Careers in public service are diverse, interesting and rewarding.  They allow you to truly make a difference in the communities that you serve.  If you have a passion around serving your community while you grow your skills and your career, join the many employees across the Commonwealth who are finding perfect work opportunities and getting the satisfaction of touching lives and making a lasting impact.\n\nAchieve your professional goals while working for Commonwealth’s largest employer. Whether this is your first job or you’re transitioning from the military or another career, we offer a diverse opportunity for all educational and experience levels in full-time, part-time, temporary, or seasonal capacities. Employees can work in a civil service, non-civil service, appointed, or elected position. Come grow, learn, lead and serve with us!\n\nFor employment opportunities with the Commonwealth of Kentucky, visit careers.ky.gov.",
+          "domain": "ky.gov",
+          "employees": "10001 - 100000",
+          "founded": "1792",
+          "fqdn": "www.ky.gov",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=26/j_lvg2hbaq1evvop0r5x.ac0b2095f5dd4e8938074f2ba60ffb56851a96d6.file_lvg2o7nsv7sw63m8p.logo_cached.jpg",
+          "name": "Commonwealth of Kentucky",
+          "revenueRange": [],
+          "mainIndustry": "Government",
+          "subIndustry": "Government Administration",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/commonwealth-of-kentucky"
+            }
+          },
+          "address": "Frankfort North America United States US 700 Capital Ave; Frankfort, Kentucky 40601, US Kentucky KY -84.87328338623047,38.20090866088867 ",
+          "location": {
+            "city": "Frankfort",
+            "country": "United States",
+            "fullLocation": "Frankfort North America United States US 700 Capital Ave; Frankfort, Kentucky 40601, US Kentucky KY -84.87328338623047,38.20090866088867 ",
+            "state": "Kentucky",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "700 Capital Ave; Frankfort, Kentucky 40601, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 9111,
+                "description": "Executive offices"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 921110,
+                "description": "Executive Offices"
+              }
+            ]
+          },
+          "website": "https://careers.ky.gov"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T19:13:42.647523",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T19:13:45.067282",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

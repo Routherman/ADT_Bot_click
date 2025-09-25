@@ -1,0 +1,49 @@
+{
+  "pages": [
+    {
+      "url": "http://www.4thstreetbargrill.com/contact.html",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "Welcome To 4th Street Bar & Grill\n(407)732-6979\n[email protected]\nHOME\nMENU\nDRINKS\nPHOTOS\nCONTACT\nORDER NOW\nGIFT CARD\nGIFT CARD\nCARD BALANCE\nContact Us\n4th Street Bar & Grill is a unique spot to dine & gather with friends in Lake Mary, FL. With a brick-lined sports bar, a full restaurant and a patio with palm trees, we have plenty of space for any special occasion.\n4th Street has a full menu of American style food to make your mouth water, as well as a fully stocked bar to help you enjoy the after-hours. All served up by the friendliest staff in Central Florida, give us a call or drop in today!\nAdd section\nPHONES\n(407) 732-6979\nE-MAIL\n[email protected]\nADDRESS\n132 North 4th Street, Suite 1200\nLake Mary, FL 32746\nPhone:\n(407) 732-6979\nOPENING HOURS\nMonday 11AM–10PM\nTuesday 11AM–10PM\nWednesday 11AM–10PM\nThursday 11AM–10PM\nFriday 11AM–12PM\nSaturday 11AM–12PM\nSunday 11AM–10PM\n<span style=\"display:none\" class=\"input-group-addon\" id=\"find_address\"></span>             <span style=\"display:none\" class=\"input-group-addon\" id=\"showPointer\"></span>\nOUR MENU\nHome\nMenu\nDrinks\nPhotos\nContact Us\nCONTACT US\nAddress:\n132 North 4th Street, Suite 1200\nLake Mary, FL 32746\n__________\nPhone:\n(407)732-6979\nABOUT US\n4th Street Bar & Grill is a brick-lined sports bar located in Lake Mary, Florida. With a fully stocked bar and a palm tree lined patio, we have the best dining venue for any day or night. Come in for Lunch or Dinner anytime!\nFIND US\nfollow us html\n<div class=\"lang_footer_btm col-md-2\">                         </div>\nFollow us on:\nfollow us html end\nsocial icons html\nFacebook\n|\nX\n|\nInstagram\nsocial icons html  end\nCopyright ©\n2025  |\nhttps://4thStreetBarGrill.com\n|\nAll Rights Reserved.\n/#page\nLoad JS here for greater good =============================\n<script type=\"text/javascript\">document.addEventListener(\"DOMContentLoaded\", function() {var lazyImages = [].slice.call(document.querySelectorAll(\"img\"));  if (\"IntersectionObserver\" in window) {let lazyImageObserver = new IntersectionObserver(function(entries, observer) {entries.forEach(function(entry) {if (entry.isIntersecting) {let lazyImage = entry.target; lazyImage.src = lazyImage.dataset.tempsrc;lazyImage.srcset = lazyImage.dataset.tempsrc;lazyImageObserver.unobserve(lazyImage);}});});             lazyImages.forEach(function(lazyImage) {               lazyImageObserver.observe(lazyImage);             });} else {}var lazyVideos = [].slice.call(document.querySelectorAll(\"video\"));if (\"IntersectionObserver\" in window) {var lazyVideoObserver = new IntersectionObserver(function(entries, observer) {entries.forEach(function(video) {if (video.isIntersecting) {for (var source in video.target.children) {var videoSource = video.target.children[source];if (typeof videoSource.tagName === \"string\" && videoSource.tagName === \"SOURCE\") {videoSource.src = videoSource.dataset.tempsrc;}}video.target.load();video.target.classList.remove(\"lazy\");lazyVideoObserver.unobserve(video.target);}});});lazyVideos.forEach(function(lazyVideo) {lazyVideoObserver.observe(lazyVideo);});}}); </script>\nLANGUAGECODE",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "http://www.4thstreetbargrill.com/contact.html",
+    "http://www.4thstreetbargrill.com/photos.html",
+    "http://www.4thstreetbargrill.com/drinks.html",
+    "http://www.4thstreetbargrill.com/index.html",
+    "http://www.4thstreetbargrill.com/menu.html",
+    "http://www.4thstreetbargrill.com/food-menu.html",
+    "http://www.4thstreetbargrill.com/cdn-cgi/l/email-protection#ad99d9c5ded9dfc8c8d9cfccdfccc3c9cadfc4c1c1edcac0ccc4c183cec2c0"
+  ],
+  "candidate_links": [
+    "http://www.4thstreetbargrill.com/contact.html"
+  ],
+  "visited": [
+    "http://www.4thstreetbargrill.com/",
+    "http://www.4thstreetbargrill.com/about",
+    "http://www.4thstreetbargrill.com/contact",
+    "http://www.4thstreetbargrill.com/staff",
+    "http://www.4thstreetbargrill.com/team",
+    "http://www.4thstreetbargrill.com/board",
+    "http://www.4thstreetbargrill.com/directory",
+    "http://www.4thstreetbargrill.com/events",
+    "http://www.4thstreetbargrill.com/sitemap.xml",
+    "http://www.4thstreetbargrill.com/council",
+    "http://www.4thstreetbargrill.com/leadership",
+    "http://www.4thstreetbargrill.com/management",
+    "http://www.4thstreetbargrill.com/producers",
+    "http://www.4thstreetbargrill.com/support",
+    "http://www.4thstreetbargrill.com/crew",
+    "http://www.4thstreetbargrill.com/members",
+    "http://www.4thstreetbargrill.com/bios",
+    "http://www.4thstreetbargrill.com/people",
+    "http://www.4thstreetbargrill.com/artists",
+    "http://www.4thstreetbargrill.com/musicians",
+    "http://www.4thstreetbargrill.com/faculty",
+    "http://www.4thstreetbargrill.com/administration",
+    "http://www.4thstreetbargrill.com/contact.html"
+  ],
+  "base_url": "http://www.4thstreetbargrill.com/"
+}

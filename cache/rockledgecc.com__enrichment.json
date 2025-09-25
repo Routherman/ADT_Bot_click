@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-23T12:57:53.787182",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T12:57:50.708353",
+      "company": {
+        "name": null,
+        "domain": "rockledgecc.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 102715923,
+          "description": "Established in the heart of Space Coast Florida in 1918.",
+          "domain": "rockledgecc.com",
+          "employees": "1 - 10",
+          "founded": "1918",
+          "fqdn": "www.rockledgecc.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/7/2e/72eab43251314f459a6d338199c03642",
+          "name": "Rockledge Country Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Recreational Facilities",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/rockledgecc"
+            }
+          },
+          "address": "Rockledge North America United States US 1591 S Fiske Blvd; Rockledge, Florida 32955, US Florida FL -80.72532653808594,28.350839614868164 ",
+          "location": {
+            "city": "Rockledge",
+            "country": "United States",
+            "fullLocation": "Rockledge North America United States US 1591 S Fiske Blvd; Rockledge, Florida 32955, US Florida FL -80.72532653808594,28.350839614868164 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1591 S Fiske Blvd; Rockledge, Florida 32955, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7999,
+                "description": "Amusement and recreation, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 713990,
+                "description": "All Other Amusement and Recreation Industries"
+              }
+            ]
+          },
+          "website": "https://rockledgecc.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T12:57:51.324131",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T12:57:53.783645",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

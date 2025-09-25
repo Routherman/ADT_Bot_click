@@ -1,0 +1,152 @@
+{
+  "timestamp": "2025-09-22T22:30:19.831800",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T22:30:16.305252",
+      "company": {
+        "name": null,
+        "domain": "woodspring.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 78573,
+          "description": "WoodSpring Suites is a collection of nearly 300 affordable extended stay hotels across the United States. Proudly a part of Choice Hotels International, headquartered in North Bethesda, Maryland.\n\nWoodSpring Suites hotels offer oversized guestrooms, all with in-room kitchens, free WiFi, 24/7 access to guest laundry rooms, vending machines, and staff support. Many hotels are 100% smoke-free and offer pet-friendly accommodations.\n\nWoodSpring Suites are extended stay hotels for good people with practical needs, down-to-earth attitudes and a comfortable style, and who appreciate the value of life’s necessities – done really well. \n\nOur hotels and weekly rates and monthly rates are designed with longer-stay guests in mind. Business travelers, military members, traveling medical professionals, vacationers, seasonal travelers, those relocating, and individuals, couples, and small families temporarily displaced from their homes will all fee comfortable and at home while our guest. \n\nFor more information on our hotels, visit woodspring.com/ourbrand. To learn more about franchise opportunities visit choicehotelsdevelopment.com. For support or other questions visit woodspring.com/company/contact.",
+          "domain": "woodspring.com",
+          "employees": "1001 - 5000",
+          "fqdn": "www.woodspring.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/5/f3/5f31c868ba7f76cf0f781793c12ba7b6",
+          "name": "WoodSpring Suites",
+          "revenueRange": [],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/woodspring-hotels"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/woodspring-suites"
+            }
+          },
+          "address": "North Bethesda North America United States US North Bethesda, Maryland, US Maryland MD -77.1188735961914,39.044551849365234 ",
+          "location": {
+            "city": "North Bethesda",
+            "country": "United States",
+            "fullLocation": "North Bethesda North America United States US North Bethesda, Maryland, US Maryland MD -77.1188735961914,39.044551849365234 ",
+            "state": "Maryland",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "North Bethesda, Maryland, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://woodspring.com/ourbrand",
+          "specialities": [
+            "business travel",
+            "extended stay hotel",
+            "franchise",
+            "franchising",
+            "hospitality",
+            "hotel",
+            "military travel",
+            "travel"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "roundType": "Private Equity Round",
+                "roundDate": "Aug 1, 2016"
+              }
+            ],
+            "totalRounds": 1,
+            "totalRoundsAmount": 0,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundType": "Private Equity Round",
+            "lastRoundDate": "Aug 1, 2016"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T22:30:17.429557",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T22:30:19.827954",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

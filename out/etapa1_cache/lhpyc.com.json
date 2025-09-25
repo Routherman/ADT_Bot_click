@@ -1,0 +1,584 @@
+{
+  "site_url": "https://lhpyc.com/",
+  "domain": "lhpyc.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://lhpyc.com/",
+    "https://lhpyc.com/about-us/",
+    "https://lhpyc.com/weddings-events/",
+    "https://lhpyc.com/membership/",
+    "https://lhpyc.com/contact-us/",
+    "https://lhpyc.com/amenities/",
+    "https://lhpyc.com/competitive-sports/",
+    "https://lhpyc.com/development/",
+    "https://lhpyc.com/amenities/aquatics/",
+    "https://lhpyc.com/amenities/cruise-group/",
+    "https://lhpyc.com/amenities/dining/",
+    "https://lhpyc.com/amenities/fitness/",
+    "https://lhpyc.com/amenities/marina/",
+    "https://lhpyc.com/amenities/social/",
+    "https://lhpyc.com/news-and-articles/",
+    "https://lhpyc.com/exploring-the-benefits-of-group-fitness-motivation-accountability-and-fun/",
+    "https://lhpyc.com/how-youth-programs-build-confidence-character-and-community/",
+    "https://lhpyc.com/swimming-for-wellness-how-regular-pool-time-benefits-your-health-at-any-age/",
+    "https://lhpyc.com/tennis-for-all-ages-the-lifelong-benefits-of-playing-tennis/",
+    "https://lhpyc.com/privacy-policy/",
+    "https://lhpyc.com/amenities/tennis/",
+    "https://lhpyc.com/amenities/travel/",
+    "https://lhpyc.com/amenities/youth/",
+    "https://lhpyc.com/how-to-plan-the-perfect-weekend-getaway-on-your-yacht/",
+    "https://lhpyc.com/news-and-articles/page/2/",
+    "https://lhpyc.com/news-and-articles/page/3/",
+    "https://lhpyc.com/news-and-articles/page/21/",
+    "https://www.lhpyc.com/membership/",
+    "https://lhpyc.com/essential-boating-etiquette-how-to-be-a-respectful-mariner/",
+    "https://lhpyc.com/how-to-improve-your-tennis-game-tips-for-players-of-all-levels/",
+    "https://lhpyc.com/what-is-a-marina/",
+    "https://lhpyc.com/how-to-get-a-yacht-captains-license-a-step-by-step-guide/",
+    "https://lhpyc.com/the-importance-of-water-safety-for-families-and-boaters/",
+    "https://lhpyc.com/sustainable-boating-practices-protecting-our-waterways/",
+    "https://lhpyc.com/the-role-of-yacht-clubs-in-building-community-and-networking/",
+    "https://lhpyc.com/gourmet-dining-on-the-water-creating-memorable-meals-afloat/",
+    "https://lhpyc.com/the-importance-of-community-in-yacht-clubs-building-lifelong-friendships/",
+    "https://lhpyc.com/the-health-benefits-of-boating-and-being-near-water/",
+    "https://lhpyc.com/news-and-articles/page/4/",
+    "https://lhpyc.com/veterans-honor-flight-homecoming/",
+    "https://lhpyc.com/tag/charity/",
+    "https://lhpyc.com/tag/homecoming/",
+    "https://lhpyc.com/tag/veterans/",
+    "https://lhpyc.com/news-and-articles/page/20/",
+    "https://lhpyc.com/news-and-articles/page/19/",
+    "https://www.lhpyc.com/tennis",
+    "https://www.lhpyc.com/marina",
+    "https://lhpyc.com/about/",
+    "https://www.lhpyc.com/dining",
+    "https://lhpyc.com/a-guide-to-crafting-the-perfect-day-on-the-ocean-boating-activities-for-every-enthusiast/"
+  ],
+  "candidates": [
+    "https://lhpyc.com/contact-us/",
+    "https://lhpyc.com/about-us/",
+    "https://lhpyc.com/about/",
+    "https://lhpyc.com/membership/",
+    "https://lhpyc.com/weddings-events/",
+    "https://www.lhpyc.com/membership/",
+    "https://lhpyc.com/",
+    "https://lhpyc.com/contact",
+    "https://lhpyc.com/contact/",
+    "https://lhpyc.com/contact-us",
+    "https://lhpyc.com/contactus",
+    "https://lhpyc.com/contactus/",
+    "https://lhpyc.com/about",
+    "https://lhpyc.com/about-us",
+    "https://lhpyc.com/visit",
+    "https://lhpyc.com/visit/",
+    "https://lhpyc.com/location",
+    "https://lhpyc.com/location/",
+    "https://lhpyc.com/directions",
+    "https://lhpyc.com/directions/"
+  ],
+  "per_page": {
+    "https://lhpyc.com/contact-us/": {
+      "title": "Contact Us | Lighthouse Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lhpyc.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "reception@lhpyc.com",
+        "you.reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244",
+        "833.320.3366"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/about-us/": {
+      "title": "About Us | Lighthouse Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lhpyc.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/about/": {
+      "title": "about | Lighthouse Point Yacht Club",
+      "band_hits": {},
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/membership/": {
+      "title": "Membership | Lighthouse Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lhpyc.com/membership/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lhpyc.com/membership/"
+          ]
+        }
+      },
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/weddings-events/": {
+      "title": "Weddings & Events | Lighthouse Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 23,
+          "zones": {
+            "title": 1,
+            "body": 22,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lhpyc.com/weddings-events/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lhpyc.com/weddings-events/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lhpyc.com/weddings-events/"
+          ]
+        }
+      },
+      "emails": [
+        "gina@lhpyc.com",
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_",
+        "https://www.instagram.com/lhpyc_/",
+        "https://www.instagram.com/p/DOgTma0D2xI/",
+        "https://www.instagram.com/p/DOi4UsSCKWu/",
+        "https://www.instagram.com/p/DOldE9-CDOt/",
+        "https://www.instagram.com/p/DOouRIGlfPz/",
+        "https://www.instagram.com/p/DOqmy7UjSVi/",
+        "https://www.instagram.com/p/DOtLgDYDS8D/",
+        "https://www.instagram.com/p/DOvwUzNAVXt/",
+        "https://www.instagram.com/p/DOyVJbKjCU0/"
+      ]
+    },
+    "https://www.lhpyc.com/membership/": {
+      "title": "Membership | Lighthouse Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lhpyc.com/membership/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lhpyc.com/membership/"
+          ]
+        }
+      },
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/": {
+      "title": "Lighthouse Point Yacht Club | The Lighthouse Point Yacht Club is ideally situated just minutes by boat from the inter coastal waterway, hillsboro inlet and the sparkling Atlantic ocean. Discover LHPYC today.",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lhpyc.com/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lhpyc.com/"
+          ]
+        }
+      },
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/contact": {
+      "title": "contact | Lighthouse Point Yacht Club",
+      "band_hits": {},
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/contact/": {
+      "title": "contact | Lighthouse Point Yacht Club",
+      "band_hits": {},
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/contact-us": {
+      "title": "Contact Us | Lighthouse Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lhpyc.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "reception@lhpyc.com",
+        "you.reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244",
+        "833.320.3366"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/contactus": {
+      "title": "Page not found | Lighthouse Point Yacht Club",
+      "band_hits": {},
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/contactus/": {
+      "title": "Page not found | Lighthouse Point Yacht Club",
+      "band_hits": {},
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/about": {
+      "title": "about | Lighthouse Point Yacht Club",
+      "band_hits": {},
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/about-us": {
+      "title": "About Us | Lighthouse Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lhpyc.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/visit": {
+      "title": "Page not found | Lighthouse Point Yacht Club",
+      "band_hits": {},
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/visit/": {
+      "title": "Page not found | Lighthouse Point Yacht Club",
+      "band_hits": {},
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/location": {
+      "title": "Page not found | Lighthouse Point Yacht Club",
+      "band_hits": {},
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/location/": {
+      "title": "Page not found | Lighthouse Point Yacht Club",
+      "band_hits": {},
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/directions": {
+      "title": "Page not found | Lighthouse Point Yacht Club",
+      "band_hits": {},
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    },
+    "https://lhpyc.com/directions/": {
+      "title": "Page not found | Lighthouse Point Yacht Club",
+      "band_hits": {},
+      "emails": [
+        "reception@lhpyc.com"
+      ],
+      "phones": [
+        "(954) 942-7244"
+      ],
+      "socials": [
+        "https://www.facebook.com/LHPYC/",
+        "https://www.instagram.com/lhpyc_"
+      ]
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "timestamp": "2025-09-21T06:17:35.374618",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T06:17:31.672107",
+      "company": {
+        "name": null,
+        "domain": "majesticteez.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 100107231,
+          "description": "We are a Screen Printing and Embroidery company located in Coral Springs Florida.",
+          "domain": "majesticteez.com",
+          "employees": "1 - 10",
+          "founded": "2015",
+          "fqdn": "www.majesticteez.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/1/21/1216ea563beb6b2684b31b54c46298b7",
+          "name": "Majestic Teez",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Administrative & Support Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/majestic-teez"
+            }
+          },
+          "address": "Coral Springs North America United States US 3700 NW 124th Ave; suite 102; Coral Springs, Florida 33065, US Florida FL -80.27059936523438,26.271190643310547 ",
+          "location": {
+            "city": "Coral Springs",
+            "country": "United States",
+            "fullLocation": "Coral Springs North America United States US 3700 NW 124th Ave; suite 102; Coral Springs, Florida 33065, US Florida FL -80.27059936523438,26.271190643310547 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3700 NW 124th Ave; suite 102; Coral Springs, Florida 33065, US"
+          },
+          "website": "https://majesticteez.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T06:17:32.848696",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T06:17:35.367343",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

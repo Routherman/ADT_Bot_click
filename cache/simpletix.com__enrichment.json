@@ -1,0 +1,134 @@
+{
+  "timestamp": "2025-09-18T12:29:15.360227",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-18T12:29:11.567109",
+      "company": {
+        "name": null,
+        "domain": "simpletix.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 1240606,
+          "description": "SimpleTix helps business owners seamlessly sell tickets online for attractions, festivals, concerts, museums and more. We are the only ticketing software with a full integration with Square including: Square gift cards, Square processing, Square reporting and more. Businesses of all sizes have been leveraging SimpleTix since 2015. Come check us out at SimpleTix.com!",
+          "domain": "simpletix.com",
+          "employees": "1 - 10",
+          "founded": "2009",
+          "fqdn": "www.simpletix.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/4/db/4db331eaea2f133e8743c68cdbddf190",
+          "name": "SimpleTix",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Technology, Information & Media",
+          "subIndustry": "Software Development",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/simpletix"
+            }
+          },
+          "address": "North America United States US 223 Bedford Ave STE A; PMB #830; Brooklyn, NY PMB #830, US ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 223 Bedford Ave STE A; PMB #830; Brooklyn, NY PMB #830, US ",
+            "state": "",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "223 Bedford Ave STE A; PMB #830; Brooklyn, NY PMB #830, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7371,
+                "description": "Custom computer programming services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 541511,
+                "description": "Custom Computer Programming Services"
+              }
+            ]
+          },
+          "website": "https://simpletix.com",
+          "specialities": [
+            "ecommerce",
+            "elearning software",
+            "event ticketing"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-18T12:29:12.795581",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-18T12:29:15.356377",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

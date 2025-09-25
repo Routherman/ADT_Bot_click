@@ -1,0 +1,843 @@
+{
+  "site_url": "https://islandgardens.com/",
+  "domain": "islandgardens.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://islandgardens.com/",
+    "https://islandgardens.com/private-events",
+    "https://islandgardens.com/book-your-table",
+    "https://islandgardens.com/book-your-event",
+    "https://islandgardens.com/contact",
+    "https://islandgardens.com/policy/accessibility-statement",
+    "https://islandgardens.com/policy/privacy-policy",
+    "https://islandgardens.com/menus",
+    "https://islandgardens.com/menus/brunch-menu",
+    "https://islandgardens.com/menus/dinner-menu",
+    "https://islandgardens.com/menus/dessert-menu",
+    "https://islandgardens.com/menus/cocktail-wine-menu",
+    "https://islandgardens.com/happenings",
+    "https://islandgardens.com/brunch",
+    "https://islandgardens.com/the-deck",
+    "https://islandgardens.com/blog",
+    "https://islandgardens.com/press",
+    "https://islandgardens.com/join-our-team",
+    "https://islandgardens.com/sitemap",
+    "https://islandgardens.com/site-credits",
+    "https://islandgardens.com/private-events/book-your-event",
+    "https://islandgardens.com/restaurant/book-your-table/",
+    "https://islandgardens.com/events/book-your-event/",
+    "https://islandgardens.com",
+    "https://islandgardens.com/menus/lunch-menu",
+    "https://islandgardens.com/the-deck-original/book-your-table",
+    "https://islandgardens.com/blog/page/2",
+    "https://islandgardens.com/weekly-happenings-at-the-deck-at-island-gardens",
+    "https://islandgardens.com/author/abel",
+    "https://islandgardens.com/category/press",
+    "https://islandgardens.com/the-deck-at-island-gardens-miamis-ultimate-waterfront-dining-and-lounge-experience",
+    "https://islandgardens.com/miami-vibes-magazine",
+    "https://islandgardens.com/miami-vibes-magazines-september-cover-party",
+    "https://islandgardens.com/introducing-the-deck-at-island-gardens-sunset-happy-hour",
+    "https://islandgardens.com/the-deck-at-island-gardens-una-sobresaliente-alternativa-en-miami-spice",
+    "https://islandgardens.com/get-ready-to-spice-things-up-at-the-deck-at-island-gardens",
+    "https://islandgardens.com/from-brunch-to-sunset-miamis-must-try-summer-dining-experiences",
+    "https://islandgardens.com/alexa-dellanos-myrka-dellanos-y-mita-reciben-un-homenaje-por-su-entrega-y-labor",
+    "https://islandgardens.com/miami-spice-restaurants-with-a-view",
+    "https://islandgardens.com/how-to-subvert-dynamics-such-as-social-distancing-the-anxiety-of-offline-human-relationships-the-frustration-generated-by-exasperated-comparisons-with-the-lives-of-others-and-the-negative-effects-on",
+    "https://islandgardens.com/flavors-in-bloom-springtime-dining-experiences-to-remember",
+    "https://islandgardens.com/category/news"
+  ],
+  "candidates": [
+    "https://islandgardens.com/contact",
+    "https://islandgardens.com/blog/page/2",
+    "https://islandgardens.com/events/book-your-event/",
+    "https://islandgardens.com/private-events",
+    "https://islandgardens.com/private-events/book-your-event",
+    "https://islandgardens.com/book-your-event",
+    "https://islandgardens.com/book-your-table",
+    "https://islandgardens.com/policy/accessibility-statement",
+    "https://islandgardens.com/policy/privacy-policy",
+    "https://islandgardens.com/restaurant/book-your-table/",
+    "https://islandgardens.com/the-deck-original/book-your-table",
+    "https://islandgardens.com",
+    "https://islandgardens.com/",
+    "https://islandgardens.com/contact/",
+    "https://islandgardens.com/contact-us",
+    "https://islandgardens.com/contact-us/",
+    "https://islandgardens.com/contactus",
+    "https://islandgardens.com/contactus/",
+    "https://islandgardens.com/about",
+    "https://islandgardens.com/about/",
+    "https://islandgardens.com/about-us",
+    "https://islandgardens.com/about-us/",
+    "https://islandgardens.com/visit",
+    "https://islandgardens.com/visit/",
+    "https://islandgardens.com/location",
+    "https://islandgardens.com/location/",
+    "https://islandgardens.com/directions",
+    "https://islandgardens.com/directions/"
+  ],
+  "per_page": {
+    "https://islandgardens.com/contact": {
+      "title": "Contact | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "events@islandgardens.com",
+        "thedeck@islandgardens.com"
+      ],
+      "phones": [
+        "(786) 627-4949"
+      ],
+      "socials": []
+    },
+    "https://islandgardens.com/blog/page/2": {
+      "title": "Blog | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/blog/page/2"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/blog/page/2"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/events/book-your-event/": {
+      "title": "Book Your Event | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/events/book-your-event/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/private-events": {
+      "title": "Private Event | Island Gardens",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/private-events"
+          ]
+        },
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 1,
+            "body": 23,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/private-events"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/private-events"
+          ]
+        }
+      },
+      "emails": [
+        "thedeck@islandgardens.com"
+      ],
+      "phones": [
+        "(786) 627-4949"
+      ],
+      "socials": [
+        "https://www.facebook.com/thedeckislandgardens",
+        "https://www.instagram.com/p/DO1AwlmjZsH/",
+        "https://www.instagram.com/p/DObUMNqjant/",
+        "https://www.instagram.com/p/DObUS6PDiAo/",
+        "https://www.instagram.com/reel/DORBBBGEioZ/",
+        "https://www.instagram.com/reel/DOrkeVBgm__/",
+        "https://www.instagram.com/reel/DOvyAEijbqJ/",
+        "https://www.instagram.com/thedeckislandgardens/",
+        "https://www.youtube.com/channel/UCGFdEQmiMW6JJJF8eQAQ8SQ"
+      ]
+    },
+    "https://islandgardens.com/private-events/book-your-event": {
+      "title": "Book Your Event | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/private-events/book-your-event"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/book-your-event": {
+      "title": "Book Your Event | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/book-your-event"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/book-your-table": {
+      "title": "Book Your Table | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/book-your-table"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/book-your-table"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/policy/accessibility-statement": {
+      "title": "Accessibility Statement | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/policy/accessibility-statement"
+          ]
+        }
+      },
+      "emails": [
+        "thedeck@islandgardens.com"
+      ],
+      "phones": [
+        "+1 305 531-3747"
+      ],
+      "socials": [
+        "https://www.facebook.com/thedeckislandgardens",
+        "https://www.instagram.com/thedeck_islandgardens/"
+      ]
+    },
+    "https://islandgardens.com/policy/privacy-policy": {
+      "title": "Privacy Policy | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/policy/privacy-policy"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "305.531.3747"
+      ],
+      "socials": []
+    },
+    "https://islandgardens.com/restaurant/book-your-table/": {
+      "title": "Book Your Table | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/restaurant/book-your-table/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/restaurant/book-your-table/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/the-deck-original/book-your-table": {
+      "title": "Book Your Table | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/the-deck-original/book-your-table"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/the-deck-original/book-your-table"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com": {
+      "title": "The Deck | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com"
+          ]
+        }
+      },
+      "emails": [
+        "thedeck@islandgardens.com"
+      ],
+      "phones": [
+        "(786) 627-4949"
+      ],
+      "socials": [
+        "https://www.facebook.com/thedeckislandgardens",
+        "https://www.instagram.com/p/DO1AwlmjZsH/",
+        "https://www.instagram.com/p/DObUMNqjant/",
+        "https://www.instagram.com/p/DObUS6PDiAo/",
+        "https://www.instagram.com/reel/DORBBBGEioZ/",
+        "https://www.instagram.com/reel/DOrkeVBgm__/",
+        "https://www.instagram.com/reel/DOvyAEijbqJ/",
+        "https://www.instagram.com/thedeckislandgardens/",
+        "https://www.youtube.com/channel/UCGFdEQmiMW6JJJF8eQAQ8SQ"
+      ]
+    },
+    "https://islandgardens.com/": {
+      "title": "The Deck | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/"
+          ]
+        }
+      },
+      "emails": [
+        "thedeck@islandgardens.com"
+      ],
+      "phones": [
+        "(786) 627-4949"
+      ],
+      "socials": [
+        "https://www.facebook.com/thedeckislandgardens",
+        "https://www.instagram.com/p/DO1AwlmjZsH/",
+        "https://www.instagram.com/p/DObUMNqjant/",
+        "https://www.instagram.com/p/DObUS6PDiAo/",
+        "https://www.instagram.com/reel/DORBBBGEioZ/",
+        "https://www.instagram.com/reel/DOrkeVBgm__/",
+        "https://www.instagram.com/reel/DOvyAEijbqJ/",
+        "https://www.instagram.com/thedeckislandgardens/",
+        "https://www.youtube.com/channel/UCGFdEQmiMW6JJJF8eQAQ8SQ"
+      ]
+    },
+    "https://islandgardens.com/contact/": {
+      "title": "Contact | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "events@islandgardens.com",
+        "thedeck@islandgardens.com"
+      ],
+      "phones": [
+        "(786) 627-4949"
+      ],
+      "socials": []
+    },
+    "https://islandgardens.com/contact-us": {
+      "title": "404 Not Found | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/contact-us/": {
+      "title": "404 Not Found | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/contactus": {
+      "title": "404 Not Found | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/contactus/": {
+      "title": "404 Not Found | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/about": {
+      "title": "404 Not Found | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/about/": {
+      "title": "404 Not Found | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/about-us": {
+      "title": "404 Not Found | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/about-us/": {
+      "title": "404 Not Found | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/visit": {
+      "title": "404 Not Found | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/visit/": {
+      "title": "404 Not Found | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/location": {
+      "title": "404 Not Found | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/location/": {
+      "title": "404 Not Found | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/directions": {
+      "title": "404 Not Found | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islandgardens.com/directions/": {
+      "title": "404 Not Found | Island Gardens",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islandgardens.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "timestamp": "2025-09-21T04:17:56.602862",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T04:17:53.537918",
+      "company": {
+        "name": null,
+        "domain": "thebocaraton.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 15477,
+          "description": "The Boca Raton, amidst 200 waterfront acres, is a private, gated Resort which provides a year-round escape for its members and guests.\n\nFor nearly 100 years, people have experienced our unique vision of the coveted South Florida lifestyle. Now, a property-wide transformation is inspiring A New Golden Era, with new ways to eat, play, and stay. More than ever, the key to it all is our people—our team. Seize the opportunity to build your extraordinary future by becoming a key part of The Boca Raton, an icon of South Florida leisure.\n\nRewarding Excellence\n\nWe know the value of an incredible hospitality team and focus on creating an environment where our staff feels appreciated, supported, and able to thrive, celebrating the exceptional level of service we deliver.\n\nTEAM MEMBER APPRECIATION WEEK\nSMALL ACTION BIG ACTION AWARD\nCEO LIGHT & WARMTH AWARD\n\nGrow Many Ways\n\nWe believe in getting better every day. So we support your personal and career growth in many ways to help you achieve your life goals. And endless opportunities to dream big, try new things and evolve.\n\nBOCA UNIVERSITY PARTNERSHIP\nFLORIDA ATLANTIC UNIVERSITY PARTNERSHIP\n20% DISCOUNT ON LYNN UNIVERSITY TUITION\n\nTogether We Give Back\n\nWe are proud to give back to our community, creating opportunities for staff to participate in programs that strengthen our shared communities.\n\nCARE FUND: Our family taking care of your family philanthropic fund to assist team members experiencing a life hardship. \nGULFSTREAM GOODWILL PROJECT: Provides on-site training to prepare youth with disabilities to be work-ready. \nLINKED ARMS WITH FLORENCE FULLER: Provides backpacks filled with school supplies to underprivileged children.\n\nThe Time is Now\n\nThere has never been a more exciting time at The Boca Raton, and the best of the best are invited to explore opportunities to join our team as the resort transforms, welcoming A New Golden Era.\n\nApply to join the most talented team in hospitality at The Boca Raton.\n#OnlyatTheBocaRaton",
+          "domain": "thebocaraton.com",
+          "employees": "1001 - 5000",
+          "founded": "1926",
+          "fqdn": "www.thebocaraton.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=29/j_lvl979a0x75u3ej9p.22954eaed8edca10ecf1587e5867e01065f4a438.file_lvl982dq2big4mzr8m.logo_cached.jpg",
+          "name": "The Boca Raton",
+          "revenueRange": [
+            250000000,
+            500000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/boca-raton-resort-%26-club"
+            }
+          },
+          "address": "Boca Raton North America United States US 501 East Camino Real; Boca Raton, Florida 33432, US Florida FL -80.08309936523438,26.35869026184082 ",
+          "location": {
+            "city": "Boca Raton",
+            "country": "United States",
+            "fullLocation": "Boca Raton North America United States US 501 East Camino Real; Boca Raton, Florida 33432, US Florida FL -80.08309936523438,26.35869026184082 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "501 East Camino Real; Boca Raton, Florida 33432, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://thebocaraton.com/careers",
+          "specialities": [
+            "cocktails",
+            "culinary",
+            "food and beverage",
+            "guest experience",
+            "housekeeping",
+            "marine",
+            "membership",
+            "security",
+            "water sports",
+            "waterfront dining"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T04:17:54.132862",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T04:17:56.597560",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

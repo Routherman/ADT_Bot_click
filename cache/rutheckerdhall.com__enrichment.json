@@ -1,0 +1,132 @@
+{
+  "timestamp": "2025-09-19T18:19:10.082472",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T18:19:06.391791",
+      "company": {
+        "name": null,
+        "domain": "rutheckerdhall.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 439362,
+          "description": "Ruth Eckerd Hall is a 501(c)(3) nonprofit organization nationally recognized Performing Arts Organization. Ruth Eckerd Hall offers traditional and innovative performances and educational experiences that will engage diverse audiences and participants, in order to advance the arts and enrich lives and change lives through the performing arts.\n\nThroughout the Tampa Bay region, the Ruth Eckerd Hall Experience can be found not only at Ruth Eckerd Hall, the Murray Theatre, and the Marcia P. Hoffman School of the Arts, but also the Bilheimer Capitol Theatre, The BayCare Sound, and Ruth Eckerd Hall On The Road.",
+          "domain": "rutheckerdhall.com",
+          "employees": "51 - 200",
+          "founded": "1983",
+          "fqdn": "www.rutheckerdhall.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/71/b71b7c07c4be3bab07a53c9cae9bd5fc",
+          "name": "Ruth Eckerd Hall, Inc.",
+          "revenueRange": [],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Performing Arts",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/ruth-eckerd-hall"
+            }
+          },
+          "address": "Clearwater North America United States US 1111 North McMullen Booth Road; Clearwater, Florida 33759, US Florida FL -82.80010223388672,27.965850830078125 ",
+          "location": {
+            "city": "Clearwater",
+            "country": "United States",
+            "fullLocation": "Clearwater North America United States US 1111 North McMullen Booth Road; Clearwater, Florida 33759, US Florida FL -82.80010223388672,27.965850830078125 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1111 North McMullen Booth Road; Clearwater, Florida 33759, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7922,
+                "description": "Theatrical producers and services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 711110,
+                "description": "Theater Companies and Dinner Theaters"
+              }
+            ]
+          },
+          "website": "https://rutheckerdhall.com",
+          "specialities": [
+            "arts education",
+            "event space",
+            "live music",
+            "performing arts"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T18:19:07.629166",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T18:19:10.078365",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

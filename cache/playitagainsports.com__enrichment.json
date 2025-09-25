@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-23T13:52:41.815002",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T13:52:38.120676",
+      "company": {
+        "name": null,
+        "domain": "playitagainsports.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 58668404,
+          "description": "Play It Again Sports is your neighborhood sporting goods store that buys, sells and trades quality used sports equipment. We have everything from fitness equipment to snowboards to treadmills. We're always looking for the latest in sports and fitness equipment including gear for golf, baseball, hockey, football, skiing, soccer, softball, volleyball, lacrosse and more! We buy, sell and trade new and used sporting goods and fitness equipment and pass along the savings to our customers!",
+          "domain": "playitagainsports.com",
+          "employees": "11 - 50",
+          "fqdn": "www.playitagainsports.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2023/month=11/day=15/j_lp0229fx2ht6226k1b.3a710ed43f39a3dc2c796c7d6a8284a4faca91ff.file_lp035yhj1w35eh05wk.logo_cached.svg",
+          "name": "Play It Again Sports",
+          "revenueRange": [
+            250000000,
+            500000000
+          ],
+          "mainIndustry": "Retail",
+          "subIndustry": "Retail Apparel & Fashion",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/play-it-again-sports"
+            }
+          },
+          "address": "Woodinville North America United States US 13210 NE 175TH ST; Woodinville, Washington 98072, US Washington WA -122.16345977783203,47.754268646240234 ",
+          "location": {
+            "city": "Woodinville",
+            "country": "United States",
+            "fullLocation": "Woodinville North America United States US 13210 NE 175TH ST; Woodinville, Washington 98072, US Washington WA -122.16345977783203,47.754268646240234 ",
+            "state": "Washington",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "13210 NE 175TH ST; Woodinville, Washington 98072, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5941,
+                "description": "Sporting goods and bicycle shops"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 458110,
+                "description": "Clothing and Clothing Accessories Retailers"
+              }
+            ]
+          },
+          "website": "https://playitagainsports.com/locations/woodinville-wa"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T13:52:39.307047",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T13:52:41.810313",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

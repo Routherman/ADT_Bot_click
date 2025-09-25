@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-23T19:07:57.628776",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T19:07:54.034400",
+      "company": {
+        "name": null,
+        "domain": "newhotelcollection.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 40686525,
+          "description": "Welcome to New Hotel Collection. An affordable, luxury boutique hotel with resorts located throughout Florida and Tennessee.\n \nFounded in 2016, New Hotel Collection offers an affordable luxury experience for every type of traveler. Whether you're looking for a relaxing stay on the beach, exciting family friendly vacation, an adventure in the Smoky mountains or a downtown getaway, New Hotel Collection has a property for you.",
+          "domain": "newhotelcollection.com",
+          "employees": "11 - 50",
+          "founded": "2016",
+          "fqdn": "www.newhotelcollection.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/7/d7/7d7f399e74d6d89bfc17a339b74c9034",
+          "name": "The New Hotel Collection",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/the-new-hotel-collection"
+            }
+          },
+          "address": "North America United States US Florida & Tennessee, US ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US Florida & Tennessee, US ",
+            "state": "",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Florida & Tennessee, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://newhotelcollection.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T19:07:55.331614",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T19:07:57.621396",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

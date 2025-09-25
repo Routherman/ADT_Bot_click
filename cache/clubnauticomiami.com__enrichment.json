@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-22T07:42:54.303217",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T07:42:50.608359",
+      "company": {
+        "name": null,
+        "domain": "clubnauticomiami.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 81937527,
+          "description": "Club Nautico is the world’s premier yacht charter company, offering dream getaways in over 30 destinations across the globe. With an innovative fleet of luxury yachts, Club Nautico provides a vacation at sea with a level of service that’s nothing short of remarkable.\n\nClub Nautico offers a charter option for every experience level. If you’re looking for an all-inclusive, carefree experience, look no further than a crewed yacht charter complete with an expert captain and gourmet chef. You’ll delight in spacious comfort and the latest amenities expertly designed to make your next vacation one to remember for years to come.",
+          "domain": "clubnauticomiami.com",
+          "employees": "501 - 1000",
+          "founded": "1982",
+          "fqdn": "www.clubnauticomiami.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/8/7f/87fedf57732857e01005ec81a9203dc1",
+          "name": "Club Nautico International",
+          "revenueRange": [],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Travel Arrangements",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/club-nautico-international"
+            }
+          },
+          "address": "Key Biscayne North America United States US 4000 Crandon Blvd; Key Biscayne, Florida 33149, US Florida FL -80.1628189086914,25.693710327148438 ",
+          "location": {
+            "city": "Key Biscayne",
+            "country": "United States",
+            "fullLocation": "Key Biscayne North America United States US 4000 Crandon Blvd; Key Biscayne, Florida 33149, US Florida FL -80.1628189086914,25.693710327148438 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "4000 Crandon Blvd; Key Biscayne, Florida 33149, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 4724,
+                "description": "Travel agencies"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 561510,
+                "description": "Travel Agencies"
+              }
+            ]
+          },
+          "website": "https://clubnauticomiami.com",
+          "specialities": [
+            "yacht charter"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T07:42:51.837585",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T07:42:54.294754",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

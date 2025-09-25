@@ -1,0 +1,297 @@
+Plan de Implementación para nav_Enriquecer.py
+Descripción General
+
+El script nav_Enriquecer.py corresponde a la etapa 3 del proceso y tiene como objetivo enriquecer los correos electrónicos de contactos clave (p. ej. personal de marketing, planificación de eventos, etc.) utilizando las plataformas Lusha, ContactOut y RocketReach. Se trata de una aplicación Streamlit que leerá los resultados de las etapas 1 y 2, filtrará los dominios candidatos según un puntaje mínimo (definido en .env), mostrará visualmente los dominios aptos y permitirá al usuario seleccionar uno, varios o todos para buscar contactos en las plataformas mencionadas. Los nuevos datos enriquecidos se guardarán en un archivo JSON incremental, y se llevará un registro (log) para evitar consultas repetidas innecesarias.
+
+Datos de Entrada y Configuración
+
+Archivos de etapas previas: El script leerá los archivos de salida de la etapa 1 y etapa 2. Estos pueden incluir CSV/JSON con listas de dominios, información de contactos (persons.csv, emails.csv, etc.) u otros datos estructurados. Por ejemplo:
+
+Una lista de dominios (sitios web de venues o empresas relevantes).
+
+Información recopilada de cada dominio: nombres de personas, cargos/roles (marketing, eventos, etc.), correos generales encontrados, teléfonos, redes sociales, etc.
+
+Archivo de configuración .env: Contendrá variables necesarias, tales como:
+
+Puntaje mínimo de dominio para filtrar qué dominios son aptos para enriquecimiento (por ejemplo, una puntuación de reputación o relevancia obtenida en etapa 2). El script debe leer este valor (ej. DOMAIN_SCORE_MIN) usando una biblioteca como python-dotenv.
+
+Credenciales/API keys para Lusha, ContactOut, RocketReach. Estas plataformas requieren claves de API o tokens de acceso para realizar consultas de búsqueda de emails. Las variables podrían ser algo como LUSHA_API_KEY, ROCKETREACH_API_KEY, CONTACTOUT_API_KEY.
+
+Diccionario de roles (Opcional): Si existe un archivo (ej. roles_dictionary.json) con palabras clave o categorías de roles (marketing, events, booking, etc.), se puede usar para identificar qué cargos son relevantes al buscar contactos. Esto ayudará a filtrar personas de interés en cada empresa.
+
+Nota: Es fundamental cargar la configuración antes de nada. Ejemplo de lectura de .env:
+
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+MIN_SCORE = int(os.getenv("DOMAIN_SCORE_MIN", 0))
+LUSHA_KEY = os.getenv("LUSHA_API_KEY")
+# ... y así con las demás claves
+
+Interfaz de Usuario con Streamlit
+
+Usaremos Streamlit para crear una interfaz interactiva que permita visualizar los dominios y seleccionar cuáles enriquecer. Aspectos a implementar:
+
+Título y descripción: Mostrar un título claro (ej. "Enriquecimiento de Contactos – Etapa 3") y una breve descripción de la funcionalidad.
+
+Listado de dominios aptos: Presentar en la app una lista de dominios filtrados por el puntaje mínimo. Cada dominio mostrado debería haber superado el umbral MIN_SCORE obtenido del .env.
+
+Si se tiene información adicional de cada dominio (ej. nombre de la empresa, puntaje, número de posibles contactos encontrados en etapas previas), se puede mostrar junto al dominio para ayudar al usuario a decidir. Por ejemplo, una tabla con columnas: Dominio, Nombre Empresa, Score, Contactos Encontrados.
+
+Selección múltiple: Permitir al usuario seleccionar uno, varios o todos los dominios listados para procesar. Esto se puede hacer de varias formas en Streamlit:
+
+Con un control de selección múltiple (st.multiselect) que liste los dominios aptos. El usuario puede marcar uno o más.
+
+O con una serie de checkboxes generadas dinámicamente, una por dominio (aunque si la lista es muy larga, st.multiselect es más conveniente).
+
+También se puede incluir un botón global "Seleccionar todos" para marcar rápidamente todos los dominios aptos.
+
+Buscador/filtrado: Incluir un campo de búsqueda (st.text_input) que permita filtrar la lista de dominios o buscar por nombre de persona:
+
+Si el usuario escribe un texto, filtrar dinámicamente los dominios mostrados para coincidir con ese texto (ya sea en el nombre del dominio, nombre de la empresa o nombres de personas asociados).
+
+Esto facilita encontrar un dominio específico o verificar si cierta persona está asociada a alguno de los dominios.
+
+Botón de enriquecimiento: Un botón de acción (por ejemplo, "🔍 Enriquecer contactos seleccionados") que, al pulsarlo, dispara el proceso de búsqueda de contactos en las plataformas para los dominios seleccionados.
+
+Ejemplo de configuración de UI en Streamlit:
+
+import streamlit as st
+
+st.title("Enriquecimiento de Contactos - Etapa 3")
+st.write("Seleccione los dominios para buscar contactos clave (marketing, eventos, etc.) utilizando Lusha, ContactOut, RocketReach.")
+
+# Campo de búsqueda
+search_query = st.text_input("Filtrar dominios o personas:", "")
+
+# Filtrar la lista de dominios aptos según el texto de búsqueda
+filtered_domains = [dom for dom in dominios_aptos if search_query.lower() in dom.lower() or search_query.lower() in nombre_empresa_de(dom).lower()]
+# Mostrar lista seleccionable
+selected_domains = st.multiselect("Dominios aptos para enriquecer:", options=filtered_domains, default=filtered_domains if seleccionar_todos else [])
+# Botón para ejecutar enriquecimiento
+if st.button("Enriquecer contactos seleccionados"):
+    enriquecer_contactos(selected_domains)
+
+
+(En el código anterior, dominios_aptos es la lista de dominios filtrados por puntaje, y nombre_empresa_de(dom) hipotéticamente obtiene el nombre de la empresa asociada al dominio; seleccionar_todos podría ser un booleano controlado por otro checkbox.)
+
+Filtrado de Dominios Aptos por Puntaje
+
+Antes de mostrar los dominios en la interfaz, el script debe:
+
+Cargar los datos de entrada (etapa 1 y 2): Esto puede implicar leer uno o varios archivos CSV/JSON con los resultados anteriores. Por ejemplo, si hay un extract.json consolidado con datos por dominio, sería ideal. En ausencia de un solo JSON, se pueden combinar varios CSV (persons, emails, etc.) en una estructura en memoria (por ejemplo, un dict o DataFrame) donde la clave principal sea el dominio o empresa.
+
+Calcular o extraer el puntaje de cada dominio: Posiblemente en la etapa 2 se haya calculado un “score” o se tenga un criterio para cada dominio (por ejemplo, un ranking de relevancia, tráfico, etc.). Ese valor debe ser comparado con MIN_SCORE de .env. Si el puntaje no está directamente en los datos, quizás se necesite calcularlo o leerlo de un campo específico.
+
+Filtrar la lista: Crear la lista dominios_aptos que incluya solo aquellos dominios cuyo puntaje ≥ MIN_SCORE. Ignorar o excluir dominios con puntaje inferior.
+
+Verificar información necesaria: Opcionalmente, se puede refinar aún más: incluir solo dominios que tengan suficiente información para iniciar la búsqueda en las plataformas. Por ejemplo, dominios que ya tengan nombres de personas y roles identificados (p. ej. encontramos un gerente de marketing en ese dominio durante la etapa 1). Las plataformas de enriquecimiento funcionan mejor si se les da al menos nombre, empresa y/o dominio, y a veces el cargo. Si un dominio no tiene ningún nombre de persona asociado de etapas previas, igualmente podríamos intentar buscar en RocketReach por empresa y un cargo genérico (como "marketing" o "event planner"), pero los resultados podrían ser menos focalizados.
+
+Una estrategia es: si el dataset de etapa 1/2 proporciona nombres de personal por dominio, usar esos nombres; si no, usar las APIs para buscar empleados por cargo y empresa.
+
+Mostrar conteo: En la interfaz, se puede indicar “N dominios aptos para enriquecer” para dar contexto. Cada dominio en la lista podría tener también un indicador del número de personas o contactos ya conocidos (por ejemplo: example.com (3 personas identificadas)).
+
+Búsqueda y Selección de Dominios/Personas
+
+La funcionalidad de búsqueda en la interfaz debe permitir al usuario filtrar por:
+
+Nombre de dominio (ej: "example.com").
+
+Nombre de la empresa asociada al dominio (si ese dato está disponible).
+
+Nombre de personas identificadas en ese dominio o quizás cargo.
+
+Por ejemplo, si el usuario escribe "John" o "Marketing", la lista de dominios podría filtrarse a aquellos donde haya alguna persona que se llame John o cuyo cargo contenga "Marketing". Esto implica que tenemos accesible en memoria la información de personas/cargos por dominio para chequear contra la query de búsqueda.
+
+Implementación sugerida: Mantener en una estructura (como un dict o DataFrame) la información consolidada por dominio, incluyendo un listado de nombres y cargos. Así, al filtrar:
+
+def cumple_filtro(dominio, query):
+    data = data_por_dominio[dominio]
+    # Revisar dominio y empresa
+    if query.lower() in dominio.lower() or query.lower() in data["empresa"].lower():
+        return True
+    # Revisar personas
+    for persona in data["personas"]:  # persona podría ser dict con 'nombre' y 'cargo'
+        if query.lower() in persona["nombre"].lower() or query.lower() in persona["cargo"].lower():
+            return True
+    return False
+
+filtered_domains = [dom for dom in dominios_aptos if cumple_filtro(dom, search_query)]
+
+
+Luego filtered_domains se usa en st.multiselect como opciones.
+
+Enriquecimiento de Contactos (Integración con APIs)
+
+Cuando el usuario confirma la selección (al hacer clic en el botón de "Enriquecer"), el script debe iterar por cada dominio seleccionado y para cada uno realizar las siguientes acciones:
+
+Evitar duplicados: Verificar en el archivo JSON de salida (/out/enriquecidos.json) o en un log si ese dominio ya fue procesado previamente. Si ya existen datos enriquecidos para ese dominio (o un registro de que se intentó sin éxito), se puede omitir o al menos advertir al usuario para no gastar consultas API innecesarias.
+
+Preparar consultas a plataformas: Para cada dominio:
+
+Reunir la información necesaria para las consultas: típicamente el nombre de la empresa (si se tiene), el dominio (muchas APIs permiten buscar por dominio para listar empleados), y potencialmente nombres de personas y sus roles ya obtenidos.
+
+Lusha: si tiene API disponible, suele requerir como entrada un nombre + empresa, o al menos un dominio para buscar personas relacionadas. Puede ser útil si tenemos nombres específicos: por ejemplo, "Juan Pérez en Empresa X" para obtener su email personal. Si no hay nombres, puede que Lusha no sea tan útil directamente.
+
+RocketReach: proporciona una API donde se puede buscar por empresa (o dominio) y título de trabajo. Se puede usar para consultar, por ejemplo: company = X, title contains "marketing". RocketReach podría devolver una lista de personas (nombre, puesto, emails, etc.) que coinciden con ese criterio. También permite búsqueda por nombre + empresa directamente.
+
+ContactOut: ofrece herramientas similares de enriquecimiento de perfiles (posiblemente a través de extensiones o API privadas). Si se dispone de acceso API, se podría usar de manera análoga a Lusha. De lo contrario, puede omitirse o usarse de forma manual.
+
+Otras estrategias: Si alguna plataforma no cuenta con API pública, considerar usar su servicio a través de un wrapper o skippear su uso en la automatización.
+
+Búsqueda de contactos relevantes: Para enfocar en roles idóneos (marketing, event planning, etc.):
+
+Definir una lista de palabras clave de cargos relevantes, por ejemplo: roles_busqueda = ["marketing", "event", "evento", "planner", "booking", "entertainment", "director", "manager"].
+
+Usar esas palabras clave en las consultas de RocketReach (ej: título contiene "Event") o filtrar resultados de Lusha/ContactOut.
+
+Si ya tenemos nombres de personas y sus cargos de etapas previas, priorizar buscar los emails de esas personas específicas. Ejemplo: si en data_por_dominio["theatreX.com"] tenemos persona "Alice Smith – Marketing Director", entonces consultar directamente a la API para "Alice Smith at theatreX.com" o "Alice Smith at Theatre X Company". Esto suele retornar su email personal (corporativo o incluso personal) si está disponible en la base de datos de la plataforma.
+
+Si no tenemos nombres, entonces usar búsqueda genérica: “personas de marketing en Empresa X”. RocketReach API permite buscar con parámetros company y title, devolviendo varios contactos potenciales. En tal caso, es importante filtrar luego cuales de esos títulos son relevantes (por ej., descartar si alguien es de IT o finanzas, etc., quedarnos con marketing, events).
+
+Llamadas a la API: Implementar la comunicación con cada servicio:
+
+Cada plataforma tendrá su endpoint y formato. Por ejemplo, RocketReach: https://api.rocketreach.co/v1/api/lookupProfile?api_key=YOUR_API_KEY&name=...&company=... (para búsqueda por nombre, o usar /search endpoint para búsqueda por compañía/título). Se debe consultar la documentación oficial para el formato exacto y campos de respuesta.
+
+Incluir en el código manejo de errores y límites: estas APIs suelen tener límites de rate o créditos, por lo que hay que controlar cuántas consultas se hacen (quizás pausar o lote por lote si son muchas). También manejar excepciones de red o casos donde no se encuentra ningún resultado.
+
+Es posible que no todas las plataformas necesiten usarse para cada dominio; podría usarse una preferida (ej: RocketReach) como primaria, y quizá Lusha/ContactOut para complementar o verificar datos.
+
+Procesamiento de resultados: Una vez obtenidos los datos de contactos de la API:
+
+Extraer nombre, apellido, cargo, correo electrónico (y cualquier otro dato útil como teléfono, LinkedIn URL, etc.) de la respuesta.
+
+Estructurarlo en un diccionario u objeto por persona. Ejemplo:
+
+nuevo_contacto = {
+    "nombre": first_name + " " + last_name,
+    "cargo": title,
+    "email": email,
+    "fuente": "RocketReach",
+    "linkedin": profile_url,
+    ...
+}
+
+
+Agregar el contacto a la lista de contactos de ese dominio en la estructura de resultados acumulados.
+
+Si el mismo contacto ya existía (por nombre/email) en nuestra base, evitar duplicados.
+
+Opcional: Marcar qué plataforma proporcionó cada contacto (por trazabilidad).
+
+Feedback al usuario: Durante este proceso, la interfaz Streamlit debería informar al usuario del progreso. Por ejemplo, mostrar en tiempo real qué dominio se está procesando actualmente, cuántos contactos nuevos se encontraron, o mensajes de “No se encontraron contactos para X”. Esto se puede lograr con st.write o st.status updates, y si el proceso es largo, quizá usar st.progress o dividir en pasos para no bloquear la UI.
+
+Guardado de Resultados en enriquecidos.json
+
+Al finalizar (o a medida que se van procesando cada dominio), el script debe guardar los datos enriquecidos en un archivo JSON, situado en out/enriquecidos.json. Características de este archivo:
+
+Estructura: Usar el dominio como clave principal. Por ejemplo:
+
+{
+  "theatreX.com": {
+     "empresa": "Teatro X",
+     "score": 85,
+     "contactos": [
+        {
+          "nombre": "Alice Smith",
+          "cargo": "Marketing Director",
+          "email": "asmith@theatrex.com",
+          "linkedin": "https://.../alice-smith",
+          "fuente": "RocketReach"
+        },
+        {
+          "nombre": "Bob Jones",
+          "cargo": "Events Manager",
+          "email": "bjones@theatrex.com",
+          "linkedin": "https://.../bob-jones",
+          "fuente": "Lusha"
+        }
+     ]
+  },
+  "otrodominio.com": { ... }
+}
+
+
+Guardar incremental: Es muy importante no sobrescribir todo el JSON cada vez, sino actualizarlo incrementalmente para no perder información ya obtenida. Esto implica:
+
+Leer el JSON existente (si existe) al inicio del proceso de enriquecimiento.
+
+Actualizar o añadir las entradas nuevas. Si un dominio ya tiene contactos guardados, agregar solo los nuevos contactos que no estén ya registrados.
+
+Después de procesar todos los seleccionados (o uno por uno tras procesar cada dominio), escribir el JSON de nuevo a disco. Se puede usar json.dump con indentación para legibilidad.
+
+Asegurarse de manejar la concurrencia (en caso de que dos ejecuciones paralelas pudieran ocurrir, aunque con Streamlit probablemente se ejecuta una a la vez).
+
+Formato consistente: Siempre utilizar el dominio como clave para facilitar búsquedas posteriores. Mantener los datos relevantes como en el ejemplo (empresa, score, lista de contactos con sus detalles). Si hay otros campos útiles de etapas anteriores (por ej. dirección, teléfono de la empresa), también se podrían incluir bajo cada dominio para referencia completa.
+
+Registro (Log) de Consultas Realizadas
+
+Para no volver a ejecutar la misma consulta innecesariamente en el futuro, implementaremos un mecanismo de log. Esto previene gastar créditos de API buscando contactos que ya obtuvimos o intentar en dominios donde no había nada disponible. Opciones a considerar:
+
+Archivo de log separado: Crear un archivo (por ejemplo, out/enriquecidos.log o out/enriquecidos_history.csv) donde se añade una línea o entrada por cada dominio procesado, con detalles básicos (dominio, fecha/hora de consulta, número de contactos encontrados, plataformas utilizadas, etc.).
+
+Cada vez que se procesa un dominio, escribir en el log. Si se intenta procesar un dominio ya presente en el log, el script podría saltarlo automáticamente o pedir confirmación al usuario (por si se quiere forzar una actualización).
+
+El log puede ser útil también para depuración, para ver si alguna consulta falló o cuántos resultados se obtuvieron en cada plataforma.
+
+Uso del JSON como log: Alternativamente, se puede inferir del enriquecidos.json qué dominios ya tienen datos. Si un dominio clave existe en el JSON (o existe pero con contactos vacíos, señal de intento fallido), eso se usa como indicador de que ya se intentó. Por simplicidad, se puede optar por esta vía:
+
+Antes de enriquecer un dominio, chequear if dominio in enriquecidos_data:; si existe y ya tiene contactos, omitir (o notificar que ya está hecho). Si existe pero la lista de contactos está vacía o tiene flag "no data", podría significar que en una ejecución previa no se encontró nada — en ese caso, podríamos saltarlo también para evitar el mismo resultado, a menos que tengamos razones para intentar de nuevo con otra plataforma.
+
+Interacción con usuario respecto a duplicados: Podría añadirse en la UI una opción tipo "Reintentar dominios ya procesados" por si se desea actualizar datos (por ejemplo, si se agregaron nuevas personas en las plataformas, o se consiguieron créditos adicionales luego). De lo contrario, por defecto el script evitará repetir.
+
+Implementación del log básico:
+
+# Supongamos enriquecidos_data es el dict cargado desde enriquecidos.json
+procesados = set(enriquecidos_data.keys())  # conjunto de dominios ya en JSON
+
+for dom in selected_domains:
+    if dom in procesados:
+        st.write(f"⚠️ Dominio {dom} ya procesado previamente, se omite para evitar duplicados.")
+        continue
+    # ... proceder a enriquecer dom si no estaba procesado
+    # luego de obtener resultados:
+    enriquecidos_data[dom] = info_contactos_dom
+    procesados.add(dom)
+    # opcional: escribir una entrada en enriquecidos.log
+
+
+Al final, escribir de nuevo el JSON actualizado al archivo.
+
+Resumen de Pasos para Copilot (Esqueleto)
+
+Para generar el código con GitHub Copilot, puedes seguir una estructura comentada que describa cada parte. Por ejemplo, en el archivo nav_Enriquecer.py, comenzar con un comentario largo que sintetice estos pasos, y luego ir implementando sección por sección. Un posible enfoque:
+
+# nav_Enriquecer.py
+
+# 1. Importar librerías necesarias (streamlit, json, os, dotenv, requests, etc.)
+# 2. Cargar configuración desde .env (puntaje mínimo, API keys)
+# 3. Cargar datos de etapas 1 y 2 (por ejemplo, leer CSV/JSON con pandas o json module)
+# 4. Filtrar dominios por puntaje mínimo y preparar estructura de datos por dominio
+# 5. Configurar interfaz de usuario con Streamlit:
+#    - Mostrar título y descripción
+#    - Campo de búsqueda para filtrar dominios/personas
+#    - Lista (multiselect) de dominios aptos filtrados
+#    - Botón para ejecutar enriquecimiento
+# 6. Al hacer clic en "Enriquecer":
+#    - Para cada dominio seleccionado:
+#       a. Verificar si ya está procesado (en JSON log)
+#       b. Obtener datos necesarios (nombre empresa, personas, etc.)
+#       c. Consultar APIs de Lusha/RocketReach/ContactOut según disponibilidad:
+#           - Buscar personas con roles relevantes (marketing/eventos) usando dominio/empresa
+#           - O buscar correos de personas específicas si tenemos nombres
+#       d. Recopilar resultados en estructura (lista de contactos)
+#       e. Añadir resultados al dict global enriquecidos_data
+#       f. Loggear la operación (en consola, Streamlit, y/o archivo log)
+#    - Guardar enriquecidos_data a JSON (incremental)
+#    - Mostrar resumen de resultados (ej. "Dominio X: 2 nuevos contactos añadidos")
+#
+# 7. Finalizar mostrando quizás un enlace o botón para descargar el JSON de resultados, etc.
+
+# ... (Luego iniciar a codificar según este plan)
+
+
+Siguiendo este plan detallado en comentarios, Copilot podrá ayudarte a generar automáticamente partes significativas del código para cada sección. Asegúrate de revisar y completar las llamadas a APIs específicas con los formatos correctos (consultando la documentación si es necesario) y probar el script para verificar que funciona correctamente con tus datos y credenciales.
+
+¡Con esta guía, tendrás un blueprint claro para implementar nav_Enriquecer.py usando Copilot de forma eficaz!

@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-21T17:12:48.290918",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T17:12:44.347908",
+      "company": {
+        "name": null,
+        "domain": "themooringsclub.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 4001071,
+          "description": "Established over 40 years ago, The Moorings Yacht & Country Club is one of Vero Beach’s most prestigious, private, member owned clubs. Located on the shores of the Indian River Lagoon, a piece of paradise awaits you. Here you’ll find a challenging Pete Dye designed 18 hole golf course, 9 Har-Tru® tennis courts open for day and night play, a state-of-the art fitness center, pool & spa, an active yacht club and deep water dockage, a dynamic social calendar, as well as a beautifully appointed club house offering fine and casual dining experiences.At the Moorings Yacht & Country Club in Vero Beach, Florida, whether you are a year-round or seasonal resident, just starting a family or enjoying retirement, our members quickly discover for themselves a rewarding atmosphere designed for play, relaxation, and renewal. We invite you to come and discover The Moorings Yacht & Country Club, where our staff is dedicated to delivering world class amenities and offering you an unsurpassed lifestyle!",
+          "domain": "themooringsclub.com",
+          "employees": "51 - 200",
+          "fqdn": "www.themooringsclub.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/1/d5/1d5a2904d29dd884f9ae917ad4c1db5e",
+          "name": "The Moorings Yacht & Country Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/the-moorings-yacht-%26-country-club"
+            }
+          },
+          "address": "Vero Beach North America United States US 100 Harbour Drive; Vero Beach, Florida 32963, US Florida FL -80.39727020263672,27.638639450073242 ",
+          "location": {
+            "city": "Vero Beach",
+            "country": "United States",
+            "fullLocation": "Vero Beach North America United States US 100 Harbour Drive; Vero Beach, Florida 32963, US Florida FL -80.39727020263672,27.638639450073242 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "100 Harbour Drive; Vero Beach, Florida 32963, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://themooringsclub.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T17:12:45.540287",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T17:12:48.286216",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

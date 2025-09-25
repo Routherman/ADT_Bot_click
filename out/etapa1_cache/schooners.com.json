@@ -1,0 +1,1493 @@
+{
+  "site_url": "https://schooners.com/",
+  "domain": "schooners.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://schooners.com/",
+    "https://schooners.com/about/map.htm",
+    "https://schooners.com/calendar",
+    "https://schooners.com/about/hours-of-operation.htm",
+    "https://schooners.com/calendar/",
+    "https://schooners.com/events/",
+    "https://schooners.com/events/sunsetcelebration.htm",
+    "https://schooners.com/events/valentines.htm",
+    "https://schooners.com/events/easter.htm",
+    "https://schooners.com/events/mklewis.htm",
+    "https://schooners.com/events/mothersday.htm",
+    "https://schooners.com/events/lobsterfestival.htm",
+    "https://schooners.com/events/lobzilla.htm",
+    "https://schooners.com/events/fallback50.htm",
+    "https://schooners.com/events/welcome-to-the-holidays.htm",
+    "https://schooners.com/events/christmasparty.htm",
+    "https://schooners.com/events/newyears.htm",
+    "https://schooners.com/about/about.htm",
+    "https://schooners.com/about/contactus.htm",
+    "https://schooners.com/about/lastlocal.htm",
+    "https://schooners.com/about/press.htm",
+    "https://schooners.com/about/pcbarea.htm",
+    "https://schooners.com/about/nearby_hotels.htm",
+    "https://schooners.com/about/weather.htm",
+    "https://schooners.com/about/employment.htm",
+    "https://schooners.com/about/links.htm",
+    "https://schooners.com/about/",
+    "https://schooners.com/index.htm",
+    "https://schooners.com/menu/",
+    "https://schooners.com/menu/special-takeout-hours.htm",
+    "https://schooners.com/multimedia/",
+    "https://schooners.com/multimedia/sunsetcam.htm",
+    "https://schooners.com/multimedia/hillbarcam.htm",
+    "https://schooners.com/multimedia/beachcam.htm",
+    "https://schooners.com/gallery/",
+    "https://schooners.com/multimedia/video.htm",
+    "https://store.schooners.com/",
+    "https://schooners.com/multimedia/livecams.htm",
+    "https://store.schooners.com/cart",
+    "https://store.schooners.com/collections/gift-cards",
+    "https://store.schooners.com/products/25-gift-card",
+    "https://store.schooners.com/products/50-schooners-gift-card",
+    "https://store.schooners.com/products/100-schooners-gift-card",
+    "https://store.schooners.com/collections/all",
+    "https://store.schooners.com/collections/gift-cards/products/25-gift-card",
+    "https://store.schooners.com/collections/gift-cards/products/50-schooners-gift-card",
+    "https://store.schooners.com/collections/gift-cards/products/100-schooners-gift-card",
+    "https://store.schooners.com/collections/all/products/100-schooners-gift-card",
+    "https://store.schooners.com/collections/all/products/25-gift-card",
+    "https://store.schooners.com/collections/all/products/50-schooners-gift-card"
+  ],
+  "candidates": [
+    "https://schooners.com/about/contactus.htm",
+    "https://schooners.com/about/",
+    "https://schooners.com/about/about.htm",
+    "https://schooners.com/about/employment.htm",
+    "https://schooners.com/about/hours-of-operation.htm",
+    "https://schooners.com/about/lastlocal.htm",
+    "https://schooners.com/about/links.htm",
+    "https://schooners.com/about/map.htm",
+    "https://schooners.com/about/nearby_hotels.htm",
+    "https://schooners.com/about/pcbarea.htm",
+    "https://schooners.com/about/press.htm",
+    "https://schooners.com/about/weather.htm",
+    "https://schooners.com/calendar",
+    "https://schooners.com/calendar/",
+    "https://schooners.com/events/",
+    "https://schooners.com/events/christmasparty.htm",
+    "https://schooners.com/events/easter.htm",
+    "https://schooners.com/events/fallback50.htm",
+    "https://schooners.com/events/lobsterfestival.htm",
+    "https://schooners.com/events/lobzilla.htm",
+    "https://schooners.com/events/mklewis.htm",
+    "https://schooners.com/events/mothersday.htm",
+    "https://schooners.com/events/newyears.htm",
+    "https://schooners.com/events/sunsetcelebration.htm",
+    "https://schooners.com/events/valentines.htm",
+    "https://schooners.com/events/welcome-to-the-holidays.htm",
+    "https://schooners.com/",
+    "https://schooners.com/contact",
+    "https://schooners.com/contact/",
+    "https://schooners.com/contact-us",
+    "https://schooners.com/contact-us/",
+    "https://schooners.com/contactus",
+    "https://schooners.com/contactus/",
+    "https://schooners.com/about",
+    "https://schooners.com/about-us",
+    "https://schooners.com/about-us/",
+    "https://schooners.com/visit",
+    "https://schooners.com/visit/",
+    "https://schooners.com/location",
+    "https://schooners.com/location/",
+    "https://schooners.com/directions",
+    "https://schooners.com/directions/"
+  ],
+  "per_page": {
+    "https://schooners.com/about/contactus.htm": {
+      "title": "Contact Us - Schooners",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/contactus.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/contactus.htm"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/contactus.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/about/": {
+      "title": "About Us - Schooners History, Contact Info and more",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/about/about.htm": {
+      "title": "About Us - Schooners",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/about.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/about.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/about/employment.htm": {
+      "title": "Employment Application - Schooners",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/employment.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/employment.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/about/hours-of-operation.htm": {
+      "title": "Hours of Operation - Schooners",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/hours-of-operation.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/hours-of-operation.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/about/lastlocal.htm": {
+      "title": "Our History - Schooners",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/lastlocal.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/lastlocal.htm"
+          ]
+        },
+        "bands": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/lastlocal.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/about/links.htm": {
+      "title": "Friends & Links - Schooners",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/links.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/links.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/about/map.htm": {
+      "title": "Map & Location - Schooners",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/map.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/map.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/about/nearby_hotels.htm": {
+      "title": "Hotels & Condos Near Schooners - Panama City Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/nearby_hotels.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/nearby_hotels.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800) 863-8415",
+        "(850) 233-1231",
+        "(850) 234-3133",
+        "(850) 234-6651",
+        "(850) 234-9741",
+        "(850) 235-0880",
+        "(850) 235-4154",
+        "(850) 235-4977",
+        "(850) 236-8988",
+        "(850) 236-9550",
+        "(855) 512-3843",
+        "(877) 222-9561",
+        "800-224-4853",
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/about/pcbarea.htm": {
+      "title": "About Panama City Beach - Schooners",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/pcbarea.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/pcbarea.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/about/press.htm": {
+      "title": "Press & Media - Schooners",
+      "band_hits": {
+        "live music": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/press.htm"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/press.htm"
+          ]
+        },
+        "stage": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/press.htm"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/press.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/",
+        "https://www.youtube.com/watch"
+      ]
+    },
+    "https://schooners.com/about/weather.htm": {
+      "title": "Panama City Beach Weather",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/weather.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about/weather.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/calendar": {
+      "title": "Schooners Calendar",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/calendar"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/calendar/": {
+      "title": "Schooners Calendar",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/calendar/"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/calendar/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/events/": {
+      "title": "Special Events at Schooners",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/events/christmasparty.htm": {
+      "title": "Locals' Christmas Party and Toy Drive",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/christmasparty.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/christmasparty.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/events/easter.htm": {
+      "title": "Easter Celebration",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/easter.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/easter.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/events/fallback50.htm": {
+      "title": "Fall Back 50 at Schooners",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/fallback50.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/fallback50.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/events/lobsterfestival.htm": {
+      "title": "Lobster Festival",
+      "band_hits": {
+        "live music": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/lobsterfestival.htm"
+          ]
+        },
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/lobsterfestival.htm"
+          ]
+        },
+        "stage": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/lobsterfestival.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/lobsterfestival.htm"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/lobsterfestival.htm"
+          ]
+        },
+        "lineup": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/lobsterfestival.htm"
+          ]
+        },
+        "bands": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/lobsterfestival.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/events/lobzilla.htm": {
+      "title": "Lobzilla",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/lobzilla.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/lobzilla.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/events/mklewis.htm": {
+      "title": "Margaret K. Lewis Beach Party",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/mklewis.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/mklewis.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/events/mothersday.htm": {
+      "title": "Mother's Day at Schooners",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/mothersday.htm"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/mothersday.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/mothersday.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/events/newyears.htm": {
+      "title": "New Year's Eve Celebration",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/newyears.htm"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/newyears.htm"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/newyears.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/newyears.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/events/sunsetcelebration.htm": {
+      "title": "Sunset Celebration",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/sunsetcelebration.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/sunsetcelebration.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/events/valentines.htm": {
+      "title": "Valentine's Day at Schooners",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/valentines.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/valentines.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/events/welcome-to-the-holidays.htm": {
+      "title": "Welcome to the Holidays",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/welcome-to-the-holidays.htm"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/events/welcome-to-the-holidays.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/": {
+      "title": "Schooners - The Last Local Beach Club - Panama City Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 235-3555",
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://www.facebook.com/SchoonersPCB",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/contact": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://schooners.com/contact/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://schooners.com/contact-us": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://schooners.com/contact-us/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://schooners.com/contactus": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://schooners.com/contactus/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://schooners.com/about": {
+      "title": "About Us - Schooners History, Contact Info and more",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://schooners.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-235-3555"
+      ],
+      "socials": [
+        "https://instagram.com/schoonerspcb",
+        "https://www.facebook.com/SchoonersPCB/",
+        "https://www.instagram.com/schoonerspcb/"
+      ]
+    },
+    "https://schooners.com/about-us": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://schooners.com/about-us/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://schooners.com/visit": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://schooners.com/visit/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://schooners.com/location": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://schooners.com/location/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://schooners.com/directions": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://schooners.com/directions/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

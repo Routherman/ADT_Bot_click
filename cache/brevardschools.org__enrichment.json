@@ -1,0 +1,132 @@
+{
+  "timestamp": "2025-09-23T02:11:03.272956",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T02:10:58.771432",
+      "company": {
+        "name": null,
+        "domain": "brevardschools.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 413873,
+          "description": "Our Mission: To Serve Every Student with Excellence as the Standard!\nOur Vision: Brevard Public Schools will serve our community and enhance students' lives by delivering the highest quality education in a culture of dedication, collaboration, & learning.  \n\nBrevard Public Schools is the 49th largest district in the U.S. and the 9th largest district in Florida.  As the largest employer in Brevard County, BPS employs approximately 9,300 staff members serving over 73,000 students annually.  With 83 schools, 10 special centers, and 12 charter schools, the district educates its students in 17 different municipalities across the Space Coast.  Brevard Public School's goal is to serve our community and enhance students' lives by delivering the highest quality education in a culture of dedication, collaboration and learning.",
+          "domain": "brevardschools.org",
+          "employees": "10001 - 100000",
+          "fqdn": "www.brevardschools.org",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=30/j_lvlwj21o2g5cgcaxt8.c60d487b65d5485cb898c56033b77546a4f5bdde.file_lvlx9g1m2o0koruegj.logo_cached.jpg",
+          "name": "Brevard Public Schools",
+          "revenueRange": [],
+          "mainIndustry": "Education",
+          "subIndustry": "Primary & Secondary Education",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/brevardcountyschools"
+            }
+          },
+          "address": "North America United States US 2700 Judge Fran Jamieson Way; Viera, FL 32940, US Florida FL ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 2700 Judge Fran Jamieson Way; Viera, FL 32940, US Florida FL ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "2700 Judge Fran Jamieson Way; Viera, FL 32940, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8211,
+                "description": "Elementary and secondary schools"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 611110,
+                "description": "Elementary and Secondary Schools"
+              }
+            ]
+          },
+          "website": "https://brevardschools.org",
+          "specialities": [
+            "education",
+            "k-12",
+            "public schools",
+            "school districts",
+            "teaching"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T02:10:59.967822",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T02:11:03.264235",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

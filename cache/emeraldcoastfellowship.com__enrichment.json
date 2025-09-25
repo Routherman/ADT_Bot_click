@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-22T19:50:56.094053",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T19:50:52.204857",
+      "company": {
+        "name": null,
+        "domain": "emeraldcoastfellowship.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 4244168,
+          "description": "Emerald Coast Fellowship is an education management company based out of 4102 W Highway 390, Lynn Haven, Florida, United States.",
+          "domain": "emeraldcoastfellowship.com",
+          "employees": "1 - 10",
+          "fqdn": "www.emeraldcoastfellowship.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/9/9c/99c3730499777a461f89bb9395a8593b",
+          "name": "Emerald Coast Fellowship",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Education",
+          "subIndustry": "Other",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/emerald-coast-fellowship"
+            }
+          },
+          "address": "North America United States US 4102 W Highway 390; Lynn Haven, Florida 32444-4580, US ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 4102 W Highway 390; Lynn Haven, Florida 32444-4580, US ",
+            "state": "",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "4102 W Highway 390; Lynn Haven, Florida 32444-4580, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8299,
+                "description": "Schools and educational services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 611699,
+                "description": "All Other Miscellaneous Schools and Instruction"
+              }
+            ]
+          },
+          "website": "https://emeraldcoastfellowship.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T19:50:53.401913",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T19:50:56.090087",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

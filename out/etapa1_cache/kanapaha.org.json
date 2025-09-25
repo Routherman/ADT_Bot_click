@@ -1,0 +1,232 @@
+{
+  "site_url": "https://kanapaha.org/",
+  "domain": "kanapaha.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://kanapaha.org/",
+    "https://kanapaha.org/visit",
+    "https://kanapaha.org/events",
+    "https://kanapaha.org/membership",
+    "https://kanapaha.org/contact",
+    "https://kanapaha.org/rental-1",
+    "https://kanapaha.org/volunteer",
+    "https://kanapaha.org/donate",
+    "https://kanapaha.org/photography-%26-rules",
+    "https://kanapaha.org/plaque-sponsor",
+    "https://kanapaha.org/gift-shop-vendor-inquiry",
+    "https://kanapaha.org/map-1",
+    "https://kanapaha.org/bamboo-sale",
+    "https://kanapaha.org/spring-garden-festival",
+    "https://kanapaha.org/fall-plant-sale",
+    "https://kanapaha.org/replacement-policy"
+  ],
+  "candidates": [
+    "https://kanapaha.org/contact",
+    "https://kanapaha.org/events",
+    "https://kanapaha.org/membership",
+    "https://kanapaha.org/visit",
+    "https://kanapaha.org/"
+  ],
+  "per_page": {
+    "https://kanapaha.org/contact": {
+      "title": "Contact",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://kanapaha.org/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 372-4981"
+      ],
+      "socials": [
+        "https://www.facebook.com/214381398572829",
+        "https://www.instagram.com/kanapahagardens/"
+      ]
+    },
+    "https://kanapaha.org/events": {
+      "title": "Events",
+      "band_hits": {
+        "event": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://kanapaha.org/events"
+          ]
+        },
+        "show": {
+          "total": 16,
+          "zones": {
+            "title": 0,
+            "body": 16,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://kanapaha.org/events"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://kanapaha.org/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/214381398572829",
+        "https://www.instagram.com/kanapahagardens/"
+      ]
+    },
+    "https://kanapaha.org/membership": {
+      "title": "Membership",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://kanapaha.org/membership"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/214381398572829",
+        "https://www.instagram.com/kanapahagardens/"
+      ]
+    },
+    "https://kanapaha.org/visit": {
+      "title": "Visit",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://kanapaha.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 372-4981"
+      ],
+      "socials": [
+        "https://www.facebook.com/214381398572829",
+        "https://www.instagram.com/kanapahagardens/"
+      ]
+    },
+    "https://kanapaha.org/": {
+      "title": "Kanapaha - Home",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://kanapaha.org/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://kanapaha.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/214381398572829",
+        "https://www.instagram.com/kanapahagardens/"
+      ]
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-19T11:45:15.003833",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T11:45:11.059346",
+      "company": {
+        "name": null,
+        "domain": "westmelbourne.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 6321936,
+          "description": "MISSION STATEMENT\nThe West Melbourne Police Department’s mission is to provide exceptional service while relentlessly pursuing justice to foster a safe community.\nWe are drive by our calling to serve the people with honor, courage and integrity.\n\nHISTORY\nThe West Melbourne Police Department traces its roots back to 1959 shortly after the City was created. Today our Department has 52 sworn officers and 10 professional staff members. Together we are responsible for the protection and safety of West Melbourne's 28,857 residents as well as the many visitors that come and go through our city every day.\n\nSERVING THE COMMUNITY\nIt is important for us to stay connected within the community we serve. It is also important that you are informed about what we do, how we accomplish our work and how you can assist us in being successful with our public safety endeavors. Our website is one tool we use to achieve this goal. Thank you for visiting our Police Department's website and we welcome your suggestions, comments and views on how we can better meet your needs.\n\nACCREDITATION\nThe West Melbourne Police Department is accredited through the Commission for Florida Law Enforcement Accreditation (CFA). To be accredited we had to come into compliance with over 260 Commission approved standards, mostly relating to life, health and safety. The Department officially obtained accreditation status on June 22, 2016 and we were reaccredited in February 2020 and February 2023.  The award is in effect for a three-year period.\n\nTO APPLY: https://westmelbourne.gov/careers",
+          "domain": "westmelbourne.org",
+          "employees": "51 - 200",
+          "founded": "1959",
+          "fqdn": "www.westmelbourne.org",
+          "logoUrl": "https://logo.lusha.co/d/company_6321936_logo.svg",
+          "name": "West Melbourne Police Department",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Government",
+          "subIndustry": "Law Enforcement",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/west-melbourne-police-dept"
+            }
+          },
+          "address": "West Melbourne North America United States US 2290 Minton Rd; West Melbourne, FL 32904, US Florida FL -80.65338897705078,28.071680068969727 ",
+          "location": {
+            "city": "West Melbourne",
+            "country": "United States",
+            "fullLocation": "West Melbourne North America United States US 2290 Minton Rd; West Melbourne, FL 32904, US Florida FL -80.65338897705078,28.071680068969727 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "2290 Minton Rd; West Melbourne, FL 32904, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 9221,
+                "description": "Police protection"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 922120,
+                "description": "Police Protection"
+              }
+            ]
+          },
+          "website": "https://westmelbourne.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T11:45:12.299350",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T11:45:15.000088",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

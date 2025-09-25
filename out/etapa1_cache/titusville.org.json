@@ -1,0 +1,495 @@
+{
+  "site_url": "https://titusville.org/",
+  "domain": "titusville.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://titusville.org/",
+    "https://titusville.org/contact-us",
+    "https://titusville.org/your-chamber/membership-benefits",
+    "https://titusville.org/your-chamber/staff-members",
+    "https://titusville.org/visiting-here",
+    "https://titusville.org/visiting-here/ideas-itineraries",
+    "https://titusville.org/visiting-here/our-welcome-center",
+    "https://titusville.org/visiting-here/share-your-adventure",
+    "https://titusville.org/visiting-here/stay",
+    "https://titusville.org/visiting-here/play",
+    "https://titusville.org/visiting-here/shop",
+    "https://titusville.org/visiting-here/dine",
+    "https://titusville.org/visiting-here/space",
+    "https://titusville.org/visiting-here/nature",
+    "https://members.titusville.org/events",
+    "https://members.titusville.org/events?oe=true",
+    "https://members.titusville.org/events?ce=true",
+    "https://members.titusville.org/wcevents/eventsubmission.aspx",
+    "https://titusville.org/visiting-here?utm_source=sliderbutton&utm_medium=slider&utm_campaign=homeslider",
+    "https://titusville.org/news/space-exploration/blue-origins-new-glenn-reaches-orbit",
+    "https://titusville.org/news/save-our-indian-river-lagoon-100th-project-celebration-clams-across-the-lagoon",
+    "https://titusville.org/news/brevard-public-schools-named-a-purple-star-district",
+    "https://titusville.org/news/space-exploration/blue-origins-new-glenn-rocket-may-launch-this-week",
+    "https://titusville.org/news/brevard-county-picks-fox-lake-for-januarys-top-spot",
+    "https://titusville.org/news/space-exploration/2024-launches-easily-break-the-previous-record-by-29",
+    "https://titusville.org/news/space-exploration/new-glenn-ready-to-go",
+    "https://titusville.org/news/sand-point-is-park-of-the-month",
+    "https://titusville.org/news/astronaut-high-cheerleaders-in-macys-parade",
+    "https://members.titusville.org/events/North-Brevard-Prom-Closet-21385/details",
+    "https://titusville.org",
+    "https://members.titusville.org/atlas",
+    "https://titusville.org/your-chamber",
+    "https://titusville.org/your-chamber/board-of-directors",
+    "https://titusville.org/your-chamber/committees",
+    "https://titusville.org/your-chamber/affinity-partners",
+    "https://titusville.org/100years",
+    "https://titusville.org/adventure-videos",
+    "https://titusville.org/adventure-photos",
+    "https://titusville.org/maps",
+    "https://titusville.org/trails",
+    "https://titusville.org/launch-from-here",
+    "https://titusville.org/onthemove",
+    "https://titusville.org/our-community/florida-trail-town"
+  ],
+  "candidates": [
+    "https://titusville.org/contact-us",
+    "https://members.titusville.org/events",
+    "https://members.titusville.org/events/North-Brevard-Prom-Closet-21385/details",
+    "https://members.titusville.org/events?ce=true",
+    "https://members.titusville.org/events?oe=true",
+    "https://members.titusville.org/wcevents/eventsubmission.aspx",
+    "https://titusville.org/your-chamber/membership-benefits",
+    "https://titusville.org/your-chamber/staff-members",
+    "https://titusville.org/visiting-here",
+    "https://titusville.org/visiting-here/dine",
+    "https://titusville.org/visiting-here/ideas-itineraries",
+    "https://titusville.org/visiting-here/nature",
+    "https://titusville.org/visiting-here/our-welcome-center",
+    "https://titusville.org/visiting-here/play",
+    "https://titusville.org/visiting-here/share-your-adventure",
+    "https://titusville.org/visiting-here/shop",
+    "https://titusville.org/visiting-here/space",
+    "https://titusville.org/visiting-here/stay",
+    "https://titusville.org/visiting-here?utm_source=sliderbutton&utm_medium=slider&utm_campaign=homeslider",
+    "https://titusville.org/news/astronaut-high-cheerleaders-in-macys-parade",
+    "https://titusville.org/news/brevard-county-picks-fox-lake-for-januarys-top-spot",
+    "https://titusville.org/news/brevard-public-schools-named-a-purple-star-district",
+    "https://titusville.org/news/sand-point-is-park-of-the-month",
+    "https://titusville.org/news/save-our-indian-river-lagoon-100th-project-celebration-clams-across-the-lagoon",
+    "https://titusville.org/news/space-exploration/2024-launches-easily-break-the-previous-record-by-29",
+    "https://titusville.org/news/space-exploration/blue-origins-new-glenn-reaches-orbit",
+    "https://titusville.org/news/space-exploration/blue-origins-new-glenn-rocket-may-launch-this-week",
+    "https://titusville.org/news/space-exploration/new-glenn-ready-to-go",
+    "https://titusville.org",
+    "https://titusville.org/",
+    "https://titusville.org/contact",
+    "https://titusville.org/contact/",
+    "https://titusville.org/contact-us/",
+    "https://titusville.org/contactus",
+    "https://titusville.org/contactus/",
+    "https://titusville.org/about",
+    "https://titusville.org/about/",
+    "https://titusville.org/about-us",
+    "https://titusville.org/about-us/",
+    "https://titusville.org/visit",
+    "https://titusville.org/visit/",
+    "https://titusville.org/location",
+    "https://titusville.org/location/",
+    "https://titusville.org/directions",
+    "https://titusville.org/directions/"
+  ],
+  "per_page": {
+    "https://titusville.org/contact-us": {
+      "title": "Contact Us - Titusville FL Chamber of Commerce",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://titusville.org/contact-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://titusville.org/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@titusville.org"
+      ],
+      "phones": [
+        "(321) 348-4748",
+        "(321) 607-6216"
+      ],
+      "socials": [
+        "https://www.facebook.com/titusvillechamber/",
+        "https://www.instagram.com/launchfromhere/",
+        "https://www.linkedin.com/company/titusvillechamber",
+        "https://www.youtube.com/channel/UCIM2W-xS9wQRxrBu3ISzUHw"
+      ]
+    },
+    "https://members.titusville.org/events": {
+      "title": "Events",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://members.titusville.org/events"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://members.titusville.org/events"
+          ]
+        }
+      },
+      "emails": [
+        "info@titusville.org"
+      ],
+      "phones": [
+        "(321) 264-0127",
+        "(321) 267-3036",
+        "321.267.3036"
+      ],
+      "socials": [
+        "https://www.facebook.com/titusvillechamber/",
+        "https://www.instagram.com/launchfromhere/",
+        "https://www.linkedin.com/company/titusvillechamber",
+        "https://www.youtube.com/channel/UCIM2W-xS9wQRxrBu3ISzUHw"
+      ]
+    },
+    "https://members.titusville.org/events/North-Brevard-Prom-Closet-21385/details": {
+      "title": "North Brevard Prom Closet",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://members.titusville.org/events/North-Brevard-Prom-Closet-21385/details"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://members.titusville.org/events/North-Brevard-Prom-Closet-21385/details"
+          ]
+        }
+      },
+      "emails": [
+        "info@titusville.org"
+      ],
+      "phones": [
+        "(321) 264-0127",
+        "(321) 267-3036",
+        "321.267.3036"
+      ],
+      "socials": [
+        "https://www.facebook.com/titusvillechamber/",
+        "https://www.instagram.com/launchfromhere/",
+        "https://www.linkedin.com/company/titusvillechamber",
+        "https://www.youtube.com/channel/UCIM2W-xS9wQRxrBu3ISzUHw"
+      ]
+    },
+    "https://members.titusville.org/events?ce=true": {
+      "title": "Events",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://members.titusville.org/events?ce=true"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://members.titusville.org/events?ce=true"
+          ]
+        }
+      },
+      "emails": [
+        "info@titusville.org"
+      ],
+      "phones": [
+        "(321) 264-0127",
+        "(321) 267-3036",
+        "321.267.3036"
+      ],
+      "socials": [
+        "https://www.facebook.com/titusvillechamber/",
+        "https://www.instagram.com/launchfromhere/",
+        "https://www.linkedin.com/company/titusvillechamber",
+        "https://www.youtube.com/channel/UCIM2W-xS9wQRxrBu3ISzUHw"
+      ]
+    },
+    "https://members.titusville.org/events?oe=true": {
+      "title": "Events",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://members.titusville.org/events?oe=true"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://members.titusville.org/events?oe=true"
+          ]
+        }
+      },
+      "emails": [
+        "info@titusville.org"
+      ],
+      "phones": [
+        "(321) 264-0127",
+        "(321) 267-3036",
+        "321.267.3036"
+      ],
+      "socials": [
+        "https://www.facebook.com/titusvillechamber/",
+        "https://www.instagram.com/launchfromhere/",
+        "https://www.linkedin.com/company/titusvillechamber",
+        "https://www.youtube.com/channel/UCIM2W-xS9wQRxrBu3ISzUHw"
+      ]
+    },
+    "https://members.titusville.org/wcevents/eventsubmission.aspx": {
+      "title": "Atlas",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://titusville.org/your-chamber/membership-benefits": {
+      "title": "Member Benefits / Join - Titusville FL Chamber of Commerce",
+      "band_hits": {
+        "event": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://titusville.org/your-chamber/membership-benefits"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://titusville.org/your-chamber/membership-benefits"
+          ]
+        }
+      },
+      "emails": [
+        "info@titusville.org"
+      ],
+      "phones": [
+        "(321) 348-4748"
+      ],
+      "socials": [
+        "https://www.facebook.com/titusvillechamber/",
+        "https://www.instagram.com/launchfromhere/",
+        "https://www.linkedin.com/company/titusvillechamber",
+        "https://www.youtube.com/channel/UCIM2W-xS9wQRxrBu3ISzUHw"
+      ]
+    },
+    "https://titusville.org/your-chamber/staff-members": {
+      "title": "Staff Members - Titusville FL Chamber of Commerce",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://titusville.org/your-chamber/staff-members"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://titusville.org/your-chamber/staff-members"
+          ]
+        }
+      },
+      "emails": [
+        "akins@titusville.org",
+        "bates@titusville.org",
+        "dibacco@titusville.org",
+        "hensler@titusville.org",
+        "info@titusville.org",
+        "reichle@titusville.org"
+      ],
+      "phones": [
+        "(321) 348-4748"
+      ],
+      "socials": [
+        "https://www.facebook.com/titusvillechamber/",
+        "https://www.instagram.com/launchfromhere/",
+        "https://www.linkedin.com/company/titusvillechamber",
+        "https://www.youtube.com/channel/UCIM2W-xS9wQRxrBu3ISzUHw"
+      ]
+    },
+    "https://titusville.org/visiting-here": {
+      "title": "Visiting Here - Titusville FL Chamber of Commerce",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://titusville.org/visiting-here"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://titusville.org/visiting-here"
+          ]
+        }
+      },
+      "emails": [
+        "info@titusville.org"
+      ],
+      "phones": [
+        "(321) 348-4748",
+        "321-267-3036",
+        "386-428-3384"
+      ],
+      "socials": [
+        "https://www.facebook.com/titusvillechamber/",
+        "https://www.instagram.com/launchfromhere/",
+        "https://www.linkedin.com/company/titusvillechamber",
+        "https://www.youtube.com/channel/UCIM2W-xS9wQRxrBu3ISzUHw"
+      ]
+    }
+  }
+}

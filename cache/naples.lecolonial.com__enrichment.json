@@ -1,0 +1,126 @@
+{
+  "timestamp": "2025-09-21T15:37:35.120748",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T15:37:31.092887",
+      "company": {
+        "name": null,
+        "domain": "naples.lecolonial.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 23645795,
+          "description": "Le Colonial is a celebration of seductive spirit and vivid flavors reminiscent of Saigon in the 1920s. With locations in Chicago, Houston, Atlanta, Lake Forest, Delray Beach and Naples, the famed Vietnamese restaurant is designed to capture a bygone era of romance and soft architecture.\n\n*Naples - Coming soon.\nHeralded as \"an escapist’s paradise,\" celebrated restaurateurs Rick Wahlstedt and Joe King deliver on exquisite attention to detail in a luxurious classic and idyllic atmosphere to the America's best cities. \n\n* Delray Beach, Naples, Scottsdale and Denver soon!\n\n\nFounded in 1993 in NYC by Rick Wahlstedt and three Frenchmen, Le Colonial remain a culinary innovation, offering an upscale French-Vietnamese fusion cuisine. Shortly after its opening, Le Colonial NYC quickly became the place to be and be seen on the Upper East Side, hosting the the likes of Robert DeNiro and Madonna. It features a dining room on the first floor, and a lounge on the second floor – the first of its kind in an industry where separating the bar from the dining room was thought to be a faux-pas. \n \nThe restaurant was a great success, and in 1996, Rick partnered with Joe King to open Le Colonial in Chicago, where the concept proved once again to be a triumph. Today, Le Colonial Chicago has become an emblem of the Windy City.\n \n2016 saw the two entrepreneurs take Le Colonial to the next level, by opening two new locations (Houston 2016, Atlanta 2019), re-designing all locations to become the iconic décor and dining experience it is today, and re-inventing the menu with incredible flavors and pairings. \n\nIn the next two years, Le Colonial will be opening 5 new locations in Lake Forest, Delray Beach, Naples, Scottsdale and Cherry Creek.",
+          "domain": "lecolonial.com",
+          "employees": "201 - 500",
+          "founded": "1993",
+          "fqdn": "www.lecolonial.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/9/ae/9ae9be871e9a69e9e8b4458899a1b8bf",
+          "name": "Le Colonial",
+          "revenueRange": [],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/le-colonial"
+            }
+          },
+          "address": "Chicago North America United States US 57 E Oak St; Chicago, Illinois 60611, US Illinois IL -87.6500473022461,41.85002899169922 ",
+          "location": {
+            "city": "Chicago",
+            "country": "United States",
+            "fullLocation": "Chicago North America United States US 57 E Oak St; Chicago, Illinois 60611, US Illinois IL -87.6500473022461,41.85002899169922 ",
+            "state": "Illinois",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "57 E Oak St; Chicago, Illinois 60611, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://lecolonial.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T15:37:32.436516",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T15:37:35.115819",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

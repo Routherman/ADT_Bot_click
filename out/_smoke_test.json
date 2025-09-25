@@ -1,0 +1,227 @@
+{
+  "thebull-gnv.com": {
+    "site_info": {
+      "name": "Thebull-gnv",
+      "location": "Unknown",
+      "type": "Business"
+    },
+    "contacts": [],
+    "enrichment_sources": {
+      "lusha": {
+        "status": "not_found",
+        "last_check": "2025-09-16T09:26:18.252284"
+      },
+      "contactout": {
+        "status": "not_found",
+        "last_check": "2025-09-16T09:26:18.255505"
+      },
+      "rocketreach": {
+        "status": "not_found",
+        "last_check": "2025-09-16T09:26:18.257789"
+      }
+    },
+    "metadata": {
+      "last_updated": "2025-09-16T09:35:38.584390",
+      "confidence_scoring": {
+        "description": "0.0-1.0 scale where:\n0.9+ Direct website listing with role\n0.7-0.8 Indirect website mention with context\n0.5-0.6 External source or unclear context\n<0.5 Uncertain association"
+      }
+    }
+  },
+  "melbournevillage.org": {
+    "site_info": {
+      "name": "Melbourne Village",
+      "location": "Unknown",
+      "type": "Business"
+    },
+    "contacts": [
+      {
+        "email": "deputyclerk@melbournevillage.org",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://www.melbournevillage.org/",
+                "context": "deputyclerk@melbournevillage.org",
+                "timestamp": "2025-09-16T12:05:39.707962"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "townclerk@melbournevillage.org",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://www.melbournevillage.org/225/Staff-Directory",
+                "context": "townclerk@melbournevillage.org",
+                "timestamp": "2025-09-16T12:06:23.172657"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "officemanager@melbournevillage.org",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://www.melbournevillage.org/225/Staff-Directory",
+                "context": "officemanager@melbournevillage.org",
+                "timestamp": "2025-09-16T12:06:23.172674"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "publicworks@melbournevillage.org",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://www.melbournevillage.org/225/Staff-Directory",
+                "context": "publicworks@melbournevillage.org",
+                "timestamp": "2025-09-16T12:06:23.172682"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "sditty@yahoo.com",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.65,
+            "sources": [
+              {
+                "type": "web_search",
+                "url": "yahoo search",
+                "context": "free to contact me if you have questions or concerns at (321) 626-7554 (leave a message) or email, sditty@yahoo.com. Searches related to site:melbournevillage.org leadership site : melbournevillage . org leadership",
+                "timestamp": "2025-09-16T12:10:34.272787"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found via web search"
+      }
+    ],
+    "enrichment_sources": {
+      "lusha": {
+        "status": "ok",
+        "last_check": "2025-09-16T11:33:46.886720",
+        "company": {
+          "name": null,
+          "domain": "melbournevillage.org",
+          "website": null,
+          "linkedin_url": null,
+          "industry": null,
+          "size": null,
+          "country": null,
+          "headquarter": null,
+          "founded_at": null,
+          "revenue": null,
+          "logo_url": null,
+          "locations": null,
+          "type": null,
+          "specialties": null
+        },
+        "raw": {
+          "errors": {
+            "message": "Company was not found."
+          }
+        }
+      },
+      "contactout": {
+        "status": "ok",
+        "last_check": "2025-09-16T11:33:48.046729",
+        "company": {
+          "name": "Test",
+          "domain": "test.com",
+          "website": "http://test.com",
+          "linkedin_url": "https://www.linkedin.com/company/test",
+          "industry": "Computer Software",
+          "size": 89,
+          "country": "United States",
+          "headquarter": "San Francisco, US",
+          "founded_at": 2015,
+          "revenue": "$5.4M",
+          "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+          "locations": [
+            "San Francisco, US"
+          ],
+          "type": "Privately Held",
+          "specialties": []
+        },
+        "raw": {
+          "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+          "status_code": 200,
+          "companies": [
+            {
+              "contactout.com": {
+                "li_vanity": "https://www.linkedin.com/company/test",
+                "name": "Test",
+                "domain": "test.com",
+                "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+                "website": "http://test.com",
+                "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+                "type": "Privately Held",
+                "headquarter": "San Francisco, US",
+                "country": "United States",
+                "size": 89,
+                "founded_at": 2015,
+                "locations": [
+                  "San Francisco, US"
+                ],
+                "industry": "Computer Software",
+                "specialties": [],
+                "revenue": "$5.4M"
+              }
+            }
+          ]
+        }
+      },
+      "rocketreach": {
+        "status": "unauthorized",
+        "last_check": "2025-09-16T11:33:50.493894",
+        "http_status": 403,
+        "message": "Clave inválida o plan sin acceso"
+      }
+    },
+    "metadata": {
+      "last_updated": "2025-09-16T12:10:55.788917",
+      "confidence_scoring": {
+        "description": "0.0-1.0 scale where:\n0.9+ Direct website listing with role\n0.7-0.8 Indirect website mention with context\n0.5-0.6 External source or unclear context\n<0.5 Uncertain association"
+      }
+    }
+  }
+}

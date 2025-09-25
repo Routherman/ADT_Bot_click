@@ -1,0 +1,178 @@
+{
+  "site_url": "https://keepitcalmevents.com/",
+  "domain": "keepitcalmevents.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://keepitcalmevents.com/",
+    "https://keepitcalmevents.com/weddingpackages",
+    "https://keepitcalmevents.com/contactus",
+    "https://keepitcalmevents.com/meetus",
+    "https://keepitcalmevents.com/goodstuff",
+    "https://keepitcalmevents.com/rentals",
+    "https://keepitcalmevents.com/order-forms",
+    "https://keepitcalmevents.com/back-yard-weddings"
+  ],
+  "candidates": [
+    "https://keepitcalmevents.com/contactus",
+    "https://keepitcalmevents.com/weddingpackages",
+    "https://keepitcalmevents.com/"
+  ],
+  "per_page": {
+    "https://keepitcalmevents.com/contactus": {
+      "title": "Inquiries — Keep it Calm Events",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 1,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://keepitcalmevents.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "hope@keepitcalmevents.com"
+      ],
+      "phones": [
+        "352-453-9067",
+        "3524539067"
+      ],
+      "socials": [
+        "http://instagram.com/keepitcalm_events"
+      ]
+    },
+    "https://keepitcalmevents.com/weddingpackages": {
+      "title": "Wedding Packages & Pricing — Keep it Calm Events",
+      "band_hits": {
+        "event": {
+          "total": 31,
+          "zones": {
+            "title": 1,
+            "body": 30,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://keepitcalmevents.com/weddingpackages"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://keepitcalmevents.com/weddingpackages"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://keepitcalmevents.com/weddingpackages"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://keepitcalmevents.com/weddingpackages"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-453-9067"
+      ],
+      "socials": [
+        "http://instagram.com/keepitcalm_events"
+      ]
+    },
+    "https://keepitcalmevents.com/": {
+      "title": "Keep it Calm Events",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://keepitcalmevents.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-453-9067"
+      ],
+      "socials": [
+        "http://instagram.com/keepitcalm_events"
+      ]
+    }
+  }
+}

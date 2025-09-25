@@ -1,0 +1,640 @@
+{
+  "site_url": "https://sandestin.com/",
+  "domain": "sandestin.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://sandestin.com/",
+    "https://sandestin.com/things-to-do/events",
+    "https://sandestin.com/about/resort-map",
+    "https://sandestin.com/about/tram-service",
+    "https://www.sandestin.com/about/clubs-membership?_ga=2.107898690.1744861518.1698075492-1559706979.1691428009",
+    "https://sandestin.com/golf/memberships",
+    "https://sandestin.com/gather/weddings",
+    "https://www.sandestin.com/gather/contacts?_ga=2.57001130.1868570888.1754927248-184112019.1747754175&_gac=1.187918170.1754517515.CjwKCAjw-svEBhB6EiwAEzSdrobrhWiIGHMAVdHdXhzHqq1wNpUmq84qH8w2ly9sq4GiAIDKNFfM4BoCNNkQAvD_BwE",
+    "https://sandestin.com/about",
+    "https://sandestin.com/about/rental-management",
+    "https://sandestin.com/about/winter-guests",
+    "https://sandestin.com/about/app",
+    "https://www.sandestin.com/about/winter-guests?_ga=2.62695205.862948346.1735578593-1781558678.1733846418",
+    "https://sandestin.com/gather/contacts",
+    "https://www.sandestin.com/book-now?resultFilterValue=",
+    "https://www.sandestin.com/offers-packages?_ga=2.253211338.2138162329.1757943996-441525608.1757342673&_gac=1.217043172.1757969259.Cj0KCQjw8p7GBhCjARIsAEhghZ0tyvbGIgfhXeOEw7XUuibX6XPZw8ZPFma9oOusfChRPFabruVhfJkaAkbyEALw_wcB",
+    "https://www.sandestin.com/resort-directory",
+    "https://sandestin.com/offers-packages",
+    "https://sandestin.com/blog",
+    "https://sandestin.com/sandestin-golf-and-beach-resort-webcams",
+    "https://sandestin.com/more/sandestin-living-magazine",
+    "https://sandestin.com/accommodations",
+    "https://sandestin.com/accommodations/osprey-pointe",
+    "https://sandestin.com/accommodations/beachside",
+    "https://sandestin.com/accommodations/beachfront",
+    "https://sandestin.com/accommodations/bayside-villas",
+    "https://sandestin.com/bayside-at-sandestin",
+    "https://sandestin.com/accommodations/lakeside",
+    "https://sandestin.com/accommodations/village-the-grand-complex",
+    "https://sandestin.com/accommodations/topsl-by-sandestin"
+  ],
+  "candidates": [
+    "https://sandestin.com/gather/contacts",
+    "https://www.sandestin.com/gather/contacts?_ga=2.57001130.1868570888.1754927248-184112019.1747754175&_gac=1.187918170.1754517515.CjwKCAjw-svEBhB6EiwAEzSdrobrhWiIGHMAVdHdXhzHqq1wNpUmq84qH8w2ly9sq4GiAIDKNFfM4BoCNNkQAvD_BwE",
+    "https://sandestin.com/about",
+    "https://sandestin.com/about/app",
+    "https://sandestin.com/about/rental-management",
+    "https://sandestin.com/about/resort-map",
+    "https://sandestin.com/about/tram-service",
+    "https://sandestin.com/about/winter-guests",
+    "https://www.sandestin.com/about/clubs-membership?_ga=2.107898690.1744861518.1698075492-1559706979.1691428009",
+    "https://www.sandestin.com/about/winter-guests?_ga=2.62695205.862948346.1735578593-1781558678.1733846418",
+    "https://sandestin.com/golf/memberships",
+    "https://sandestin.com/things-to-do/events",
+    "https://sandestin.com/gather/weddings",
+    "https://www.sandestin.com/book-now?resultFilterValue=",
+    "https://sandestin.com/",
+    "https://sandestin.com/contact",
+    "https://sandestin.com/contact/",
+    "https://sandestin.com/contact-us",
+    "https://sandestin.com/contact-us/",
+    "https://sandestin.com/contactus",
+    "https://sandestin.com/contactus/",
+    "https://sandestin.com/about/",
+    "https://sandestin.com/about-us",
+    "https://sandestin.com/about-us/",
+    "https://sandestin.com/visit",
+    "https://sandestin.com/visit/",
+    "https://sandestin.com/location",
+    "https://sandestin.com/location/",
+    "https://sandestin.com/directions",
+    "https://sandestin.com/directions/"
+  ],
+  "per_page": {
+    "https://sandestin.com/gather/contacts": {
+      "title": "Contacts | Sandestin Golf and Beach Resort",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/gather/contacts"
+          ]
+        },
+        "show": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/gather/contacts"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/gather/contacts"
+          ]
+        },
+        "acts": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/gather/contacts"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-622-1038",
+        "850-267-8285",
+        "850.267.8162",
+        "850.267.8736"
+      ],
+      "socials": []
+    },
+    "https://www.sandestin.com/gather/contacts?_ga=2.57001130.1868570888.1754927248-184112019.1747754175&_gac=1.187918170.1754517515.CjwKCAjw-svEBhB6EiwAEzSdrobrhWiIGHMAVdHdXhzHqq1wNpUmq84qH8w2ly9sq4GiAIDKNFfM4BoCNNkQAvD_BwE": {
+      "title": "Contacts | Sandestin Golf and Beach Resort",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.sandestin.com/gather/contacts?_ga=2.57001130.1868570888.1754927248-184112019.1747754175&_gac=1.187918170.1754517515.CjwKCAjw-svEBhB6EiwAEzSdrobrhWiIGHMAVdHdXhzHqq1wNpUmq84qH8w2ly9sq4GiAIDKNFfM4BoCNNkQAvD_BwE"
+          ]
+        },
+        "show": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.sandestin.com/gather/contacts?_ga=2.57001130.1868570888.1754927248-184112019.1747754175&_gac=1.187918170.1754517515.CjwKCAjw-svEBhB6EiwAEzSdrobrhWiIGHMAVdHdXhzHqq1wNpUmq84qH8w2ly9sq4GiAIDKNFfM4BoCNNkQAvD_BwE"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.sandestin.com/gather/contacts?_ga=2.57001130.1868570888.1754927248-184112019.1747754175&_gac=1.187918170.1754517515.CjwKCAjw-svEBhB6EiwAEzSdrobrhWiIGHMAVdHdXhzHqq1wNpUmq84qH8w2ly9sq4GiAIDKNFfM4BoCNNkQAvD_BwE"
+          ]
+        },
+        "acts": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.sandestin.com/gather/contacts?_ga=2.57001130.1868570888.1754927248-184112019.1747754175&_gac=1.187918170.1754517515.CjwKCAjw-svEBhB6EiwAEzSdrobrhWiIGHMAVdHdXhzHqq1wNpUmq84qH8w2ly9sq4GiAIDKNFfM4BoCNNkQAvD_BwE"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-622-1038",
+        "850-267-8285",
+        "850.267.8162",
+        "850.267.8736"
+      ],
+      "socials": []
+    },
+    "https://sandestin.com/about": {
+      "title": "About | Sandestin Golf and Beach Resort",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about"
+          ]
+        },
+        "show": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-622-1038",
+        "866-701-3720"
+      ],
+      "socials": []
+    },
+    "https://sandestin.com/about/app": {
+      "title": "Sandestin App | Sandestin Golf and Beach Resort",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/app"
+          ]
+        },
+        "show": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/app"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/app"
+          ]
+        },
+        "schedule": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/app"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-622-1038"
+      ],
+      "socials": []
+    },
+    "https://sandestin.com/about/rental-management": {
+      "title": "Rental Management | Sandestin Golf and Beach Resort",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/rental-management"
+          ]
+        },
+        "show": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/rental-management"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/rental-management"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/rental-management"
+          ]
+        }
+      },
+      "emails": [
+        "sanrentalsales@sandestin.com"
+      ],
+      "phones": [
+        "800-277-0804",
+        "800-622-1038",
+        "850-267-4389",
+        "855.944.5443"
+      ],
+      "socials": []
+    },
+    "https://sandestin.com/about/resort-map": {
+      "title": "Our Resort Map | Sandestin Golf and Beach Resort",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/resort-map"
+          ]
+        },
+        "show": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/resort-map"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/resort-map"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/resort-map"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-622-1038"
+      ],
+      "socials": []
+    },
+    "https://sandestin.com/about/tram-service": {
+      "title": "Tram Service | Sandestin Golf and Beach Resort",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/tram-service"
+          ]
+        },
+        "show": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/tram-service"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/tram-service"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/tram-service"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-622-1038"
+      ],
+      "socials": []
+    },
+    "https://sandestin.com/about/winter-guests": {
+      "title": "Winter Guests | Sandestin Golf and Beach Resort",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/winter-guests"
+          ]
+        },
+        "show": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/winter-guests"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/winter-guests"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/winter-guests"
+          ]
+        },
+        "lineup": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sandestin.com/about/winter-guests"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-622-1038",
+        "877-422-0583"
+      ],
+      "socials": []
+    },
+    "https://www.sandestin.com/about/clubs-membership?_ga=2.107898690.1744861518.1698075492-1559706979.1691428009": {
+      "title": "Clubs/ Membership | Sandestin Golf and Beach Resort",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.sandestin.com/about/clubs-membership?_ga=2.107898690.1744861518.1698075492-1559706979.1691428009"
+          ]
+        },
+        "show": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.sandestin.com/about/clubs-membership?_ga=2.107898690.1744861518.1698075492-1559706979.1691428009"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.sandestin.com/about/clubs-membership?_ga=2.107898690.1744861518.1698075492-1559706979.1691428009"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-622-1038",
+        "850-267-8208"
+      ],
+      "socials": []
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-17T13:28:40.606136",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-17T13:28:38.038266",
+      "company": {
+        "name": null,
+        "domain": "jaxgcc.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 9912329,
+          "description": "Established in 1989, Jacksonville Golf and Country Club is a private, member-owned country club centrally located on Florida's First Coast between shimmering beaches just a few minutes to our east and downtown Jacksonville to the west. Over the years it has become one of the most desirable gated communities and country clubs in the area. Our members enjoy a lifestyle with limitless recreational and social opportunities. We invite you to visit the Club for a guided tour and to experience what our members have been enjoying for a quarter century - an active, family-friendly private club that provides service second to none in a relaxed, comfortable, and safe environment. Our beautiful 25,000 square foot Clubhouse boasts sweeping views of our signature 18-hole championship golf course and of our Garden Terrace waterfall where blushing brides instantly envision saying their \"I do's\". Once inside the Clubhouse you'll discover 3 separate dining rooms (including an adults only dining room), ample banquet and private meeting space, a fitness center and group exercise room, locker rooms, spa services, golf pro shop and more. Outdoors, those seeking an active lifestyle won't be disappointed with 10 clay tennis courts, a junior Olympic size heated lap and recreation pool, playground, and golf practice facilities. At the centerpiece of the Club, our golf course, designed by Clyde Johnston and Fuzzy Zoeller, is highly regarded for its impeccable course conditions and renowned for being challenging and enjoyable for players of all handicap levels. Whether you are planning a wedding or special event or considering enhancing your lifestyle by becoming a member, we are confident that Jacksonville Golf and Country Club will exceed your expectations. We look forward to serving you!",
+          "domain": "jaxgcc.com",
+          "employees": "51 - 200",
+          "founded": "1989",
+          "fqdn": "www.jaxgcc.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/2/0c/20cdea7d5c568f52ccbdce0446b2c96f",
+          "name": "Jacksonville Golf & Country Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/jacksonville-golf-%26-country-club-inc"
+            }
+          },
+          "address": "Jacksonville North America United States US 3985 Hunt Club Rd; Jacksonville, Florida 32224-8416, US Florida FL -81.65564727783203,30.33218002319336 ",
+          "location": {
+            "city": "Jacksonville",
+            "country": "United States",
+            "fullLocation": "Jacksonville North America United States US 3985 Hunt Club Rd; Jacksonville, Florida 32224-8416, US Florida FL -81.65564727783203,30.33218002319336 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3985 Hunt Club Rd; Jacksonville, Florida 32224-8416, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://jaxgcc.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-17T13:28:38.896145",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-17T13:28:40.602371",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

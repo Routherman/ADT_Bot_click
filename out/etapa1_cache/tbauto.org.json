@@ -1,0 +1,278 @@
+{
+  "site_url": "https://tbauto.org/",
+  "domain": "tbauto.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://tbauto.org/",
+    "https://www.tbauto.org/about",
+    "https://www.tbauto.org/news/categories/upcoming-events",
+    "http://www.tbauto.org/en/news/categories/events",
+    "http://www.tbauto.org/en/news/categories/history",
+    "https://www.tbauto.org/news/categories/resources",
+    "https://www.tbauto.org",
+    "https://www.tbauto.org/car-collection",
+    "https://www.tbauto.org/historic-car-restoration",
+    "https://www.tbauto.org/post/the-men-behind-the-machines-celebrating-automobile-engineers-innovation",
+    "https://www.tbauto.org/post/jean-s%C3%A9bastien-aprile-vintage-poster-exhibit-at-the-tampa-bay-auto-museum-gallery",
+    "https://www.tbauto.org/subscribe",
+    "https://www.tbauto.org/carsforsale",
+    "https://www.tbauto.org/plans-pricing",
+    "https://www.tbauto.org/preview-the-collection",
+    "https://www.tbauto.org/members-collection",
+    "https://www.tbauto.org/carmakers",
+    "https://www.tbauto.org/engineers",
+    "https://www.tbauto.org/car-collection/1770-fardier-de-cugnot",
+    "https://www.tbauto.org/car-collection/1899-soci%C3%A9t%C3%A9-parisienne"
+  ],
+  "candidates": [
+    "https://www.tbauto.org/about",
+    "http://www.tbauto.org/en/news/categories/events",
+    "https://www.tbauto.org/news/categories/upcoming-events",
+    "http://www.tbauto.org/en/news/categories/history",
+    "https://www.tbauto.org/news/categories/resources",
+    "https://tbauto.org/",
+    "https://tbauto.org/contact",
+    "https://tbauto.org/contact/",
+    "https://tbauto.org/contact-us",
+    "https://tbauto.org/contact-us/",
+    "https://tbauto.org/contactus",
+    "https://tbauto.org/contactus/",
+    "https://tbauto.org/about",
+    "https://tbauto.org/about/",
+    "https://tbauto.org/about-us",
+    "https://tbauto.org/about-us/",
+    "https://tbauto.org/visit",
+    "https://tbauto.org/visit/",
+    "https://tbauto.org/location",
+    "https://tbauto.org/location/",
+    "https://tbauto.org/directions",
+    "https://tbauto.org/directions/"
+  ],
+  "per_page": {
+    "https://www.tbauto.org/about": {
+      "title": "ABOUT | Tampa Bay Automobile Museum",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "http://www.tbauto.org/en/news/categories/events": {
+      "title": "News",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.tbauto.org/news/categories/upcoming-events": {
+      "title": "Upcoming Events",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.tbauto.org/news/categories/upcoming-events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "http://www.tbauto.org/en/news/categories/history": {
+      "title": "Automotive History",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.tbauto.org/news/categories/resources": {
+      "title": "Resources",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/": {
+      "title": "Tampa Bay Automobile Museum | Car Museum | 3301 Gateway Centre Blvd, Pinellas Park, FL 33782, USA",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tbauto.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/contact": {
+      "title": "ABOUT | Tampa Bay Automobile Museum",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/contact/": {
+      "title": "ABOUT | Tampa Bay Automobile Museum",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/contact-us": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/contact-us/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/contactus": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/contactus/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/about": {
+      "title": "ABOUT | Tampa Bay Automobile Museum",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/about/": {
+      "title": "ABOUT | Tampa Bay Automobile Museum",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/about-us": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/about-us/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/visit": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/visit/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/location": {
+      "title": "ABOUT | Tampa Bay Automobile Museum",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/location/": {
+      "title": "ABOUT | Tampa Bay Automobile Museum",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/directions": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tbauto.org/directions/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

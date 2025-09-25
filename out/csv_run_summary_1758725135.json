@@ -1,0 +1,33 @@
+{
+  "total": 1816,
+  "ok": 6,
+  "fail": 0,
+  "items": [
+    {
+      "url": "https://www.sarasotaartmuseum.org/",
+      "status": "ok"
+    },
+    {
+      "url": "https://citylabelle.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.thewhitebarnwedding.com/",
+      "status": "ok"
+    },
+    {
+      "url": "http://www.thevenueatom.com/",
+      "status": "ok"
+    },
+    {
+      "url": "https://www.hernandocounty.us/",
+      "status": "ok"
+    },
+    {
+      "url": "https://weekiwachee.com/",
+      "status": "ok"
+    }
+  ],
+  "elapsed_sec": 30947.24,
+  "csv": "csv\\rubro_museums_with_event_spaces_florida.csv"
+}

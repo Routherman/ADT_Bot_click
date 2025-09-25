@@ -1,0 +1,139 @@
+{
+  "timestamp": "2025-09-23T01:49:08.310564",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T01:49:04.565570",
+      "company": {
+        "name": null,
+        "domain": "greatwolf.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 37501,
+          "description": "If you’re searching for a job with exciting opportunities, rewarding benefits, and lots of growth potential, look no further than Great Wolf Lodge. We’re North America’s largest family of indoor water park resorts dedicated to bringing joy to families, and we’re looking for passionate, dedicated professionals to help us in our mission. \n\nRunning with our Pack is a one-of-kind experience. Our resorts offer fun-filled attractions, extraordinary entertainment, delectable dining, and imaginative retail offerings. Our talented Pack Members provide exceptional service to help families create unforgettable memories, in a fast-paced and fun environment. Along with the camaraderie that comes with being a member of our Pack, all of our employees have access to acclaimed management training programs and numerous advancement opportunities. There’s no limit to what you can achieve as part of our Pack.\n\nGrowing from a single resort to 19 lodges and counting, Great Wolf has spent 25 years strengthening ourselves into one of North America’s top destinations for family fun. And we’re committed to ensuring every employee gets the training, career growth, benefits, and support to make the experience of working with us the best it can be. When you run with our Pack, it’s more than just a job—it’s an adventure.",
+          "domain": "greatwolf.com",
+          "employees": "10001 - 100000",
+          "founded": "1997",
+          "fqdn": "www.greatwolf.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=25/j_lvf62vl216b3euzik6.ef80b152bb81897278b709ff4fa5b2d17f442788.file_lvf633ss7ctyj8kfh.logo_cached.jpg",
+          "name": "Great Wolf Lodge",
+          "revenueRange": [
+            1000000000,
+            10000000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/great-wolf-lodge"
+            }
+          },
+          "address": "Chicago North America United States US 350 N Orleans St; Chicago, Illinois, US Illinois IL -87.6500473022461,41.85002899169922 ",
+          "location": {
+            "city": "Chicago",
+            "country": "United States",
+            "fullLocation": "Chicago North America United States US 350 N Orleans St; Chicago, Illinois, US Illinois IL -87.6500473022461,41.85002899169922 ",
+            "state": "Illinois",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "350 N Orleans St; Chicago, Illinois, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://greatwolf.com",
+          "specialities": [
+            "attractions",
+            "conferences",
+            "family entertainment",
+            "family reunions",
+            "family traditions",
+            "meetings",
+            "vacations",
+            "water parks"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T01:49:05.844978",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T01:49:08.302527",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

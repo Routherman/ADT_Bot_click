@@ -1,0 +1,141 @@
+{
+  "timestamp": "2025-09-19T01:03:20.417941",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T01:03:16.522990",
+      "company": {
+        "name": null,
+        "domain": "plazaliveorlando.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 74969712,
+          "description": "Constructed in 1963 as the city’s first 2-screen movie theater, the historic Plaza LIVE is Orlando’s premiere live concert venue offering a wide range of concerts, comedians, and cultural events. In the early 1990’s, the movie theater was converted into a live-performance venue which opened the doors for many new artists and talent while also acting as the 3rd largest seated venue in Central Florida.\n\nThe seated balcony and wide, open floor provide flexible accommodations for a variety of seated and GA standing events. Reserved seating capacity is 903, GA standing room only capacity is 1250. With high-ceilings and un-obstructed sightlines there is not a bad seat in the house.\n\nThe Plaza and it’s in-house tech-package are available for rent to host all types events with lighting and audio. We can also arrange additional backline, audio, visual, scenic, and staging, based on what your show requires.",
+          "domain": "plazaliveorlando.org",
+          "employees": "11 - 50",
+          "founded": "1963",
+          "fqdn": "www.plazaliveorlando.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/2/af/2af5bb5b2a91f09f6117650d5046f79f",
+          "name": "The Plaza Live",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Entertainment Providers",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/the-plaza-live"
+            }
+          },
+          "address": "Orlando North America United States US 425 N Bumby Ave; Orlando, Florida 32803, US Florida FL -81.37924194335938,28.538339614868164 ",
+          "location": {
+            "city": "Orlando",
+            "country": "United States",
+            "fullLocation": "Orlando North America United States US 425 N Bumby Ave; Orlando, Florida 32803, US Florida FL -81.37924194335938,28.538339614868164 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "425 N Bumby Ave; Orlando, Florida 32803, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7922,
+                "description": "Theatrical producers and services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 711130,
+                "description": "Musical Groups and Artists"
+              }
+            ]
+          },
+          "website": "https://plazaliveorlando.org",
+          "specialities": [
+            "back of house",
+            "concert venue",
+            "concerts",
+            "events",
+            "florida",
+            "front of house",
+            "hospitality",
+            "live music",
+            "orlando",
+            "venue"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T01:03:17.688818",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T01:03:20.404404",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

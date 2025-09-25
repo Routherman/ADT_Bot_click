@@ -1,0 +1,624 @@
+{
+  "site_url": "https://bing.com/",
+  "domain": "bing.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://bing.com/",
+    "https://bing.com/news/search?q=Top+stories&nvaug=%5bNewsVertical+Category%3d%22rt_MaxClass%22%5d&FORM=Z9LH3",
+    "https://bing.com/chat?FORM=hpcodx",
+    "https://bing.com/images?FORM=Z9LH",
+    "https://bing.com/videos?FORM=Z9LH1",
+    "https://bing.com/maps?FORM=Z9LH2",
+    "https://bing.com/search?q=Bing+translate&FORM=TTAHP1",
+    "https://bing.com/?setlang=es&cc=ar&cc=AR",
+    "https://bing.com/search?q=Keel+billed+toucan&form=hpcapt&filters=HpDate:\"20250923_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+    "https://bing.com/news/search?q=Top+stories&nvaug=%5bNewsVertical+Category%3d%22rt_MaxClass%22%5d&FORM=Z9LH3&setlang=es&sid=36D51CAFC32964703A080ADEC25565F4",
+    "https://bing.com/news/search?q=Historias+destacadas&nvaug=%5bNewsVertical+Category%3d%22rt_MaxClass%22%5d&FORM=NSBABR",
+    "https://bing.com/news/search?q=Argentina&nvaug=%5bNewsVertical+Category%3d%22rt_Argentina%22%5d&FORM=NSBABR",
+    "https://bing.com/news/search?q=Internacional&nvaug=%5bNewsVertical+Category%3d%22rt_World%22%5d&FORM=NSBABR",
+    "https://bing.com/news/search?q=Entretenimiento&nvaug=%5bNewsVertical+Category%3d%22rt_Entertainment%22%5d&FORM=NSBABR",
+    "https://bing.com/news/search?q=Negocios&nvaug=%5bNewsVertical+Category%3d%22rt_Business%22%5d&FORM=NSBABR",
+    "https://bing.com/news/search?q=Deportes&nvaug=%5bNewsVertical+Category%3d%22rt_Sports%22%5d&FORM=NSBABR",
+    "https://bing.com/news/search?q=Ciencia+y+tecnolog%c3%ada&nvaug=%5bNewsVertical+Category%3d%22rt_ScienceAndTechnology%22%5d&FORM=NSBABR",
+    "https://bing.com/news/topicview?q=Cu%c3%a1l+es+el+signo+m%c3%a1s+impulsivo+del+hor%c3%b3scopo+chino%2c+seg%c3%ban+Ludovica+Squirru&filters=tnTID%3d%22TOBP2_C26FF51A66A81A296AB4C73DDF6532FA%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%220%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=Gan%c3%b3+campeonatos+de+la+F%c3%b3rmula+1+con+Verstappen+y+Vettel+y+podr%c3%ada+acompa%c3%b1ar+a+Colapinto+a+partir+del+2026&filters=tnTID%3d%22TOBP2_0227F3E8D21FC0237DAF477FC83ABC14%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%221%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=Vestidos+corte+midi+de+Kate+Middleton+que+usar%c3%a1s+en+primavera&filters=tnTID%3d%22TOBP2_389DFBAC48EB3007106B62B88A96034E%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%222%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=Adoptaron+a+una+ni%c3%b1a+de+Ucrania+y+la+acusaron+de+ser+una+adulta+con+enanismo+que+intent%c3%b3+asesinarlos&filters=tnTID%3d%22TOBP2_9E7CCB256E43C001B473D2B3294196DC%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%223%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=La+cumbre+carcelaria+entre+Cristina+Kirchner+y+Esmeralda+Mitre&filters=tnTID%3d%22TOBP2_B8858CB4A261CDB3854A8A10EABB0919%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%224%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=El+Banco+Mundial+acelera+su+apoyo+a+la+Argentina+con+un+nuevo+paquete+de+hasta+USD+4.000+millones&filters=tnTID%3d%22TOBP2_9A5F01BD46CF5089187B3FDECFC7ECEC%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%225%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=Una+tajante+medida+de+Aston+Villa+pone+en+vilo+el+futuro+de+Dibu+Mart%c3%adnez+a+meses+del+Mundial+2026&filters=tnTID%3d%22TOBP2_1ED8BC4E7F05F56D2C7840102BCE999E%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%226%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=Mientras+Alejandro+Garnacho+gana+8.2+millones+en+Chelsea%2c+esto+cobra+Franco+Mastantuono+en+Real+Madrid&filters=tnTID%3d%22TOBP2_DAB5880DDCD45C99E0FD35B6F3734E8A%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%227%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=Descubrimiento+espacial+demuestra+que+las+pir%c3%a1mides+de+Egipto+se+construyeron+con+agua&filters=tnTID%3d%22TOBP2_D88121AE4631AEDFEBF42E79ACB37E57%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%228%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=Escapada%3a+los+tres+pueblos+menos+poblados+de+Buenos+Aires+ideales+para+hacer+turismo+rural&filters=tnTID%3d%22TOBP2_A826CFEDC7D0CBE294FCE889FAB811B7%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%229%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/?FORM=Z9FD1",
+    "https://bing.com/search?shm=cr&form=DEEPSH",
+    "https://bing.com/search?q=Top+stories&FORM=HDRSC1",
+    "https://bing.com/copilotsearch?q=Top+stories&FORM=CSSCOP",
+    "https://bing.com/images/search?q=Top+stories&FORM=HDRSC3",
+    "https://bing.com/videos/search?q=Top+stories&FORM=HDRSC4",
+    "https://bing.com/chat?prompt=Top+stories&sendquery=1&FORM=SCCODX",
+    "https://bing.com/?scope=news&FORM=HDRSC7",
+    "https://bing.com/maps?q=Top+stories&FORM=HDRSC6",
+    "https://bing.com/travel/search?q=Top+stories&m=flights&FORM=FBSCOP"
+  ],
+  "candidates": [
+    "https://bing.com/news/search?q=Argentina&nvaug=%5bNewsVertical+Category%3d%22rt_Argentina%22%5d&FORM=NSBABR",
+    "https://bing.com/news/search?q=Ciencia+y+tecnolog%c3%ada&nvaug=%5bNewsVertical+Category%3d%22rt_ScienceAndTechnology%22%5d&FORM=NSBABR",
+    "https://bing.com/news/search?q=Deportes&nvaug=%5bNewsVertical+Category%3d%22rt_Sports%22%5d&FORM=NSBABR",
+    "https://bing.com/news/search?q=Entretenimiento&nvaug=%5bNewsVertical+Category%3d%22rt_Entertainment%22%5d&FORM=NSBABR",
+    "https://bing.com/news/search?q=Historias+destacadas&nvaug=%5bNewsVertical+Category%3d%22rt_MaxClass%22%5d&FORM=NSBABR",
+    "https://bing.com/news/search?q=Internacional&nvaug=%5bNewsVertical+Category%3d%22rt_World%22%5d&FORM=NSBABR",
+    "https://bing.com/news/search?q=Negocios&nvaug=%5bNewsVertical+Category%3d%22rt_Business%22%5d&FORM=NSBABR",
+    "https://bing.com/news/search?q=Top+stories&nvaug=%5bNewsVertical+Category%3d%22rt_MaxClass%22%5d&FORM=Z9LH3",
+    "https://bing.com/news/search?q=Top+stories&nvaug=%5bNewsVertical+Category%3d%22rt_MaxClass%22%5d&FORM=Z9LH3&setlang=es&sid=36D51CAFC32964703A080ADEC25565F4",
+    "https://bing.com/news/topicview?q=Adoptaron+a+una+ni%c3%b1a+de+Ucrania+y+la+acusaron+de+ser+una+adulta+con+enanismo+que+intent%c3%b3+asesinarlos&filters=tnTID%3d%22TOBP2_9E7CCB256E43C001B473D2B3294196DC%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%223%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=Cu%c3%a1l+es+el+signo+m%c3%a1s+impulsivo+del+hor%c3%b3scopo+chino%2c+seg%c3%ban+Ludovica+Squirru&filters=tnTID%3d%22TOBP2_C26FF51A66A81A296AB4C73DDF6532FA%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%220%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=Descubrimiento+espacial+demuestra+que+las+pir%c3%a1mides+de+Egipto+se+construyeron+con+agua&filters=tnTID%3d%22TOBP2_D88121AE4631AEDFEBF42E79ACB37E57%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%228%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=El+Banco+Mundial+acelera+su+apoyo+a+la+Argentina+con+un+nuevo+paquete+de+hasta+USD+4.000+millones&filters=tnTID%3d%22TOBP2_9A5F01BD46CF5089187B3FDECFC7ECEC%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%225%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=Escapada%3a+los+tres+pueblos+menos+poblados+de+Buenos+Aires+ideales+para+hacer+turismo+rural&filters=tnTID%3d%22TOBP2_A826CFEDC7D0CBE294FCE889FAB811B7%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%229%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=Gan%c3%b3+campeonatos+de+la+F%c3%b3rmula+1+con+Verstappen+y+Vettel+y+podr%c3%ada+acompa%c3%b1ar+a+Colapinto+a+partir+del+2026&filters=tnTID%3d%22TOBP2_0227F3E8D21FC0237DAF477FC83ABC14%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%221%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=La+cumbre+carcelaria+entre+Cristina+Kirchner+y+Esmeralda+Mitre&filters=tnTID%3d%22TOBP2_B8858CB4A261CDB3854A8A10EABB0919%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%224%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=Mientras+Alejandro+Garnacho+gana+8.2+millones+en+Chelsea%2c+esto+cobra+Franco+Mastantuono+en+Real+Madrid&filters=tnTID%3d%22TOBP2_DAB5880DDCD45C99E0FD35B6F3734E8A%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%227%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=Una+tajante+medida+de+Aston+Villa+pone+en+vilo+el+futuro+de+Dibu+Mart%c3%adnez+a+meses+del+Mundial+2026&filters=tnTID%3d%22TOBP2_1ED8BC4E7F05F56D2C7840102BCE999E%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%226%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/news/topicview?q=Vestidos+corte+midi+de+Kate+Middleton+que+usar%c3%a1s+en+primavera&filters=tnTID%3d%22TOBP2_389DFBAC48EB3007106B62B88A96034E%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%222%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC",
+    "https://bing.com/",
+    "https://bing.com/contact",
+    "https://bing.com/contact/",
+    "https://bing.com/contact-us",
+    "https://bing.com/contact-us/",
+    "https://bing.com/contactus",
+    "https://bing.com/contactus/",
+    "https://bing.com/about",
+    "https://bing.com/about/",
+    "https://bing.com/about-us",
+    "https://bing.com/about-us/",
+    "https://bing.com/visit",
+    "https://bing.com/visit/",
+    "https://bing.com/location",
+    "https://bing.com/location/",
+    "https://bing.com/directions",
+    "https://bing.com/directions/"
+  ],
+  "per_page": {
+    "https://bing.com/news/search?q=Argentina&nvaug=%5bNewsVertical+Category%3d%22rt_Argentina%22%5d&FORM=NSBABR": {
+      "title": "Argentina - Búsqueda News",
+      "band_hits": {
+        "banda": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/news/search?q=Argentina&nvaug=%5bNewsVertical+Category%3d%22rt_Argentina%22%5d&FORM=NSBABR"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/search?q=Ciencia+y+tecnolog%c3%ada&nvaug=%5bNewsVertical+Category%3d%22rt_ScienceAndTechnology%22%5d&FORM=NSBABR": {
+      "title": "Ciencia y tecnología - Búsqueda News",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/news/search?q=Ciencia+y+tecnolog%c3%ada&nvaug=%5bNewsVertical+Category%3d%22rt_ScienceAndTechnology%22%5d&FORM=NSBABR"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/search?q=Deportes&nvaug=%5bNewsVertical+Category%3d%22rt_Sports%22%5d&FORM=NSBABR": {
+      "title": "Deportes - Búsqueda News",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/search?q=Entretenimiento&nvaug=%5bNewsVertical+Category%3d%22rt_Entertainment%22%5d&FORM=NSBABR": {
+      "title": "Entretenimiento - Búsqueda News",
+      "band_hits": {
+        "banda": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/news/search?q=Entretenimiento&nvaug=%5bNewsVertical+Category%3d%22rt_Entertainment%22%5d&FORM=NSBABR"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/search?q=Historias+destacadas&nvaug=%5bNewsVertical+Category%3d%22rt_MaxClass%22%5d&FORM=NSBABR": {
+      "title": "Historias destacadas - Búsqueda News",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/search?q=Internacional&nvaug=%5bNewsVertical+Category%3d%22rt_World%22%5d&FORM=NSBABR": {
+      "title": "Internacional - Búsqueda News",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/search?q=Negocios&nvaug=%5bNewsVertical+Category%3d%22rt_Business%22%5d&FORM=NSBABR": {
+      "title": "Negocios - Búsqueda News",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/news/search?q=Negocios&nvaug=%5bNewsVertical+Category%3d%22rt_Business%22%5d&FORM=NSBABR"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/search?q=Top+stories&nvaug=%5bNewsVertical+Category%3d%22rt_MaxClass%22%5d&FORM=Z9LH3": {
+      "title": "Top stories - Búsqueda News",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/search?q=Top+stories&nvaug=%5bNewsVertical+Category%3d%22rt_MaxClass%22%5d&FORM=Z9LH3&setlang=es&sid=36D51CAFC32964703A080ADEC25565F4": {
+      "title": "Top stories - Búsqueda News",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/topicview?q=Adoptaron+a+una+ni%c3%b1a+de+Ucrania+y+la+acusaron+de+ser+una+adulta+con+enanismo+que+intent%c3%b3+asesinarlos&filters=tnTID%3d%22TOBP2_9E7CCB256E43C001B473D2B3294196DC%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%223%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC": {
+      "title": "Adoptaron a una niña de Ucrania y la acusaron de ser una adulta con enanismo que intentó asesinarlos - Búsqueda News",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/topicview?q=Cu%c3%a1l+es+el+signo+m%c3%a1s+impulsivo+del+hor%c3%b3scopo+chino%2c+seg%c3%ban+Ludovica+Squirru&filters=tnTID%3d%22TOBP2_C26FF51A66A81A296AB4C73DDF6532FA%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%220%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC": {
+      "title": "Cuál es el signo más impulsivo del horóscopo chino, según Ludovica Squirru - Búsqueda News",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/news/topicview?q=Cu%c3%a1l+es+el+signo+m%c3%a1s+impulsivo+del+hor%c3%b3scopo+chino%2c+seg%c3%ban+Ludovica+Squirru&filters=tnTID%3d%22TOBP2_C26FF51A66A81A296AB4C73DDF6532FA%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%220%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC"
+          ]
+        },
+        "escenario": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/news/topicview?q=Cu%c3%a1l+es+el+signo+m%c3%a1s+impulsivo+del+hor%c3%b3scopo+chino%2c+seg%c3%ban+Ludovica+Squirru&filters=tnTID%3d%22TOBP2_C26FF51A66A81A296AB4C73DDF6532FA%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%220%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/topicview?q=Descubrimiento+espacial+demuestra+que+las+pir%c3%a1mides+de+Egipto+se+construyeron+con+agua&filters=tnTID%3d%22TOBP2_D88121AE4631AEDFEBF42E79ACB37E57%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%228%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC": {
+      "title": "Descubrimiento espacial demuestra que las pirámides de Egipto se construyeron con agua - Búsqueda News",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/topicview?q=El+Banco+Mundial+acelera+su+apoyo+a+la+Argentina+con+un+nuevo+paquete+de+hasta+USD+4.000+millones&filters=tnTID%3d%22TOBP2_9A5F01BD46CF5089187B3FDECFC7ECEC%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%225%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC": {
+      "title": "El Banco Mundial acelera su apoyo a la Argentina con un nuevo paquete de hasta USD 4.000 millones - Búsqueda News",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/topicview?q=Escapada%3a+los+tres+pueblos+menos+poblados+de+Buenos+Aires+ideales+para+hacer+turismo+rural&filters=tnTID%3d%22TOBP2_A826CFEDC7D0CBE294FCE889FAB811B7%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%229%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC": {
+      "title": "Escapada: los tres pueblos menos poblados de Buenos Aires ideales para hacer turismo rural - Búsqueda News",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/topicview?q=Gan%c3%b3+campeonatos+de+la+F%c3%b3rmula+1+con+Verstappen+y+Vettel+y+podr%c3%ada+acompa%c3%b1ar+a+Colapinto+a+partir+del+2026&filters=tnTID%3d%22TOBP2_0227F3E8D21FC0237DAF477FC83ABC14%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%221%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC": {
+      "title": "Ganó campeonatos de la Fórmula 1 con Verstappen y Vettel y podría acompañar a Colapinto a partir del 2026 - Búsqueda News",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/topicview?q=La+cumbre+carcelaria+entre+Cristina+Kirchner+y+Esmeralda+Mitre&filters=tnTID%3d%22TOBP2_B8858CB4A261CDB3854A8A10EABB0919%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%224%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC": {
+      "title": "La cumbre carcelaria entre Cristina Kirchner y Esmeralda Mitre - Búsqueda News",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/topicview?q=Mientras+Alejandro+Garnacho+gana+8.2+millones+en+Chelsea%2c+esto+cobra+Franco+Mastantuono+en+Real+Madrid&filters=tnTID%3d%22TOBP2_DAB5880DDCD45C99E0FD35B6F3734E8A%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%227%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC": {
+      "title": "Mientras Alejandro Garnacho gana 8.2 millones en Chelsea, esto cobra Franco Mastantuono en Real Madrid - Búsqueda News",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/topicview?q=Una+tajante+medida+de+Aston+Villa+pone+en+vilo+el+futuro+de+Dibu+Mart%c3%adnez+a+meses+del+Mundial+2026&filters=tnTID%3d%22TOBP2_1ED8BC4E7F05F56D2C7840102BCE999E%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%226%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC": {
+      "title": "Una tajante medida de Aston Villa pone en vilo el futuro de Dibu Martínez a meses del Mundial 2026 - Búsqueda News",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/news/topicview?q=Vestidos+corte+midi+de+Kate+Middleton+que+usar%c3%a1s+en+primavera&filters=tnTID%3d%22TOBP2_389DFBAC48EB3007106B62B88A96034E%22+tnVersion%3d%22cb3cbde8-7598-4ecf-a692-29681af24f51%22+Segment%3d%22popularnow.carousel%22+article%3d%221%22+tnCol%3d%222%22+tnOrder%3d%2288c3186c-a9bb-4dc5-bd4a-4e74ac9453dd%22&nvaug=%5bNewsVertical+topicviewtype%3d\"2\"%5d&form=NWBTTC": {
+      "title": "Vestidos corte midi de Kate Middleton que usarás en primavera - Búsqueda News",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/": {
+      "title": "Búsqueda: Microsoft Bing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/contact/": {
+      "title": "Búsqueda: Microsoft Bing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/contact/"
+          ]
+        },
+        "concierto": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/contact-us": {
+      "title": "Búsqueda: Microsoft Bing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/contact-us/": {
+      "title": "Búsqueda: Microsoft Bing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/contactus": {
+      "title": "Búsqueda: Microsoft Bing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/contactus/": {
+      "title": "Búsqueda: Microsoft Bing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/about": {
+      "title": "Búsqueda: Microsoft Bing",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/about/": {
+      "title": "Búsqueda: Microsoft Bing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/about-us": {
+      "title": "Búsqueda: Microsoft Bing",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/about-us/": {
+      "title": "Búsqueda: Microsoft Bing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/about-us/"
+          ]
+        },
+        "concierto": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/visit": {
+      "title": "Búsqueda: Microsoft Bing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/visit/": {
+      "title": "Búsqueda: Microsoft Bing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/location": {
+      "title": "Búsqueda: Microsoft Bing",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/directions": {
+      "title": "Búsqueda: Microsoft Bing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://bing.com/directions/": {
+      "title": "Búsqueda: Microsoft Bing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bing.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

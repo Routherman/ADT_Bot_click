@@ -1,0 +1,114 @@
+{
+  "timestamp": "2025-09-19T11:46:53.309824",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T11:46:50.233785",
+      "company": {
+        "name": null,
+        "domain": "chieflandfarmersfleamarket.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 5588275,
+          "description": "Chiefland Farmers Flea Market is a company based out of 1206 N Young Blvd, Chiefland, FL, United States.",
+          "domain": "chieflandfarmersfleamarket.com",
+          "employees": "1 - 10",
+          "fqdn": "www.chieflandfarmersfleamarket.com",
+          "logoUrl": "https://logo.lusha.co/d/company_5588275_logo.svg",
+          "name": "Chiefland Farmers Flea Market",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Retail",
+          "subIndustry": "Retail",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/chiefland-farmers-flea-market"
+            }
+          },
+          "address": "North America United States US 1206 N Young Blvd; Chiefland, FL 32626, US Florida FL ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 1206 N Young Blvd; Chiefland, FL 32626, US Florida FL ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1206 N Young Blvd; Chiefland, FL 32626, US"
+          },
+          "website": "https://chieflandfarmersfleamarket.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T11:46:50.847661",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "not_found",
+      "last_check": "2025-09-19T11:46:53.305650",
+      "http_status": 400,
+      "raw_text": "{\"detail\":\"Not found.\"}"
+    }
+  }
+}

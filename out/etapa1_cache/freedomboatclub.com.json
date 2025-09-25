@@ -1,0 +1,582 @@
+{
+  "site_url": "https://freedomboatclub.com/",
+  "domain": "freedomboatclub.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://freedomboatclub.com/",
+    "https://reservations.freedomboatclub.com",
+    "https://www.freedomboatclub.com/membership",
+    "https://www.freedomboatclub.com/about-us",
+    "https://www.freedomboatclub.com/faq",
+    "https://freedomboatclub.com/membership.html",
+    "https://www.freedomboatclub.com/leadership-team",
+    "https://www.freedomboatclub.com/contact-us",
+    "https://www.freedomboatclub.com/",
+    "https://www.freedomboatclub.com",
+    "https://www.freedomboatclub.com/join-now/new",
+    "https://www.freedomboatclub.com/learning-center",
+    "https://www.freedomboatclub.com/careers",
+    "https://www.freedomboatclub.com/franchisee",
+    "https://www.freedomboatclub.com/web-accessibility",
+    "https://www.freedomboatclub.com/join-now/weekday-join-now?class4=10525&class7=4963",
+    "https://www.freedomboatclub.com/join-now/weekday-join-now?class4=10525&class7=4964",
+    "https://www.freedomboatclub.com/cdn-cgi/l/email-protection",
+    "https://www.freedomboatclub.com/membership.html",
+    "https://www.freedomboatclub.com/learning-center/visiting-haunted-mansions-by-boat",
+    "https://www.freedomboatclub.com/learning-center/top-10-college-towns-for-boatgating",
+    "https://www.freedomboatclub.com/learning-center/new-christchurch-location",
+    "https://www.freedomboatclub.com/learning-center/the-ultimate-labor-day-boating-guide",
+    "https://www.freedomboatclub.com/learning-center/new-rushcutters-bay-location",
+    "https://www.freedomboatclub.com/learning-center/top-summer-boating-activities",
+    "https://www.freedomboatclub.com/learning-center/the-perfect-rhode-island-boating-itinerary",
+    "https://www.freedomboatclub.com/learning-center/freedom-boat-club-app-launch",
+    "https://www.freedomboatclub.com/learning-center/freedom-boat-club-launches-in-dubai",
+    "https://www.freedomboatclub.com/learning-center/fourth-of-july-boating-tips",
+    "https://www.freedomboatclub.com/learning-center/lake-boating-101",
+    "https://www.freedomboatclub.com/learning-center/world-ocean-day-2025",
+    "https://www.freedomboatclub.com/learning-center/the-ultimate-fathers-day-gift",
+    "https://www.freedomboatclub.com/learning-center/boat-rentals-vs-boat-clubs",
+    "https://www.freedomboatclub.com/learning-center/the-perfect-tampa-boating-itinerary",
+    "https://www.freedomboatclub.com/learning-center/top-ten-family-friendly-boating-communities-in-the-us",
+    "https://www.freedomboatclub.com/learning-center/safe-boating-week-2025",
+    "https://www.freedomboatclub.com/learning-center/the-perfect-savannah-boating-itinerary",
+    "https://www.freedomboatclub.com/learning-center/top-10-spring-boating-destinations",
+    "https://www.freedomboatclub.com/learning-center/the-benefits-of-boating",
+    "https://www.freedomboatclub.com/learning-center/three-new-spain-locations-2025",
+    "https://www.freedomboatclub.com/learning-center/how-to-get-a-fishing-license-in-california",
+    "https://www.freedomboatclub.com/learning-center/cold-weather-boating-safety",
+    "https://www.freedomboatclub.com/learning-center/essential-boating-gear-2025",
+    "https://www.freedomboatclub.com/learning-center/freedom-boat-club-announces-madrid-expansion",
+    "https://www.freedomboatclub.com/learning-center/must-see-international-locations-2025",
+    "https://www.freedomboatclub.com/learning-center/christmas-boat-parades-2024",
+    "https://www.freedomboatclub.com/learning-center/the-perfect-michiana-boating-itinerary",
+    "https://www.freedomboatclub.com/learning-center/thanksgiving-boat-tours",
+    "https://www.freedomboatclub.com/learning-center/boating-safety-your-go-bag-or-ditch-bag",
+    "https://www.freedomboatclub.com/learning-center/how-to-get-a-fishing-license-in-florida",
+    "https://www.freedomboatclub.com/learning-center/exploring-haunted-lighthouses-by-boat",
+    "https://www.freedomboatclub.com/learning-center/halloween-lighted-boat-parade-2024",
+    "https://www.freedomboatclub.com/learning-center/top-boating-destinations-for-fall-foliage",
+    "https://www.freedomboatclub.com/learning-center/beginner-s-boating-lingo--parts-of-a-boat",
+    "https://www.freedomboatclub.com/learning-center/the-perfect-lake-lanier-boating-itinerary",
+    "https://www.freedomboatclub.com/learning-center/sounds-of-freedom",
+    "https://www.freedomboatclub.com/learning-center/5-family-boating-activities",
+    "https://www.freedomboatclub.com/learning-center/how-to-boat-mastering-boat-maneuvers",
+    "https://www.freedomboatclub.com/learning-center/how-freedom-boat-club-makes-boating-safe",
+    "https://www.freedomboatclub.com/learning-center/the-perfect-charleston-boating-itinerary",
+    "https://www.freedomboatclub.com/learning-center/how-to-tow-safely-water-sports",
+    "https://www.freedomboatclub.com/learning-center/women-in-boating",
+    "https://www.freedomboatclub.com/learning-center/what-types-of-boats-are-in-the-freedom-boat-club-fleet-",
+    "https://www.freedomboatclub.com/learning-center/5-tips-for-docking-a-boat",
+    "https://www.freedomboatclub.com/learning-center/boat-club-membership-costs-pricing-benefits-and-more",
+    "https://www.freedomboatclub.com/learning-center/dk-expansion-copenhagen",
+    "https://www.freedomboatclub.com/learning-center/2024-fathers-day-gift-guide",
+    "https://www.freedomboatclub.com/franchises/mb-boating-ventures/louisville-landing-marina",
+    "https://www.freedomboatclub.com/franchises/victory-marine-llc/agc-marina",
+    "https://www.freedomboatclub.com/franchises/marina-boat-club-llc/lake-hartwell"
+  ],
+  "candidates": [
+    "https://www.freedomboatclub.com/contact-us",
+    "https://www.freedomboatclub.com/about-us",
+    "https://freedomboatclub.com/membership.html",
+    "https://www.freedomboatclub.com/membership",
+    "https://www.freedomboatclub.com/membership.html",
+    "https://www.freedomboatclub.com/faq",
+    "https://www.freedomboatclub.com/leadership-team",
+    "https://www.freedomboatclub.com/learning-center/visiting-haunted-mansions-by-boat",
+    "https://freedomboatclub.com/",
+    "https://freedomboatclub.com/contact",
+    "https://freedomboatclub.com/contact/",
+    "https://freedomboatclub.com/contact-us",
+    "https://freedomboatclub.com/contact-us/",
+    "https://freedomboatclub.com/contactus",
+    "https://freedomboatclub.com/contactus/",
+    "https://freedomboatclub.com/about",
+    "https://freedomboatclub.com/about/",
+    "https://freedomboatclub.com/about-us",
+    "https://freedomboatclub.com/about-us/",
+    "https://freedomboatclub.com/visit",
+    "https://freedomboatclub.com/visit/",
+    "https://freedomboatclub.com/location",
+    "https://freedomboatclub.com/location/",
+    "https://freedomboatclub.com/directions",
+    "https://freedomboatclub.com/directions/"
+  ],
+  "per_page": {
+    "https://www.freedomboatclub.com/contact-us": {
+      "title": "Contact Us",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://www.freedomboatclub.com/about-us": {
+      "title": "About Us",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/membership.html": {
+      "title": "Membership",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://freedomboatclub.com/membership.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "888-781-7363",
+        "888.781.7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://www.freedomboatclub.com/membership": {
+      "title": "Membership",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.freedomboatclub.com/membership"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "888-781-7363",
+        "888.781.7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://www.freedomboatclub.com/membership.html": {
+      "title": "Membership",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.freedomboatclub.com/membership.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "888-781-7363",
+        "888.781.7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://www.freedomboatclub.com/faq": {
+      "title": "FAQ",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://www.freedomboatclub.com/leadership-team": {
+      "title": "Leadership Team",
+      "band_hits": {
+        "gig": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.freedomboatclub.com/leadership-team"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://www.freedomboatclub.com/learning-center/visiting-haunted-mansions-by-boat": {
+      "title": "Visiting Haunted Mansions by Boat",
+      "band_hits": {
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.freedomboatclub.com/learning-center/visiting-haunted-mansions-by-boat"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/": {
+      "title": "Freedom Boat Club - The World's Largest Boating Club",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://freedomboatclub.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/contact": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/contact/": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/contact-us": {
+      "title": "Contact Us",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/contact-us/": {
+      "title": "Contact Us",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/contactus": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/contactus/": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/about": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/about/": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/about-us": {
+      "title": "About Us",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/about-us/": {
+      "title": "About Us",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/visit": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/visit/": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/location": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/location/": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/directions": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    },
+    "https://freedomboatclub.com/directions/": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "888-781-7363"
+      ],
+      "socials": [
+        "https://www.facebook.com/freedomboatclub",
+        "https://www.instagram.com/freedomboatclubworldwide/",
+        "https://www.youtube.com/@FreedomBoatClubNA",
+        "https://www.youtube.com/@FreedomBoatClubWorldwide"
+      ]
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "site_url": "https://yachtics.com/",
+  "domain": "yachtics.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://yachtics.com/",
+    "https://yachtics.com/about-2/",
+    "https://yachtics.com/contact-2/",
+    "http://yachtics.com/contact-2/",
+    "http://www.yachtics.com/contact-2",
+    "https://yachtics.com/storage/",
+    "https://yachtics.com/transport/",
+    "https://yachtics.com/terms-and-conditions/"
+  ],
+  "candidates": [
+    "http://www.yachtics.com/contact-2",
+    "http://yachtics.com/contact-2/",
+    "https://yachtics.com/contact-2/",
+    "https://yachtics.com/about-2/",
+    "https://yachtics.com/",
+    "https://yachtics.com/contact",
+    "https://yachtics.com/contact/",
+    "https://yachtics.com/contact-us",
+    "https://yachtics.com/contact-us/",
+    "https://yachtics.com/contactus",
+    "https://yachtics.com/contactus/",
+    "https://yachtics.com/about",
+    "https://yachtics.com/about/",
+    "https://yachtics.com/about-us",
+    "https://yachtics.com/about-us/",
+    "https://yachtics.com/visit",
+    "https://yachtics.com/visit/",
+    "https://yachtics.com/location",
+    "https://yachtics.com/location/",
+    "https://yachtics.com/directions",
+    "https://yachtics.com/directions/"
+  ],
+  "per_page": {
+    "http://www.yachtics.com/contact-2": {
+      "title": "Contact –",
+      "band_hits": {},
+      "emails": [
+        "yachtics@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "http://yachtics.com/contact-2/": {
+      "title": "Contact –",
+      "band_hits": {},
+      "emails": [
+        "yachtics@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://yachtics.com/contact-2/": {
+      "title": "Contact –",
+      "band_hits": {},
+      "emails": [
+        "yachtics@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://yachtics.com/about-2/": {
+      "title": "About –",
+      "band_hits": {
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yachtics.com/about-2/"
+          ]
+        }
+      },
+      "emails": [
+        "yachtics@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://yachtics.com/": {
+      "title": "Home –",
+      "band_hits": {},
+      "emails": [
+        "yachtics@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://yachtics.com/contact": {
+      "title": "Contact –",
+      "band_hits": {},
+      "emails": [
+        "yachtics@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://yachtics.com/contact/": {
+      "title": "Contact –",
+      "band_hits": {},
+      "emails": [
+        "yachtics@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://yachtics.com/about": {
+      "title": "About –",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yachtics.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "yachtics@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://yachtics.com/about/": {
+      "title": "About –",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yachtics.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "yachtics@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

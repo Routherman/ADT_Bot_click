@@ -1,0 +1,911 @@
+{
+  "site_url": "https://cocosands.com/",
+  "domain": "cocosands.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://cocosands.com/",
+    "https://cocosands.com/events",
+    "https://cocosands.com/contact-us",
+    "https://cocosands.com/villas",
+    "https://cocosands.com/studios",
+    "https://cocosands.com/cottages",
+    "https://cocosands.com/activities",
+    "https://cocosands.com/terms-and-conditions",
+    "https://cocosands.com/privacy-and-cookies"
+  ],
+  "candidates": [
+    "https://cocosands.com/contact-us",
+    "https://cocosands.com/events",
+    "https://cocosands.com/",
+    "https://cocosands.com/contact",
+    "https://cocosands.com/contact/",
+    "https://cocosands.com/contact-us/",
+    "https://cocosands.com/contactus",
+    "https://cocosands.com/contactus/",
+    "https://cocosands.com/about",
+    "https://cocosands.com/about/",
+    "https://cocosands.com/about-us",
+    "https://cocosands.com/about-us/",
+    "https://cocosands.com/visit",
+    "https://cocosands.com/visit/",
+    "https://cocosands.com/location",
+    "https://cocosands.com/location/",
+    "https://cocosands.com/directions",
+    "https://cocosands.com/directions/"
+  ],
+  "per_page": {
+    "https://cocosands.com/contact-us": {
+      "title": "Contact Us for Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/events": {
+      "title": "Florida Events | Coco Sands | Cocoa Beach",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/events"
+          ]
+        },
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/events"
+          ]
+        },
+        "event": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/events"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/events"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/events"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/events"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/": {
+      "title": "Coastal Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/contact": {
+      "title": "Coastal Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/contact"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/contact"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/contact/": {
+      "title": "Coastal Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/contact/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/contact/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/contact-us/": {
+      "title": "Contact Us for Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/contactus": {
+      "title": "Coastal Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/contactus"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/contactus"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/contactus/": {
+      "title": "Coastal Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/contactus/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/contactus/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/about": {
+      "title": "Coastal Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/about"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/about"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/about/": {
+      "title": "Coastal Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/about/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/about/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/about-us": {
+      "title": "Coastal Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/about-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/about-us"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/about-us/": {
+      "title": "Coastal Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/about-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/about-us/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/visit": {
+      "title": "Coastal Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/visit"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/visit"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/visit/": {
+      "title": "Coastal Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/visit/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/visit/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/location": {
+      "title": "Coastal Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/location"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/location"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/location/": {
+      "title": "Coastal Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/location/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/location/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/directions": {
+      "title": "Coastal Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/directions"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/directions"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    },
+    "https://cocosands.com/directions/": {
+      "title": "Coastal Accommodations | Coco Sands | FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/directions/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/directions/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cocosands.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@cocosands.com"
+      ],
+      "phones": [
+        "(321) 401-6717"
+      ],
+      "socials": []
+    }
+  }
+}

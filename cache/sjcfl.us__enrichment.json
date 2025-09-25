@@ -1,0 +1,132 @@
+{
+  "timestamp": "2025-09-19T01:21:06.374582",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T01:21:02.156612",
+      "company": {
+        "name": null,
+        "domain": "sjcfl.us",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 404145,
+          "description": "Welcome to St. Johns County – Florida at First Sight! \n\nSocial Media Policy: sjcfl.us/social-media-policy/\n\nEstablished in 1821, St. Johns County is home to more than a quarter-million residents served by two municipalities and the County Government. The County's rich history and idyllic beaches make for the perfect tourist destination.\n\nRecent studies place St. Johns County as one of the fastest-growing counties in Florida, including job and income growth.\n\nSt. Johns County serves two incorporated cities, St. Augustine and St. Augustine Beach, along with unincorporated communities, including Ponte Vedra, Hastings, Switzerland, Crescent Beach, Tocoi, Bakersville, Picolatta, Orangedale, Fruit Cove, Summer Haven, and Vilano Beach.\n_____\n\nSt. Johns County is governed by five elected Commissioners, each representing one of the five County districts, serving four-year terms. \n\nSt. Johns County registered voters elect the Board members and five Constitutional Officers: Clerk of Court, Property Appraiser, Sheriff, Supervisor of Elections, and Tax Collector.\n\nThe County employs a workforce of more than 1,000. The Board of County Commissioners appoints the County Administrator and the County Attorney. The County Administrator directs day-to-day government operations. The County Attorney is the Board’s legal counsel and represents the County in litigation.\n\nFor employment opportunities and more information, visit sjcfl.us.",
+          "domain": "sjcfl.us",
+          "employees": "1001 - 5000",
+          "founded": "1821",
+          "fqdn": "www.sjcfl.us",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/2/37/23762bd51f8012d1e4d795e6f861b553",
+          "name": "St. Johns County",
+          "revenueRange": [
+            250000000,
+            500000000
+          ],
+          "mainIndustry": "Government",
+          "subIndustry": "Government Administration",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/st.-johns-county-st.-augustine-fl"
+            }
+          },
+          "address": "Saint Augustine North America United States US 500 San Sebastian View; St. Augustine, FL 32084, US Florida FL -81.31452178955078,29.894689559936523 ",
+          "location": {
+            "city": "Saint Augustine",
+            "country": "United States",
+            "fullLocation": "Saint Augustine North America United States US 500 San Sebastian View; St. Augustine, FL 32084, US Florida FL -81.31452178955078,29.894689559936523 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "500 San Sebastian View; St. Augustine, FL 32084, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 9111,
+                "description": "Executive offices"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 921110,
+                "description": "Executive Offices"
+              }
+            ]
+          },
+          "website": "https://sjcfl.us",
+          "specialities": [
+            "golf club"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T01:21:03.394385",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T01:21:06.370352",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

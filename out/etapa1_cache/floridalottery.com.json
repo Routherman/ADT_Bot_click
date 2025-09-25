@@ -1,0 +1,967 @@
+{
+  "site_url": "https://floridalottery.com/",
+  "domain": "floridalottery.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://floridalottery.com/",
+    "https://floridalottery.com/news/view?id=2025-05-brevard-county-man-wins-1-million-playing-gold-rush-legacy-scratch-off-game",
+    "https://floridalottery.com/about",
+    "https://floridalottery.com/about/careers",
+    "https://floridalottery.com/about/divisions",
+    "https://floridalottery.com/about/integrity",
+    "https://floridalottery.com/help/contact/public-records-requests",
+    "https://floridalottery.com/about/lottery-offices",
+    "https://floridalottery.com/promotions",
+    "https://floridalottery.com/business",
+    "https://floridalottery.com/games/draw-games",
+    "https://floridalottery.com/games/winning-numbers",
+    "https://floridalottery.com/help",
+    "https://floridalottery.com/where-to-play",
+    "https://floridalottery.com/play-responsibly",
+    "https://floridalottery.com/games",
+    "https://floridalottery.com/games/scratch-offs",
+    "https://floridalottery.com/winning",
+    "https://floridalottery.com/winning/guide",
+    "https://floridalottery.com/winning/winner-resources",
+    "https://floridalottery.com/winning/recent-winners",
+    "https://floridalottery.com/education",
+    "https://floridalottery.com/education/supporting-education",
+    "https://floridalottery.com/education/bright-futures",
+    "https://floridalottery.com",
+    "https://floridalottery.com/games/scratch-offs/view?id=1614",
+    "https://floridalottery.com/games/scratch-offs/view?id=1603",
+    "https://floridalottery.com/games/scratch-offs/view?id=1604",
+    "https://floridalottery.com/promotions/pick-daily-games",
+    "https://floridalottery.com/games/draw-games/mega-millions",
+    "https://floridalottery.com/news",
+    "https://floridalottery.com/site-map",
+    "https://floridalottery.com/site-requirements",
+    "https://floridalottery.com/accessibility-policy",
+    "https://floridalottery.com/privacy-policy",
+    "https://floridalottery.com/terms-of-use",
+    "https://floridalottery.com/help/contact/media-requests",
+    "https://floridalottery.com/about/divisions/file-complaint",
+    "https://floridalottery.com/help/contact",
+    "https://floridalottery.com/promotions/social-media-giveaways",
+    "https://floridalottery.com/business/retailers",
+    "https://floridalottery.com/business/vendors",
+    "https://floridalottery.com/business/partnerships",
+    "https://floridalottery.com/promotions/ongoing-promotions",
+    "https://floridalottery.com/games/draw-games/quickticket",
+    "https://floridalottery.com/help/faqs/website-faq",
+    "https://floridalottery.com/help/faqs/draw-games-faq",
+    "https://floridalottery.com/help/faqs/promotion-faq",
+    "https://floridalottery.com/help/faqs/winning-faq",
+    "https://floridalottery.com/help/faqs/education-faq",
+    "https://floridalottery.com/help/faqs/security-faq",
+    "https://floridalottery.com/help/faqs/retailer-faq",
+    "https://floridalottery.com/help/faqs/partnership-faq",
+    "https://floridalottery.com/games/draw-games/powerball",
+    "https://floridalottery.com/games/draw-games/cash4life",
+    "https://floridalottery.com/games/scratch-offs/top-remaining-prizes",
+    "https://floridalottery.com/games/scratch-offs/games-ending",
+    "https://floridalottery.com/winning/guide/",
+    "https://floridalottery.com/games/scratch-offs/view?id=1594",
+    "https://floridalottery.com/help/contact/questions",
+    "https://floridalottery.com/certifications",
+    "https://floridalottery.com/business/partnerships/proposal-guidelines",
+    "https://floridalottery.com/games/draw-games/florida-lotto",
+    "https://floridalottery.com/games/draw-games/powerball/drawings",
+    "https://floridalottery.com/games/draw-games/fantasy5",
+    "https://floridalottery.com/games/draw-games/jackpot-triple-play",
+    "https://floridalottery.com/games/draw-games/cash-pop",
+    "https://floridalottery.com/games/draw-games/pick-5",
+    "https://floridalottery.com/games/draw-games/pick-4",
+    "https://floridalottery.com/games/draw-games/pick-3",
+    "https://floridalottery.com/games/draw-games/pick-2",
+    "https://floridalottery.com/games/winning-numbers/history",
+    "https://floridalottery.com/promotions/watch-to-win",
+    "https://floridalottery.com/promotions/good-fun",
+    "https://floridalottery.com/promotions/mega-millions",
+    "https://www.floridalottery.com/",
+    "https://floridalottery.com/es/games/draw-games/powerball",
+    "https://www.floridalottery.com/about",
+    "https://www.floridalottery.com/about/careers"
+  ],
+  "candidates": [
+    "https://floridalottery.com/help/contact",
+    "https://floridalottery.com/help/contact/media-requests",
+    "https://floridalottery.com/help/contact/public-records-requests",
+    "https://floridalottery.com/help/contact/questions",
+    "https://floridalottery.com/about",
+    "https://floridalottery.com/about/careers",
+    "https://floridalottery.com/about/divisions",
+    "https://floridalottery.com/about/divisions/file-complaint",
+    "https://floridalottery.com/about/integrity",
+    "https://floridalottery.com/about/lottery-offices",
+    "https://www.floridalottery.com/about",
+    "https://www.floridalottery.com/about/careers",
+    "https://floridalottery.com/help/faqs/draw-games-faq",
+    "https://floridalottery.com/help/faqs/education-faq",
+    "https://floridalottery.com/help/faqs/partnership-faq",
+    "https://floridalottery.com/help/faqs/promotion-faq",
+    "https://floridalottery.com/help/faqs/retailer-faq",
+    "https://floridalottery.com/help/faqs/security-faq",
+    "https://floridalottery.com/help/faqs/website-faq",
+    "https://floridalottery.com/help/faqs/winning-faq",
+    "https://floridalottery.com/news/view?id=2025-05-brevard-county-man-wins-1-million-playing-gold-rush-legacy-scratch-off-game",
+    "https://floridalottery.com",
+    "https://floridalottery.com/"
+  ],
+  "per_page": {
+    "https://floridalottery.com/help/contact": {
+      "title": "Contact Us",
+      "band_hits": {
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-955-8771",
+        "850-487-7765",
+        "850-487-7787"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/help/contact/media-requests": {
+      "title": "Media Requests",
+      "band_hits": {
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/contact/media-requests"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 487-7727",
+        "850-488-8049"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/help/contact/public-records-requests": {
+      "title": "Public Records Requests",
+      "band_hits": {
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/contact/public-records-requests"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 487-7724"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/help/contact/questions": {
+      "title": "Questions, Concerns & Comments",
+      "band_hits": {
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/contact/questions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-955-8771",
+        "850-487-7765",
+        "850-487-7787"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/about": {
+      "title": "About the Florida Lottery",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/about"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/about"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/about/careers": {
+      "title": "Careers",
+      "band_hits": {
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/about/careers"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/about/careers"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/about/divisions": {
+      "title": "Divisions",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/about/divisions"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/about/divisions"
+          ]
+        },
+        "acts": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/about/divisions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 487-7730",
+        "(850) 487-7752",
+        "850-487-7724",
+        "850-487-7730",
+        "850-487-7752"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/about/divisions/file-complaint": {
+      "title": "File a Complaint",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/about/divisions/file-complaint"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/about/divisions/file-complaint"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 487-7746",
+        "(850) 922-1060",
+        "800-543-5353"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/about/integrity": {
+      "title": "Integrity",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/about/integrity"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/about/integrity"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/about/integrity"
+          ]
+        },
+        "acts": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/about/integrity"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 487-7730",
+        "(850) 487-7787",
+        "850-487-7730",
+        "850-487-7752"
+      ],
+      "socials": [
+        "http://www.instagram.com/FloridaLottery",
+        "http://www.youtube.com/FloridaLottery",
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.linkedin.com/company/floridalottery/",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/about/lottery-offices": {
+      "title": "Lottery Offices",
+      "band_hits": {
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/about/lottery-offices"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://www.floridalottery.com/about": {
+      "title": "About the Florida Lottery",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridalottery.com/about"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridalottery.com/about"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridalottery.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://www.floridalottery.com/about/careers": {
+      "title": "Careers",
+      "band_hits": {
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridalottery.com/about/careers"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridalottery.com/about/careers"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/help/faqs/draw-games-faq": {
+      "title": "Draw Games FAQ",
+      "band_hits": {
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/faqs/draw-games-faq"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/faqs/draw-games-faq"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.youtube.com/playlist"
+      ]
+    },
+    "https://floridalottery.com/help/faqs/education-faq": {
+      "title": "Education FAQ",
+      "band_hits": {
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/faqs/education-faq"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "888-827-2004"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/help/faqs/partnership-faq": {
+      "title": "Partnership FAQ",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/faqs/partnership-faq"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/faqs/partnership-faq"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 487-7727"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/help/faqs/promotion-faq": {
+      "title": "Bonus Promotion FAQ",
+      "band_hits": {
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/faqs/promotion-faq"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 487-7787"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/help/faqs/retailer-faq": {
+      "title": "Retailers FAQ",
+      "band_hits": {
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/faqs/retailer-faq"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-226-3344",
+        "850-487-7714"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/help/faqs/security-faq": {
+      "title": "Security FAQ",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/faqs/security-faq"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/faqs/security-faq"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/help/faqs/website-faq": {
+      "title": "Website FAQ",
+      "band_hits": {
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/faqs/website-faq"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 487-7787"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/help/faqs/winning-faq": {
+      "title": "Winning FAQ",
+      "band_hits": {
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/faqs/winning-faq"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/help/faqs/winning-faq"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/news/view?id=2025-05-brevard-county-man-wins-1-million-playing-gold-rush-legacy-scratch-off-game": {
+      "title": "View News",
+      "band_hits": {
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/news/view?id=2025-05-brevard-county-man-wins-1-million-playing-gold-rush-legacy-scratch-off-game"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-487-4541",
+        "850-487-7727"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com": {
+      "title": "Florida Lottery",
+      "band_hits": {
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    },
+    "https://floridalottery.com/": {
+      "title": "Florida Lottery",
+      "band_hits": {
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridalottery.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/FloridaLottery",
+        "https://www.instagram.com/floridalottery",
+        "https://www.linkedin.com/company/floridalottery",
+        "https://www.youtube.com/floridalottery"
+      ]
+    }
+  }
+}

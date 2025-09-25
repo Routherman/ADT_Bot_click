@@ -1,0 +1,646 @@
+{
+  "site_url": "https://hardeecountyfl.gov/",
+  "domain": "hardeecountyfl.gov",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://hardeecountyfl.gov/",
+    "https://www.hardeecountyfl.gov/things-to-do/events/",
+    "https://www.hardeecountyfl.gov/things-to-do/events/request-event-addition/",
+    "https://www.hardeecountyfl.gov/residents/venue-facility-rentals/",
+    "https://www.hardeecountyfl.gov/contact/",
+    "https://hardeecountyfl.gov/residents/venue-facility-rentals/",
+    "https://www.hardeecountyfl.gov/events/pop-up-in-the-park-pioneer-park/",
+    "https://www.hardeecountyfl.gov/events/bocc-trunk-or-treat/",
+    "https://hardeecountyfl.gov/things-to-do/events/",
+    "https://www.hardeecountyfl.gov/departments-services/",
+    "https://www.hardeecountyfl.gov/departments-services/administration/",
+    "https://www.hardeecountyfl.gov/departments-services/administration/county-manager/",
+    "https://www.hardeecountyfl.gov/departments-services/administration/office-of-management-budget/",
+    "https://www.hardeecountyfl.gov/departments-services/administration/human-resources/",
+    "https://www.hardeecountyfl.gov/departments-services/general-services/",
+    "https://www.hardeecountyfl.gov/departments-services/general-services/grants-management/",
+    "https://www.hardeecountyfl.gov/departments-services/general-services/purchasing/",
+    "https://www.hardeecountyfl.gov/departments-services/community-development/",
+    "https://www.hardeecountyfl.gov/departments-services/community-development/building/",
+    "https://www.hardeecountyfl.gov/departments-services/community-development/code-enforcement/",
+    "https://www.hardeecountyfl.gov/departments-services/community-development/information-technology/",
+    "https://www.hardeecountyfl.gov/departments-services/community-development/geographic-information-systems/",
+    "https://www.hardeecountyfl.gov/departments-services/community-development/mining/",
+    "https://www.hardeecountyfl.gov/departments-services/community-development/planning-zoning/",
+    "https://www.hardeecountyfl.gov/departments-services/public-works/",
+    "https://www.hardeecountyfl.gov/departments-services/public-works/utilities/",
+    "https://www.hardeecountyfl.gov/departments-services/public-works/facilities-management/",
+    "https://www.hardeecountyfl.gov/departments-services/public-works/road-bridge/",
+    "https://www.hardeecountyfl.gov/departments-services/public-works/landfill/",
+    "https://www.hardeecountyfl.gov/departments-services/public-works/maintenance-shop/",
+    "https://www.hardeecountyfl.gov/departments-services/public-safety/",
+    "https://www.hardeecountyfl.gov/departments-services/public-safety/emergency-management/",
+    "https://www.hardeecountyfl.gov/departments-services/public-safety/fire-rescue/",
+    "https://www.hardeecountyfl.gov/departments-services/public-safety/e911-addressing/",
+    "https://www.hardeecountyfl.gov/departments-services/public-safety/county-probation/",
+    "https://www.hardeecountyfl.gov/departments-services/parks-recreation/",
+    "https://www.hardeecountyfl.gov/departments-services/parks-recreation/hardee-lakes/",
+    "https://www.hardeecountyfl.gov/departments-services/parks-recreation/pioneer-park/",
+    "https://www.hardeecountyfl.gov/departments-services/parks-recreation/wildlife-refuge/",
+    "https://www.hardeecountyfl.gov/departments-services/parks-recreation/museum/",
+    "https://www.hardeecountyfl.gov/departments-services/ancillary-services/",
+    "https://www.hardeecountyfl.gov/departments-services/ancillary-services/veterans-affairs/"
+  ],
+  "candidates": [
+    "https://www.hardeecountyfl.gov/contact/",
+    "https://hardeecountyfl.gov/things-to-do/events/",
+    "https://www.hardeecountyfl.gov/events/bocc-trunk-or-treat/",
+    "https://www.hardeecountyfl.gov/events/pop-up-in-the-park-pioneer-park/",
+    "https://www.hardeecountyfl.gov/things-to-do/events/",
+    "https://www.hardeecountyfl.gov/things-to-do/events/request-event-addition/",
+    "https://hardeecountyfl.gov/residents/venue-facility-rentals/",
+    "https://www.hardeecountyfl.gov/residents/venue-facility-rentals/",
+    "https://hardeecountyfl.gov/",
+    "https://hardeecountyfl.gov/contact",
+    "https://hardeecountyfl.gov/contact/",
+    "https://hardeecountyfl.gov/contact-us",
+    "https://hardeecountyfl.gov/contact-us/",
+    "https://hardeecountyfl.gov/contactus",
+    "https://hardeecountyfl.gov/contactus/",
+    "https://hardeecountyfl.gov/about",
+    "https://hardeecountyfl.gov/about/",
+    "https://hardeecountyfl.gov/about-us",
+    "https://hardeecountyfl.gov/about-us/",
+    "https://hardeecountyfl.gov/visit",
+    "https://hardeecountyfl.gov/visit/",
+    "https://hardeecountyfl.gov/location",
+    "https://hardeecountyfl.gov/location/",
+    "https://hardeecountyfl.gov/directions",
+    "https://hardeecountyfl.gov/directions/"
+  ],
+  "per_page": {
+    "https://www.hardeecountyfl.gov/contact/": {
+      "title": "Contact | Hardee County Board of County Commissioners",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hardeecountyfl.gov/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "bcc@hardeecountyfl.gov"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/HCBOCC/",
+        "https://www.instagram.com/hardeechamber/",
+        "https://www.youtube.com/@hardeecountychamberofcomme9859"
+      ]
+    },
+    "https://hardeecountyfl.gov/things-to-do/events/": {
+      "title": "Upcoming Events | Hardee County Board of County Commissioners",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hardeecountyfl.gov/things-to-do/events/"
+          ]
+        }
+      },
+      "emails": [
+        "bcc@hardeecountyfl.gov"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/HCBOCC/",
+        "https://www.instagram.com/hardeechamber/",
+        "https://www.youtube.com/@hardeecountychamberofcomme9859"
+      ]
+    },
+    "https://www.hardeecountyfl.gov/events/bocc-trunk-or-treat/": {
+      "title": "BOCC Trunk or Treat | Hardee County Board of County Commissioners",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hardeecountyfl.gov/events/bocc-trunk-or-treat/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hardeecountyfl.gov/events/bocc-trunk-or-treat/"
+          ]
+        }
+      },
+      "emails": [
+        "bcc@hardeecountyfl.gov"
+      ],
+      "phones": [
+        "863-473-4746"
+      ],
+      "socials": [
+        "https://www.facebook.com/HCBOCC/",
+        "https://www.instagram.com/hardeechamber/",
+        "https://www.youtube.com/@hardeecountychamberofcomme9859"
+      ]
+    },
+    "https://www.hardeecountyfl.gov/events/pop-up-in-the-park-pioneer-park/": {
+      "title": "Pop Up in the Park-Pioneer Park | Hardee County Board of County Commissioners",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hardeecountyfl.gov/events/pop-up-in-the-park-pioneer-park/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hardeecountyfl.gov/events/pop-up-in-the-park-pioneer-park/"
+          ]
+        }
+      },
+      "emails": [
+        "bcc@hardeecountyfl.gov",
+        "joyce.tullis@hardeecountyfl.gov"
+      ],
+      "phones": [
+        "863-473-5076"
+      ],
+      "socials": [
+        "https://www.facebook.com/HCBOCC/",
+        "https://www.instagram.com/hardeechamber/",
+        "https://www.youtube.com/@hardeecountychamberofcomme9859"
+      ]
+    },
+    "https://www.hardeecountyfl.gov/things-to-do/events/": {
+      "title": "Upcoming Events | Hardee County Board of County Commissioners",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hardeecountyfl.gov/things-to-do/events/"
+          ]
+        }
+      },
+      "emails": [
+        "bcc@hardeecountyfl.gov"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/HCBOCC/",
+        "https://www.instagram.com/hardeechamber/",
+        "https://www.youtube.com/@hardeecountychamberofcomme9859"
+      ]
+    },
+    "https://www.hardeecountyfl.gov/things-to-do/events/request-event-addition/": {
+      "title": "Submit a Community Event | Hardee County Board of County Commissioners",
+      "band_hits": {
+        "event": {
+          "total": 17,
+          "zones": {
+            "title": 1,
+            "body": 16,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hardeecountyfl.gov/things-to-do/events/request-event-addition/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hardeecountyfl.gov/things-to-do/events/request-event-addition/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hardeecountyfl.gov/things-to-do/events/request-event-addition/"
+          ]
+        }
+      },
+      "emails": [
+        "bcc@hardeecountyfl.gov"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/HCBOCC/",
+        "https://www.instagram.com/hardeechamber/",
+        "https://www.youtube.com/@hardeecountychamberofcomme9859"
+      ]
+    },
+    "https://hardeecountyfl.gov/residents/venue-facility-rentals/": {
+      "title": "Venue/Facility Rentals | Hardee County Board of County Commissioners",
+      "band_hits": {
+        "event": {
+          "total": 20,
+          "zones": {
+            "title": 0,
+            "body": 20,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hardeecountyfl.gov/residents/venue-facility-rentals/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hardeecountyfl.gov/residents/venue-facility-rentals/"
+          ]
+        }
+      },
+      "emails": [
+        "bcc@hardeecountyfl.gov",
+        "rentals@hardeecountyfl.gov"
+      ],
+      "phones": [
+        "(863) 473-4746",
+        "(863) 473-5078",
+        "(863) 767-1100"
+      ],
+      "socials": [
+        "https://www.facebook.com/HCBOCC/",
+        "https://www.instagram.com/hardeechamber/",
+        "https://www.youtube.com/@hardeecountychamberofcomme9859"
+      ]
+    },
+    "https://www.hardeecountyfl.gov/residents/venue-facility-rentals/": {
+      "title": "Venue/Facility Rentals | Hardee County Board of County Commissioners",
+      "band_hits": {
+        "event": {
+          "total": 20,
+          "zones": {
+            "title": 0,
+            "body": 20,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hardeecountyfl.gov/residents/venue-facility-rentals/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hardeecountyfl.gov/residents/venue-facility-rentals/"
+          ]
+        }
+      },
+      "emails": [
+        "bcc@hardeecountyfl.gov",
+        "rentals@hardeecountyfl.gov"
+      ],
+      "phones": [
+        "(863) 473-4746",
+        "(863) 473-5078",
+        "(863) 767-1100"
+      ],
+      "socials": [
+        "https://www.facebook.com/HCBOCC/",
+        "https://www.instagram.com/hardeechamber/",
+        "https://www.youtube.com/@hardeecountychamberofcomme9859"
+      ]
+    },
+    "https://hardeecountyfl.gov/": {
+      "title": "Hardee County, Florida | Board of County Commissioners",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hardeecountyfl.gov/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hardeecountyfl.gov/"
+          ]
+        }
+      },
+      "emails": [
+        "bcc@hardeecountyfl.gov"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/HCBOCC",
+        "https://www.facebook.com/HCBOCC/",
+        "https://www.facebook.com/reel/1039360064798747/",
+        "https://www.instagram.com/hardeechamber/",
+        "https://www.youtube.com/@hardeecountychamberofcomme9859"
+      ]
+    },
+    "https://hardeecountyfl.gov/contact": {
+      "title": "Contact | Hardee County Board of County Commissioners",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hardeecountyfl.gov/contact"
+          ]
+        }
+      },
+      "emails": [
+        "bcc@hardeecountyfl.gov"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/HCBOCC/",
+        "https://www.instagram.com/hardeechamber/",
+        "https://www.youtube.com/@hardeecountychamberofcomme9859"
+      ]
+    },
+    "https://hardeecountyfl.gov/contact/": {
+      "title": "Contact | Hardee County Board of County Commissioners",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hardeecountyfl.gov/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "bcc@hardeecountyfl.gov"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/HCBOCC/",
+        "https://www.instagram.com/hardeechamber/",
+        "https://www.youtube.com/@hardeecountychamberofcomme9859"
+      ]
+    },
+    "https://hardeecountyfl.gov/contact-us": {
+      "title": "Page not found | Hardee County Board of County Commissioners",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hardeecountyfl.gov/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "bcc@hardeecountyfl.gov"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/HCBOCC/",
+        "https://www.instagram.com/hardeechamber/",
+        "https://www.youtube.com/@hardeecountychamberofcomme9859"
+      ]
+    },
+    "https://hardeecountyfl.gov/contact-us/": {
+      "title": "Page not found | Hardee County Board of County Commissioners",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hardeecountyfl.gov/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "bcc@hardeecountyfl.gov"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/HCBOCC/",
+        "https://www.instagram.com/hardeechamber/",
+        "https://www.youtube.com/@hardeecountychamberofcomme9859"
+      ]
+    },
+    "https://hardeecountyfl.gov/contactus": {
+      "title": "Hardee County Board of County Commissioners",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hardeecountyfl.gov/contactus/": {
+      "title": "Hardee County Board of County Commissioners",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hardeecountyfl.gov/about": {
+      "title": "Hardee County Board of County Commissioners",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hardeecountyfl.gov/about/": {
+      "title": "Hardee County Board of County Commissioners",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hardeecountyfl.gov/about-us": {
+      "title": "Hardee County Board of County Commissioners",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hardeecountyfl.gov/about-us/": {
+      "title": "Hardee County Board of County Commissioners",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hardeecountyfl.gov/visit": {
+      "title": "Hardee County Board of County Commissioners",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hardeecountyfl.gov/visit/": {
+      "title": "Hardee County Board of County Commissioners",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hardeecountyfl.gov/location": {
+      "title": "Hardee County Board of County Commissioners",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hardeecountyfl.gov/location/": {
+      "title": "Hardee County Board of County Commissioners",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hardeecountyfl.gov/directions": {
+      "title": "Hardee County Board of County Commissioners",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://hardeecountyfl.gov/directions/": {
+      "title": "Hardee County Board of County Commissioners",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

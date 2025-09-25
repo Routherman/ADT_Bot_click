@@ -1,0 +1,137 @@
+{
+  "timestamp": "2025-09-17T09:25:33.846963",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-17T09:25:30.363369",
+      "company": {
+        "name": null,
+        "domain": "ishof.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 15459878,
+          "description": "The International Swimming Hall of Fame, Inc. (ISHOF), established in 1965, is a not-for-profit educational organization located in Fort Lauderdale, Florida, USA. Recognized by FINA, its goal is to preserve the history of swimming, celebrate the heroes, promote the benefits and importance of swimming as a key to fitness, good health, quality of life, and the water safety of all children and adults, and connect older generations of swimmers to youth.",
+          "domain": "ishof.org",
+          "employees": "11 - 50",
+          "founded": "1965",
+          "fqdn": "www.ishof.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/6/ab/6ab2249e9848c91a461bcd6845392d86",
+          "name": "International Swimming Hall of Fame",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/international-swimming-hall-of-fame-inc"
+            }
+          },
+          "address": "Fort Lauderdale North America United States US 1 Hall of Fame Dr; Fort Lauderdale, Florida 33316, US Florida FL -80.14337921142578,26.122310638427734 ",
+          "location": {
+            "city": "Fort Lauderdale",
+            "country": "United States",
+            "fullLocation": "Fort Lauderdale North America United States US 1 Hall of Fame Dr; Fort Lauderdale, Florida 33316, US Florida FL -80.14337921142578,26.122310638427734 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1 Hall of Fame Dr; Fort Lauderdale, Florida 33316, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8412,
+                "description": "Museums and art galleries"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 712110,
+                "description": "Museums"
+              }
+            ]
+          },
+          "website": "https://ishof.org",
+          "specialities": [
+            "diving",
+            "lifeguarding",
+            "open water swimming",
+            "sports",
+            "swimming",
+            "waterpolo"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-17T09:25:31.521823",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-17T09:25:33.841740",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-20T10:32:47.636541",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T10:32:43.850484",
+      "company": {
+        "name": null,
+        "domain": "southernswells.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 37899808,
+          "description": "Located in Jacksonville Beach, Southern Swells is a craft brewery and taproom focused on New-England IPAs, Heavily Fruited Sours, Imperial Stouts and Mixed-Fermentation.\n \n\nSouthern Swells Brewing Co. opened in January 2017 and has been dedicated to consistently producing high quality craft beers while providing an inviting and friendly taproom experience. \n\nWith over 7500 sq. ft., the brewery and taproom space is vast allowing for groups of all sizes to relax and enjoy our offerings. Our location also features a private events area and an outdoor patio.\n\nOur draft list is constantly changing and features an array of styles with a definite focus on soft, hazy, citrus forward IPAs and Double IPAs.",
+          "domain": "southernswells.com",
+          "employees": "11 - 50",
+          "founded": "2017",
+          "fqdn": "www.southernswells.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/1/f2/1f253b68fef466113d20aeba74fa32e3",
+          "name": "Southern Swells Brewing Co.",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Manufacturing",
+          "subIndustry": "Food & Beverage",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/southern-swells-brewing-co"
+            }
+          },
+          "address": "Jacksonville Beach North America United States US 1312 Beach Blvd; Jacksonville Beach, FL 32250, US Florida FL -81.39314270019531,30.294689178466797 ",
+          "location": {
+            "city": "Jacksonville Beach",
+            "country": "United States",
+            "fullLocation": "Jacksonville Beach North America United States US 1312 Beach Blvd; Jacksonville Beach, FL 32250, US Florida FL -81.39314270019531,30.294689178466797 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1312 Beach Blvd; Jacksonville Beach, FL 32250, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 2082,
+                "description": "Malt beverages"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 312120,
+                "description": "Breweries"
+              }
+            ]
+          },
+          "website": "https://southernswells.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T10:32:45.165423",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T10:32:47.631298",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "timestamp": "2025-09-22T14:56:15.651152",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T14:56:11.819115",
+      "company": {
+        "name": null,
+        "domain": "igymarinas.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 33930,
+          "description": "Mission: IGY strives to be the leading globally integrated network of iconic marina destinations and the most trusted and recognizable brand in nautical services and hospitality.\n\nAbout IGY Marinas\n\nIGY’s worldwide network of properties sets luxury standards for service and quality in nautical tourism. IGY has the only global portfolio of premium yachting destinations, serving over 8,000 annual customers at 24 marinas in 13 countries. IGY’s unprecedented collection of marinas in the U.S., Caribbean, Europe, and Latin America caters to a variety of vessel types and serves as the exclusive home port for many of the world’s largest superyachts. www.igymarinas.com  \n\n \n\nAbout IGY Trident\n\nIGY Trident is an invitation-only membership collective specifically designed to simplify the experience of superyacht ownership. IGY Trident members enjoy a wide range of highly exclusive benefits, including guaranteed dockage, fuel, yacht management, insurance, crew training, provisioning, health and wellness, and events and experiences. https://igytrident.com \n\nCore Values\n\nPassionate - IGY is passionate about yachting, boating and the nautical lifestyle. \n\nDriven – IGY’s team is driven to deliver unique, fun, safe and memorable experiences on and off the water.  IGY rewards hard work and invests in the safety of and development of its global team, knowing that its team members are future industry leaders. \n\nPartners - IGY celebrates its role as a trusted partner to diverse international communities.  IGY is dedicated to working with stakeholders to protect precious natural environments and promote economic opportunity and cultural awareness. \n\nCollaborators - IGY is a team of committed global collaborators, working across borders to overcome complex challenges, and lead and transform an industry.",
+          "domain": "igymarinas.com",
+          "employees": "501 - 1000",
+          "founded": "2005",
+          "fqdn": "www.igymarinas.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/7/09/70973a22bede1443dc16c2c9dc75ab38",
+          "name": "IGY Marinas",
+          "revenueRange": [],
+          "mainIndustry": "Transportation, Logistics, Supply Chain & Storage",
+          "subIndustry": "Maritime Transportation",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/island-global-yachting"
+            }
+          },
+          "address": "Fort Lauderdale North America United States US Ft. Lauderdale, FL 33316, US Florida FL -80.14337921142578,26.122310638427734 ",
+          "location": {
+            "city": "Fort Lauderdale",
+            "country": "United States",
+            "fullLocation": "Fort Lauderdale North America United States US Ft. Lauderdale, FL 33316, US Florida FL -80.14337921142578,26.122310638427734 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Ft. Lauderdale, FL 33316, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 4412,
+                "description": "Deep sea foreign transportation of freight"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 488320,
+                "description": "Marine Cargo Handling"
+              }
+            ]
+          },
+          "website": "https://igymarinas.com",
+          "specialities": [
+            "marina management",
+            "waterfront development"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T14:56:13.048029",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T14:56:15.645999",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

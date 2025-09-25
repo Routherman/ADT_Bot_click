@@ -1,0 +1,465 @@
+{
+  "site_url": "https://laudylinks.com/",
+  "domain": "laudylinks.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://laudylinks.com/",
+    "https://laudylinks.com/booking/",
+    "https://laudylinks.com/contact",
+    "https://laudylinks.com/booking",
+    "https://laudylinks.com/pricing",
+    "https://laudylinks.com/tour",
+    "https://laudylinks.com/league/",
+    "https://laudylinks.com/form/"
+  ],
+  "candidates": [
+    "https://laudylinks.com/contact",
+    "https://laudylinks.com/booking",
+    "https://laudylinks.com/booking/",
+    "https://laudylinks.com/",
+    "https://laudylinks.com/contact/",
+    "https://laudylinks.com/contact-us",
+    "https://laudylinks.com/contact-us/",
+    "https://laudylinks.com/contactus",
+    "https://laudylinks.com/contactus/",
+    "https://laudylinks.com/about",
+    "https://laudylinks.com/about/",
+    "https://laudylinks.com/about-us",
+    "https://laudylinks.com/about-us/",
+    "https://laudylinks.com/visit",
+    "https://laudylinks.com/visit/",
+    "https://laudylinks.com/location",
+    "https://laudylinks.com/location/",
+    "https://laudylinks.com/directions",
+    "https://laudylinks.com/directions/"
+  ],
+  "per_page": {
+    "https://laudylinks.com/contact": {
+      "title": "Contact - Lauderdale Links",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://laudylinks.com/contact"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://laudylinks.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/booking": {
+      "title": "Booking - Lauderdale Links",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://laudylinks.com/booking"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/booking/": {
+      "title": "Booking - Lauderdale Links",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://laudylinks.com/booking/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/": {
+      "title": "Lauderdale Links - Lauderdale Links",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://laudylinks.com/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://laudylinks.com/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://laudylinks.com/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://laudylinks.com/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://laudylinks.com/"
+          ]
+        }
+      },
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [
+        "561-757-0116"
+      ],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/contact/": {
+      "title": "Contact - Lauderdale Links",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://laudylinks.com/contact/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://laudylinks.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/contact-us": {
+      "title": "Page not found - Lauderdale Links",
+      "band_hits": {},
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/contact-us/": {
+      "title": "Page not found - Lauderdale Links",
+      "band_hits": {},
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/contactus": {
+      "title": "Page not found - Lauderdale Links",
+      "band_hits": {},
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/contactus/": {
+      "title": "Page not found - Lauderdale Links",
+      "band_hits": {},
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/about": {
+      "title": "Page not found - Lauderdale Links",
+      "band_hits": {},
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/about/": {
+      "title": "Page not found - Lauderdale Links",
+      "band_hits": {},
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/about-us": {
+      "title": "Page not found - Lauderdale Links",
+      "band_hits": {},
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/about-us/": {
+      "title": "Page not found - Lauderdale Links",
+      "band_hits": {},
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/visit": {
+      "title": "Page not found - Lauderdale Links",
+      "band_hits": {},
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/visit/": {
+      "title": "Page not found - Lauderdale Links",
+      "band_hits": {},
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/location": {
+      "title": "Page not found - Lauderdale Links",
+      "band_hits": {},
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/location/": {
+      "title": "Page not found - Lauderdale Links",
+      "band_hits": {},
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/directions": {
+      "title": "Page not found - Lauderdale Links",
+      "band_hits": {},
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    },
+    "https://laudylinks.com/directions/": {
+      "title": "Page not found - Lauderdale Links",
+      "band_hits": {},
+      "emails": [
+        "laudylinks@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/laudylinks",
+        "https://www.instagram.com/laudylinks",
+        "https://www.tiktok.com/@laudylinks"
+      ]
+    }
+  }
+}

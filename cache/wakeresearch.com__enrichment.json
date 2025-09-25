@@ -1,0 +1,139 @@
+{
+  "timestamp": "2025-09-25T01:59:36.312428",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T01:59:32.836884",
+      "company": {
+        "name": null,
+        "domain": "wakeresearch.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 830573,
+          "description": "M3 Wake Research is a premier clinical trial network that has been conducting studies since 1984. With over 30 years of experience, the network's subject database for clinical trial participants has substantial potential and continues to expand as we grow our network across the country.  The network comprises of premier investigational sites that are fully integrated and designed to deliver superior clinical trial experiences to patients, sponsors, and CROs.\n\nM3 Wake Research offers a full range of clinical trial services, from study design to study completion, to meet the needs of global biopharmaceutical, biotechnology, medical device, and pharmaceutical industry leaders. The board-certified physicians of M3 Wake Research have successfully completed over 7,000 clinical trials with integrity, human protection, and expeditious delivery of accurate evaluable data.\n\nExperience M3 Wake Research's uncompromising approach to superior quality in planning and executing each study according to regulations. The network consistently exceeds sponsor expectations for integrity, subject enrollment, human protection, and expeditious delivery of accurate evaluable data. Choose M3 Wake Research for clinical trials that meet and exceed your expectations.",
+          "domain": "wakeresearch.com",
+          "employees": "201 - 500",
+          "founded": "1984",
+          "fqdn": "www.wakeresearch.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/02/b0255ffecf459c9f2d98038ba24c7e58",
+          "name": "M3 Wake Research",
+          "revenueRange": [
+            50000000,
+            100000000
+          ],
+          "mainIndustry": "Business Services",
+          "subIndustry": "Biotechnology Research Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/wake-research-associates"
+            }
+          },
+          "address": "Raleigh North America United States US 3100 Duraleigh Rd; Raleigh, North Carolina 27612, US North Carolina NC -78.63861083984375,35.772098541259766 ",
+          "location": {
+            "city": "Raleigh",
+            "country": "United States",
+            "fullLocation": "Raleigh North America United States US 3100 Duraleigh Rd; Raleigh, North Carolina 27612, US North Carolina NC -78.63861083984375,35.772098541259766 ",
+            "state": "North Carolina",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3100 Duraleigh Rd; Raleigh, North Carolina 27612, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8731,
+                "description": "Commercial physical research"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 541715,
+                "description": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+              }
+            ]
+          },
+          "website": "https://wakeresearch.com",
+          "specialities": [
+            "dermatology",
+            "gastroenterology",
+            "internal medicine",
+            "neurology",
+            "psychiatry",
+            "pulmonology",
+            "sleep disorders",
+            "vaccines"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T01:59:34.097579",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T01:59:36.308676",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

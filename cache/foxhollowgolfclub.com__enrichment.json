@@ -1,0 +1,138 @@
+{
+  "timestamp": "2025-09-23T12:11:45.328701",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T12:11:41.945559",
+      "company": {
+        "name": null,
+        "domain": "foxhollowgolfclub.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 34219457,
+          "description": "Fox Hollow Golf Club: Tampa Bay's premier semi private golf facility\n \nAs one of Robert Trent Jones Sr.’s last designs, Fox Hollow Golf Club opened it’s doors in 1994.  The course has grown and developed into one of the premier semi-private golf facilities in the Tampa Bay area.  The par 71 layout features Sea Dwarf, Seashore Paspalum greens, rolling fairways, and large white sand bunkers.  The four sets of tees provide a true test for golfers of all skill levels.\n\nThe professional teaching staff is knowledgeable in all aspects of the game and they can provide instruction tailored to your individual needs.  The practice facility consists of a grass driving range with over 25 hitting stations, a chipping green with a practice bunker, and a 10,800 square foot practice putting green.\n\nWe have built an upscale dining room to serve as an alternative to the more relaxed atmosphere at The Grille. Both the Tavern and the Banquet Room will share the fantastic views of the 18 green, 10 tee and the beautiful 10- acre lake.\n\nThe Grille’s dining room not only provides the perfect weekly dining destination, but also serves as an ideal location for private parties- including weddings.\n\n#FoxHollowGolfClub",
+          "domain": "foxhollowgolfclub.com",
+          "employees": "51 - 200",
+          "founded": "1994",
+          "fqdn": "www.foxhollowgolfclub.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/5/a8/5a8958b86951e65a36effc2b0d856651",
+          "name": "Fox Hollow Golf Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Sports",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/foxhollowgolfclub"
+            }
+          },
+          "address": "North America United States US 10050 Robert Trent Jones Pkwy; Trinity, FL 34655, US Florida FL ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 10050 Robert Trent Jones Pkwy; Trinity, FL 34655, US Florida FL ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "10050 Robert Trent Jones Pkwy; Trinity, FL 34655, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7999,
+                "description": "Amusement and recreation, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 713990,
+                "description": "All Other Amusement and Recreation Industries"
+              }
+            ]
+          },
+          "website": "https://foxhollowgolfclub.com",
+          "specialities": [
+            "charity golf tournaments",
+            "corporate events",
+            "golf",
+            "golf lessons",
+            "golf membership",
+            "private events",
+            "weddings"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T12:11:43.045933",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T12:11:45.325797",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

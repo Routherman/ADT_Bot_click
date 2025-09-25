@@ -1,0 +1,133 @@
+{
+  "timestamp": "2025-09-24T20:13:20.310594",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T20:13:16.634392",
+      "company": {
+        "name": null,
+        "domain": "millerstreecare.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 19084413,
+          "description": "Tree Care by Robert Miller has been serving Pasco, Hernando, and Citrus counties for over 29 years with an A+ rating from the Better Business Bureau. \n\nWe are fully licensed and insured and specialize in dangerous tree removal. We are a family ran and operated business that has 2 ISA Certified Arborists on our team! Some of our additional services include providing firewood, mulch, and topsoil.",
+          "domain": "millerstreecare.com",
+          "employees": "11 - 50",
+          "founded": "1990",
+          "fqdn": "www.millerstreecare.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/a/c5/ac5109be4b9b628a1c108b39ab03b414",
+          "name": "Tree Care by Robert Miller",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Business Services",
+          "subIndustry": "Environmental Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/tree-care-by-robert-miller"
+            }
+          },
+          "address": "Brooksville North America United States US 9281 Cobb Rd; Brooksville, Florida 34601, US Florida FL -82.38990783691406,28.555540084838867 ",
+          "location": {
+            "city": "Brooksville",
+            "country": "United States",
+            "fullLocation": "Brooksville North America United States US 9281 Cobb Rd; Brooksville, Florida 34601, US Florida FL -82.38990783691406,28.555540084838867 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "9281 Cobb Rd; Brooksville, Florida 34601, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 782,
+                "description": "Lawn and garden services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 561730,
+                "description": "Landscaping Services"
+              }
+            ]
+          },
+          "website": "https://millerstreecare.com",
+          "specialities": [
+            "tree removal",
+            "tree trimming"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T20:13:17.863219",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T20:13:20.304647",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,984 @@
+{
+  "site_url": "https://hammockbeach.com/",
+  "domain": "hammockbeach.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://hammockbeach.com/",
+    "https://hammockbeach.com/golf/membership/",
+    "https://hammockbeach.com/contact/",
+    "https://hammockbeach.com/events/",
+    "https://hammockbeach.com/events/team-building/",
+    "https://hammockbeach.com/events/meet-the-team/",
+    "https://hammockbeach.com/events/start-planning/",
+    "https://hammockbeach.com/weddings/",
+    "https://hammockbeach.com/weddings/wedding-venues/",
+    "https://hammockbeach.com/weddings/start-planning-a-wedding/",
+    "https://hammockbeach.com/contact",
+    "https://hammockbeach.com/the-resort/faq-page/",
+    "https://hammockbeach.com/the-resort/",
+    "https://hammockbeach.com/gift-cards-amenities/",
+    "https://hammockbeach.com/search/",
+    "https://hammockbeach.com/photos/",
+    "https://hammockbeach.com/stay/",
+    "https://hammockbeach.com/stay/ocean-towers/",
+    "https://hammockbeach.com/stay/main-tower/",
+    "https://hammockbeach.com/stay/villas/",
+    "https://hammockbeach.com/stay/lodge/",
+    "https://www.hammockbeach.com/stay/vacation-rentals/yacht-harbor-village/",
+    "https://www.hammockbeach.com/stay/vacation-rentals/cinnamon-beach-condos/",
+    "https://www.hammockbeach.com/stay/vacation-rentals/vacation-rentals-homes/",
+    "https://hammockbeach.com/stay/vacation-rentals/",
+    "https://hammockbeach.com/palm-coast-hotel-offers/",
+    "https://hammockbeach.com/play/",
+    "https://hammockbeach.com/spa-wellness/",
+    "https://hammockbeach.com/play/tennis/",
+    "https://hammockbeach.com/play/pools/",
+    "https://hammockbeach.com/play/amenities/",
+    "https://hammockbeach.com/play/holidays/",
+    "https://hammockbeach.com/play/breezes-boutique-surf-shop/",
+    "https://hammockbeach.com/dine/",
+    "https://hammockbeach.com/dine/atlantic-grille/",
+    "https://hammockbeach.com/dine/delfinos/",
+    "https://hammockbeach.com/dine/loggerheads/",
+    "https://hammockbeach.com/dine/stix-bar/",
+    "https://hammockbeach.com/dine/ocean-bar-cafe/",
+    "https://hammockbeach.com/dine/lobby-bar/",
+    "https://hammockbeach.com/dine/hammock-beach-pizza-gelato/",
+    "https://hammockbeach.com/dine/beach-brew/",
+    "https://hammockbeach.com/dine/the-hammock-house/",
+    "https://hammockbeach.com/dine/?filters%5B%5D=&filters%5B%5D=breakfast",
+    "https://hammockbeach.com/dine/?filters%5B%5D=lunch",
+    "https://hammockbeach.com/dine/?filters%5B%5D=dinner",
+    "https://hammockbeach.com/golf/",
+    "https://hammockbeach.com/golf/nicklaus-ocean-course/",
+    "https://hammockbeach.com/golf/watson-conservatory-course/",
+    "https://hammockbeach.com/golf/golf-groups/",
+    "https://hammockbeach.com/golf/meet-the-instructors/",
+    "https://hammockbeach.com/golf/golf-packages/",
+    "https://hammockbeach.com/meetings-weddings/"
+  ],
+  "candidates": [
+    "https://hammockbeach.com/contact",
+    "https://hammockbeach.com/contact/",
+    "https://hammockbeach.com/events/",
+    "https://hammockbeach.com/events/meet-the-team/",
+    "https://hammockbeach.com/events/start-planning/",
+    "https://hammockbeach.com/events/team-building/",
+    "https://hammockbeach.com/golf/membership/",
+    "https://hammockbeach.com/weddings/",
+    "https://hammockbeach.com/weddings/start-planning-a-wedding/",
+    "https://hammockbeach.com/weddings/wedding-venues/",
+    "https://hammockbeach.com/the-resort/faq-page/",
+    "https://hammockbeach.com/",
+    "https://hammockbeach.com/contact-us",
+    "https://hammockbeach.com/contact-us/",
+    "https://hammockbeach.com/contactus",
+    "https://hammockbeach.com/contactus/",
+    "https://hammockbeach.com/about",
+    "https://hammockbeach.com/about/",
+    "https://hammockbeach.com/about-us",
+    "https://hammockbeach.com/about-us/",
+    "https://hammockbeach.com/visit",
+    "https://hammockbeach.com/visit/",
+    "https://hammockbeach.com/location",
+    "https://hammockbeach.com/location/",
+    "https://hammockbeach.com/directions",
+    "https://hammockbeach.com/directions/"
+  ],
+  "per_page": {
+    "https://hammockbeach.com/contact": {
+      "title": "Contact Us At Hammock Beach Golf Resort & Spa",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/contact/": {
+      "title": "Contact Us At Hammock Beach Golf Resort & Spa",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/events/": {
+      "title": "Palm Coast Event & Meeting Venue - Hammock Beach Resort",
+      "band_hits": {
+        "event": {
+          "total": 22,
+          "zones": {
+            "title": 1,
+            "body": 21,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/events/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/events/"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/events/meet-the-team/": {
+      "title": "Meet the Hammock Beach Resort Team – Sales, Events & Marketing​",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/events/meet-the-team/"
+          ]
+        }
+      },
+      "emails": [
+        "jessica.fox@hammockbeach.com",
+        "nicole.connon@hammockbeach.com",
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "386.246.5357",
+        "386.246.5482",
+        "386.246.5523",
+        "386.246.5534",
+        "386.246.5539",
+        "386.246.5544",
+        "386.246.5558",
+        "386.246.5569",
+        "386.246.5578",
+        "386.246.5609",
+        "386.246.5610",
+        "386.246.5670",
+        "386.246.5686",
+        "386.246.6589",
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/events/start-planning/": {
+      "title": "Palm Coast Event Venues - Plan at Hammock Beach Resort",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/events/start-planning/"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/events/team-building/": {
+      "title": "Teambuilding Activities | Hammock Beach Resort & Spa",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/events/team-building/"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/golf/membership/": {
+      "title": "Hammock Beach Golf Club Membership",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/golf/membership/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/golf/membership/"
+          ]
+        }
+      },
+      "emails": [
+        "hb.membership@hammockbeach.com",
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180",
+        "888.252.6294"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/weddings/": {
+      "title": "Florida Beach Wedding & Event Venues - Hammock Beach Golf Resort",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/weddings/"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "386.597.6363",
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/weddings/start-planning-a-wedding/": {
+      "title": "Palm Coast Wedding Venues - Start Planning at Hammock Beach Resort",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/weddings/start-planning-a-wedding/"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/weddings/wedding-venues/": {
+      "title": "Florida Beach Wedding & Event Venues - Hammock Beach Golf Resort",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/weddings/wedding-venues/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/weddings/wedding-venues/"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/the-resort/faq-page/": {
+      "title": "Hammock Beach Resort FAQs | Plan Your Stay in Palm Coast, FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/the-resort/faq-page/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/the-resort/faq-page/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/the-resort/faq-page/"
+          ]
+        }
+      },
+      "emails": [
+        "hbmembership@hammockbeach.com",
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "386.246.5540",
+        "386.447.4611",
+        "866-841-0287",
+        "877-586-0180",
+        "888.252.6294"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/": {
+      "title": "Hammock Beach Golf Resort & Spa™ | Oceanfront Florida Resort in Palm Coast FL",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/contact-us": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/contact-us/": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/contactus": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/contactus/": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/about": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/about/": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/about-us": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/about-us/": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/visit": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/visit/": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/location": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/location/": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/directions": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    },
+    "https://hammockbeach.com/directions/": {
+      "title": "404 Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hammockbeach.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "sales@hammockbeach.com"
+      ],
+      "phones": [
+        "866-841-0287",
+        "877-586-0180"
+      ],
+      "socials": [
+        "http://instagram.com/HammockBeach",
+        "https://www.facebook.com/HammockBeachResort",
+        "https://www.youtube.com/@Hammockbeach"
+      ]
+    }
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "site_url": "https://wollastonyc.com/",
+  "domain": "wollastonyc.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://wollastonyc.com/",
+    "https://wollastonyc.com/membership",
+    "https://wollastonyc.com/contact-hours",
+    "https://wollastonyc.com/events",
+    "https://wollastonyc.com/faq"
+  ],
+  "candidates": [
+    "https://wollastonyc.com/contact-hours",
+    "https://wollastonyc.com/events",
+    "https://wollastonyc.com/membership",
+    "https://wollastonyc.com/faq",
+    "https://wollastonyc.com/",
+    "https://wollastonyc.com/contact",
+    "https://wollastonyc.com/contact/",
+    "https://wollastonyc.com/contact-us",
+    "https://wollastonyc.com/contact-us/",
+    "https://wollastonyc.com/contactus",
+    "https://wollastonyc.com/contactus/",
+    "https://wollastonyc.com/about",
+    "https://wollastonyc.com/about/",
+    "https://wollastonyc.com/about-us",
+    "https://wollastonyc.com/about-us/",
+    "https://wollastonyc.com/visit",
+    "https://wollastonyc.com/visit/",
+    "https://wollastonyc.com/location",
+    "https://wollastonyc.com/location/",
+    "https://wollastonyc.com/directions",
+    "https://wollastonyc.com/directions/"
+  ],
+  "per_page": {
+    "https://wollastonyc.com/contact-hours": {
+      "title": "Contact + Hours - Wollaston Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wollastonyc.com/contact-hours"
+          ]
+        }
+      },
+      "emails": [
+        "contactus@wollastonyc.com",
+        "membership@wollastonyc.com"
+      ],
+      "phones": [
+        "617-477-8448"
+      ],
+      "socials": [
+        "https://www.facebook.com/WollastonYachtClub",
+        "https://www.instagram.com/wollastonyc/"
+      ]
+    },
+    "https://wollastonyc.com/events": {
+      "title": "Events - Wollaston Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wollastonyc.com/events"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wollastonyc.com/events"
+          ]
+        }
+      },
+      "emails": [
+        "contactus@wollastonyc.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/WollastonYachtClub",
+        "https://www.instagram.com/wollastonyc/"
+      ]
+    },
+    "https://wollastonyc.com/membership": {
+      "title": "Membership - Wollaston Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wollastonyc.com/membership"
+          ]
+        }
+      },
+      "emails": [
+        "contactus@wollastonyc.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/WollastonYachtClub",
+        "https://www.instagram.com/wollastonyc/"
+      ]
+    },
+    "https://wollastonyc.com/faq": {
+      "title": "FAQ - Wollaston Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wollastonyc.com/faq"
+          ]
+        }
+      },
+      "emails": [
+        "contactus@wollastonyc.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/WollastonYachtClub",
+        "https://www.instagram.com/wollastonyc/"
+      ]
+    },
+    "https://wollastonyc.com/": {
+      "title": "Home - Wollaston Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wollastonyc.com/"
+          ]
+        }
+      },
+      "emails": [
+        "contactus@wollastonyc.com"
+      ],
+      "phones": [
+        "617-477-8448"
+      ],
+      "socials": [
+        "https://www.facebook.com/WollastonYachtClub",
+        "https://www.instagram.com/wollastonyc/"
+      ]
+    },
+    "https://wollastonyc.com/contact": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://wollastonyc.com/contact/": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://wollastonyc.com/contact-us": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://wollastonyc.com/contact-us/": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://wollastonyc.com/contactus": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://wollastonyc.com/contactus/": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://wollastonyc.com/about": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://wollastonyc.com/about/": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://wollastonyc.com/about-us": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://wollastonyc.com/about-us/": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://wollastonyc.com/visit": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://wollastonyc.com/visit/": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://wollastonyc.com/location": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://wollastonyc.com/location/": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://wollastonyc.com/directions": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://wollastonyc.com/directions/": {
+      "title": "404 Error - Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

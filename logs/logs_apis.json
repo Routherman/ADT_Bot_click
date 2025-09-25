@@ -1,0 +1,2933 @@
+[
+  {
+    "provider": "lusha",
+    "fn": "prospecting.search",
+    "domain": "plazaliveorlando.org",
+    "status": 400,
+    "ms": 1332,
+    "_ts": "2025-09-18T15:33:52.476149"
+  },
+  {
+    "provider": "rocketreach",
+    "fn": "search.person",
+    "body": {
+      "company_domain": "plazaliveorlando.org"
+    },
+    "status": 404,
+    "ms": 1932,
+    "_ts": "2025-09-18T15:33:54.415972"
+  },
+  {
+    "provider": "lusha",
+    "fn": "prospecting.search",
+    "domain": "seminoletheatre.org",
+    "status": 400,
+    "ms": 1146,
+    "_ts": "2025-09-18T15:38:32.071977"
+  },
+  {
+    "provider": "rocketreach",
+    "fn": "search.person",
+    "body": {
+      "company_domain": "seminoletheatre.org"
+    },
+    "status": 404,
+    "ms": 1393,
+    "_ts": "2025-09-18T15:38:33.492287"
+  },
+  {
+    "provider": "lusha",
+    "fn": "prospecting.search",
+    "domain": "plazaliveorlando.org",
+    "status": 400,
+    "ms": 2282,
+    "fallbackB": true,
+    "_ts": "2025-09-18T15:56:21.056902"
+  },
+  {
+    "provider": "lusha",
+    "fn": "prospecting.search",
+    "domain": "plazaliveorlando.org",
+    "status": 400,
+    "ms": 2129,
+    "fallbackB": true,
+    "_ts": "2025-09-18T15:56:26.750640"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Jason Westbrook",
+      "company_domain": "plazaliveorlando.org",
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 400,
+    "ms": 1262,
+    "_ts": "2025-09-18T16:01:14.721801"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "params": {
+      "full_name": "Jason Westbrook",
+      "company_domain": "plazaliveorlando.org"
+    },
+    "status": 400,
+    "ms": 1011,
+    "_ts": "2025-09-18T16:01:15.746181"
+  },
+  {
+    "provider": "lusha",
+    "fn": "prospecting.search",
+    "domain": "plazaliveorlando.org",
+    "status": 400,
+    "ms": 3439,
+    "fallbackB": true,
+    "_ts": "2025-09-18T16:02:23.335885"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Jason Westbrook",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1301,
+    "_ts": "2025-09-18T16:09:19.852363"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.contact",
+    "body": {
+      "contact": {
+        "firstName": "Jason",
+        "lastName": "Westbrook",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 404,
+    "ms": 1001,
+    "_ts": "2025-09-18T16:09:20.875198"
+  },
+  {
+    "provider": "lusha",
+    "fn": "prospecting.search",
+    "domain": "plazaliveorlando.org",
+    "status": 400,
+    "ms": 3412,
+    "fallbackB": true,
+    "_ts": "2025-09-18T16:09:51.997008"
+  },
+  {
+    "provider": "lusha",
+    "fn": "prospecting.search",
+    "domain": "heartwoodsoundstage.com",
+    "status": 400,
+    "ms": 3069,
+    "fallbackB": true,
+    "_ts": "2025-09-18T16:10:47.048881"
+  },
+  {
+    "provider": "lusha",
+    "fn": "prospecting.search",
+    "domain": "seminoleimmokaleecasino.com",
+    "status": 400,
+    "ms": 3511,
+    "fallbackB": true,
+    "_ts": "2025-09-18T16:11:06.298063"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Jason Westbrook",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1346,
+    "_ts": "2025-09-18T16:12:01.360624"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Jason",
+        "lastName": "Westbrook",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 1301,
+    "_ts": "2025-09-18T16:12:02.701566"
+  },
+  {
+    "provider": "lusha",
+    "fn": "prospecting.search",
+    "domain": "plazaliveorlando.org",
+    "status": 400,
+    "ms": 2978,
+    "fallbackB": true,
+    "_ts": "2025-09-18T16:12:16.893912"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Jason Westbrook",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1444,
+    "_ts": "2025-09-18T16:33:19.863218"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Jason",
+        "lastName": "Westbrook",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 1279,
+    "_ts": "2025-09-18T16:33:21.157814"
+  },
+  {
+    "provider": "lusha",
+    "fn": "prospecting.search",
+    "domain": "plazaliveorlando.org",
+    "status": 400,
+    "ms": 2827,
+    "fallbackB": true,
+    "_ts": "2025-09-18T16:33:52.123221"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Jason Westbrook",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1199,
+    "_ts": "2025-09-18T16:51:00.206124"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Jason",
+          "lastName": "Westbrook",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-18T19:51:04.063Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T16:51:02.368010"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Jason",
+        "lastName": "Westbrook",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 2156,
+    "_ts": "2025-09-18T16:51:02.394650"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Jason Westbrook",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1353,
+    "_ts": "2025-09-18T17:09:43.077750"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Jason",
+          "lastName": "Westbrook",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-18T20:09:47.127Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T17:09:45.422460"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Jason",
+        "lastName": "Westbrook",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 2346,
+    "_ts": "2025-09-18T17:09:45.452644"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "CA Read More",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1279,
+    "_ts": "2025-09-18T17:12:58.253668"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "CA",
+          "lastName": "More",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-18T20:13:01.517Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T17:12:59.809479"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "CA",
+        "lastName": "More",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 1556,
+    "_ts": "2025-09-18T17:12:59.836237"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Fall River",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 720,
+    "_ts": "2025-09-18T17:13:00.585108"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Fall",
+          "lastName": "River",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-18T20:13:03.902Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T17:13:02.193097"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Fall",
+        "lastName": "River",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 1602,
+    "_ts": "2025-09-18T17:13:02.216764"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Jason Westbrook",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1247,
+    "_ts": "2025-09-18T17:13:03.490324"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Jason",
+          "lastName": "Westbrook",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-18T20:13:07.206Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T17:13:05.538571"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Jason",
+        "lastName": "Westbrook",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 2043,
+    "_ts": "2025-09-18T17:13:05.560402"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "CA Read More",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1530,
+    "_ts": "2025-09-18T17:14:33.837089"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "CA",
+          "lastName": "More",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-18T20:14:36.929Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T17:14:35.228521"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "CA",
+        "lastName": "More",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 1405,
+    "_ts": "2025-09-18T17:14:35.266084"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Fall River",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 706,
+    "_ts": "2025-09-18T17:14:35.998724"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Fall",
+          "lastName": "River",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-18T20:14:39.110Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T17:14:37.414554"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Fall",
+        "lastName": "River",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 1401,
+    "_ts": "2025-09-18T17:14:37.442941"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Jason Westbrook",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 762,
+    "_ts": "2025-09-18T17:14:38.229403"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Jason",
+          "lastName": "Westbrook",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-18T20:14:42.070Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T17:14:40.465091"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Jason",
+        "lastName": "Westbrook",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 2230,
+    "_ts": "2025-09-18T17:14:40.488387"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "CA Read More",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1327,
+    "_ts": "2025-09-18T21:12:00.914366"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "CA",
+          "lastName": "More",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T00:12:04.406Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T21:12:02.842452"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "CA",
+          "lastName": "More",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T00:12:05.554Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-18T21:12:03.979943"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "CA",
+        "lastName": "More",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 3061,
+    "_ts": "2025-09-18T21:12:04.008529"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Fall River",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 702,
+    "_ts": "2025-09-18T21:12:04.738853"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Fall",
+          "lastName": "River",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T00:12:08.576Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T21:12:07.003019"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Fall",
+          "lastName": "River",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T00:12:09.592Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-18T21:12:08.024062"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Fall",
+        "lastName": "River",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 3268,
+    "_ts": "2025-09-18T21:12:08.047893"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Jason Westbrook",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1313,
+    "_ts": "2025-09-18T21:12:09.395524"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Jason",
+          "lastName": "Westbrook",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T00:12:12.715Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T21:12:11.240304"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Jason",
+          "lastName": "Westbrook",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T00:12:13.780Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-18T21:12:12.206707"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Jason",
+        "lastName": "Westbrook",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 2803,
+    "_ts": "2025-09-18T21:12:12.230007"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "CA Read More",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1213,
+    "_ts": "2025-09-18T21:21:15.187353"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "CA Read More",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T00:21:19.177Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T21:21:17.618630"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "CA Read More",
+          "company_domain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T00:21:20.280Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T21:21:18.712960"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "CA Read More",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T00:21:20.948Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-18T21:21:19.378321"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "CA",
+        "lastName": "More",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 4160,
+    "_ts": "2025-09-18T21:21:19.417716"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Fall River",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 735,
+    "_ts": "2025-09-18T21:21:20.183606"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Fall River",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T00:21:23.633Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T21:21:22.089930"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "Fall River",
+          "company_domain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T00:21:24.719Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T21:21:23.155007"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Fall River",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T00:21:25.773Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-18T21:21:24.312054"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Fall",
+        "lastName": "River",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 4128,
+    "_ts": "2025-09-18T21:21:24.343301"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Jason Westbrook",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 756,
+    "_ts": "2025-09-18T21:21:25.132789"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Jason Westbrook",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T00:21:28.381Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T21:21:26.835300"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "Jason Westbrook",
+          "company_domain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T00:21:29.047Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T21:21:27.588392"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Jason Westbrook",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T00:21:29.702Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-18T21:21:28.133112"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Jason",
+        "lastName": "Westbrook",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 2997,
+    "_ts": "2025-09-18T21:21:28.161660"
+  },
+  {
+    "provider": "lusha",
+    "fn": "prospecting.search",
+    "domain": "plazaliveorlando.org",
+    "status": 400,
+    "ms": 2455,
+    "fallbackB": true,
+    "_ts": "2025-09-18T21:22:21.221106"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "CA Read More",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1296,
+    "_ts": "2025-09-18T21:29:01.764386"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "CA Read More",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T00:29:05.709Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T21:29:04.152355"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "CA Read More",
+          "company_domain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T00:29:06.740Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T21:29:05.179280"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "CA Read More",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T00:29:07.767Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-18T21:29:06.207353"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "CA",
+        "lastName": "More",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 4428,
+    "_ts": "2025-09-18T21:29:06.238802"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Fall River",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1297,
+    "_ts": "2025-09-18T21:29:07.577088"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Fall River",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T00:29:11.184Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T21:29:09.618013"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "Fall River",
+          "company_domain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T00:29:12.110Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T21:29:10.546682"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Fall River",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T00:29:13.051Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-18T21:29:11.584343"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Fall",
+        "lastName": "River",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 4002,
+    "_ts": "2025-09-18T21:29:11.617517"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Jason Westbrook",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 831,
+    "_ts": "2025-09-18T21:29:12.493810"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Jason Westbrook",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T00:29:15.949Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T21:29:14.386284"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "Jason Westbrook",
+          "company_domain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T00:29:16.435Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T21:29:14.870562"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Jason Westbrook",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T00:29:16.982Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-18T21:29:15.416555"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Jason",
+        "lastName": "Westbrook",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 2920,
+    "_ts": "2025-09-18T21:29:15.446878"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "CA Read More",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1629,
+    "_ts": "2025-09-18T23:45:04.926972"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "CA Read More",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T02:45:09.278Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T23:45:07.790993"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "CA Read More",
+          "company_domain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T02:45:10.479Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T23:45:08.990384"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "CA Read More",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T02:45:11.689Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-18T23:45:10.201587"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "CA",
+        "lastName": "More",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 5252,
+    "_ts": "2025-09-18T23:45:10.254027"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Fall River",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1320,
+    "_ts": "2025-09-18T23:45:11.635490"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Fall River",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T02:45:14.839Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T23:45:13.345814"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "Fall River",
+          "company_domain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T02:45:15.868Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T23:45:14.373817"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Fall River",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T02:45:16.826Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-18T23:45:15.333261"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Fall",
+        "lastName": "River",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 3694,
+    "_ts": "2025-09-18T23:45:15.367691"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Jason Westbrook",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 581,
+    "_ts": "2025-09-18T23:45:15.990282"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Jason Westbrook",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T02:45:18.927Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T23:45:17.438729"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "Jason Westbrook",
+          "company_domain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T02:45:19.989Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-18T23:45:18.500214"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Jason Westbrook",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T02:45:20.536Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-18T23:45:19.074548"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Jason",
+        "lastName": "Westbrook",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 3076,
+    "_ts": "2025-09-18T23:45:19.107825"
+  },
+  {
+    "provider": "nav",
+    "fn": "linkedin.sections",
+    "domain": "plazaliveorlando.org",
+    "count": 0,
+    "_ts": "2025-09-18T23:56:44.162601"
+  },
+  {
+    "provider": "puppeteer",
+    "fn": "linkedin.search_from_nav",
+    "domain": "plazaliveorlando.org",
+    "serp_count": 2,
+    "_ts": "2025-09-18T23:58:55.934159"
+  },
+  {
+    "provider": "nav",
+    "fn": "linkedin.sections",
+    "domain": "plazaliveorlando.org",
+    "count": 2,
+    "_ts": "2025-09-18T23:58:56.006922"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "CA Read More",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1394,
+    "_ts": "2025-09-19T00:00:14.387439"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "CA",
+          "lastName": "More",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_structured_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:00:18.261Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:00:16.774168"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "CA Read More",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:00:19.372Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:00:17.936149"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "CA Read More",
+          "company_domain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:00:21.154Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:00:19.682651"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "CA Read More",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T03:00:21.946Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-19T00:00:20.507682"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "CA",
+        "lastName": "More",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 6117,
+    "_ts": "2025-09-19T00:00:20.547248"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Fall River",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1234,
+    "_ts": "2025-09-19T00:00:21.826612"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Fall",
+          "lastName": "River",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_structured_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:00:25.384Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:00:23.898670"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Fall River",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:00:26.587Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:00:25.106840"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "Fall River",
+          "company_domain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:00:27.737Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:00:26.249122"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Fall River",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T03:00:28.544Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-19T00:00:27.062779"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Fall",
+        "lastName": "River",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 5234,
+    "_ts": "2025-09-19T00:00:27.101886"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Jason Westbrook",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 720,
+    "_ts": "2025-09-19T00:00:27.868715"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Jason",
+          "lastName": "Westbrook",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_structured_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:00:31.069Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:00:29.589227"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Jason Westbrook",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:00:31.839Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:00:30.373350"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "Jason Westbrook",
+          "company_domain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:00:32.531Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:00:31.051887"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Jason Westbrook",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T03:00:33.142Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-19T00:00:31.661342"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Jason",
+        "lastName": "Westbrook",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 3785,
+    "_ts": "2025-09-19T00:00:31.695537"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Jason Westbrook",
+      "company_domain": [
+        "plazaliveorlando.org"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1321,
+    "_ts": "2025-09-19T00:12:07.432816"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Jason",
+          "lastName": "Westbrook",
+          "company": {
+            "domain": "plazaliveorlando.org"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_structured_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:12:11.195Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:12:09.713601"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Jason Westbrook",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:12:12.248Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:12:10.775651"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "Jason Westbrook",
+          "company_domain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:12:13.227Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:12:11.750581"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Jason Westbrook",
+          "companyDomain": "plazaliveorlando.org"
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T03:12:14.285Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-19T00:12:12.905324"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Jason",
+        "lastName": "Westbrook",
+        "company": {
+          "domain": "plazaliveorlando.org"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 5425,
+    "_ts": "2025-09-19T00:12:12.947772"
+  },
+  {
+    "provider": "lusha",
+    "fn": "prospecting.search",
+    "domain": "plazaliveorlando.org",
+    "status": 400,
+    "ms": 3567,
+    "fallbackB": true,
+    "_ts": "2025-09-19T00:16:07.138651"
+  },
+  {
+    "provider": "puppeteer",
+    "fn": "linkedin.search_from_nav",
+    "domain": "seminoletheatre.org",
+    "serp_count": 1,
+    "_ts": "2025-09-19T00:18:19.914610"
+  },
+  {
+    "provider": "nav",
+    "fn": "linkedin.sections",
+    "domain": "seminoletheatre.org",
+    "count": 1,
+    "_ts": "2025-09-19T00:18:19.961758"
+  },
+  {
+    "provider": "puppeteer",
+    "fn": "linkedin.search_from_nav",
+    "domain": "seminoletheatre.org",
+    "serp_count": 1,
+    "_ts": "2025-09-19T00:26:52.168507"
+  },
+  {
+    "provider": "nav",
+    "fn": "linkedin.sections",
+    "domain": "seminoletheatre.org",
+    "count": 1,
+    "_ts": "2025-09-19T00:26:52.210184"
+  },
+  {
+    "provider": "lusha",
+    "fn": "prospecting.search",
+    "domain": "seminoletheatre.org",
+    "status": 400,
+    "ms": 3569,
+    "fallbackB": true,
+    "_ts": "2025-09-19T00:29:19.576818"
+  },
+  {
+    "provider": "puppeteer",
+    "fn": "linkedin.search_from_nav",
+    "domain": "highdivegainesville.com",
+    "serp_count": 6,
+    "_ts": "2025-09-19T00:38:20.183576"
+  },
+  {
+    "provider": "nav",
+    "fn": "linkedin.sections",
+    "domain": "highdivegainesville.com",
+    "count": 6,
+    "_ts": "2025-09-19T00:38:20.233491"
+  },
+  {
+    "provider": "puppeteer",
+    "fn": "linkedin.search_from_nav",
+    "domain": "highdivegainesville.com",
+    "serp_count": 0,
+    "_ts": "2025-09-19T00:54:41.838515"
+  },
+  {
+    "provider": "nav",
+    "fn": "linkedin.sections",
+    "domain": "highdivegainesville.com",
+    "count": 0,
+    "_ts": "2025-09-19T00:54:41.885065"
+  },
+  {
+    "provider": "puppeteer",
+    "fn": "linkedin.search_from_nav",
+    "domain": "heartwoodsoundstage.com",
+    "serp_count": 1,
+    "_ts": "2025-09-19T00:57:21.413597"
+  },
+  {
+    "provider": "nav",
+    "fn": "linkedin.sections",
+    "domain": "heartwoodsoundstage.com",
+    "count": 1,
+    "_ts": "2025-09-19T00:57:21.457791"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Paul Boharski",
+      "company_domain": [
+        "heartwoodsoundstage.com"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1482,
+    "_ts": "2025-09-19T00:57:59.134643"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "contactId": "416e9d9c-1a4a-4e62-853b-f9f254f68e42",
+          "contact": {
+            "fullName": "Paul Boharski",
+            "companyDomain": "heartwoodsoundstage.com"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_nested_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:58:03.054Z\",\"message\":[\"contacts.0.property contact should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:58:01.594086"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Paul",
+          "lastName": "Boharski",
+          "company": {
+            "domain": "heartwoodsoundstage.com"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_structured_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:58:04.142Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:58:02.682590"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Paul Boharski",
+          "companyDomain": "heartwoodsoundstage.com"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:58:05.226Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:58:03.770760"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "Paul Boharski",
+          "company_domain": "heartwoodsoundstage.com"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-19T03:58:06.272Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-19T00:58:04.814092"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "contactId": "416e9d9c-1a4a-4e62-853b-f9f254f68e42",
+          "contact": {
+            "fullName": "Paul Boharski",
+            "companyDomain": "heartwoodsoundstage.com"
+          }
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-19T03:58:07.406Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-19T00:58:05.949641"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Paul",
+        "lastName": "Boharski",
+        "company": {
+          "domain": "heartwoodsoundstage.com"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 6829,
+    "_ts": "2025-09-19T00:58:06.006883"
+  },
+  {
+    "provider": "puppeteer",
+    "fn": "linkedin.search_from_nav",
+    "domain": "seminoletheatre.org",
+    "serp_count": 0,
+    "_ts": "2025-09-19T12:17:59.880359"
+  },
+  {
+    "provider": "nav",
+    "fn": "linkedin.sections",
+    "domain": "seminoletheatre.org",
+    "count": 0,
+    "_ts": "2025-09-19T12:17:59.946109"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Dr. Anastacia Hawkins",
+      "company_domain": [
+        "cocoavillageplayhouse.com"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1466,
+    "_ts": "2025-09-21T15:27:49.913638"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "contactId": "c4cda8f2-47da-466b-8c57-9dfd676cc4df",
+          "contact": {
+            "fullName": "Dr. Anastacia Hawkins",
+            "companyDomain": "cocoavillageplayhouse.com"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_nested_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:27:51.063Z\",\"message\":[\"contacts.0.property contact should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:27:51.773918"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Dr.",
+          "lastName": "Hawkins",
+          "company": {
+            "domain": "cocoavillageplayhouse.com"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_structured_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:27:52.272Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:27:52.995450"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Dr. Anastacia Hawkins",
+          "companyDomain": "cocoavillageplayhouse.com"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:27:53.348Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:27:54.055380"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "Dr. Anastacia Hawkins",
+          "company_domain": "cocoavillageplayhouse.com"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:27:54.404Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:27:55.072715"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "contactId": "c4cda8f2-47da-466b-8c57-9dfd676cc4df",
+          "contact": {
+            "fullName": "Dr. Anastacia Hawkins",
+            "companyDomain": "cocoavillageplayhouse.com"
+          }
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-21T18:27:55.411Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-21T15:27:56.080632"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Dr.",
+        "lastName": "Hawkins",
+        "company": {
+          "domain": "cocoavillageplayhouse.com"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 6161,
+    "_ts": "2025-09-21T15:27:56.119202"
+  },
+  {
+    "provider": "puppeteer",
+    "fn": "linkedin.search_from_nav",
+    "domain": "cocoavillageplayhouse.com",
+    "serp_count": 0,
+    "_ts": "2025-09-21T15:30:15.460716"
+  },
+  {
+    "provider": "nav",
+    "fn": "linkedin.sections",
+    "domain": "cocoavillageplayhouse.com",
+    "count": 0,
+    "_ts": "2025-09-21T15:30:15.529192"
+  },
+  {
+    "provider": "puppeteer",
+    "fn": "linkedin.search_from_nav",
+    "domain": "stagesbyfranklin.com",
+    "serp_count": 0,
+    "_ts": "2025-09-21T15:40:56.983029"
+  },
+  {
+    "provider": "nav",
+    "fn": "linkedin.sections",
+    "domain": "stagesbyfranklin.com",
+    "count": 0,
+    "_ts": "2025-09-21T15:40:57.063174"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Halie Thompson",
+      "company_domain": [
+        "charlotteharborecc.com"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 1387,
+    "_ts": "2025-09-21T15:42:24.424976"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "contactId": "d4477cf1-3af0-4e84-9401-b9e373fbec24",
+          "contact": {
+            "fullName": "Halie Thompson",
+            "companyDomain": "charlotteharborecc.com"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_nested_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:25.782Z\",\"message\":[\"contacts.0.property contact should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:26.458527"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Halie",
+          "lastName": "Thompson",
+          "company": {
+            "domain": "charlotteharborecc.com"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_structured_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:26.785Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:27.499805"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Halie Thompson",
+          "companyDomain": "charlotteharborecc.com"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:27.802Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:28.529209"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "Halie Thompson",
+          "company_domain": "charlotteharborecc.com"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:28.870Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:29.559200"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "contactId": "d4477cf1-3af0-4e84-9401-b9e373fbec24",
+          "contact": {
+            "fullName": "Halie Thompson",
+            "companyDomain": "charlotteharborecc.com"
+          }
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-21T18:42:29.566Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-21T15:42:30.248088"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Halie",
+        "lastName": "Thompson",
+        "company": {
+          "domain": "charlotteharborecc.com"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 5833,
+    "_ts": "2025-09-21T15:42:30.297750"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Janet Emmett",
+      "company_domain": [
+        "charlotteharborecc.com"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 820,
+    "_ts": "2025-09-21T15:42:31.179249"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "contactId": "bf6e885b-d2b8-41d9-b765-4251437a7613",
+          "contact": {
+            "fullName": "Janet Emmett",
+            "companyDomain": "charlotteharborecc.com"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_nested_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:32.613Z\",\"message\":[\"contacts.0.property contact should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:33.309084"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Janet",
+          "lastName": "Emmett",
+          "company": {
+            "domain": "charlotteharborecc.com"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_structured_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:33.245Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:33.948000"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Janet Emmett",
+          "companyDomain": "charlotteharborecc.com"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:33.918Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:34.666534"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "Janet Emmett",
+          "company_domain": "charlotteharborecc.com"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:35.093Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:35.791458"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "contactId": "bf6e885b-d2b8-41d9-b765-4251437a7613",
+          "contact": {
+            "fullName": "Janet Emmett",
+            "companyDomain": "charlotteharborecc.com"
+          }
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-21T18:42:35.754Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-21T15:42:36.508284"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Janet",
+        "lastName": "Emmett",
+        "company": {
+          "domain": "charlotteharborecc.com"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 5321,
+    "_ts": "2025-09-21T15:42:36.560233"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Jim Finch",
+      "company_domain": [
+        "charlotteharborecc.com"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 404,
+    "ms": 710,
+    "_ts": "2025-09-21T15:42:37.332856"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "contactId": "afd13832-c146-4789-a1d2-492c4541ab6e",
+          "contact": {
+            "fullName": "Jim Finch",
+            "companyDomain": "charlotteharborecc.com"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_nested_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:37.871Z\",\"message\":[\"contacts.0.property contact should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:38.552380"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Jim",
+          "lastName": "Finch",
+          "company": {
+            "domain": "charlotteharborecc.com"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_structured_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:38.548Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:39.231971"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Jim Finch",
+          "companyDomain": "charlotteharborecc.com"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:39.233Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:39.923981"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "Jim Finch",
+          "company_domain": "charlotteharborecc.com"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:39.866Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:40.542752"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "contactId": "afd13832-c146-4789-a1d2-492c4541ab6e",
+          "contact": {
+            "fullName": "Jim Finch",
+            "companyDomain": "charlotteharborecc.com"
+          }
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-21T18:42:40.449Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-21T15:42:41.131164"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Jim",
+        "lastName": "Finch",
+        "company": {
+          "domain": "charlotteharborecc.com"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 3800,
+    "_ts": "2025-09-21T15:42:41.187375"
+  },
+  {
+    "provider": "contactout",
+    "fn": "people.enrich",
+    "body": {
+      "full_name": "Michelle Maldonado",
+      "company_domain": [
+        "charlotteharborecc.com"
+      ],
+      "include": [
+        "work_email",
+        "personal_email",
+        "phone"
+      ]
+    },
+    "status": 200,
+    "ms": 1400,
+    "_ts": "2025-09-21T15:42:42.654930"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "contactId": "f98fb973-bb06-4c85-9d33-08c9b071340f",
+          "contact": {
+            "fullName": "Michelle Maldonado",
+            "companyDomain": "charlotteharborecc.com"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_nested_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:43.280Z\",\"message\":[\"contacts.0.property contact should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:43.984075"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "firstName": "Michelle",
+          "lastName": "Maldonado",
+          "company": {
+            "domain": "charlotteharborecc.com"
+          }
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_structured_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:43.952Z\",\"message\":[\"contacts.0.property firstName should not exist\",\"contacts.0.property lastName should not exist\",\"contacts.0.property company should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:44.691523"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "fullName": "Michelle Maldonado",
+          "companyDomain": "charlotteharborecc.com"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:44.684Z\",\"message\":[\"contacts.0.property companyDomain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:45.416827"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contacts": [
+        {
+          "full_name": "Michelle Maldonado",
+          "company_domain": "charlotteharborecc.com"
+        }
+      ]
+    },
+    "status": 400,
+    "error": "fallback_contacts_snake_failed",
+    "raw": "{\"statusCode\":400,\"timestamp\":\"2025-09-21T18:42:45.324Z\",\"message\":[\"contacts.0.property full_name should not exist\",\"contacts.0.property company_domain should not exist\",\"contacts.0.contact must have a combination of 1. linkedin url 2.full name + company domain/name 3.email\",\"contacts.0.contactId must be a string\",\"contacts.0.contactId should not be empty\"],\"error\":\"Bad Request\"}",
+    "_ts": "2025-09-21T15:42:46.032746"
+  },
+  {
+    "provider": "lusha",
+    "fn": "persons.enrich",
+    "body": {
+      "contacts": [
+        {
+          "contactId": "f98fb973-bb06-4c85-9d33-08c9b071340f",
+          "contact": {
+            "fullName": "Michelle Maldonado",
+            "companyDomain": "charlotteharborecc.com"
+          }
+        }
+      ]
+    },
+    "status": 404,
+    "error": "fallback_persons_failed",
+    "raw": "{\"statusCode\":404,\"timestamp\":\"2025-09-21T18:42:46.354Z\",\"message\":\"Cannot POST /v2/persons\",\"error\":\"Not Found\"}",
+    "_ts": "2025-09-21T15:42:47.055317"
+  },
+  {
+    "provider": "lusha",
+    "fn": "person.enrich",
+    "body": {
+      "contact": {
+        "firstName": "Michelle",
+        "lastName": "Maldonado",
+        "company": {
+          "domain": "charlotteharborecc.com"
+        }
+      }
+    },
+    "status": 400,
+    "ms": 4382,
+    "_ts": "2025-09-21T15:42:47.105804"
+  },
+  {
+    "provider": "puppeteer",
+    "fn": "linkedin.search_from_nav",
+    "domain": "spacecoastlive.com",
+    "serp_count": 0,
+    "_ts": "2025-09-22T00:24:13.801218"
+  },
+  {
+    "provider": "nav",
+    "fn": "linkedin.sections",
+    "domain": "spacecoastlive.com",
+    "count": 0,
+    "_ts": "2025-09-22T00:24:13.863997"
+  }
+]

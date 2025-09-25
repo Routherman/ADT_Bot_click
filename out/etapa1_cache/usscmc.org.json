@@ -1,0 +1,1384 @@
+{
+  "site_url": "https://usscmc.org/",
+  "domain": "usscmc.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://usscmc.org/",
+    "https://www.usscmc.org/membership",
+    "https://www.usscmc.org/faqs",
+    "https://www.usscmc.org/contact",
+    "https://www.usscmc.org/",
+    "https://www.usscmc.org/our-story",
+    "https://www.usscmc.org/our-leadership",
+    "https://www.usscmc.org/our-community-impact",
+    "https://www.usscmc.org/youth-sailing-programs",
+    "https://www.usscmc.org/adult-private-group-lessons",
+    "https://www.usscmc.org/certifications-for-instructors",
+    "https://www.usscmc.org/homeschool-program",
+    "https://www.usscmc.org/sailboat-rides",
+    "https://www.usscmc.org/apparel-store",
+    "https://www.usscmc.org/success-sailing-program",
+    "https://www.usscmc.org/sailboat-charters",
+    "https://www.usscmc.org/member-racing",
+    "https://www.usscmc.org/single-day-water-adventure-camp",
+    "https://www.usscmc.org/little-skippers-program",
+    "https://www.usscmc.org/foiling-program",
+    "https://www.usscmc.org/regatta-and-events",
+    "https://www.usscmc.org/regattas",
+    "https://www.usscmc.org/useful-links",
+    "https://www.usscmc.org/photos",
+    "https://www.usscmc.org/making-donations",
+    "https://www.usscmc.org/capital-campaign",
+    "http://www.usscmc.org/regattas",
+    "https://www.usscmc.org/weatherflow",
+    "https://www.usscmc.org/member-night-racing-25-september-2025",
+    "https://www.usscmc.org/children-of-fallen-law-enforcement-officers-27-september-2025",
+    "https://www.usscmc.org/member-night-racing-02-october-2025",
+    "https://www.usscmc.org/octoberfest-04-october-2025",
+    "https://www.usscmc.org/faq-question/partners-and-sponsors",
+    "https://www.usscmc.org/faq-question/usscmc",
+    "https://www.usscmc.org/faq-question/sailing",
+    "https://www.usscmc.org/faq-question/member",
+    "https://www.usscmc.org/faq-question/volunteer",
+    "https://www.usscmc.org/faq-question/lessons",
+    "https://www.usscmc.org/faq-question/usscmc-gift-certificates",
+    "https://www.usscmc.org/faq-question/employment",
+    "https://www.usscmc.org/media",
+    "https://www.usscmc.org/opti-program",
+    "https://www.usscmc.org/adventure-sailing-foiling",
+    "https://www.usscmc.org/club-420",
+    "https://www.usscmc.org/high-school-sailing-programs",
+    "https://www.usscmc.org/adult-learn-to-sail",
+    "https://www.usscmc.org/certifications",
+    "https://www.usscmc.org/homeschool-sailing-program",
+    "https://www.usscmc.org/success-sailing",
+    "https://www.usscmc.org/fleet-charters-coaching",
+    "https://www.usscmc.org/foiling",
+    "https://www.usscmc.org/what-is-your-federal-tax-id-number",
+    "https://www.usscmc.org/is-the-usscmc-a-nonprofit",
+    "https://www.usscmc.org/how-are-you-associated-with-the-us-sailing",
+    "https://www.usscmc.org/when-can-i-sail",
+    "https://www.usscmc.org/where-can-i-sail",
+    "https://www.usscmc.org/where-should-i-leave-my-personal-belongings",
+    "https://www.usscmc.org/do-i-need-to-wash-my-sails-after-sailing",
+    "https://www.usscmc.org/do-i-need-to-wash-my-boat-after-sailing",
+    "https://www.usscmc.org/i-have-observed-sailboats-beyond-the-bridges-may-i-sail-beyond-the-sailing-area",
+    "https://www.usscmc.org/how-long-may-i-use-the-boat",
+    "https://www.usscmc.org/can-i-make-reservations-for-a-sailboat",
+    "https://www.usscmc.org/can-i-store-my-boat-at-the-usscmc",
+    "https://www.usscmc.org/can-i-run-the-usscmc-powerboats",
+    "https://www.usscmc.org/are-there-locker-rooms-or-showers",
+    "https://www.usscmc.org/do-you-offer-any-reciprocal-privileges-with-other-sailing-centers-or-yacht-clubs",
+    "https://www.usscmc.org/do-you-offer-daily-rentals-or-do-i-have-to-be-a-member-of-the-usscmc-to-use-the-boats",
+    "https://www.usscmc.org/is-sailing-permitted-when-the-office-is-closed",
+    "https://www.usscmc.org/may-i-bring-a-guest",
+    "https://www.usscmc.org/are-there-any-limitations-of-who-can-be-my-guests",
+    "https://www.usscmc.org/what-are-my-responsibilities-before-sailing",
+    "https://www.usscmc.org/what-boats-may-i-use-as-a-member",
+    "https://www.usscmc.org/can-i-use-my-personally-owned-sailboat-at-the-usscmc"
+  ],
+  "candidates": [
+    "https://www.usscmc.org/contact",
+    "https://www.usscmc.org/membership",
+    "https://www.usscmc.org/faq-question/employment",
+    "https://www.usscmc.org/faq-question/lessons",
+    "https://www.usscmc.org/faq-question/member",
+    "https://www.usscmc.org/faq-question/partners-and-sponsors",
+    "https://www.usscmc.org/faq-question/sailing",
+    "https://www.usscmc.org/faq-question/usscmc",
+    "https://www.usscmc.org/faq-question/usscmc-gift-certificates",
+    "https://www.usscmc.org/faq-question/volunteer",
+    "https://www.usscmc.org/faqs",
+    "https://usscmc.org/",
+    "https://www.usscmc.org/are-there-locker-rooms-or-showers",
+    "https://www.usscmc.org/regatta-and-events",
+    "https://usscmc.org/contact",
+    "https://usscmc.org/contact/",
+    "https://usscmc.org/contact-us",
+    "https://usscmc.org/contact-us/",
+    "https://usscmc.org/contactus",
+    "https://usscmc.org/contactus/",
+    "https://usscmc.org/about",
+    "https://usscmc.org/about/",
+    "https://usscmc.org/about-us",
+    "https://usscmc.org/about-us/",
+    "https://usscmc.org/visit",
+    "https://usscmc.org/visit/",
+    "https://usscmc.org/location",
+    "https://usscmc.org/location/",
+    "https://usscmc.org/directions",
+    "https://usscmc.org/directions/"
+  ],
+  "per_page": {
+    "https://www.usscmc.org/contact": {
+      "title": "US Sailing Center | Contact Us",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/contact"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://www.usscmc.org/membership": {
+      "title": "US Sailing",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/membership"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/membership"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772-334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://www.usscmc.org/faq-question/employment": {
+      "title": "US Sailing",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/employment"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/employment"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://www.usscmc.org/faq-question/lessons": {
+      "title": "US Sailing",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/lessons"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/lessons"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://www.usscmc.org/faq-question/member": {
+      "title": "US Sailing",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/member"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/member"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://www.usscmc.org/faq-question/partners-and-sponsors": {
+      "title": "US Sailing",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/partners-and-sponsors"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/partners-and-sponsors"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://www.usscmc.org/faq-question/sailing": {
+      "title": "US Sailing",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/sailing"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/sailing"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/sailing"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://www.usscmc.org/faq-question/usscmc": {
+      "title": "US Sailing",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/usscmc"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/usscmc"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://www.usscmc.org/faq-question/usscmc-gift-certificates": {
+      "title": "US Sailing",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/usscmc-gift-certificates"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/usscmc-gift-certificates"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://www.usscmc.org/faq-question/volunteer": {
+      "title": "US Sailing",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/volunteer"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faq-question/volunteer"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://www.usscmc.org/faqs": {
+      "title": "US Sailing",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faqs"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/faqs"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/": {
+      "title": "Sailing Center Jensen Beach | US Sailing Center of Martin County",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://www.usscmc.org/are-there-locker-rooms-or-showers": {
+      "title": "US Sailing Center",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/are-there-locker-rooms-or-showers"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/are-there-locker-rooms-or-showers"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/are-there-locker-rooms-or-showers"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://www.usscmc.org/regatta-and-events": {
+      "title": "US Sailing",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/regatta-and-events"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usscmc.org/regatta-and-events"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/contact": {
+      "title": "US Sailing Center | Contact Us",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/contact"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/contact/": {
+      "title": "US Sailing Center | Contact Us",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/contact-us": {
+      "title": "404 Page Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/contact-us/": {
+      "title": "404 Page Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/contactus": {
+      "title": "404 Page Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/contactus/": {
+      "title": "404 Page Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/about": {
+      "title": "404 Page Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/about"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/about"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/about/": {
+      "title": "404 Page Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/about/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/about/"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/about-us": {
+      "title": "USSCMC Jensen Beach | Community Sailing Center Martin County",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/about-us/": {
+      "title": "USSCMC Jensen Beach | Community Sailing Center Martin County",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/visit": {
+      "title": "404 Page Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/visit"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/visit"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/visit/": {
+      "title": "404 Page Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/location": {
+      "title": "404 Page Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/location"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/location"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/location/": {
+      "title": "404 Page Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/location/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/location/"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/directions": {
+      "title": "404 Page Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/directions"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/directions"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    },
+    "https://usscmc.org/directions/": {
+      "title": "404 Page Not Found",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usscmc.org/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@usscmc.org"
+      ],
+      "phones": [
+        "(772) 334-8085",
+        "772.334.8085"
+      ],
+      "socials": [
+        "https://www.facebook.com/usscmartincounty/",
+        "https://www.youtube.com/channel/UC5ClSwQymyjCwuAnHwEP9xw"
+      ]
+    }
+  }
+}

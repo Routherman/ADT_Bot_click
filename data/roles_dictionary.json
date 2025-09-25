@@ -1,0 +1,3384 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "domain": "all_industries_USA",
+    "language": "en",
+    "created_by": "ChatGPT",
+    "updated_at": "2025-08-26T00:00:00Z",
+    "coverage_note": "Composable dictionary (titles x domains) + exceptions across NAICS 2022 sectors; informed by BLS SOC 2018 groupings.",
+    "source_refs": {
+      "SOC_2018_home": "https://www.bls.gov/soc/2018/",
+      "SOC_overview": "https://www.bls.gov/soc/",
+      "NAICS_2022_home": "https://www.census.gov/naics/",
+      "O*NET_home": "https://www.onetonline.org/"
+    }
+  },
+  "normalization": {
+    "stopwords": [
+      "of",
+      "and",
+      "the",
+      "for",
+      "in",
+      "to",
+      "on",
+      "at",
+      "with"
+    ],
+    "punctuation_to_space": true,
+    "ampersand_to_and": true,
+    "slash_spaced": true,
+    "case": "lower"
+  },
+  "seniority_markers": {
+    "C-Suite": [
+      "chief",
+      "c-level",
+      "c suite",
+      "c‑suite",
+      "cxO"
+    ],
+    "Executive": [
+      "executive",
+      "evp",
+      "svp",
+      "vp"
+    ],
+    "Senior": [
+      "senior",
+      "sr",
+      "sr.",
+      "lead",
+      "principal"
+    ],
+    "Mid": [
+      "mid",
+      "intermediate",
+      "ii",
+      "iii"
+    ],
+    "Junior": [
+      "junior",
+      "jr",
+      "jr."
+    ],
+    "Assistant": [
+      "assistant",
+      "associate",
+      "deputy"
+    ],
+    "Apprentice": [
+      "apprentice",
+      "trainee"
+    ],
+    "Intern": [
+      "intern",
+      "internship"
+    ]
+  },
+  "abbreviations": {
+    "ceo": "chief executive officer",
+    "coo": "chief operating officer",
+    "cfo": "chief financial officer",
+    "cio": "chief information officer",
+    "cto": "chief technology officer",
+    "cmo": "chief marketing officer",
+    "cpo": "chief product officer",
+    "chro": "chief human resources officer",
+    "ciso": "chief information security officer",
+    "cdo": "chief data officer",
+    "cdao": "chief data and analytics officer",
+    "cco": "chief compliance officer",
+    "cro": [
+      "chief revenue officer",
+      "chief risk officer"
+    ],
+    "cxo": "chief experience officer",
+    "cno": "chief nursing officer",
+    "cmo_med": "chief medical officer",
+    "gc": "general counsel",
+    "p": "president",
+    "evp": "executive vice president",
+    "svp": "senior vice president",
+    "vp": "vice president",
+    "avp": "assistant vice president",
+    "md_firms": "managing director",
+    "gm": "general manager",
+    "pm": [
+      "project manager",
+      "product manager",
+      "program manager"
+    ],
+    "po": "product owner",
+    "ba": "business analyst",
+    "fpa": "financial planning and analysis",
+    "ap": "accounts payable",
+    "ar": "accounts receivable",
+    "gl": "general ledger",
+    "fpna": "financial planning and analysis",
+    "swe": "software engineer",
+    "sde": "software development engineer",
+    "sdet": "software development engineer in test",
+    "qa": "quality assurance",
+    "sre": "site reliability engineer",
+    "sa": "solutions architect",
+    "se": [
+      "systems engineer",
+      "sales engineer"
+    ],
+    "sysadmin": "systems administrator",
+    "neteng": "network engineer",
+    "dbadmin": "database administrator",
+    "devops": "devops engineer",
+    "cs": "computer science",
+    "ml": "machine learning",
+    "ai": "artificial intelligence",
+    "ui": "user interface",
+    "ux": "user experience",
+    "it": "information technology",
+    "infosec": "information security",
+    "soc": "security operations center",
+    "dfir": "digital forensics and incident response",
+    "gRC": "governance risk compliance",
+    "ae": "account executive",
+    "am": "account manager",
+    "sam": "strategic account manager",
+    "kam": "key account manager",
+    "adr": [
+      "sales development representative",
+      "business development representative"
+    ],
+    "sdr": "sales development representative",
+    "bdr": "business development representative",
+    "pr": "public relations",
+    "seo": "search engine optimization",
+    "sem": "search engine marketing",
+    "hrbp": "human resources business partner",
+    "ta": "talent acquisition",
+    "hris": "human resources information systems",
+    "l&d": "learning and development",
+    "dei": "diversity equity and inclusion",
+    "cpa": "certified public accountant",
+    "cfa": "chartered financial analyst",
+    "frm": "financial risk manager",
+    "jd": "juris doctor",
+    "esq": "attorney",
+    "md": "physician",
+    "do": "physician",
+    "pa-c": "physician assistant",
+    "np": "nurse practitioner",
+    "rn": "registered nurse",
+    "lpn": "licensed practical nurse",
+    "lvn": "licensed vocational nurse",
+    "cna": "certified nursing assistant",
+    "rt": "respiratory therapist",
+    "pt": "physical therapist",
+    "pta": "physical therapist assistant",
+    "ot": "occupational therapist",
+    "cota": "certified occupational therapy assistant",
+    "slp": "speech language pathologist",
+    "rdh": "registered dental hygienist",
+    "dds": "dentist",
+    "dmd": "dentist",
+    "rph": "pharmacist",
+    "pharmd": "pharmacist",
+    "mt": "medical technologist",
+    "cpc": "certified professional coder",
+    "hvac": "heating ventilation and air conditioning",
+    "cwi": "certified welding inspector",
+    "nccco": "crane operator certification",
+    "osha": "occupational safety and health administration",
+    "cdl": "commercial driver license",
+    "ehs": "environment health and safety",
+    "bi": "business intelligence",
+    "rpa": "robotic process automation",
+    "iot": "internet of things"
+  },
+  "title_bank": {
+    "C-Suite": [
+      "Chief Executive Officer",
+      "Chief Operating Officer",
+      "Chief Financial Officer",
+      "Chief Information Officer",
+      "Chief Technology Officer",
+      "Chief Marketing Officer",
+      "Chief Product Officer",
+      "Chief People Officer",
+      "Chief Human Resources Officer",
+      "Chief Information Security Officer",
+      "Chief Data Officer",
+      "Chief Digital Officer",
+      "Chief Compliance Officer",
+      "Chief Strategy Officer",
+      "Chief Customer Officer",
+      "Chief Experience Officer",
+      "Chief Revenue Officer",
+      "Chief Risk Officer",
+      "Chief Nursing Officer",
+      "Chief Medical Officer",
+      "General Counsel"
+    ],
+    "Executive Leadership": [
+      "Executive Vice President",
+      "Senior Vice President",
+      "Vice President",
+      "Assistant Vice President",
+      "Managing Director",
+      "Country Manager",
+      "Regional Director"
+    ],
+    "Directors": [
+      "Director",
+      "Senior Director",
+      "Associate Director",
+      "Assistant Director",
+      "Head of"
+    ],
+    "Managers": [
+      "Manager",
+      "Senior Manager",
+      "Assistant Manager",
+      "General Manager",
+      "Program Manager",
+      "Project Manager",
+      "Product Manager",
+      "Operations Manager",
+      "Finance Manager",
+      "HR Manager",
+      "IT Manager",
+      "Marketing Manager",
+      "Sales Manager"
+    ],
+    "Leads & Principals": [
+      "Lead",
+      "Team Lead",
+      "Principal",
+      "Staff"
+    ],
+    "Professionals": [
+      "Analyst",
+      "Specialist",
+      "Consultant",
+      "Coordinator",
+      "Administrator",
+      "Officer",
+      "Associate",
+      "Representative",
+      "Advisor",
+      "Agent"
+    ],
+    "Technical": [
+      "Engineer",
+      "Technician",
+      "Operator",
+      "Mechanic",
+      "Electrician",
+      "Installer",
+      "Developer",
+      "Scientist",
+      "Researcher",
+      "Architect",
+      "Designer",
+      "Inspector"
+    ],
+    "Assistants/Entry": [
+      "Assistant",
+      "Aide",
+      "Apprentice",
+      "Intern",
+      "Trainee"
+    ]
+  },
+  "domain_bank": {
+    "Accounting & Finance": {
+      "aliases": [
+        "accounting",
+        "finance",
+        "financial",
+        "controllership",
+        "treasury"
+      ],
+      "keywords": [
+        "accounts payable",
+        "accounts receivable",
+        "payroll",
+        "tax",
+        "audit",
+        "fp&a",
+        "treasury",
+        "controller",
+        "cost accounting",
+        "billing",
+        "collections",
+        "credit",
+        "investment",
+        "lending"
+      ]
+    },
+    "Legal & Compliance": {
+      "aliases": [
+        "legal",
+        "compliance",
+        "governance"
+      ],
+      "keywords": [
+        "general counsel",
+        "attorney",
+        "paralegal",
+        "contract",
+        "corporate",
+        "compliance",
+        "ethics",
+        "privacy",
+        "risk",
+        "regulatory"
+      ]
+    },
+    "Human Resources & People": {
+      "aliases": [
+        "human resources",
+        "hr",
+        "people"
+      ],
+      "keywords": [
+        "talent acquisition",
+        "recruiting",
+        "hrbp",
+        "compensation",
+        "benefits",
+        "learning",
+        "development",
+        "employee relations",
+        "hris",
+        "payroll",
+        "dei"
+      ]
+    },
+    "IT & Systems": {
+      "aliases": [
+        "information technology",
+        "it",
+        "systems"
+      ],
+      "keywords": [
+        "help desk",
+        "desktop support",
+        "systems administration",
+        "network",
+        "database",
+        "cloud",
+        "devops",
+        "sre",
+        "erp",
+        "crm",
+        "security",
+        "it support"
+      ]
+    },
+    "Software Engineering": {
+      "aliases": [
+        "engineering",
+        "software",
+        "development"
+      ],
+      "keywords": [
+        "frontend",
+        "backend",
+        "full stack",
+        "mobile",
+        "qa",
+        "test",
+        "automation",
+        "firmware",
+        "embedded",
+        "platform",
+        "dev tools"
+      ]
+    },
+    "Data & Analytics": {
+      "aliases": [
+        "data",
+        "analytics",
+        "business intelligence"
+      ],
+      "keywords": [
+        "data analyst",
+        "bi analyst",
+        "data engineer",
+        "ml engineer",
+        "data scientist",
+        "ai",
+        "statistics",
+        "visualization",
+        "reporting",
+        "etl"
+      ]
+    },
+    "Product": {
+      "aliases": [
+        "product management",
+        "product"
+      ],
+      "keywords": [
+        "product manager",
+        "product owner",
+        "roadmap",
+        "discovery",
+        "ux research",
+        "product marketing"
+      ]
+    },
+    "Project & Program": {
+      "aliases": [
+        "project management",
+        "program management",
+        "pmo"
+      ],
+      "keywords": [
+        "project manager",
+        "program manager",
+        "scrum master",
+        "pmp",
+        "agile",
+        "portfolio management"
+      ]
+    },
+    "Design & Creative": {
+      "aliases": [
+        "design",
+        "creative"
+      ],
+      "keywords": [
+        "graphic design",
+        "ux",
+        "ui",
+        "product design",
+        "industrial design",
+        "motion",
+        "content",
+        "copywriting"
+      ]
+    },
+    "Marketing & Communications": {
+      "aliases": [
+        "marketing",
+        "comms",
+        "communications"
+      ],
+      "keywords": [
+        "brand",
+        "growth",
+        "performance",
+        "content",
+        "seo",
+        "sem",
+        "email",
+        "events",
+        "public relations",
+        "social",
+        "community"
+      ]
+    },
+    "Sales & Business Development": {
+      "aliases": [
+        "sales",
+        "business development",
+        "bd"
+      ],
+      "keywords": [
+        "account executive",
+        "account manager",
+        "sdr",
+        "bdr",
+        "partnerships",
+        "channel",
+        "pre-sales",
+        "sales engineer",
+        "sales operations"
+      ]
+    },
+    "Customer Support & Success": {
+      "aliases": [
+        "support",
+        "customer success",
+        "cx"
+      ],
+      "keywords": [
+        "call center",
+        "help desk",
+        "customer service",
+        "technical support",
+        "onboarding",
+        "retention",
+        "renewals"
+      ]
+    },
+    "Strategy & Operations": {
+      "aliases": [
+        "operations",
+        "strategy"
+      ],
+      "keywords": [
+        "business operations",
+        "process improvement",
+        "continuous improvement",
+        "six sigma",
+        "lean",
+        "OKR",
+        "analytics"
+      ]
+    },
+    "Supply Chain & Logistics": {
+      "aliases": [
+        "supply chain",
+        "logistics"
+      ],
+      "keywords": [
+        "procurement",
+        "purchasing",
+        "planning",
+        "inventory",
+        "warehouse",
+        "distribution",
+        "transportation",
+        "fleet",
+        "dispatch"
+      ]
+    },
+    "Manufacturing & Production": {
+      "aliases": [
+        "manufacturing",
+        "production",
+        "plant"
+      ],
+      "keywords": [
+        "assembler",
+        "machinist",
+        "welder",
+        "cnc",
+        "operator",
+        "production",
+        "line lead",
+        "maintenance mechanic",
+        "industrial engineering"
+      ]
+    },
+    "Quality & EHS": {
+      "aliases": [
+        "quality",
+        "ehs",
+        "safety"
+      ],
+      "keywords": [
+        "quality assurance",
+        "quality control",
+        "inspection",
+        "auditor",
+        "regulatory",
+        "environmental",
+        "health",
+        "safety"
+      ]
+    },
+    "Facilities & Maintenance": {
+      "aliases": [
+        "facilities",
+        "maintenance"
+      ],
+      "keywords": [
+        "building",
+        "hvac",
+        "electric",
+        "plumbing",
+        "janitorial",
+        "custodial",
+        "grounds",
+        "maintenance"
+      ]
+    },
+    "Physical Security & Loss Prevention": {
+      "aliases": [
+        "security",
+        "loss prevention"
+      ],
+      "keywords": [
+        "security officer",
+        "guard",
+        "investigator",
+        "loss prevention",
+        "asset protection"
+      ]
+    },
+    "Cybersecurity": {
+      "aliases": [
+        "cybersecurity",
+        "information security",
+        "infosec"
+      ],
+      "keywords": [
+        "soc",
+        "security analyst",
+        "incident response",
+        "threat",
+        "vulnerability",
+        "governance",
+        "risk",
+        "compliance"
+      ]
+    },
+    "Healthcare (Clinical)": {
+      "aliases": [
+        "healthcare",
+        "clinical"
+      ],
+      "keywords": [
+        "physician",
+        "nurse",
+        "therapist",
+        "technologist",
+        "technician",
+        "medical assistant",
+        "pharmacist"
+      ]
+    },
+    "Healthcare Administration": {
+      "aliases": [
+        "healthcare administration"
+      ],
+      "keywords": [
+        "health information",
+        "billing",
+        "coding",
+        "practice manager",
+        "case management",
+        "utilization review"
+      ]
+    },
+    "Pharmacy": {
+      "aliases": [
+        "pharmacy"
+      ],
+      "keywords": [
+        "pharmacist",
+        "pharmacy technician"
+      ]
+    },
+    "Dental": {
+      "aliases": [
+        "dental"
+      ],
+      "keywords": [
+        "dentist",
+        "hygienist",
+        "dental assistant",
+        "orthodontic"
+      ]
+    },
+    "Behavioral Health": {
+      "aliases": [
+        "behavioral health",
+        "mental health"
+      ],
+      "keywords": [
+        "psychologist",
+        "therapist",
+        "counselor",
+        "social worker",
+        "bcba"
+      ]
+    },
+    "Education (K-12 & Higher Ed)": {
+      "aliases": [
+        "education",
+        "school",
+        "university",
+        "higher education"
+      ],
+      "keywords": [
+        "teacher",
+        "professor",
+        "adjunct",
+        "dean",
+        "registrar",
+        "counselor",
+        "librarian",
+        "instructional designer"
+      ]
+    },
+    "Research & Laboratory": {
+      "aliases": [
+        "research",
+        "laboratory",
+        "r&d"
+      ],
+      "keywords": [
+        "research scientist",
+        "lab technician",
+        "chemist",
+        "biologist",
+        "microbiologist",
+        "analyst"
+      ]
+    },
+    "Life Sciences (Biotech/Pharma)": {
+      "aliases": [
+        "biotech",
+        "pharmaceutical"
+      ],
+      "keywords": [
+        "clinical trials",
+        "regulatory affairs",
+        "quality",
+        "manufacturing",
+        "medical affairs",
+        "pharmacovigilance"
+      ]
+    },
+    "Construction & Skilled Trades": {
+      "aliases": [
+        "construction",
+        "trades"
+      ],
+      "keywords": [
+        "carpenter",
+        "electrician",
+        "plumber",
+        "hvac",
+        "roofer",
+        "estimator",
+        "superintendent",
+        "project engineer"
+      ]
+    },
+    "Architecture & Engineering": {
+      "aliases": [
+        "architecture",
+        "engineering"
+      ],
+      "keywords": [
+        "civil",
+        "mechanical",
+        "electrical",
+        "structural",
+        "geotechnical",
+        "survey",
+        "cad",
+        "bim"
+      ]
+    },
+    "Energy & Utilities": {
+      "aliases": [
+        "energy",
+        "utilities"
+      ],
+      "keywords": [
+        "lineman",
+        "substation",
+        "generation",
+        "renewable",
+        "solar",
+        "wind",
+        "nuclear",
+        "field service"
+      ]
+    },
+    "Oil & Gas / Mining": {
+      "aliases": [
+        "oil and gas",
+        "mining"
+      ],
+      "keywords": [
+        "drilling",
+        "production",
+        "geologist",
+        "petroleum",
+        "frac",
+        "offshore",
+        "hse"
+      ]
+    },
+    "Agriculture & Food Production": {
+      "aliases": [
+        "agriculture",
+        "farming",
+        "food production"
+      ],
+      "keywords": [
+        "farmer",
+        "agronomist",
+        "ranch",
+        "food safety",
+        "usda",
+        "qa"
+      ]
+    },
+    "Transportation & Warehousing": {
+      "aliases": [
+        "transportation",
+        "warehousing"
+      ],
+      "keywords": [
+        "driver",
+        "cdl",
+        "dispatcher",
+        "fleet",
+        "pilot",
+        "flight attendant",
+        "ramp",
+        "logistics"
+      ]
+    },
+    "Retail & E-commerce": {
+      "aliases": [
+        "retail",
+        "ecommerce",
+        "e-commerce"
+      ],
+      "keywords": [
+        "cashier",
+        "sales associate",
+        "store manager",
+        "merchandiser",
+        "buyer",
+        "category manager",
+        "inventory",
+        "fulfillment"
+      ]
+    },
+    "Hospitality & Food Service": {
+      "aliases": [
+        "hospitality",
+        "food service",
+        "restaurants",
+        "hotels"
+      ],
+      "keywords": [
+        "server",
+        "cook",
+        "chef",
+        "bartender",
+        "barista",
+        "host",
+        "housekeeping",
+        "front desk",
+        "concierge",
+        "event planner"
+      ]
+    },
+    "Travel & Tourism": {
+      "aliases": [
+        "travel",
+        "tourism"
+      ],
+      "keywords": [
+        "tour guide",
+        "travel agent",
+        "ticketing",
+        "cruise",
+        "events",
+        "destination marketing"
+      ]
+    },
+    "Media & Entertainment": {
+      "aliases": [
+        "media",
+        "entertainment"
+      ],
+      "keywords": [
+        "producer",
+        "editor",
+        "videographer",
+        "sound engineer",
+        "photographer",
+        "journalist",
+        "broadcaster"
+      ]
+    },
+    "Sports & Recreation": {
+      "aliases": [
+        "sports",
+        "recreation",
+        "fitness"
+      ],
+      "keywords": [
+        "coach",
+        "trainer",
+        "lifeguard",
+        "athletic director",
+        "groundskeeper",
+        "events"
+      ]
+    },
+    "Nonprofit & Fundraising": {
+      "aliases": [
+        "nonprofit",
+        "charity"
+      ],
+      "keywords": [
+        "executive director",
+        "development",
+        "grant writer",
+        "program manager",
+        "volunteer coordinator"
+      ]
+    },
+    "Government & Public Safety": {
+      "aliases": [
+        "government",
+        "public sector",
+        "public safety"
+      ],
+      "keywords": [
+        "city manager",
+        "planner",
+        "policy analyst",
+        "police officer",
+        "sheriff",
+        "firefighter",
+        "emt",
+        "paramedic",
+        "corrections",
+        "dispatcher"
+      ]
+    },
+    "Real Estate & Property": {
+      "aliases": [
+        "real estate",
+        "property management"
+      ],
+      "keywords": [
+        "broker",
+        "agent",
+        "leasing",
+        "property manager",
+        "maintenance",
+        "appraiser"
+      ]
+    },
+    "Banking, Insurance & Financial Services": {
+      "aliases": [
+        "banking",
+        "insurance",
+        "financial services"
+      ],
+      "keywords": [
+        "teller",
+        "banker",
+        "loan officer",
+        "underwriter",
+        "claims",
+        "actuary",
+        "advisor",
+        "broker",
+        "trader",
+        "portfolio manager",
+        "compliance"
+      ]
+    },
+    "Fintech & Payments": {
+      "aliases": [
+        "fintech",
+        "payments"
+      ],
+      "keywords": [
+        "risk",
+        "fraud",
+        "compliance",
+        "partnerships",
+        "product",
+        "engineering",
+        "operations"
+      ]
+    },
+    "Aerospace & Defense": {
+      "aliases": [
+        "aerospace",
+        "defense"
+      ],
+      "keywords": [
+        "aerospace engineer",
+        "systems engineer",
+        "avionics",
+        "manufacturing",
+        "clearance"
+      ]
+    }
+  },
+  "exception_roles": [
+    {
+      "canonical": "Chief Executive Officer",
+      "aliases": [
+        "ceo",
+        "chief executive officer"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief Operating Officer",
+      "aliases": [
+        "chief operating officer",
+        "coo"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief Financial Officer",
+      "aliases": [
+        "cfo",
+        "chief financial officer"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief Information Officer",
+      "aliases": [
+        "chief information officer",
+        "cio"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief Technology Officer",
+      "aliases": [
+        "chief technology officer",
+        "cto"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief Marketing Officer",
+      "aliases": [
+        "chief marketing officer",
+        "cmo"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief Product Officer",
+      "aliases": [
+        "chief product officer",
+        "cpo"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief People Officer",
+      "aliases": [
+        "chief human resources officer",
+        "chief people officer",
+        "chro"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief Information Security Officer",
+      "aliases": [
+        "chief information security officer",
+        "ciso"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief Data Officer",
+      "aliases": [
+        "cdo",
+        "chief data officer"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief Digital Officer",
+      "aliases": [
+        "cdo digital",
+        "chief digital officer"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief Compliance Officer",
+      "aliases": [
+        "cco",
+        "chief compliance officer"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief Strategy Officer",
+      "aliases": [
+        "chief strategy officer",
+        "cso"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief Customer Officer",
+      "aliases": [
+        "cco customer",
+        "chief customer officer"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief Experience Officer",
+      "aliases": [
+        "chief experience officer",
+        "cxo"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief Revenue Officer",
+      "aliases": [
+        "chief revenue officer",
+        "cro revenue"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Chief Risk Officer",
+      "aliases": [
+        "chief risk officer",
+        "cro risk"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "General Counsel",
+      "aliases": [
+        "gc",
+        "general counsel"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Executive Vice President",
+      "aliases": [
+        "evp",
+        "executive vice president"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Senior Vice President",
+      "aliases": [
+        "senior vice president",
+        "svp"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Vice President",
+      "aliases": [
+        "vice president",
+        "vp"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Assistant Vice President",
+      "aliases": [
+        "assistant vice president",
+        "avp"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Managing Director",
+      "aliases": [
+        "managing director",
+        "md"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Head of",
+      "aliases": [
+        "head",
+        "head of"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Director",
+      "aliases": [
+        "dir",
+        "director",
+        "director of"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Senior Director",
+      "aliases": [
+        "senior director",
+        "sr director"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Associate Director",
+      "aliases": [
+        "assoc director",
+        "associate director"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Program Manager",
+      "aliases": [
+        "pgm",
+        "program manager"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Project Manager",
+      "aliases": [
+        "pmp",
+        "project manager"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Product Manager",
+      "aliases": [
+        "pm",
+        "po",
+        "product manager",
+        "product owner"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Operations Manager",
+      "aliases": [
+        "operations manager"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Finance Manager",
+      "aliases": [
+        "finance manager"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "HR Manager",
+      "aliases": [
+        "hr manager",
+        "human resources manager"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "IT Manager",
+      "aliases": [
+        "information technology manager",
+        "it manager"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Marketing Manager",
+      "aliases": [
+        "marketing manager"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Sales Manager",
+      "aliases": [
+        "sales manager"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Business Analyst",
+      "aliases": [
+        "ba",
+        "business analyst"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Data Analyst",
+      "aliases": [
+        "data analyst"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Financial Analyst",
+      "aliases": [
+        "financial analyst"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Strategy Analyst",
+      "aliases": [
+        "strategy analyst"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Office Manager",
+      "aliases": [
+        "office manager"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Executive Assistant",
+      "aliases": [
+        "executive assistant"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Administrative Assistant",
+      "aliases": [
+        "administrative assistant"
+      ],
+      "patterns": [],
+      "family_hint": ""
+    },
+    {
+      "canonical": "Software Engineer",
+      "aliases": [
+        "developer",
+        "programmer",
+        "sde",
+        "software engineer",
+        "swe"
+      ],
+      "patterns": [],
+      "family_hint": "Software Engineering"
+    },
+    {
+      "canonical": "Frontend Engineer",
+      "aliases": [
+        "frontend developer",
+        "frontend engineer",
+        "ui engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Software Engineering"
+    },
+    {
+      "canonical": "Backend Engineer",
+      "aliases": [
+        "backend developer",
+        "backend engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Software Engineering"
+    },
+    {
+      "canonical": "Full Stack Engineer",
+      "aliases": [
+        "full stack engineer",
+        "fullstack developer"
+      ],
+      "patterns": [],
+      "family_hint": "Software Engineering"
+    },
+    {
+      "canonical": "Mobile Developer",
+      "aliases": [
+        "android developer",
+        "ios developer",
+        "mobile developer",
+        "react native developer"
+      ],
+      "patterns": [],
+      "family_hint": "Software Engineering"
+    },
+    {
+      "canonical": "QA Engineer",
+      "aliases": [
+        "qa",
+        "qa engineer",
+        "sdet",
+        "test engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Software Engineering"
+    },
+    {
+      "canonical": "DevOps Engineer",
+      "aliases": [
+        "devops",
+        "devops engineer"
+      ],
+      "patterns": [],
+      "family_hint": "IT & Systems"
+    },
+    {
+      "canonical": "Site Reliability Engineer",
+      "aliases": [
+        "site reliability engineer",
+        "sre"
+      ],
+      "patterns": [],
+      "family_hint": "IT & Systems"
+    },
+    {
+      "canonical": "Systems Administrator",
+      "aliases": [
+        "sysadmin",
+        "systems administrator"
+      ],
+      "patterns": [],
+      "family_hint": "IT & Systems"
+    },
+    {
+      "canonical": "Network Engineer",
+      "aliases": [
+        "network engineer"
+      ],
+      "patterns": [],
+      "family_hint": "IT & Systems"
+    },
+    {
+      "canonical": "Database Administrator",
+      "aliases": [
+        "database administrator",
+        "dba",
+        "dbadmin"
+      ],
+      "patterns": [],
+      "family_hint": "IT & Systems"
+    },
+    {
+      "canonical": "Solutions Architect",
+      "aliases": [
+        "sa",
+        "solutions architect"
+      ],
+      "patterns": [],
+      "family_hint": "IT & Systems"
+    },
+    {
+      "canonical": "Cloud Architect",
+      "aliases": [
+        "aws architect",
+        "azure architect",
+        "cloud architect",
+        "gcp architect"
+      ],
+      "patterns": [],
+      "family_hint": "IT & Systems"
+    },
+    {
+      "canonical": "Data Engineer",
+      "aliases": [
+        "data engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Data & Analytics"
+    },
+    {
+      "canonical": "Data Scientist",
+      "aliases": [
+        "data scientist"
+      ],
+      "patterns": [],
+      "family_hint": "Data & Analytics"
+    },
+    {
+      "canonical": "Machine Learning Engineer",
+      "aliases": [
+        "machine learning engineer",
+        "ml engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Data & Analytics"
+    },
+    {
+      "canonical": "Business Intelligence Analyst",
+      "aliases": [
+        "bi analyst",
+        "business intelligence analyst"
+      ],
+      "patterns": [],
+      "family_hint": "Data & Analytics"
+    },
+    {
+      "canonical": "Product Designer",
+      "aliases": [
+        "product design",
+        "product designer",
+        "ui/ux designer",
+        "ux/ui designer"
+      ],
+      "patterns": [],
+      "family_hint": "Design & Creative"
+    },
+    {
+      "canonical": "UX Designer",
+      "aliases": [
+        "user experience designer",
+        "ux designer"
+      ],
+      "patterns": [],
+      "family_hint": "Design & Creative"
+    },
+    {
+      "canonical": "UX Researcher",
+      "aliases": [
+        "user researcher",
+        "ux researcher"
+      ],
+      "patterns": [],
+      "family_hint": "Design & Creative"
+    },
+    {
+      "canonical": "Graphic Designer",
+      "aliases": [
+        "graphic designer"
+      ],
+      "patterns": [],
+      "family_hint": "Design & Creative"
+    },
+    {
+      "canonical": "Content Designer",
+      "aliases": [
+        "content designer",
+        "content strategist"
+      ],
+      "patterns": [],
+      "family_hint": "Design & Creative"
+    },
+    {
+      "canonical": "Technical Writer",
+      "aliases": [
+        "technical writer"
+      ],
+      "patterns": [],
+      "family_hint": "Design & Creative"
+    },
+    {
+      "canonical": "Information Security Analyst",
+      "aliases": [
+        "information security analyst",
+        "security analyst"
+      ],
+      "patterns": [],
+      "family_hint": "Cybersecurity"
+    },
+    {
+      "canonical": "GRC Analyst",
+      "aliases": [
+        "governance risk compliance analyst",
+        "grc analyst"
+      ],
+      "patterns": [],
+      "family_hint": "Cybersecurity"
+    },
+    {
+      "canonical": "Security Engineer",
+      "aliases": [
+        "security engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Cybersecurity"
+    },
+    {
+      "canonical": "Security Operations Center Analyst",
+      "aliases": [
+        "security operations center analyst",
+        "soc analyst"
+      ],
+      "patterns": [],
+      "family_hint": "Cybersecurity"
+    },
+    {
+      "canonical": "Incident Response Analyst",
+      "aliases": [
+        "dfir analyst",
+        "incident response analyst"
+      ],
+      "patterns": [],
+      "family_hint": "Cybersecurity"
+    },
+    {
+      "canonical": "Account Executive",
+      "aliases": [
+        "account executive",
+        "ae"
+      ],
+      "patterns": [],
+      "family_hint": "Sales & Business Development"
+    },
+    {
+      "canonical": "Account Manager",
+      "aliases": [
+        "account manager",
+        "am"
+      ],
+      "patterns": [],
+      "family_hint": "Sales & Business Development"
+    },
+    {
+      "canonical": "Sales Development Representative",
+      "aliases": [
+        "sales development representative",
+        "sdr"
+      ],
+      "patterns": [],
+      "family_hint": "Sales & Business Development"
+    },
+    {
+      "canonical": "Business Development Representative",
+      "aliases": [
+        "bdr",
+        "business development representative"
+      ],
+      "patterns": [],
+      "family_hint": "Sales & Business Development"
+    },
+    {
+      "canonical": "Sales Engineer",
+      "aliases": [
+        "pre-sales engineer",
+        "sales engineer",
+        "solutions consultant"
+      ],
+      "patterns": [],
+      "family_hint": "Sales & Business Development"
+    },
+    {
+      "canonical": "Sales Operations Manager",
+      "aliases": [
+        "sales operations manager",
+        "sales ops manager"
+      ],
+      "patterns": [],
+      "family_hint": "Sales & Business Development"
+    },
+    {
+      "canonical": "Customer Success Manager",
+      "aliases": [
+        "csm",
+        "customer success manager"
+      ],
+      "patterns": [],
+      "family_hint": "Customer Support & Success"
+    },
+    {
+      "canonical": "Customer Support Specialist",
+      "aliases": [
+        "csr",
+        "customer support specialist",
+        "support representative"
+      ],
+      "patterns": [],
+      "family_hint": "Customer Support & Success"
+    },
+    {
+      "canonical": "Call Center Representative",
+      "aliases": [
+        "call center representative",
+        "contact center representative"
+      ],
+      "patterns": [],
+      "family_hint": "Customer Support & Success"
+    },
+    {
+      "canonical": "Marketing Director",
+      "aliases": [
+        "marketing director"
+      ],
+      "patterns": [],
+      "family_hint": "Marketing & Communications"
+    },
+    {
+      "canonical": "Brand Manager",
+      "aliases": [
+        "brand manager"
+      ],
+      "patterns": [],
+      "family_hint": "Marketing & Communications"
+    },
+    {
+      "canonical": "Growth Marketing Manager",
+      "aliases": [
+        "growth marketing manager"
+      ],
+      "patterns": [],
+      "family_hint": "Marketing & Communications"
+    },
+    {
+      "canonical": "Digital Marketing Manager",
+      "aliases": [
+        "digital marketing manager"
+      ],
+      "patterns": [],
+      "family_hint": "Marketing & Communications"
+    },
+    {
+      "canonical": "Content Marketing Manager",
+      "aliases": [
+        "content marketing manager"
+      ],
+      "patterns": [],
+      "family_hint": "Marketing & Communications"
+    },
+    {
+      "canonical": "SEO Specialist",
+      "aliases": [
+        "seo specialist"
+      ],
+      "patterns": [],
+      "family_hint": "Marketing & Communications"
+    },
+    {
+      "canonical": "SEM Specialist",
+      "aliases": [
+        "sem specialist"
+      ],
+      "patterns": [],
+      "family_hint": "Marketing & Communications"
+    },
+    {
+      "canonical": "Social Media Manager",
+      "aliases": [
+        "social media manager"
+      ],
+      "patterns": [],
+      "family_hint": "Marketing & Communications"
+    },
+    {
+      "canonical": "Public Relations Manager",
+      "aliases": [
+        "pr manager",
+        "public relations manager"
+      ],
+      "patterns": [],
+      "family_hint": "Marketing & Communications"
+    },
+    {
+      "canonical": "Communications Manager",
+      "aliases": [
+        "communications manager"
+      ],
+      "patterns": [],
+      "family_hint": "Marketing & Communications"
+    },
+    {
+      "canonical": "Event Marketing Manager",
+      "aliases": [
+        "event marketing manager",
+        "events manager"
+      ],
+      "patterns": [],
+      "family_hint": "Marketing & Communications"
+    },
+    {
+      "canonical": "Copywriter",
+      "aliases": [
+        "copywriter"
+      ],
+      "patterns": [],
+      "family_hint": "Design & Creative"
+    },
+    {
+      "canonical": "Controller",
+      "aliases": [
+        "controller",
+        "financial controller"
+      ],
+      "patterns": [],
+      "family_hint": "Accounting & Finance"
+    },
+    {
+      "canonical": "Accounting Manager",
+      "aliases": [
+        "accounting manager"
+      ],
+      "patterns": [],
+      "family_hint": "Accounting & Finance"
+    },
+    {
+      "canonical": "Accountant",
+      "aliases": [
+        "accountant",
+        "staff accountant"
+      ],
+      "patterns": [],
+      "family_hint": "Accounting & Finance"
+    },
+    {
+      "canonical": "Senior Accountant",
+      "aliases": [
+        "senior accountant"
+      ],
+      "patterns": [],
+      "family_hint": "Accounting & Finance"
+    },
+    {
+      "canonical": "Tax Accountant",
+      "aliases": [
+        "tax accountant"
+      ],
+      "patterns": [],
+      "family_hint": "Accounting & Finance"
+    },
+    {
+      "canonical": "Payroll Specialist",
+      "aliases": [
+        "payroll specialist"
+      ],
+      "patterns": [],
+      "family_hint": "Accounting & Finance"
+    },
+    {
+      "canonical": "Accounts Payable Specialist",
+      "aliases": [
+        "accounts payable specialist",
+        "ap specialist"
+      ],
+      "patterns": [],
+      "family_hint": "Accounting & Finance"
+    },
+    {
+      "canonical": "Accounts Receivable Specialist",
+      "aliases": [
+        "accounts receivable specialist",
+        "ar specialist"
+      ],
+      "patterns": [],
+      "family_hint": "Accounting & Finance"
+    },
+    {
+      "canonical": "Billing Specialist",
+      "aliases": [
+        "billing specialist"
+      ],
+      "patterns": [],
+      "family_hint": "Accounting & Finance"
+    },
+    {
+      "canonical": "Financial Planning & Analysis Manager",
+      "aliases": [
+        "financial planning & analysis manager",
+        "fp&a manager"
+      ],
+      "patterns": [],
+      "family_hint": "Accounting & Finance"
+    },
+    {
+      "canonical": "Treasury Analyst",
+      "aliases": [
+        "treasury analyst"
+      ],
+      "patterns": [],
+      "family_hint": "Accounting & Finance"
+    },
+    {
+      "canonical": "Internal Auditor",
+      "aliases": [
+        "internal auditor"
+      ],
+      "patterns": [],
+      "family_hint": "Accounting & Finance"
+    },
+    {
+      "canonical": "Compliance Officer",
+      "aliases": [
+        "compliance officer"
+      ],
+      "patterns": [],
+      "family_hint": "Legal & Compliance"
+    },
+    {
+      "canonical": "Corporate Counsel",
+      "aliases": [
+        "corporate counsel",
+        "in-house counsel"
+      ],
+      "patterns": [],
+      "family_hint": "Legal & Compliance"
+    },
+    {
+      "canonical": "Paralegal",
+      "aliases": [
+        "paralegal"
+      ],
+      "patterns": [],
+      "family_hint": "Legal & Compliance"
+    },
+    {
+      "canonical": "Contract Manager",
+      "aliases": [
+        "contract manager",
+        "contracts manager"
+      ],
+      "patterns": [],
+      "family_hint": "Legal & Compliance"
+    },
+    {
+      "canonical": "Human Resources Business Partner",
+      "aliases": [
+        "hrbp",
+        "human resources business partner"
+      ],
+      "patterns": [],
+      "family_hint": "Human Resources & People"
+    },
+    {
+      "canonical": "Recruiter",
+      "aliases": [
+        "recruiter",
+        "talent acquisition specialist"
+      ],
+      "patterns": [],
+      "family_hint": "Human Resources & People"
+    },
+    {
+      "canonical": "Compensation and Benefits Manager",
+      "aliases": [
+        "compensation and benefits manager"
+      ],
+      "patterns": [],
+      "family_hint": "Human Resources & People"
+    },
+    {
+      "canonical": "HRIS Analyst",
+      "aliases": [
+        "hris analyst"
+      ],
+      "patterns": [],
+      "family_hint": "Human Resources & People"
+    },
+    {
+      "canonical": "Learning and Development Specialist",
+      "aliases": [
+        "l&d specialist",
+        "learning and development specialist"
+      ],
+      "patterns": [],
+      "family_hint": "Human Resources & People"
+    },
+    {
+      "canonical": "Diversity, Equity & Inclusion Manager",
+      "aliases": [
+        "dei manager",
+        "diversity, equity & inclusion manager"
+      ],
+      "patterns": [],
+      "family_hint": "Human Resources & People"
+    },
+    {
+      "canonical": "Operations Director",
+      "aliases": [
+        "operations director"
+      ],
+      "patterns": [],
+      "family_hint": "Strategy & Operations"
+    },
+    {
+      "canonical": "Business Operations Manager",
+      "aliases": [
+        "business operations manager"
+      ],
+      "patterns": [],
+      "family_hint": "Strategy & Operations"
+    },
+    {
+      "canonical": "Procurement Manager",
+      "aliases": [
+        "procurement manager",
+        "purchasing manager"
+      ],
+      "patterns": [],
+      "family_hint": "Supply Chain & Logistics"
+    },
+    {
+      "canonical": "Buyer",
+      "aliases": [
+        "buyer",
+        "category buyer",
+        "strategic buyer"
+      ],
+      "patterns": [],
+      "family_hint": "Supply Chain & Logistics"
+    },
+    {
+      "canonical": "Supply Planner",
+      "aliases": [
+        "demand planner",
+        "supply planner"
+      ],
+      "patterns": [],
+      "family_hint": "Supply Chain & Logistics"
+    },
+    {
+      "canonical": "Logistics Coordinator",
+      "aliases": [
+        "logistics coordinator"
+      ],
+      "patterns": [],
+      "family_hint": "Supply Chain & Logistics"
+    },
+    {
+      "canonical": "Warehouse Manager",
+      "aliases": [
+        "warehouse manager"
+      ],
+      "patterns": [],
+      "family_hint": "Supply Chain & Logistics"
+    },
+    {
+      "canonical": "Inventory Control Specialist",
+      "aliases": [
+        "inventory control specialist"
+      ],
+      "patterns": [],
+      "family_hint": "Supply Chain & Logistics"
+    },
+    {
+      "canonical": "Fleet Manager",
+      "aliases": [
+        "fleet manager"
+      ],
+      "patterns": [],
+      "family_hint": "Transportation & Warehousing"
+    },
+    {
+      "canonical": "Dispatcher",
+      "aliases": [
+        "dispatcher"
+      ],
+      "patterns": [],
+      "family_hint": "Transportation & Warehousing"
+    },
+    {
+      "canonical": "Production Supervisor",
+      "aliases": [
+        "production supervisor"
+      ],
+      "patterns": [],
+      "family_hint": "Manufacturing & Production"
+    },
+    {
+      "canonical": "Production Operator",
+      "aliases": [
+        "production operator"
+      ],
+      "patterns": [],
+      "family_hint": "Manufacturing & Production"
+    },
+    {
+      "canonical": "Assembler",
+      "aliases": [
+        "assembler"
+      ],
+      "patterns": [],
+      "family_hint": "Manufacturing & Production"
+    },
+    {
+      "canonical": "Machinist",
+      "aliases": [
+        "machinist"
+      ],
+      "patterns": [],
+      "family_hint": "Manufacturing & Production"
+    },
+    {
+      "canonical": "CNC Programmer",
+      "aliases": [
+        "cnc programmer"
+      ],
+      "patterns": [],
+      "family_hint": "Manufacturing & Production"
+    },
+    {
+      "canonical": "Welder",
+      "aliases": [
+        "welder"
+      ],
+      "patterns": [],
+      "family_hint": "Manufacturing & Production"
+    },
+    {
+      "canonical": "Maintenance Technician",
+      "aliases": [
+        "maintenance technician"
+      ],
+      "patterns": [],
+      "family_hint": "Facilities & Maintenance"
+    },
+    {
+      "canonical": "Industrial Engineer",
+      "aliases": [
+        "industrial engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Manufacturing & Production"
+    },
+    {
+      "canonical": "Quality Engineer",
+      "aliases": [
+        "quality engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Quality & EHS"
+    },
+    {
+      "canonical": "Quality Inspector",
+      "aliases": [
+        "quality inspector"
+      ],
+      "patterns": [],
+      "family_hint": "Quality & EHS"
+    },
+    {
+      "canonical": "EHS Manager",
+      "aliases": [
+        "ehs manager",
+        "safety manager"
+      ],
+      "patterns": [],
+      "family_hint": "Quality & EHS"
+    },
+    {
+      "canonical": "Facilities Manager",
+      "aliases": [
+        "facilities manager"
+      ],
+      "patterns": [],
+      "family_hint": "Facilities & Maintenance"
+    },
+    {
+      "canonical": "Building Engineer",
+      "aliases": [
+        "building engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Facilities & Maintenance"
+    },
+    {
+      "canonical": "HVAC Technician",
+      "aliases": [
+        "hvac technician"
+      ],
+      "patterns": [],
+      "family_hint": "Facilities & Maintenance"
+    },
+    {
+      "canonical": "Electrician",
+      "aliases": [
+        "electrician"
+      ],
+      "patterns": [],
+      "family_hint": "Facilities & Maintenance"
+    },
+    {
+      "canonical": "Plumber",
+      "aliases": [
+        "plumber"
+      ],
+      "patterns": [],
+      "family_hint": "Facilities & Maintenance"
+    },
+    {
+      "canonical": "Custodian",
+      "aliases": [
+        "custodian",
+        "janitor"
+      ],
+      "patterns": [],
+      "family_hint": "Facilities & Maintenance"
+    },
+    {
+      "canonical": "Security Officer",
+      "aliases": [
+        "security guard",
+        "security officer"
+      ],
+      "patterns": [],
+      "family_hint": "Physical Security & Loss Prevention"
+    },
+    {
+      "canonical": "Loss Prevention Specialist",
+      "aliases": [
+        "loss prevention specialist"
+      ],
+      "patterns": [],
+      "family_hint": "Physical Security & Loss Prevention"
+    },
+    {
+      "canonical": "Construction Project Manager",
+      "aliases": [
+        "construction project manager"
+      ],
+      "patterns": [],
+      "family_hint": "Construction & Skilled Trades"
+    },
+    {
+      "canonical": "Superintendent",
+      "aliases": [
+        "superintendent"
+      ],
+      "patterns": [],
+      "family_hint": "Construction & Skilled Trades"
+    },
+    {
+      "canonical": "Estimator",
+      "aliases": [
+        "estimator"
+      ],
+      "patterns": [],
+      "family_hint": "Construction & Skilled Trades"
+    },
+    {
+      "canonical": "Project Engineer",
+      "aliases": [
+        "project engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Construction & Skilled Trades"
+    },
+    {
+      "canonical": "Civil Engineer",
+      "aliases": [
+        "civil engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Architecture & Engineering"
+    },
+    {
+      "canonical": "Structural Engineer",
+      "aliases": [
+        "structural engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Architecture & Engineering"
+    },
+    {
+      "canonical": "Mechanical Engineer",
+      "aliases": [
+        "mechanical engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Architecture & Engineering"
+    },
+    {
+      "canonical": "Electrical Engineer",
+      "aliases": [
+        "electrical engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Architecture & Engineering"
+    },
+    {
+      "canonical": "Architect",
+      "aliases": [
+        "architect"
+      ],
+      "patterns": [],
+      "family_hint": "Architecture & Engineering"
+    },
+    {
+      "canonical": "BIM Coordinator",
+      "aliases": [
+        "bim coordinator"
+      ],
+      "patterns": [],
+      "family_hint": "Architecture & Engineering"
+    },
+    {
+      "canonical": "Surveyor",
+      "aliases": [
+        "surveyor"
+      ],
+      "patterns": [],
+      "family_hint": "Architecture & Engineering"
+    },
+    {
+      "canonical": "Physician",
+      "aliases": [
+        "do",
+        "md",
+        "physician"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare (Clinical)"
+    },
+    {
+      "canonical": "Nurse Practitioner",
+      "aliases": [
+        "np",
+        "nurse practitioner"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare (Clinical)"
+    },
+    {
+      "canonical": "Physician Assistant",
+      "aliases": [
+        "pa-c",
+        "physician assistant"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare (Clinical)"
+    },
+    {
+      "canonical": "Registered Nurse",
+      "aliases": [
+        "registered nurse",
+        "rn"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare (Clinical)"
+    },
+    {
+      "canonical": "Licensed Practical Nurse",
+      "aliases": [
+        "licensed practical nurse",
+        "lpn",
+        "lvn"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare (Clinical)"
+    },
+    {
+      "canonical": "Certified Nursing Assistant",
+      "aliases": [
+        "certified nursing assistant",
+        "cna"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare (Clinical)"
+    },
+    {
+      "canonical": "Pharmacist",
+      "aliases": [
+        "pharmacist",
+        "pharmd",
+        "rph"
+      ],
+      "patterns": [],
+      "family_hint": "Pharmacy"
+    },
+    {
+      "canonical": "Pharmacy Technician",
+      "aliases": [
+        "pharmacy technician"
+      ],
+      "patterns": [],
+      "family_hint": "Pharmacy"
+    },
+    {
+      "canonical": "Dentist",
+      "aliases": [
+        "dds",
+        "dentist",
+        "dmd"
+      ],
+      "patterns": [],
+      "family_hint": "Dental"
+    },
+    {
+      "canonical": "Dental Hygienist",
+      "aliases": [
+        "dental hygienist",
+        "rdh"
+      ],
+      "patterns": [],
+      "family_hint": "Dental"
+    },
+    {
+      "canonical": "Dental Assistant",
+      "aliases": [
+        "dental assistant"
+      ],
+      "patterns": [],
+      "family_hint": "Dental"
+    },
+    {
+      "canonical": "Physical Therapist",
+      "aliases": [
+        "physical therapist",
+        "pt"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare (Clinical)"
+    },
+    {
+      "canonical": "Physical Therapist Assistant",
+      "aliases": [
+        "physical therapist assistant",
+        "pta"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare (Clinical)"
+    },
+    {
+      "canonical": "Occupational Therapist",
+      "aliases": [
+        "occupational therapist",
+        "ot"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare (Clinical)"
+    },
+    {
+      "canonical": "Certified Occupational Therapy Assistant",
+      "aliases": [
+        "certified occupational therapy assistant",
+        "cota"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare (Clinical)"
+    },
+    {
+      "canonical": "Speech Language Pathologist",
+      "aliases": [
+        "slp",
+        "speech language pathologist"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare (Clinical)"
+    },
+    {
+      "canonical": "Respiratory Therapist",
+      "aliases": [
+        "respiratory therapist",
+        "rt"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare (Clinical)"
+    },
+    {
+      "canonical": "Medical Assistant",
+      "aliases": [
+        "medical assistant"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare Administration"
+    },
+    {
+      "canonical": "Medical Biller/Coder",
+      "aliases": [
+        "cpc",
+        "medical biller/coder",
+        "medical coder"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare Administration"
+    },
+    {
+      "canonical": "Health Information Manager",
+      "aliases": [
+        "health information manager"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare Administration"
+    },
+    {
+      "canonical": "Case Manager",
+      "aliases": [
+        "case manager"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare Administration"
+    },
+    {
+      "canonical": "Utilization Review Nurse",
+      "aliases": [
+        "utilization review nurse"
+      ],
+      "patterns": [],
+      "family_hint": "Healthcare Administration"
+    },
+    {
+      "canonical": "Clinical Research Coordinator",
+      "aliases": [
+        "clinical research coordinator"
+      ],
+      "patterns": [],
+      "family_hint": "Life Sciences (Biotech/Pharma)"
+    },
+    {
+      "canonical": "Regulatory Affairs Specialist",
+      "aliases": [
+        "regulatory affairs specialist"
+      ],
+      "patterns": [],
+      "family_hint": "Life Sciences (Biotech/Pharma)"
+    },
+    {
+      "canonical": "Pharmacovigilance Specialist",
+      "aliases": [
+        "pharmacovigilance specialist"
+      ],
+      "patterns": [],
+      "family_hint": "Life Sciences (Biotech/Pharma)"
+    },
+    {
+      "canonical": "Teacher",
+      "aliases": [
+        "instructor",
+        "teacher"
+      ],
+      "patterns": [],
+      "family_hint": "Education (K-12 & Higher Ed)"
+    },
+    {
+      "canonical": "Professor",
+      "aliases": [
+        "professor"
+      ],
+      "patterns": [],
+      "family_hint": "Education (K-12 & Higher Ed)"
+    },
+    {
+      "canonical": "Adjunct Professor",
+      "aliases": [
+        "adjunct",
+        "adjunct professor"
+      ],
+      "patterns": [],
+      "family_hint": "Education (K-12 & Higher Ed)"
+    },
+    {
+      "canonical": "Teaching Assistant",
+      "aliases": [
+        "ta",
+        "teaching assistant"
+      ],
+      "patterns": [],
+      "family_hint": "Education (K-12 & Higher Ed)"
+    },
+    {
+      "canonical": "Dean",
+      "aliases": [
+        "dean"
+      ],
+      "patterns": [],
+      "family_hint": "Education (K-12 & Higher Ed)"
+    },
+    {
+      "canonical": "Registrar",
+      "aliases": [
+        "registrar"
+      ],
+      "patterns": [],
+      "family_hint": "Education (K-12 & Higher Ed)"
+    },
+    {
+      "canonical": "Academic Advisor",
+      "aliases": [
+        "academic advisor"
+      ],
+      "patterns": [],
+      "family_hint": "Education (K-12 & Higher Ed)"
+    },
+    {
+      "canonical": "School Counselor",
+      "aliases": [
+        "school counselor"
+      ],
+      "patterns": [],
+      "family_hint": "Education (K-12 & Higher Ed)"
+    },
+    {
+      "canonical": "Librarian",
+      "aliases": [
+        "librarian"
+      ],
+      "patterns": [],
+      "family_hint": "Education (K-12 & Higher Ed)"
+    },
+    {
+      "canonical": "Instructional Designer",
+      "aliases": [
+        "instructional designer"
+      ],
+      "patterns": [],
+      "family_hint": "Education (K-12 & Higher Ed)"
+    },
+    {
+      "canonical": "City Manager",
+      "aliases": [
+        "city manager"
+      ],
+      "patterns": [],
+      "family_hint": "Government & Public Safety"
+    },
+    {
+      "canonical": "Urban Planner",
+      "aliases": [
+        "city planner",
+        "urban planner"
+      ],
+      "patterns": [],
+      "family_hint": "Government & Public Safety"
+    },
+    {
+      "canonical": "Policy Analyst",
+      "aliases": [
+        "policy analyst"
+      ],
+      "patterns": [],
+      "family_hint": "Government & Public Safety"
+    },
+    {
+      "canonical": "Police Officer",
+      "aliases": [
+        "police officer"
+      ],
+      "patterns": [],
+      "family_hint": "Government & Public Safety"
+    },
+    {
+      "canonical": "Sheriff's Deputy",
+      "aliases": [
+        "sheriff's deputy"
+      ],
+      "patterns": [],
+      "family_hint": "Government & Public Safety"
+    },
+    {
+      "canonical": "Firefighter",
+      "aliases": [
+        "firefighter"
+      ],
+      "patterns": [],
+      "family_hint": "Government & Public Safety"
+    },
+    {
+      "canonical": "EMT",
+      "aliases": [
+        "emergency medical technician",
+        "emt"
+      ],
+      "patterns": [],
+      "family_hint": "Government & Public Safety"
+    },
+    {
+      "canonical": "Paramedic",
+      "aliases": [
+        "paramedic"
+      ],
+      "patterns": [],
+      "family_hint": "Government & Public Safety"
+    },
+    {
+      "canonical": "Corrections Officer",
+      "aliases": [
+        "corrections officer"
+      ],
+      "patterns": [],
+      "family_hint": "Government & Public Safety"
+    },
+    {
+      "canonical": "911 Dispatcher",
+      "aliases": [
+        "911 dispatcher",
+        "public safety dispatcher"
+      ],
+      "patterns": [],
+      "family_hint": "Government & Public Safety"
+    },
+    {
+      "canonical": "Truck Driver (CDL)",
+      "aliases": [
+        "cdl driver",
+        "class a driver",
+        "class b driver",
+        "truck driver (cdl)"
+      ],
+      "patterns": [],
+      "family_hint": "Transportation & Warehousing"
+    },
+    {
+      "canonical": "Dispatcher",
+      "aliases": [
+        "dispatcher"
+      ],
+      "patterns": [],
+      "family_hint": "Transportation & Warehousing"
+    },
+    {
+      "canonical": "Fleet Supervisor",
+      "aliases": [
+        "fleet supervisor"
+      ],
+      "patterns": [],
+      "family_hint": "Transportation & Warehousing"
+    },
+    {
+      "canonical": "Pilot",
+      "aliases": [
+        "pilot"
+      ],
+      "patterns": [],
+      "family_hint": "Transportation & Warehousing"
+    },
+    {
+      "canonical": "Flight Attendant",
+      "aliases": [
+        "flight attendant"
+      ],
+      "patterns": [],
+      "family_hint": "Transportation & Warehousing"
+    },
+    {
+      "canonical": "Ramp Agent",
+      "aliases": [
+        "ramp agent"
+      ],
+      "patterns": [],
+      "family_hint": "Transportation & Warehousing"
+    },
+    {
+      "canonical": "Captain (Maritime)",
+      "aliases": [
+        "captain (maritime)",
+        "ship captain"
+      ],
+      "patterns": [],
+      "family_hint": "Transportation & Warehousing"
+    },
+    {
+      "canonical": "Deckhand",
+      "aliases": [
+        "deckhand"
+      ],
+      "patterns": [],
+      "family_hint": "Transportation & Warehousing"
+    },
+    {
+      "canonical": "Store Manager",
+      "aliases": [
+        "store manager"
+      ],
+      "patterns": [],
+      "family_hint": "Retail & E-commerce"
+    },
+    {
+      "canonical": "Assistant Store Manager",
+      "aliases": [
+        "assistant store manager"
+      ],
+      "patterns": [],
+      "family_hint": "Retail & E-commerce"
+    },
+    {
+      "canonical": "Merchandiser",
+      "aliases": [
+        "merchandiser"
+      ],
+      "patterns": [],
+      "family_hint": "Retail & E-commerce"
+    },
+    {
+      "canonical": "Buyer",
+      "aliases": [
+        "buyer",
+        "category manager"
+      ],
+      "patterns": [],
+      "family_hint": "Retail & E-commerce"
+    },
+    {
+      "canonical": "Cashier",
+      "aliases": [
+        "cashier"
+      ],
+      "patterns": [],
+      "family_hint": "Retail & E-commerce"
+    },
+    {
+      "canonical": "Sales Associate",
+      "aliases": [
+        "sales associate"
+      ],
+      "patterns": [],
+      "family_hint": "Retail & E-commerce"
+    },
+    {
+      "canonical": "Fulfillment Associate",
+      "aliases": [
+        "fulfillment associate"
+      ],
+      "patterns": [],
+      "family_hint": "Retail & E-commerce"
+    },
+    {
+      "canonical": "Barista",
+      "aliases": [
+        "barista"
+      ],
+      "patterns": [],
+      "family_hint": "Hospitality & Food Service"
+    },
+    {
+      "canonical": "Bartender",
+      "aliases": [
+        "bartender"
+      ],
+      "patterns": [],
+      "family_hint": "Hospitality & Food Service"
+    },
+    {
+      "canonical": "Server",
+      "aliases": [
+        "server",
+        "waiter",
+        "waitress"
+      ],
+      "patterns": [],
+      "family_hint": "Hospitality & Food Service"
+    },
+    {
+      "canonical": "Cook",
+      "aliases": [
+        "cook",
+        "line cook",
+        "prep cook"
+      ],
+      "patterns": [],
+      "family_hint": "Hospitality & Food Service"
+    },
+    {
+      "canonical": "Chef",
+      "aliases": [
+        "chef",
+        "executive chef",
+        "sous chef"
+      ],
+      "patterns": [],
+      "family_hint": "Hospitality & Food Service"
+    },
+    {
+      "canonical": "Host/Hostess",
+      "aliases": [
+        "host/hostess"
+      ],
+      "patterns": [],
+      "family_hint": "Hospitality & Food Service"
+    },
+    {
+      "canonical": "Housekeeper",
+      "aliases": [
+        "housekeeper"
+      ],
+      "patterns": [],
+      "family_hint": "Hospitality & Food Service"
+    },
+    {
+      "canonical": "Front Desk Agent",
+      "aliases": [
+        "front desk agent"
+      ],
+      "patterns": [],
+      "family_hint": "Hospitality & Food Service"
+    },
+    {
+      "canonical": "Concierge",
+      "aliases": [
+        "concierge"
+      ],
+      "patterns": [],
+      "family_hint": "Hospitality & Food Service"
+    },
+    {
+      "canonical": "Event Planner",
+      "aliases": [
+        "event coordinator",
+        "event planner"
+      ],
+      "patterns": [],
+      "family_hint": "Hospitality & Food Service"
+    },
+    {
+      "canonical": "Real Estate Broker",
+      "aliases": [
+        "real estate broker"
+      ],
+      "patterns": [],
+      "family_hint": "Real Estate & Property"
+    },
+    {
+      "canonical": "Real Estate Agent",
+      "aliases": [
+        "real estate agent",
+        "realtor"
+      ],
+      "patterns": [],
+      "family_hint": "Real Estate & Property"
+    },
+    {
+      "canonical": "Leasing Consultant",
+      "aliases": [
+        "leasing consultant"
+      ],
+      "patterns": [],
+      "family_hint": "Real Estate & Property"
+    },
+    {
+      "canonical": "Property Manager",
+      "aliases": [
+        "property manager"
+      ],
+      "patterns": [],
+      "family_hint": "Real Estate & Property"
+    },
+    {
+      "canonical": "Maintenance Technician (Property)",
+      "aliases": [
+        "maintenance technician (property)"
+      ],
+      "patterns": [],
+      "family_hint": "Real Estate & Property"
+    },
+    {
+      "canonical": "Mortgage Loan Officer",
+      "aliases": [
+        "loan originator",
+        "mortgage loan officer"
+      ],
+      "patterns": [],
+      "family_hint": "Banking, Insurance & Financial Services"
+    },
+    {
+      "canonical": "Underwriter",
+      "aliases": [
+        "underwriter"
+      ],
+      "patterns": [],
+      "family_hint": "Banking, Insurance & Financial Services"
+    },
+    {
+      "canonical": "Credit Analyst",
+      "aliases": [
+        "credit analyst"
+      ],
+      "patterns": [],
+      "family_hint": "Banking, Insurance & Financial Services"
+    },
+    {
+      "canonical": "Claims Adjuster",
+      "aliases": [
+        "claims adjuster"
+      ],
+      "patterns": [],
+      "family_hint": "Banking, Insurance & Financial Services"
+    },
+    {
+      "canonical": "Actuary",
+      "aliases": [
+        "actuary"
+      ],
+      "patterns": [],
+      "family_hint": "Banking, Insurance & Financial Services"
+    },
+    {
+      "canonical": "Financial Advisor",
+      "aliases": [
+        "financial advisor",
+        "wealth advisor"
+      ],
+      "patterns": [],
+      "family_hint": "Banking, Insurance & Financial Services"
+    },
+    {
+      "canonical": "Trader",
+      "aliases": [
+        "trader"
+      ],
+      "patterns": [],
+      "family_hint": "Banking, Insurance & Financial Services"
+    },
+    {
+      "canonical": "Portfolio Manager",
+      "aliases": [
+        "portfolio manager"
+      ],
+      "patterns": [],
+      "family_hint": "Banking, Insurance & Financial Services"
+    },
+    {
+      "canonical": "Risk Analyst",
+      "aliases": [
+        "risk analyst"
+      ],
+      "patterns": [],
+      "family_hint": "Banking, Insurance & Financial Services"
+    },
+    {
+      "canonical": "Fraud Analyst",
+      "aliases": [
+        "fraud analyst"
+      ],
+      "patterns": [],
+      "family_hint": "Fintech & Payments"
+    },
+    {
+      "canonical": "Payments Operations Analyst",
+      "aliases": [
+        "payments operations analyst"
+      ],
+      "patterns": [],
+      "family_hint": "Fintech & Payments"
+    },
+    {
+      "canonical": "Producer",
+      "aliases": [
+        "producer"
+      ],
+      "patterns": [],
+      "family_hint": "Media & Entertainment"
+    },
+    {
+      "canonical": "Video Editor",
+      "aliases": [
+        "video editor"
+      ],
+      "patterns": [],
+      "family_hint": "Media & Entertainment"
+    },
+    {
+      "canonical": "Photographer",
+      "aliases": [
+        "photographer"
+      ],
+      "patterns": [],
+      "family_hint": "Media & Entertainment"
+    },
+    {
+      "canonical": "Audio Engineer",
+      "aliases": [
+        "audio engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Media & Entertainment"
+    },
+    {
+      "canonical": "Journalist",
+      "aliases": [
+        "journalist",
+        "reporter"
+      ],
+      "patterns": [],
+      "family_hint": "Media & Entertainment"
+    },
+    {
+      "canonical": "Social Media Manager",
+      "aliases": [
+        "social media manager"
+      ],
+      "patterns": [],
+      "family_hint": "Media & Entertainment"
+    },
+    {
+      "canonical": "Content Creator",
+      "aliases": [
+        "content creator"
+      ],
+      "patterns": [],
+      "family_hint": "Media & Entertainment"
+    },
+    {
+      "canonical": "Athletic Director",
+      "aliases": [
+        "athletic director"
+      ],
+      "patterns": [],
+      "family_hint": "Sports & Recreation"
+    },
+    {
+      "canonical": "Coach",
+      "aliases": [
+        "coach"
+      ],
+      "patterns": [],
+      "family_hint": "Sports & Recreation"
+    },
+    {
+      "canonical": "Personal Trainer",
+      "aliases": [
+        "personal trainer"
+      ],
+      "patterns": [],
+      "family_hint": "Sports & Recreation"
+    },
+    {
+      "canonical": "Lifeguard",
+      "aliases": [
+        "lifeguard"
+      ],
+      "patterns": [],
+      "family_hint": "Sports & Recreation"
+    },
+    {
+      "canonical": "Groundskeeper",
+      "aliases": [
+        "groundskeeper"
+      ],
+      "patterns": [],
+      "family_hint": "Sports & Recreation"
+    },
+    {
+      "canonical": "Farmworker",
+      "aliases": [
+        "farmworker"
+      ],
+      "patterns": [],
+      "family_hint": "Agriculture & Food Production"
+    },
+    {
+      "canonical": "Agronomist",
+      "aliases": [
+        "agronomist"
+      ],
+      "patterns": [],
+      "family_hint": "Agriculture & Food Production"
+    },
+    {
+      "canonical": "Ranch Hand",
+      "aliases": [
+        "ranch hand"
+      ],
+      "patterns": [],
+      "family_hint": "Agriculture & Food Production"
+    },
+    {
+      "canonical": "Field Service Technician",
+      "aliases": [
+        "field service technician"
+      ],
+      "patterns": [],
+      "family_hint": "Energy & Utilities"
+    },
+    {
+      "canonical": "Lineman",
+      "aliases": [
+        "lineman",
+        "lineworker"
+      ],
+      "patterns": [],
+      "family_hint": "Energy & Utilities"
+    },
+    {
+      "canonical": "Power Plant Operator",
+      "aliases": [
+        "power plant operator"
+      ],
+      "patterns": [],
+      "family_hint": "Energy & Utilities"
+    },
+    {
+      "canonical": "Solar Installer",
+      "aliases": [
+        "pv installer",
+        "solar installer"
+      ],
+      "patterns": [],
+      "family_hint": "Energy & Utilities"
+    },
+    {
+      "canonical": "Wind Turbine Technician",
+      "aliases": [
+        "wind turbine technician"
+      ],
+      "patterns": [],
+      "family_hint": "Energy & Utilities"
+    },
+    {
+      "canonical": "HSE Specialist",
+      "aliases": [
+        "health safety environment specialist",
+        "hse specialist"
+      ],
+      "patterns": [],
+      "family_hint": "Oil & Gas / Mining"
+    },
+    {
+      "canonical": "Petroleum Engineer",
+      "aliases": [
+        "petroleum engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Oil & Gas / Mining"
+    },
+    {
+      "canonical": "Geologist",
+      "aliases": [
+        "geologist"
+      ],
+      "patterns": [],
+      "family_hint": "Oil & Gas / Mining"
+    },
+    {
+      "canonical": "Aerospace Engineer",
+      "aliases": [
+        "aerospace engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Aerospace & Defense"
+    },
+    {
+      "canonical": "Avionics Technician",
+      "aliases": [
+        "avionics technician"
+      ],
+      "patterns": [],
+      "family_hint": "Aerospace & Defense"
+    },
+    {
+      "canonical": "Systems Engineer",
+      "aliases": [
+        "systems engineer"
+      ],
+      "patterns": [],
+      "family_hint": "Aerospace & Defense"
+    },
+    {
+      "canonical": "Defense Analyst",
+      "aliases": [
+        "defense analyst"
+      ],
+      "patterns": [],
+      "family_hint": "Aerospace & Defense"
+    },
+    {
+      "canonical": "Research Scientist",
+      "aliases": [
+        "research scientist"
+      ],
+      "patterns": [],
+      "family_hint": "Research & Laboratory"
+    },
+    {
+      "canonical": "Laboratory Technician",
+      "aliases": [
+        "lab tech",
+        "laboratory technician"
+      ],
+      "patterns": [],
+      "family_hint": "Research & Laboratory"
+    },
+    {
+      "canonical": "Chemist",
+      "aliases": [
+        "chemist"
+      ],
+      "patterns": [],
+      "family_hint": "Research & Laboratory"
+    },
+    {
+      "canonical": "Biologist",
+      "aliases": [
+        "biologist"
+      ],
+      "patterns": [],
+      "family_hint": "Research & Laboratory"
+    },
+    {
+      "canonical": "Microbiologist",
+      "aliases": [
+        "microbiologist"
+      ],
+      "patterns": [],
+      "family_hint": "Research & Laboratory"
+    },
+    {
+      "canonical": "Quality Control Analyst",
+      "aliases": [
+        "qc analyst",
+        "quality control analyst"
+      ],
+      "patterns": [],
+      "family_hint": "Research & Laboratory"
+    },
+    {
+      "canonical": "Executive Director",
+      "aliases": [
+        "executive director"
+      ],
+      "patterns": [],
+      "family_hint": "Nonprofit & Fundraising"
+    },
+    {
+      "canonical": "Development Director",
+      "aliases": [
+        "development director"
+      ],
+      "patterns": [],
+      "family_hint": "Nonprofit & Fundraising"
+    },
+    {
+      "canonical": "Grant Writer",
+      "aliases": [
+        "grant writer"
+      ],
+      "patterns": [],
+      "family_hint": "Nonprofit & Fundraising"
+    },
+    {
+      "canonical": "Program Coordinator",
+      "aliases": [
+        "program coordinator"
+      ],
+      "patterns": [],
+      "family_hint": "Nonprofit & Fundraising"
+    },
+    {
+      "canonical": "Volunteer Coordinator",
+      "aliases": [
+        "volunteer coordinator"
+      ],
+      "patterns": [],
+      "family_hint": "Nonprofit & Fundraising"
+    }
+  ]
+}

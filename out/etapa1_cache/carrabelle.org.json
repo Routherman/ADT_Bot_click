@@ -1,0 +1,498 @@
+{
+  "site_url": "https://carrabelle.org/",
+  "domain": "carrabelle.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://carrabelle.org/",
+    "https://www.carrabelle.org/the-area/visitor-centers/",
+    "https://carrabelle.org/events/",
+    "https://www.carrabelle.org/chamber-info/contact/",
+    "https://www.carrabelle.org/event/free-tech-help-sessions-at-the-carrabelle-library-2/2025-09-23/",
+    "https://www.carrabelle.org/event/special-exhibit-on-the-philippines-campaign/2025-09-23/",
+    "https://www.carrabelle.org/event/video-game-teen-hangout-at-carrabelle-library/2025-09-26/",
+    "https://www.carrabelle.org/events/",
+    "https://www.carrabelle.org/request-more-information/",
+    "https://www.carrabelle.org",
+    "https://www.carrabelle.org/",
+    "https://www.carrabelle.org/the-area/",
+    "https://www.carrabelle.org/the-area/history/",
+    "https://www.carrabelle.org/the-area/airports-transportation/",
+    "https://www.carrabelle.org/the-area/boating-services/",
+    "https://www.carrabelle.org/the-area/emergency-resources/",
+    "https://www.carrabelle.org/the-area/government/",
+    "https://www.carrabelle.org/the-area/medical-care/",
+    "https://www.carrabelle.org/the-area/relocation-info/",
+    "https://www.carrabelle.org/the-area/conferences-meetings-weddings/",
+    "https://www.carrabelle.org/the-area/worship/",
+    "https://www.carrabelle.org/places-to-stay/",
+    "https://www.carrabelle.org/places-to-stay/motels-hotels/",
+    "https://www.carrabelle.org/places-to-stay/vacation-rentals/",
+    "https://www.carrabelle.org/places-to-stay/rv-parks/",
+    "https://www.carrabelle.org/places-to-stay/golf-villas/",
+    "https://www.carrabelle.org/places-to-stay/camping/",
+    "https://www.carrabelle.org/places-to-stay/accommodation-specials/",
+    "https://www.carrabelle.org/things-to-do/",
+    "https://www.carrabelle.org/things-to-do/community-calendar/",
+    "https://www.carrabelle.org/things-to-do/museums-sites/",
+    "https://www.carrabelle.org/things-to-do/beaches/",
+    "https://www.carrabelle.org/things-to-do/day-trips-and-stay-cations/",
+    "https://www.carrabelle.org/things-to-do/fishing-marinas/",
+    "https://www.carrabelle.org/things-to-do/golfing/",
+    "https://www.carrabelle.org/things-to-do/outdoor-adventure/",
+    "https://www.carrabelle.org/things-to-do/city-parks-attractions/",
+    "https://www.carrabelle.org/things-to-do/entertainment-musicians/",
+    "https://www.carrabelle.org/things-to-do/restaurants-catering/",
+    "https://www.carrabelle.org/things-to-do/shopping/",
+    "https://www.carrabelle.org/things-to-do/veterans/",
+    "https://www.carrabelle.org/chamber-members/"
+  ],
+  "candidates": [
+    "https://www.carrabelle.org/chamber-info/contact/",
+    "https://carrabelle.org/events/",
+    "https://www.carrabelle.org/events/",
+    "https://www.carrabelle.org/event/free-tech-help-sessions-at-the-carrabelle-library-2/2025-09-23/",
+    "https://www.carrabelle.org/event/special-exhibit-on-the-philippines-campaign/2025-09-23/",
+    "https://www.carrabelle.org/event/video-game-teen-hangout-at-carrabelle-library/2025-09-26/",
+    "https://www.carrabelle.org/the-area/visitor-centers/",
+    "https://carrabelle.org/",
+    "https://www.carrabelle.org/things-to-do/community-calendar/",
+    "https://carrabelle.org/contact",
+    "https://carrabelle.org/contact/",
+    "https://carrabelle.org/contact-us",
+    "https://carrabelle.org/contact-us/",
+    "https://carrabelle.org/contactus",
+    "https://carrabelle.org/contactus/",
+    "https://carrabelle.org/about",
+    "https://carrabelle.org/about/",
+    "https://carrabelle.org/about-us",
+    "https://carrabelle.org/about-us/",
+    "https://carrabelle.org/visit",
+    "https://carrabelle.org/visit/",
+    "https://carrabelle.org/location",
+    "https://carrabelle.org/location/",
+    "https://carrabelle.org/directions",
+    "https://carrabelle.org/directions/"
+  ],
+  "per_page": {
+    "https://www.carrabelle.org/chamber-info/contact/": {
+      "title": "Contact The Carrabelle Chamber of Commerce",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/chamber-info/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/chamber-info/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 697-2585"
+      ],
+      "socials": [
+        "https://www.facebook.com/carrabellechamber/"
+      ]
+    },
+    "https://carrabelle.org/events/": {
+      "title": "Events for September 2025 – Carrabelle Chamber of Commerce",
+      "band_hits": {
+        "event": {
+          "total": 55,
+          "zones": {
+            "title": 1,
+            "body": 54,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://carrabelle.org/events/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://carrabelle.org/events/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://carrabelle.org/events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/carrabellechamber/"
+      ]
+    },
+    "https://www.carrabelle.org/events/": {
+      "title": "Events for September 2025 – Carrabelle Chamber of Commerce",
+      "band_hits": {
+        "event": {
+          "total": 55,
+          "zones": {
+            "title": 1,
+            "body": 54,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/events/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/events/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/carrabellechamber/"
+      ]
+    },
+    "https://www.carrabelle.org/event/free-tech-help-sessions-at-the-carrabelle-library-2/2025-09-23/": {
+      "title": "Free Tech Help Sessions at the Carrabelle Library - Carrabelle Chamber of Commerce",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/event/free-tech-help-sessions-at-the-carrabelle-library-2/2025-09-23/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/event/free-tech-help-sessions-at-the-carrabelle-library-2/2025-09-23/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 697-2585",
+        "(850)-697-2366",
+        "850-275-9895"
+      ],
+      "socials": [
+        "https://www.facebook.com/carrabellechamber/"
+      ]
+    },
+    "https://www.carrabelle.org/event/special-exhibit-on-the-philippines-campaign/2025-09-23/": {
+      "title": "Special Exhibit on the Philippines Campaign at Camp Gordon Johnston WWII Museum - Carrabelle Chamber of Commerce",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/event/special-exhibit-on-the-philippines-campaign/2025-09-23/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/event/special-exhibit-on-the-philippines-campaign/2025-09-23/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 697-2585",
+        "(850) 697-8575"
+      ],
+      "socials": [
+        "https://www.facebook.com/carrabellechamber/"
+      ]
+    },
+    "https://www.carrabelle.org/event/video-game-teen-hangout-at-carrabelle-library/2025-09-26/": {
+      "title": "Video Game Teen Hangout at Carrabelle Library - Carrabelle Chamber of Commerce",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/event/video-game-teen-hangout-at-carrabelle-library/2025-09-26/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/event/video-game-teen-hangout-at-carrabelle-library/2025-09-26/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 697-2585",
+        "(850)-697-2366",
+        "850-275-9895",
+        "850-670-8151"
+      ],
+      "socials": [
+        "https://www.facebook.com/carrabellechamber/"
+      ]
+    },
+    "https://www.carrabelle.org/the-area/visitor-centers/": {
+      "title": "Carrabelle Chamber of Commerce - Visitor Centers",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/the-area/visitor-centers/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/the-area/visitor-centers/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 697-2585"
+      ],
+      "socials": [
+        "https://www.facebook.com/carrabellechamber/"
+      ]
+    },
+    "https://carrabelle.org/": {
+      "title": "Carrabelle Florida Places to Stay, Things to Do, Fishing, Real Estate and more for Carrabelle, Florida",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://carrabelle.org/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://carrabelle.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 697-2585"
+      ],
+      "socials": [
+        "https://www.facebook.com/carrabellechamber/"
+      ]
+    },
+    "https://www.carrabelle.org/things-to-do/community-calendar/": {
+      "title": "Carrabelle Community Activities and Programs Events",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/things-to-do/community-calendar/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/things-to-do/community-calendar/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.carrabelle.org/things-to-do/community-calendar/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(567) 202-3650",
+        "(850) 646-3028",
+        "(850) 670-8151",
+        "(850) 697-2366",
+        "(850) 697-2585",
+        "(850) 697-2732",
+        "(850) 697-3760",
+        "(850) 697-9998"
+      ],
+      "socials": [
+        "https://www.facebook.com/CarrabelleArtistAssociation",
+        "https://www.facebook.com/carrabellechamber/",
+        "https://www.facebook.com/fcscenter",
+        "https://www.facebook.com/ffcplfl",
+        "https://www.facebook.com/groups/1407273522735324",
+        "https://www.facebook.com/groups/348095714238665",
+        "https://www.facebook.com/post82cgj/"
+      ]
+    }
+  }
+}

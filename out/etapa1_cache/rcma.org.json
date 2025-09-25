@@ -1,0 +1,505 @@
+{
+  "site_url": "https://rcma.org/",
+  "domain": "rcma.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://rcma.org/",
+    "https://rcma.org/about/",
+    "https://rcma.org/about/leadership/",
+    "https://rcma.org/about/annual-reporting/",
+    "https://rcma.org/about/partners-funding/",
+    "https://rcma.org/about/contact-us/",
+    "https://rcma.org/about/rfp/",
+    "https://rcma.org/our-programs/staff/",
+    "https://rcma.org/about/careers-employment/",
+    "https://rcma.org/staff",
+    "https://rcma.org/news-blogs/",
+    "https://rcma.org/how-you-can-help/",
+    "https://rcma.org/ringthebell",
+    "https://children.rcma.org/site/Donation2?1400.donation=form1&df_id=1400&mfc_pref=T",
+    "https://rcma.org/how-you-can-help/golf-tournament/",
+    "https://rcma.org/cards/",
+    "https://rcma.org/how-you-can-help/volunteers/",
+    "https://rcma.org/our-programs/",
+    "https://rcma.org/our-programs/early-childhood/",
+    "https://rcma.org/academies/",
+    "https://rcma.org/our-programs/family/",
+    "https://rcma.org/our-programs/rcma-alumni/",
+    "https://rcma.org/scholarship/",
+    "https://rcma.org/krome-educational-fund-scholarship-application/",
+    "https://rcma.org/our-locations/",
+    "https://children.rcma.org/site/Donation2?1400.donation=form1&df_id=1400&mfc_pref=T&_gl=1*88uttw*_ga*MTQwMDk2NTI1My4xNjg3Mjg3NzEz*_ga_PH52L4F8XL*MTY5MzQwMjk1My4xMDMuMS4xNjkzNDA4Mzg4LjAuMC4w",
+    "https://rcma.org/emergency-preparedness/",
+    "https://rcma.org/our-programs/charter-schools/",
+    "https://rcma.org/early-childhood",
+    "https://rcma.org/donate",
+    "http://children.rcma.org/site/Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&SURVEY_ID=1020",
+    "https://rcma.org/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/privacy-policy",
+    "https://rcma.org/about/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/about/leadership/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/about/annual-reporting/annual-report-2022-2023/",
+    "https://rcma.org/about/annual-reporting/annual-report-2021-2022/",
+    "https://rcma.org/about/annual-reporting/annual-report-2020-2021/",
+    "https://rcma.org/about/annual-reporting/annual-report-2019-2020/",
+    "https://rcma.org/about/annual-reporting/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/about/partners-funding/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/about/contact-us/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/about/rfp/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/our-programs/staff/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/about/careers-employment/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/staff?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/category/news/",
+    "https://rcma.org/category/blog/",
+    "https://rcma.org/news-blogs/ica-junior-beta-convention/",
+    "https://rcma.org/category/press-releases/",
+    "https://rcma.org/news-blogs/summer-project-that-took-flight/",
+    "https://rcma.org/news-blogs/25-26-ica-teacher-night/",
+    "https://rcma.org/news-blogs/rcma-academies-earn-top-marks-2024-2025/",
+    "https://rcma.org/news-blogs/25-26-ica-school-supply-list/",
+    "https://rcma.org/news-blogs/2025-summer-break-at-mca/",
+    "https://rcma.org/news-blogs/wca-students-aim-high/",
+    "https://rcma.org/news-blogs/posters-for-purpose-fundraiser/",
+    "https://rcma.org/news-blogs/building-bright-futures-visit-from-our-head-start-partners/",
+    "https://rcma.org/news-blogs/rcma-immokalee-community-academy-class-of-2025/",
+    "https://rcma.org/news-blogs/rcma-25th-annual-lipman-family-farms-golf-classic/",
+    "https://rcma.org/news-blogs/dr-dorsey-hightower-honored-with-rcmas-2025-brad-young-in-service/",
+    "https://rcma.org/news-blogs/rcma-awarded-jackie-robinson-grant-from-tampa-bay-rays-and-rowdies-soccer-fund/",
+    "https://rcma.org/news-blogs/ocean-reef-community-foundation-invests-in-the-safety-of-rcma-children/",
+    "https://rcma.org/news-blogs/greater-naples-leadership-explores-immokalee-ica/",
+    "https://rcma.org/news-blogs/ica-kinder-informational-night-2025/",
+    "https://rcma.org/news-blogs/the-philanthropy-of-michael-and-linda-leonard-woods/"
+  ],
+  "candidates": [
+    "https://rcma.org/about/contact-us/",
+    "https://rcma.org/about/contact-us/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/about/",
+    "https://rcma.org/about/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/about/annual-reporting/",
+    "https://rcma.org/about/annual-reporting/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/about/annual-reporting/annual-report-2019-2020/",
+    "https://rcma.org/about/annual-reporting/annual-report-2020-2021/",
+    "https://rcma.org/about/annual-reporting/annual-report-2021-2022/",
+    "https://rcma.org/about/annual-reporting/annual-report-2022-2023/",
+    "https://rcma.org/about/careers-employment/",
+    "https://rcma.org/about/careers-employment/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/about/leadership/",
+    "https://rcma.org/about/leadership/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/about/partners-funding/",
+    "https://rcma.org/about/partners-funding/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/about/rfp/",
+    "https://rcma.org/about/rfp/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/category/blog/",
+    "https://rcma.org/our-programs/staff/",
+    "https://rcma.org/our-programs/staff/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/staff",
+    "https://rcma.org/staff?bbFormId=fb05239e-a716-4181-8fa0-678714506a41",
+    "https://rcma.org/category/news/",
+    "https://rcma.org/",
+    "https://rcma.org/contact",
+    "https://rcma.org/contact/",
+    "https://rcma.org/contact-us",
+    "https://rcma.org/contact-us/",
+    "https://rcma.org/contactus",
+    "https://rcma.org/contactus/",
+    "https://rcma.org/about",
+    "https://rcma.org/about-us",
+    "https://rcma.org/about-us/",
+    "https://rcma.org/visit",
+    "https://rcma.org/visit/",
+    "https://rcma.org/location",
+    "https://rcma.org/location/",
+    "https://rcma.org/directions",
+    "https://rcma.org/directions/"
+  ],
+  "per_page": {
+    "https://rcma.org/about/contact-us/": {
+      "title": "Contact Us - RCMA",
+      "band_hits": {},
+      "emails": [
+        "rcma@rcma.org"
+      ],
+      "phones": [
+        "(800) 282-6540"
+      ],
+      "socials": [
+        "https://www.facebook.com/rcma1965/",
+        "https://www.instagram.com/rcma1965/",
+        "https://www.linkedin.com/company/rcma1965/",
+        "https://www.youtube.com/user/RCMA2012"
+      ]
+    },
+    "https://rcma.org/about/contact-us/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41": {
+      "title": "Contact Us - RCMA",
+      "band_hits": {},
+      "emails": [
+        "rcma@rcma.org"
+      ],
+      "phones": [
+        "(800) 282-6540"
+      ],
+      "socials": [
+        "https://www.facebook.com/rcma1965/",
+        "https://www.instagram.com/rcma1965/",
+        "https://www.linkedin.com/company/rcma1965/",
+        "https://www.youtube.com/user/RCMA2012"
+      ]
+    },
+    "https://rcma.org/about/": {
+      "title": "Who We Are - RCMA",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/"
+          ]
+        }
+      },
+      "emails": [
+        "rcma@rcma.org"
+      ],
+      "phones": [
+        "(800) 282-6540"
+      ],
+      "socials": [
+        "https://www.facebook.com/rcma1965/",
+        "https://www.instagram.com/rcma1965/",
+        "https://www.linkedin.com/company/rcma1965/",
+        "https://www.youtube.com/user/RCMA2012"
+      ]
+    },
+    "https://rcma.org/about/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41": {
+      "title": "Who We Are - RCMA",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41"
+          ]
+        }
+      },
+      "emails": [
+        "rcma@rcma.org"
+      ],
+      "phones": [
+        "(800) 282-6540"
+      ],
+      "socials": [
+        "https://www.facebook.com/rcma1965/",
+        "https://www.instagram.com/rcma1965/",
+        "https://www.linkedin.com/company/rcma1965/",
+        "https://www.youtube.com/user/RCMA2012"
+      ]
+    },
+    "https://rcma.org/about/annual-reporting/": {
+      "title": "Annual Reporting - RCMA",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/annual-reporting/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/annual-reporting/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/annual-reporting/"
+          ]
+        }
+      },
+      "emails": [
+        "rcma@rcma.org"
+      ],
+      "phones": [
+        "(800) 282-6540"
+      ],
+      "socials": [
+        "https://www.facebook.com/rcma1965/",
+        "https://www.instagram.com/rcma1965/",
+        "https://www.linkedin.com/company/rcma1965/",
+        "https://www.youtube.com/user/RCMA2012"
+      ]
+    },
+    "https://rcma.org/about/annual-reporting/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41": {
+      "title": "Annual Reporting - RCMA",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/annual-reporting/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/annual-reporting/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/annual-reporting/?bbFormId=fb05239e-a716-4181-8fa0-678714506a41"
+          ]
+        }
+      },
+      "emails": [
+        "rcma@rcma.org"
+      ],
+      "phones": [
+        "(800) 282-6540"
+      ],
+      "socials": [
+        "https://www.facebook.com/rcma1965/",
+        "https://www.instagram.com/rcma1965/",
+        "https://www.linkedin.com/company/rcma1965/",
+        "https://www.youtube.com/user/RCMA2012"
+      ]
+    },
+    "https://rcma.org/about/annual-reporting/annual-report-2019-2020/": {
+      "title": "Annual Report 2019 - 2020 - RCMA",
+      "band_hits": {},
+      "emails": [
+        "rcma@rcma.org"
+      ],
+      "phones": [
+        "(800) 282-6540"
+      ],
+      "socials": [
+        "https://www.facebook.com/rcma1965/",
+        "https://www.instagram.com/rcma1965/",
+        "https://www.linkedin.com/company/rcma1965/",
+        "https://www.youtube.com/user/RCMA2012"
+      ]
+    },
+    "https://rcma.org/about/annual-reporting/annual-report-2020-2021/": {
+      "title": "Annual Report 2020-2021 - RCMA",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/annual-reporting/annual-report-2020-2021/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/annual-reporting/annual-report-2020-2021/"
+          ]
+        }
+      },
+      "emails": [
+        "rcma@rcma.org"
+      ],
+      "phones": [
+        "(800) 282-6540"
+      ],
+      "socials": [
+        "https://www.facebook.com/rcma1965/",
+        "https://www.instagram.com/rcma1965/",
+        "https://www.linkedin.com/company/rcma1965/",
+        "https://www.youtube.com/user/RCMA2012"
+      ]
+    },
+    "https://rcma.org/about/annual-reporting/annual-report-2021-2022/": {
+      "title": "Annual Report 2021-2022 - RCMA",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/annual-reporting/annual-report-2021-2022/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/annual-reporting/annual-report-2021-2022/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/annual-reporting/annual-report-2021-2022/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rcma.org/about/annual-reporting/annual-report-2021-2022/"
+          ]
+        }
+      },
+      "emails": [
+        "marissa.gonzalez@rcma.org",
+        "rcma@rcma.org"
+      ],
+      "phones": [
+        "(800) 282-6540"
+      ],
+      "socials": [
+        "https://www.facebook.com/rcma1965/",
+        "https://www.instagram.com/rcma1965/",
+        "https://www.linkedin.com/company/rcma1965/",
+        "https://www.youtube.com/user/RCMA2012"
+      ]
+    }
+  }
+}

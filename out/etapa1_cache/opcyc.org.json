@@ -1,0 +1,456 @@
+{
+  "site_url": "https://opcyc.org/",
+  "domain": "opcyc.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://opcyc.org/",
+    "https://www.opcyc.org/contact",
+    "https://www.opcyc.org/calendar",
+    "https://www.opcyc.org/faq",
+    "https://www.opcyc.org",
+    "https://www.opcyc.org/members-1",
+    "https://www.opcyc.org/pmu-email-signup",
+    "https://www.opcyc.org/racing-email-signup",
+    "https://www.opcyc.org/cruising",
+    "https://www.opcyc.org/projects-2",
+    "https://www.opcyc.org/helmsman",
+    "https://www.opcyc.org/pmu",
+    "https://www.opcyc.org/racing",
+    "https://www.opcyc.org/copy-of-regattas-and-registration",
+    "https://www.opcyc.org/copy-of-results",
+    "https://www.opcyc.org/board-of-officers",
+    "https://www.opcyc.org/socialevents",
+    "https://www.opcyc.org/history",
+    "https://www.opcyc.org/sea-scouts",
+    "https://www.opcyc.org/races",
+    "https://www.opcyc.org/membership-email-signup",
+    "https://www.opcyc.org/mailing-list-choices"
+  ],
+  "candidates": [
+    "https://www.opcyc.org/contact",
+    "https://www.opcyc.org/calendar",
+    "https://www.opcyc.org/membership-email-signup",
+    "https://www.opcyc.org/faq",
+    "https://opcyc.org/",
+    "https://www.opcyc.org/socialevents",
+    "https://opcyc.org/contact",
+    "https://opcyc.org/contact/",
+    "https://opcyc.org/contact-us",
+    "https://opcyc.org/contact-us/",
+    "https://opcyc.org/contactus",
+    "https://opcyc.org/contactus/",
+    "https://opcyc.org/about",
+    "https://opcyc.org/about/",
+    "https://opcyc.org/about-us",
+    "https://opcyc.org/about-us/",
+    "https://opcyc.org/visit",
+    "https://opcyc.org/visit/",
+    "https://opcyc.org/location",
+    "https://opcyc.org/location/",
+    "https://opcyc.org/directions",
+    "https://opcyc.org/directions/"
+  ],
+  "per_page": {
+    "https://www.opcyc.org/contact": {
+      "title": "Contact Us: | OPCYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.opcyc.org/contact"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.opcyc.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@opcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/groups/OPCYC"
+      ]
+    },
+    "https://www.opcyc.org/calendar": {
+      "title": "Calendar | OPCYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.opcyc.org/calendar"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.opcyc.org/calendar"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@opcyc.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.opcyc.org/membership-email-signup": {
+      "title": "OPCYC",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.opcyc.org/faq": {
+      "title": "FAQ | OPCYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.opcyc.org/faq"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.opcyc.org/faq"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@opcyc.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://opcyc.org/": {
+      "title": "HOME | OPCYC",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://opcyc.org/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://opcyc.org/"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@opcyc.org",
+        "secretaryopcyc@gmail.com",
+        "treasurer@opcyc.org",
+        "webmaster@opcyc.org"
+      ],
+      "phones": [
+        "(757) 504-3240"
+      ],
+      "socials": [
+        "https://www.facebook.com/groups/OPCYC"
+      ]
+    },
+    "https://www.opcyc.org/socialevents": {
+      "title": "SOCIAL EVENTS | OPCYC",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.opcyc.org/socialevents"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.opcyc.org/socialevents"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@opcyc.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://opcyc.org/contact": {
+      "title": "Contact Us: | OPCYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://opcyc.org/contact"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://opcyc.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@opcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/groups/OPCYC"
+      ]
+    },
+    "https://opcyc.org/contact/": {
+      "title": "Contact Us: | OPCYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://opcyc.org/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://opcyc.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@opcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/groups/OPCYC"
+      ]
+    },
+    "https://opcyc.org/contact-us": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://opcyc.org/contact-us/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://opcyc.org/contactus": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://opcyc.org/contactus/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://opcyc.org/about": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://opcyc.org/about/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://opcyc.org/about-us": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://opcyc.org/about-us/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://opcyc.org/visit": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://opcyc.org/visit/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://opcyc.org/location": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://opcyc.org/location/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://opcyc.org/directions": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://opcyc.org/directions/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

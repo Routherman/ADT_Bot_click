@@ -1,0 +1,39 @@
+{
+  "eah.uff.ufl.edu": {
+    "site_info": {
+      "name": "Emerson Alumni Hall",
+      "location": "Gainesville",
+      "type": "Business",
+      "nav_pro_score": 0,
+      "florida_ok": false
+    },
+    "contacts": [],
+    "busquedas_externas": {
+      "queries": [],
+      "emails": [],
+      "email_items": [],
+      "persons": [],
+      "trace": []
+    },
+    "enrichment_sources": {
+      "lusha": {
+        "status": "not_found",
+        "last_check": "2025-09-16T07:52:31.135023"
+      },
+      "contactout": {
+        "status": "not_found",
+        "last_check": "2025-09-16T07:52:31.137744"
+      },
+      "rocketreach": {
+        "status": "not_found",
+        "last_check": "2025-09-16T07:52:31.140653"
+      }
+    },
+    "metadata": {
+      "last_updated": "2025-09-16T07:52:38.962413",
+      "confidence_scoring": {
+        "description": "0.0-1.0 scale where:\n0.9+ Direct website listing with role\n0.7-0.8 Indirect website mention with context\n0.5-0.6 External source or unclear context\n<0.5 Uncertain association"
+      }
+    }
+  }
+}

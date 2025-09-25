@@ -1,0 +1,1367 @@
+{
+  "site_url": "https://capecanaveral.gov/",
+  "domain": "capecanaveral.gov",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://capecanaveral.gov/",
+    "https://capecanaveral.gov/resilience/stormwater/faq.php",
+    "https://capecanaveral.gov/faqs.php",
+    "https://capecanaveral.gov/calendar.php",
+    "https://capecanaveral.gov/index.php",
+    "https://capecanaveral.gov/commerce/index.php",
+    "https://capecanaveral.gov/commerce/bids_rfps___rfqs.php",
+    "https://capecanaveral.gov/community_/city_departments/building.php",
+    "https://capecanaveral.gov/community_/city_departments/capital_projects.php",
+    "https://capecanaveral.gov/community_/city_departments/projects_.php",
+    "https://capecanaveral.gov/community_/city_departments/future.php",
+    "https://capecanaveral.gov/community_/city_departments/completed.php",
+    "https://capecanaveral.gov/safety/code_enforcement.php",
+    "https://capecanaveral.gov/commerce/city_business_tax_receipts_(btr).php",
+    "https://capecanaveral.gov/commerce/community_redevelopment_agency/cra.php",
+    "https://capecanaveral.gov/community_/city_departments/ced.php",
+    "https://capecanaveral.gov/community_/city_departments/planning_zoning.php",
+    "https://capecanaveral.gov/commerce/sb_resources.php",
+    "https://capecanaveral.gov/commerce/vacation_rentals.php",
+    "https://capecanaveral.gov/community_/index.php",
+    "https://capecanaveral.gov/community_/brevard_county/index.php",
+    "https://capecanaveral.gov/quality_of_life/cape_canaveral_beaches/index.php",
+    "https://capecanaveral.gov/community_/city_departments/index.php",
+    "https://capecanaveral.gov/community_/city_departments/finance.php",
+    "https://capecanaveral.gov/community_/city_departments/clerk.php",
+    "https://capecanaveral.gov/community_/city_departments/manager.php",
+    "https://capecanaveral.gov/community_/city_departments/human_resources/hr.php",
+    "https://capecanaveral.gov/quality_of_life/index.php",
+    "https://capecanaveral.gov/resilience/pws.php",
+    "https://capecanaveral.gov/resilience/resiliency/index.php",
+    "https://capecanaveral.gov/community_/city_government.php",
+    "https://capecanaveral.gov/community_/advisory.php",
+    "https://capecanaveral.gov/community_/city_departments/city_election.php",
+    "https://capecanaveral.gov/community_/elected_officials.php",
+    "https://capecanaveral.gov/community_/city_meetings/index.php",
+    "https://capecanaveral.gov/community_/city_departments/public_records.php",
+    "https://capecanaveral.gov/community_/sotc.php",
+    "https://capecanaveral.gov/quality_of_life/volunteering.php",
+    "https://capecanaveral.gov/quality_of_life/cape_canaveral_beaches/beach_chair.php",
+    "https://capecanaveral.gov/quality_of_life/cape_canaveral_beaches/dogs.php",
+    "https://capecanaveral.gov/quality_of_life/cape_canaveral_beaches/mobi-mats.php",
+    "https://capecanaveral.gov/quality_of_life/cape_canaveral_beaches/sea_turtles.php",
+    "https://capecanaveral.gov/quality_of_life/cape_canaveral_facilities/index.php",
+    "https://capecanaveral.gov/cape_center/index.php",
+    "https://capecanaveral.gov/quality_of_life/cape_canaveral_facilities/community_center/index.php",
+    "https://capecanaveral.gov/quality_of_life/cape_canaveral_facilities/nhrc.php",
+    "https://capecanaveral.gov/quality_of_life/cape_canaveral_facilities/available.php",
+    "https://capecanaveral.gov/quality_of_life/parks.php",
+    "https://capecanaveral.gov/quality_of_life/city_events/index.php",
+    "https://capecanaveral.gov/quality_of_life/city_events/easter.php",
+    "https://capecanaveral.gov/quality_of_life/city_events/ff.php",
+    "https://capecanaveral.gov/quality_of_life/city_events/hitc.php",
+    "https://capecanaveral.gov/quality_of_life/city_events/kids2park.php",
+    "https://capecanaveral.gov/quality_of_life/city_events/nno.php",
+    "https://capecanaveral.gov/quality_of_life/city_events/rr.php",
+    "https://capecanaveral.gov/quality_of_life/city_events/trunktreat.php",
+    "https://capecanaveral.gov/quality_of_life/public_art_programs.php",
+    "https://capecanaveral.gov/quality_of_life/civic_scenery_.php",
+    "https://capecanaveral.gov/quality_of_life/current_calls_for_artists.php",
+    "https://capecanaveral.gov/quality_of_life/poet_laureate_program.php",
+    "https://capecanaveral.gov/quality_of_life/current_programs.php",
+    "https://capecanaveral.gov/quality_of_life/recreational_programs/recreation.php",
+    "https://capecanaveral.gov/quality_of_life/recreational_programs/pickleball.php",
+    "https://capecanaveral.gov/quality_of_life/youth.php",
+    "https://capecanaveral.gov/quality_of_life/camps.php",
+    "https://capecanaveral.gov/resilience/index.php",
+    "https://capecanaveral.gov/resilience/im.php",
+    "https://capecanaveral.gov/resilience/reclaim.php",
+    "https://capecanaveral.gov/resilience/um.php",
+    "https://capecanaveral.gov/resilience/stormwater/index.php",
+    "https://capecanaveral.gov/resilience/resiliency/blog.php",
+    "https://capecanaveral.gov/resilience/resiliency/initiatives.php",
+    "https://capecanaveral.gov/resilience/resiliency/planning.php",
+    "https://capecanaveral.gov/resilience/resiliency/programs.php",
+    "https://capecanaveral.gov/resilience/resiliency/projects_page.php",
+    "https://capecanaveral.gov/safety/index.php",
+    "https://capecanaveral.gov/safety/flood_info.php",
+    "https://capecanaveral.gov/safety/flood_faq.php",
+    "https://capecanaveral.gov/safety/flood_mitigation.php",
+    "https://capecanaveral.gov/safety/hurricane_information/index.php",
+    "https://capecanaveral.gov/safety/hurricane_information/notifications.php",
+    "https://capecanaveral.gov/safety/hurricane_information/hurricane_faq.php",
+    "https://capecanaveral.gov/safety/hurricane_information/generator_safety.php",
+    "https://capecanaveral.gov/safety/hurricane_information/helpful_links.php",
+    "https://capecanaveral.gov/ada.php",
+    "https://capecanaveral.gov/ada_grievance_procedure.php",
+    "https://capecanaveral.gov/ongoing_efforts.php",
+    "https://capecanaveral.gov/notifications.php",
+    "https://capecanaveral.gov/report_a_concern.php",
+    "https://capecanaveral.gov/press.php",
+    "https://capecanaveral.gov/newslist.php",
+    "https://capecanaveral.gov/news_detail_T9_R373.php",
+    "https://capecanaveral.gov/news_detail_T9_R372.php",
+    "https://capecanaveral.gov/news_detail_T9_R371.php",
+    "https://capecanaveral.gov/news_detail_T9_R370.php",
+    "https://capecanaveral.gov/news_detail_T9_R369.php",
+    "https://capecanaveral.gov/news_detail_T9_R366.php"
+  ],
+  "candidates": [
+    "https://capecanaveral.gov/calendar.php",
+    "https://capecanaveral.gov/faqs.php",
+    "https://capecanaveral.gov/resilience/stormwater/faq.php",
+    "https://capecanaveral.gov/",
+    "https://capecanaveral.gov/quality_of_life/city_events/easter.php",
+    "https://capecanaveral.gov/quality_of_life/city_events/ff.php",
+    "https://capecanaveral.gov/quality_of_life/city_events/hitc.php",
+    "https://capecanaveral.gov/quality_of_life/city_events/index.php",
+    "https://capecanaveral.gov/quality_of_life/city_events/kids2park.php",
+    "https://capecanaveral.gov/quality_of_life/city_events/nno.php",
+    "https://capecanaveral.gov/quality_of_life/city_events/rr.php",
+    "https://capecanaveral.gov/quality_of_life/city_events/trunktreat.php",
+    "https://capecanaveral.gov/quality_of_life/current_calls_for_artists.php",
+    "https://capecanaveral.gov/contact",
+    "https://capecanaveral.gov/contact/",
+    "https://capecanaveral.gov/contact-us",
+    "https://capecanaveral.gov/contact-us/",
+    "https://capecanaveral.gov/contactus",
+    "https://capecanaveral.gov/contactus/",
+    "https://capecanaveral.gov/about",
+    "https://capecanaveral.gov/about/",
+    "https://capecanaveral.gov/about-us",
+    "https://capecanaveral.gov/about-us/",
+    "https://capecanaveral.gov/visit",
+    "https://capecanaveral.gov/visit/",
+    "https://capecanaveral.gov/location",
+    "https://capecanaveral.gov/location/",
+    "https://capecanaveral.gov/directions",
+    "https://capecanaveral.gov/directions/"
+  ],
+  "per_page": {
+    "https://capecanaveral.gov/calendar.php": {
+      "title": "Community Event Calendar",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/calendar.php"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/calendar.php"
+          ]
+        },
+        "calendar": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/calendar.php"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/calendar.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/faqs.php": {
+      "title": "Cape Canaveral FL",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/faqs.php"
+          ]
+        },
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/faqs.php"
+          ]
+        },
+        "schedule": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/faqs.php"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/faqs.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 206-0646",
+        "(321) 264-5032",
+        "(321) 264-6413",
+        "(321) 403-0173",
+        "(321) 433-8400",
+        "(321) 474-5728",
+        "(321) 633-2024",
+        "(321) 633-2042",
+        "(321) 633-7162",
+        "(321) 637-5413",
+        "(321) 676-1701",
+        "(321) 783-4424",
+        "(321) 837-0055",
+        "(321) 868-1220",
+        "(321) 868-1226",
+        "(321) 868-1240",
+        "(321)837-0055",
+        "(321)868-1220",
+        "(850) 921-1030",
+        "(888) 404-2922",
+        "(888) 404-3922",
+        "321-616-3509",
+        "321-837-0055",
+        "321-868-1240",
+        "800-226-3545",
+        "800-468-8243",
+        "888-404-3922"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/resilience/stormwater/faq.php": {
+      "title": "Cape Canaveral FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/resilience/stormwater/faq.php"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/resilience/stormwater/faq.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/": {
+      "title": "Cape Canaveral FL",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/quality_of_life/city_events/easter.php": {
+      "title": "Cape Canaveral FL",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/easter.php"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/easter.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/quality_of_life/city_events/ff.php": {
+      "title": "Cape Canaveral FL",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/ff.php"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/ff.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/quality_of_life/city_events/hitc.php": {
+      "title": "Cape Canaveral FL",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/hitc.php"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/hitc.php"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/hitc.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/quality_of_life/city_events/index.php": {
+      "title": "Cape Canaveral FL",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/index.php"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/index.php"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/index.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/quality_of_life/city_events/kids2park.php": {
+      "title": "Cape Canaveral FL",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/kids2park.php"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/kids2park.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/quality_of_life/city_events/nno.php": {
+      "title": "Cape Canaveral FL",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/nno.php"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/nno.php"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/nno.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/quality_of_life/city_events/rr.php": {
+      "title": "Cape Canaveral FL",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/rr.php"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/rr.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/quality_of_life/city_events/trunktreat.php": {
+      "title": "Cape Canaveral FL",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/trunktreat.php"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/city_events/trunktreat.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/quality_of_life/current_calls_for_artists.php": {
+      "title": "Cape Canaveral FL",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/current_calls_for_artists.php"
+          ]
+        },
+        "artists": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/quality_of_life/current_calls_for_artists.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/contact": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/contact"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/contact/": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/contact/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/contact-us": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/contact-us"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/contact-us/": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/contact-us/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/contactus": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/contactus"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/contactus/": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/contactus/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/about": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/about"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/about/": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/about/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/about-us": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/about-us"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/about-us/": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/about-us/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/visit": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/visit"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/visit/": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/visit/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/location": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/location"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/location/": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/location/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/directions": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/directions"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    },
+    "https://capecanaveral.gov/directions/": {
+      "title": "\"404. The requested page/URL wasn't found on this site.\"",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/directions/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://capecanaveral.gov/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CityofCapeCanaveral",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cityofcapecanaveral/",
+        "https://www.youtube.com/@cityofcapecanaveral5557"
+      ]
+    }
+  }
+}

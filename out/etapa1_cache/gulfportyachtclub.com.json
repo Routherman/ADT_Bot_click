@@ -1,0 +1,602 @@
+{
+  "site_url": "https://gulfportyachtclub.com/",
+  "domain": "gulfportyachtclub.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://gulfportyachtclub.com/",
+    "https://gulfportyachtclub.com/about/",
+    "https://gulfportyachtclub.com/membership-rules/",
+    "https://gulfportyachtclub.com/calendar/",
+    "https://gulfportyachtclub.com/rules-of-racing/",
+    "https://gulfportyachtclub.com/contact/",
+    "https://gulfportyachtclub.com/history/",
+    "https://gulfportyachtclub.com/bylaws/",
+    "https://gulfportyachtclub.com/ground-rules/",
+    "https://gulfportyachtclub.com/slip-storage-info/",
+    "https://gulfportyachtclub.com/racing-info/",
+    "https://gulfportyachtclub.com/race-results/",
+    "https://gulfportyachtclub.com/join/",
+    "https://gulfportyachtclub.com/officers/"
+  ],
+  "candidates": [
+    "https://gulfportyachtclub.com/contact/",
+    "https://gulfportyachtclub.com/about/",
+    "https://gulfportyachtclub.com/calendar/",
+    "https://gulfportyachtclub.com/membership-rules/",
+    "https://gulfportyachtclub.com/rules-of-racing/",
+    "https://gulfportyachtclub.com/",
+    "https://gulfportyachtclub.com/contact",
+    "https://gulfportyachtclub.com/contact-us",
+    "https://gulfportyachtclub.com/contact-us/",
+    "https://gulfportyachtclub.com/contactus",
+    "https://gulfportyachtclub.com/contactus/",
+    "https://gulfportyachtclub.com/about",
+    "https://gulfportyachtclub.com/about-us",
+    "https://gulfportyachtclub.com/about-us/",
+    "https://gulfportyachtclub.com/visit",
+    "https://gulfportyachtclub.com/visit/",
+    "https://gulfportyachtclub.com/location",
+    "https://gulfportyachtclub.com/location/",
+    "https://gulfportyachtclub.com/directions",
+    "https://gulfportyachtclub.com/directions/"
+  ],
+  "per_page": {
+    "https://gulfportyachtclub.com/contact/": {
+      "title": "Contact – Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/about/": {
+      "title": "About GYC – Gulfport Yacht Club",
+      "band_hits": {
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/about/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/calendar/": {
+      "title": "Calendar – Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/calendar/"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/calendar/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/membership-rules/": {
+      "title": "Membership Rules – Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/membership-rules/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/membership-rules/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/rules-of-racing/": {
+      "title": "Rules of Racing – Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/rules-of-racing/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/": {
+      "title": "Gulfport Yacht Club – Gulfport, Florida",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/contact": {
+      "title": "Contact – Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/contact-us": {
+      "title": "Page not found – Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/contact-us/": {
+      "title": "Page not found – Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/contactus": {
+      "title": "Page not found – Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/contactus/": {
+      "title": "Page not found – Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/about": {
+      "title": "About GYC – Gulfport Yacht Club",
+      "band_hits": {
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/about"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/about-us": {
+      "title": "Page not found – Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/about-us/": {
+      "title": "Page not found – Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/visit": {
+      "title": "Page not found – Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/visit/": {
+      "title": "Page not found – Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/location": {
+      "title": "Page not found – Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/location/": {
+      "title": "Page not found – Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/directions": {
+      "title": "Page not found – Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    },
+    "https://gulfportyachtclub.com/directions/": {
+      "title": "Page not found – Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/gulfportyc"
+      ]
+    }
+  }
+}

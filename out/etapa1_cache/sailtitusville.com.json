@@ -1,0 +1,351 @@
+{
+  "site_url": "https://sailtitusville.com/",
+  "domain": "sailtitusville.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://sailtitusville.com/",
+    "https://sailtitusville.com/about-us/",
+    "https://sailtitusville.com/membership/"
+  ],
+  "candidates": [
+    "https://sailtitusville.com/about-us/",
+    "https://sailtitusville.com/membership/",
+    "https://sailtitusville.com/",
+    "https://sailtitusville.com/contact",
+    "https://sailtitusville.com/contact/",
+    "https://sailtitusville.com/contact-us",
+    "https://sailtitusville.com/contact-us/",
+    "https://sailtitusville.com/contactus",
+    "https://sailtitusville.com/contactus/",
+    "https://sailtitusville.com/about",
+    "https://sailtitusville.com/about/",
+    "https://sailtitusville.com/about-us",
+    "https://sailtitusville.com/visit",
+    "https://sailtitusville.com/visit/",
+    "https://sailtitusville.com/location",
+    "https://sailtitusville.com/location/",
+    "https://sailtitusville.com/directions",
+    "https://sailtitusville.com/directions/"
+  ],
+  "per_page": {
+    "https://sailtitusville.com/about-us/": {
+      "title": "About Us - The Titusville Sailing Club, Inc.",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtitusville.com/about-us/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtitusville.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/membership/": {
+      "title": "Membership - The Titusville Sailing Club, Inc.",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtitusville.com/membership/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/": {
+      "title": "The Titusville Sailing Club, Inc. -",
+      "band_hits": {},
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com",
+        "thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/contact": {
+      "title": "Page not found - The Titusville Sailing Club, Inc.",
+      "band_hits": {},
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/contact/": {
+      "title": "Page not found - The Titusville Sailing Club, Inc.",
+      "band_hits": {},
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/contact-us": {
+      "title": "Page not found - The Titusville Sailing Club, Inc.",
+      "band_hits": {},
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/contact-us/": {
+      "title": "Page not found - The Titusville Sailing Club, Inc.",
+      "band_hits": {},
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/contactus": {
+      "title": "Page not found - The Titusville Sailing Club, Inc.",
+      "band_hits": {},
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/contactus/": {
+      "title": "Page not found - The Titusville Sailing Club, Inc.",
+      "band_hits": {},
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/about": {
+      "title": "About Us - The Titusville Sailing Club, Inc.",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtitusville.com/about"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtitusville.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/about/": {
+      "title": "About Us - The Titusville Sailing Club, Inc.",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtitusville.com/about/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtitusville.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/about-us": {
+      "title": "About Us - The Titusville Sailing Club, Inc.",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtitusville.com/about-us"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtitusville.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/visit": {
+      "title": "Page not found - The Titusville Sailing Club, Inc.",
+      "band_hits": {},
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/visit/": {
+      "title": "Page not found - The Titusville Sailing Club, Inc.",
+      "band_hits": {},
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/location": {
+      "title": "Page not found - The Titusville Sailing Club, Inc.",
+      "band_hits": {},
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/location/": {
+      "title": "Page not found - The Titusville Sailing Club, Inc.",
+      "band_hits": {},
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/directions": {
+      "title": "Page not found - The Titusville Sailing Club, Inc.",
+      "band_hits": {},
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://sailtitusville.com/directions/": {
+      "title": "Page not found - The Titusville Sailing Club, Inc.",
+      "band_hits": {},
+      "emails": [
+        "inc.thetitusvillesailingclub@gmail.com"
+      ],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

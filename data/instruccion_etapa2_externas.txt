@@ -1,0 +1,105 @@
+Objetivo general
+
+Crear un módulo Python nav_bus_ext.py que, a partir del resultado de la primera etapa (archivo JSON extract.json generado por nav_pro), busque contactos adicionales en la web cuando un dominio no tenga entradas en los campos people o emails. El script deberá:
+
+Leer el JSON generado en la etapa 1 y detectar qué dominios tienen people o emails vacíos.
+
+Para cada dominio, ejecutar una serie de búsquedas externas en distintos motores (Google, Yahoo, Brave), rotándolos para repartir las consultas.
+
+Procesar los resultados para extraer correos electrónicos, perfiles de redes sociales y nombres de personas relacionados con el dominio.
+
+Guardar esta información en un archivo /out/busqueda_externa.json, usando el dominio como clave única.
+
+Mantener un campo adicional search_text en el que se almacene el snippet o texto de respaldo de cada consulta (para referencia futura).
+
+Estructura básica del script
+
+Explica a Copilot que el script debe incluir al menos estas secciones:
+
+Carga de configuración y dependencias
+
+Importar módulos estándar (json, os, time, random, requests, re, etc.) y BeautifulSoup para parsear HTML.
+
+Cargar variables de entorno de .env con dotenv para obtener listas de palabras clave (BUSQUEDA_QUERIES_JSON), umbral de búsqueda, User-Agent, etc.
+
+Definir expresiones regulares para detectar correos electrónicos. Puedes sugerir usar el patrón existente en el código de la etapa 1, por ejemplo, EMAIL_RE = re.compile(r"[A-Z0-9._%+\-]+@[A-Z0-9.\-]+\.[A-Z]{2,24}", re.IGNORECASE).
+
+Lectura del archivo de salida de la etapa 1
+
+Abrir out/extract.json y recorrer la lista de sites.
+
+Identificar dominios cuyo campo people o emails esté vacío.
+
+Mantener un registro para no procesar dominios repetidos (por ejemplo, mediante un status_log.json o leyendo busqueda_externa.json si ya tiene información para ese dominio).
+
+Generación de consultas
+
+Tomar la variable BUSQUEDA_QUERIES_JSON del .env y reemplazar la plantilla ${NOMBRE_SITIO} o ${DOMINIO} con el nombre real del sitio/dominio.
+
+Además, si se detecta el nombre del dueño/propietario y su ubicación, crear consultas adicionales siguiendo los pasos proporcionados (comillas + palabras clave como “email”, “contact”, “owner”, etc.).
+
+Selección y rotación de motores de búsqueda
+
+Crear una lista de motores (google, yahoo, brave).
+
+Para cada consulta, elegir uno de los motores alternando de forma balanceada (por ejemplo, usando un índice que se incrementa y módulo de la longitud de la lista).
+
+Construir la URL de búsqueda correspondiente según el motor (por ejemplo, https://search.yahoo.com/search?p=<query> para Yahoo).
+
+Descarga y parseo de resultados
+
+Para cada búsqueda, realizar una petición HTTP con requests.get() usando un User-Agent válido (un navegador común) para reducir bloqueos.
+
+Parsea la respuesta con BeautifulSoup.
+
+Extraer:
+
+Emails usando la regex definida (buscar en el snippet del resultado o en el cuerpo HTML completo del resultado si decides abrir el enlace).
+
+Redes sociales buscando cadenas de dominios conocidos (facebook.com, twitter.com, instagram.com, linkedin.com, etc.) en los fragmentos HTML.
+
+Nombres de personas detectando patrones de nombres propios (dos o tres palabras iniciadas en mayúscula) y opcionalmente verificando con la lista de nombres en names_Usa.json.
+
+Guarda los fragmentos de texto (“snippets”) donde encuentres estos datos en el campo search_text.
+
+Almacenamiento en busqueda_externa.json
+
+Crear una estructura tipo diccionario donde cada clave es el dominio y el valor contiene listas de emails, socials, names y un subdiccionario search_text con las consultas y su snippet.
+
+Deduplica correos y nombres (usa set para evitar repetidos).
+
+Al terminar, escribir o actualizar el archivo /out/busqueda_externa.json con el nuevo contenido.
+
+Integración y ejecución
+
+El script debe poder ejecutarse de forma independiente desde VS Code (por ejemplo, python nav_bus_ext.py) tras completar la etapa 1.
+
+Documentar (en comentarios) cómo se lee extract.json y cómo se genera busqueda_externa.json.
+
+Incluir control de errores (capturar requests.exceptions, tiempo de espera, etc.) para que la ejecución no se detenga ante un fallo puntual.
+
+Ejemplo de instrucciones concisas para Copilot
+
+Puedes darle a Copilot un mensaje como el siguiente:
+
+Crea un script Python llamado nav_bus_ext.py que realice búsquedas web externas para cada dominio con campos people o emails vacíos en el JSON out/extract.json. El script debe:
+
+Leer out/extract.json y obtener la lista de dominios sin información de personas o emails.
+
+Para cada dominio, construir consultas de búsqueda basadas en la lista BUSQUEDA_QUERIES_JSON y en los pasos detallados (como "${DOMINIO} email", "${NOMBRE DEL SITIO} contact", "${OWNER} email", etc.).
+
+Rotar entre motores de búsqueda (Google, Yahoo, Brave) para distribuir las consultas. Para cada consulta, enviar una petición HTTP con un User-Agent válido, parsear el HTML usando BeautifulSoup y extraer:
+
+Emails mediante regex (ejemplo de patrón: [A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}).
+
+Enlaces a redes sociales buscando dominios como facebook.com, twitter.com, etc., en los fragmentos de resultados.
+
+Nombres de personas detectando combinaciones de palabras capitalizadas.
+
+Guardar los resultados en un archivo JSON out/busqueda_externa.json donde cada clave sea el dominio y el valor contenga las listas de emails, socials, names y un subdiccionario search_text con los snippets de respaldo.
+
+Actualizar un log (status_log.json) para no reprocesar dominios que ya tengan entradas en busqueda_externa.json.
+
+Con estas indicaciones, Copilot generará el script base. Luego tú podrás revisar y ajustar detalles específicos (por ejemplo, la forma exacta de parsear cada buscador o la estructura final del JSON de salida), pero la funcionalidad central quedará implementada.
+
+En resumen, para diseñar nav_bus_ext.py, indica a Copilot que lea el archivo de resultados de la primera fase, identifique dominios con datos faltantes, formule búsquedas con las combinaciones proporcionadas, alternando motores de búsqueda para evitar restricciones, y extraiga correos, redes y nombres de los resultados. La información recolectada debe guardarse en busqueda_externa.json con el dominio como clave, incluyendo el texto de respaldo de cada consulta.

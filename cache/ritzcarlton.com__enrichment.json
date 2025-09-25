@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-18T01:46:39.353065",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-18T01:46:35.150236",
+      "company": {
+        "name": null,
+        "domain": "ritzcarlton.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 214203,
+          "description": "The Ritz-Carlton Hotel Company sets the gold standard in luxury hospitality worldwide. With an unshakeable credo and corporate philosophy of un-wavering commitment to service, both in our hotels and in our communities, The Ritz-Carlton has been recognized with numerous awards for being the gold standard of hospitality.",
+          "domain": "ritzcarlton.com",
+          "employees": "10001 - 100000",
+          "founded": "1983",
+          "fqdn": "www.ritzcarlton.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=05/day=04/j_lvrjncdh25y3hlfgaa.a198ac8b597a769a931444ec81c4f69ae34f72b9.file_lvrjroxpx54upexxq.logo_cached.jpg",
+          "name": "The Ritz-Carlton Hotel Company, L.L.C.",
+          "revenueRange": [
+            1000000000,
+            10000000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/the-ritz-carlton-hotel-company-llc"
+            }
+          },
+          "address": "Bethesda North America United States US Bethesda , MD 20814, US Maryland MD -77.10025787353516,38.98067092895508 ",
+          "location": {
+            "city": "Bethesda",
+            "country": "United States",
+            "fullLocation": "Bethesda North America United States US Bethesda , MD 20814, US Maryland MD -77.10025787353516,38.98067092895508 ",
+            "state": "Maryland",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Bethesda , MD 20814, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://ritzcarlton.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-18T01:46:36.480082",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-18T01:46:39.348767",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

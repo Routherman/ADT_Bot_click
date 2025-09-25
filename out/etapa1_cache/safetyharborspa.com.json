@@ -1,0 +1,910 @@
+{
+  "site_url": "https://safetyharborspa.com/",
+  "domain": "safetyharborspa.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://safetyharborspa.com/",
+    "https://safetyharborspa.com/weddings-events",
+    "https://www.safetyharborspa.com/accommodations/rooms",
+    "https://safetyharborspa.com/spa/membership",
+    "https://safetyharborspa.com/weddings-events/meetings-conferences",
+    "https://www.safetyharborspa.com/spa",
+    "https://www.safetyharborspa.com/dining",
+    "https://safetyharborspa.com/accommodations/resort-packages",
+    "https://safetyharborspa.com/accommodations/resort-packages/staycation",
+    "https://safetyharborspa.com/accommodations/resort-packages/harbor-splash",
+    "https://safetyharborspa.com/spa/spa-menu",
+    "https://safetyharborspa.com/dining",
+    "https://safetyharborspa.com/fitness-wellness/wellness-retreats",
+    "https://safetyharborspa.com/weddings-events/meetings-conferences/meeting-facilities-venues",
+    "https://safetyharborspa.com/weddings-events/spa-wedding-packages",
+    "https://safetyharborspa.com/weddings-events/request-for-proposal",
+    "https://safetyharborspa.com/spa/spa-menu/waxing-services",
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-standard",
+    "https://www.safetyharborspa.com/accommodations/rooms/one-queen-bed-standard",
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-deluxe-with-patio-or-balcony",
+    "https://www.safetyharborspa.com/accommodations/rooms/two-queen-bed-deluxe-with-patio-or-balcony",
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-deluxe-poolside",
+    "https://www.safetyharborspa.com/accommodations/rooms/two-queen-beds-deluxe-poolside",
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-superior-bay-view-with-balcony",
+    "https://www.safetyharborspa.com/accommodations/rooms/two-queen-beds-bay-view-with-balcony",
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-superior-bay-bayview",
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-superior-suite-bayview-with-patio-or-balcony",
+    "https://www.safetyharborspa.com/accommodations/rooms/two-queen-beds-superior-bayview-with-balcony",
+    "https://www.safetyharborspa.com/accommodations/rooms/full-suite-poolside-king",
+    "https://www.safetyharborspa.com/accommodations/rooms/full-suite-king-bayview",
+    "https://www.safetyharborspa.com/accommodations/rooms/full-suite-double-queen-bayview",
+    "https://www.safetyharborspa.com/fitness-wellness/personal-training",
+    "https://www.safetyharborspa.com/fitness-wellness",
+    "https://www.safetyharborspa.com/fitness-wellness/wellness-retreats",
+    "https://www.safetyharborspa.com/spa/spa-menu",
+    "https://www.safetyharborspa.com/dining/fountain-grille-restaurant",
+    "https://www.safetyharborspa.com/dining/tiki-bar",
+    "https://www.safetyharborspa.com/dining/sunday-brunch",
+    "https://www.safetyharborspa.com/upcoming-events/entertainment-schedule",
+    "https://www.safetyharborspa.com/accommodations/resort-packages/staycation",
+    "https://www.safetyharborspa.com/accommodations/resort-packages/wellness-for-life-retreat",
+    "https://safetyharborspa.com/accommodations/resort-packages/2025-teacher-appreciation-days",
+    "https://safetyharborspa.com/accommodations/resort-packages/getaway-package",
+    "https://safetyharborspa.com/accommodations/resort-packages/bay-breeze",
+    "https://safetyharborspa.com/accommodations/resort-packages/sunday-funday",
+    "https://safetyharborspa.com/accommodations/resort-packages/wellness-for-life-retreat",
+    "https://safetyharborspa.com/accommodations/resort-packages/wellness-for-life-mini-retreat",
+    "https://safetyharborspa.com/accommodations/resort-packages/honeymoon-package",
+    "https://safetyharborspa.com/spa/spa-menu/signature-experiences",
+    "https://safetyharborspa.com/spa/spa-menu/spa-packages",
+    "https://safetyharborspa.com/spa/spa-menu/massage-therapy",
+    "https://safetyharborspa.com/spa/spa-menu/teen-spa",
+    "https://safetyharborspa.com/spa/spa-menu/the-perfect-gentleman",
+    "https://safetyharborspa.com/spa/spa-menu/body-treatments",
+    "https://safetyharborspa.com/spa/spa-menu/facial-treatments",
+    "https://safetyharborspa.com/spa/spa-menu/vichy-services",
+    "https://safetyharborspa.com/spa/spa-menu/nail-care",
+    "https://safetyharborspa.com/spa/spa-menu/hair-care",
+    "https://safetyharborspa.com/fitness-wellness",
+    "https://safetyharborspa.com/spa",
+    "https://www.safetyharborspa.com/spa/spa-menu/signature-experiences",
+    "https://www.safetyharborspa.com/spa/spa-menu/spa-packages",
+    "https://www.safetyharborspa.com/spa/spa-menu/massage-therapy",
+    "https://www.safetyharborspa.com/spa/spa-menu/teen-spa",
+    "https://www.safetyharborspa.com/spa/spa-menu/the-perfect-gentleman",
+    "https://www.safetyharborspa.com/spa/spa-menu/body-treatments",
+    "https://www.safetyharborspa.com/spa/spa-menu/facial-treatments",
+    "https://www.safetyharborspa.com/spa/spa-menu/vichy-services",
+    "https://www.safetyharborspa.com/spa/spa-menu/waxing-services",
+    "https://www.safetyharborspa.com/spa/spa-menu/nail-care",
+    "https://www.safetyharborspa.com/spa/spa-menu/hair-care",
+    "https://www.safetyharborspa.com/accommodations/resort-packages",
+    "https://www.safetyharborspa.com/accommodations/resort-packages/harbor-splash",
+    "https://www.safetyharborspa.com/accommodations/resort-packages/bay-breeze",
+    "https://www.safetyharborspa.com/accommodations/resort-packages/sunday-funday",
+    "https://www.safetyharborspa.com/accommodations/resort-packages/wellness-for-life-mini-retreat",
+    "https://www.safetyharborspa.com/",
+    "https://www.safetyharborspa.com/accommodations/resort-packages/2025-teacher-appreciation-days",
+    "https://www.safetyharborspa.com/accommodations/resort-packages/getaway-package",
+    "https://www.safetyharborspa.com/accommodations/resort-packages/honeymoon-package",
+    "https://www.safetyharborspa.com/weddings-events",
+    "https://www.safetyharborspa.com/spa/membership",
+    "https://www.safetyharborspa.com/weddings-events/meetings-conferences"
+  ],
+  "candidates": [
+    "https://safetyharborspa.com/spa/membership",
+    "https://safetyharborspa.com/weddings-events",
+    "https://safetyharborspa.com/weddings-events/meetings-conferences",
+    "https://safetyharborspa.com/weddings-events/meetings-conferences/meeting-facilities-venues",
+    "https://safetyharborspa.com/weddings-events/request-for-proposal",
+    "https://safetyharborspa.com/weddings-events/spa-wedding-packages",
+    "https://www.safetyharborspa.com/spa/membership",
+    "https://www.safetyharborspa.com/weddings-events",
+    "https://www.safetyharborspa.com/weddings-events/meetings-conferences",
+    "https://www.safetyharborspa.com/accommodations/rooms",
+    "https://www.safetyharborspa.com/accommodations/rooms/full-suite-double-queen-bayview",
+    "https://www.safetyharborspa.com/accommodations/rooms/full-suite-king-bayview",
+    "https://www.safetyharborspa.com/accommodations/rooms/full-suite-poolside-king",
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-deluxe-poolside",
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-deluxe-with-patio-or-balcony",
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-standard",
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-superior-bay-bayview",
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-superior-bay-view-with-balcony",
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-superior-suite-bayview-with-patio-or-balcony",
+    "https://www.safetyharborspa.com/accommodations/rooms/one-queen-bed-standard",
+    "https://www.safetyharborspa.com/accommodations/rooms/two-queen-bed-deluxe-with-patio-or-balcony",
+    "https://www.safetyharborspa.com/accommodations/rooms/two-queen-beds-bay-view-with-balcony",
+    "https://www.safetyharborspa.com/accommodations/rooms/two-queen-beds-deluxe-poolside",
+    "https://www.safetyharborspa.com/accommodations/rooms/two-queen-beds-superior-bayview-with-balcony",
+    "https://safetyharborspa.com/",
+    "https://www.safetyharborspa.com/upcoming-events/entertainment-schedule",
+    "https://safetyharborspa.com/contact",
+    "https://safetyharborspa.com/contact/",
+    "https://safetyharborspa.com/contact-us",
+    "https://safetyharborspa.com/contact-us/",
+    "https://safetyharborspa.com/contactus",
+    "https://safetyharborspa.com/contactus/",
+    "https://safetyharborspa.com/about",
+    "https://safetyharborspa.com/about/",
+    "https://safetyharborspa.com/about-us",
+    "https://safetyharborspa.com/about-us/",
+    "https://safetyharborspa.com/visit",
+    "https://safetyharborspa.com/visit/",
+    "https://safetyharborspa.com/location",
+    "https://safetyharborspa.com/location/",
+    "https://safetyharborspa.com/directions",
+    "https://safetyharborspa.com/directions/"
+  ],
+  "per_page": {
+    "https://safetyharborspa.com/spa/membership": {
+      "title": "Spa & Resort Membership | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/spa/membership"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "727-724-7718"
+      ],
+      "socials": []
+    },
+    "https://safetyharborspa.com/weddings-events": {
+      "title": "Tampa Bay Weddings | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/weddings-events"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/weddings-events"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/weddings-events"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/weddings-events"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/weddings-events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/weddings-events/meetings-conferences": {
+      "title": "Meetings & Conferences | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/weddings-events/meetings-conferences"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "888-237-8772"
+      ],
+      "socials": []
+    },
+    "https://safetyharborspa.com/weddings-events/meetings-conferences/meeting-facilities-venues": {
+      "title": "Meeting Facilities & Venues | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/weddings-events/meetings-conferences/meeting-facilities-venues"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/weddings-events/request-for-proposal": {
+      "title": "Request for Proposal | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/weddings-events/request-for-proposal"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/weddings-events/spa-wedding-packages": {
+      "title": "Spa Wedding Packages | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/weddings-events/spa-wedding-packages"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/spa/membership": {
+      "title": "Spa & Resort Membership | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/spa/membership"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "727-724-7718"
+      ],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/weddings-events": {
+      "title": "Tampa Bay Weddings | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/weddings-events"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/weddings-events"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/weddings-events"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/weddings-events"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/weddings-events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/weddings-events/meetings-conferences": {
+      "title": "Meetings & Conferences | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/weddings-events/meetings-conferences"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "888-237-8772"
+      ],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/accommodations/rooms": {
+      "title": "Tampa Bay Hotel Rooms | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/accommodations/rooms"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/accommodations/rooms/full-suite-double-queen-bayview": {
+      "title": "Bay View Queen Suite | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/accommodations/rooms/full-suite-double-queen-bayview"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/accommodations/rooms/full-suite-king-bayview": {
+      "title": "Bay View King Suite | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/accommodations/rooms/full-suite-king-bayview"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/accommodations/rooms/full-suite-poolside-king": {
+      "title": "Poolside King Suite | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/accommodations/rooms/full-suite-poolside-king"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-deluxe-poolside": {
+      "title": "Poolside King Deluxe Room | Safety Harbor Spa, Tampa Bay",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-deluxe-with-patio-or-balcony": {
+      "title": "Deluxe King Room with Patio of Balcony | Safety Harbor Spa",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-standard": {
+      "title": "One King Bed Room | Safety Harbor Resort & Spa, Tampa Bay",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-superior-bay-bayview": {
+      "title": "1 King Bed Room Superior with Bay View | Safety Harbor Hotel",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-superior-bay-view-with-balcony": {
+      "title": "One King Bed Superior Room with Balcony | Safety Harbor",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/accommodations/rooms/one-king-bed-superior-suite-bayview-with-patio-or-balcony": {
+      "title": "Bay View King Suite | Safety Harbor Resort & Spa",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/accommodations/rooms/one-queen-bed-standard": {
+      "title": "One Queen Bed Room | Safety Harbor Resort & Spa, Tampa Bay",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/accommodations/rooms/two-queen-bed-deluxe-with-patio-or-balcony": {
+      "title": "Two Queen Beds Deluxe Room | Safety Harbor Resort & Spa",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/accommodations/rooms/two-queen-beds-bay-view-with-balcony": {
+      "title": "Two Queen Beds Bay View Room with Balcony |Safety Harbor",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/accommodations/rooms/two-queen-beds-deluxe-poolside": {
+      "title": "Poolside Queen Deluxe Room | Safety Harbor Spa, Tampa Bay",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/accommodations/rooms/two-queen-beds-superior-bayview-with-balcony": {
+      "title": "Two Queen Beds Superior Room with Balcony | Tampa Bay",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/": {
+      "title": "Safety Harbor Resort & Spa | Historic Spa, Dining & Poolside Retreat in Safety Harbor, FL",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.safetyharborspa.com/upcoming-events/entertainment-schedule": {
+      "title": "Live Entertainment Schedule | Safety Harbor Resort & Spa | Things to do in Safety Harbor",
+      "band_hits": {
+        "live music": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/upcoming-events/entertainment-schedule"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/upcoming-events/entertainment-schedule"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/upcoming-events/entertainment-schedule"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/upcoming-events/entertainment-schedule"
+          ]
+        },
+        "lineup": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/upcoming-events/entertainment-schedule"
+          ]
+        },
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.safetyharborspa.com/upcoming-events/entertainment-schedule"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/contact": {
+      "title": "Galaxy Distribution - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/contact/": {
+      "title": "Galaxy Distribution - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/contact-us": {
+      "title": "Contact Us | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/contact-us/": {
+      "title": "Contact Us | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/contactus": {
+      "title": "Galaxy Distribution - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/contactus/": {
+      "title": "Galaxy Distribution - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/about": {
+      "title": "Galaxy Distribution - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/about/": {
+      "title": "Galaxy Distribution - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/about-us": {
+      "title": "About Us | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/about-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/about-us/": {
+      "title": "About Us | Safety Harbor Resort & Spa",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/about-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://safetyharborspa.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/visit": {
+      "title": "Galaxy Distribution - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/visit/": {
+      "title": "Galaxy Distribution - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/location": {
+      "title": "Galaxy Distribution - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/location/": {
+      "title": "Galaxy Distribution - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/directions": {
+      "title": "Galaxy Distribution - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://safetyharborspa.com/directions/": {
+      "title": "Galaxy Distribution - Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

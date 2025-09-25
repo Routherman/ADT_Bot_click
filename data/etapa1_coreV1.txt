@@ -1,0 +1,309 @@
+Adaptación del script nav_pro.py para extracción de datos web
+Requisitos generales de la adaptación
+
+Se debe modificar nav_pro.py para procesar dominios (por ejemplo, vineyardscountryclubnaples.com) y extraer información de contacto relevante. El script debe:
+
+Construir un mapa del sitio limitado (crawling controlado dentro del dominio).
+
+Aplicar filtros de Florida para descartar sitios fuera de Florida.
+
+Calcular un band_score basado en palabras clave relevantes (con ponderación según zona de la página).
+
+Extraer datos completos: correos electrónicos, nombres de personas, roles/cargos, direcciones, teléfonos, redes sociales, etc.
+
+Generar un JSON de salida con el formato exacto proporcionado en extraccion_deseada.json (misma estructura, campos y estilo).
+
+Integrarse con los diccionarios existentes (florida_ciudades.json, names_Usa.json, roles_dictionary.json) y utilizar las variables de entorno definidas (archivo .env).
+
+Mantener la lógica existente de filtrado de URLs, eliminación de duplicados y priorización de ciertas páginas.
+
+Estar listo para ejecutarse en Windows (VS Code), con soporte para entrada CSV de múltiples dominios, límite de dominios a procesar, y uso de status_log.json para no reprocesar dominios ya atendidos.
+
+A continuación, se detallan los cambios y consideraciones por componente:
+
+Construcción limitada del mapa del sitio
+
+El script debe rastrear (crawl) el sitio objetivo de forma controlada. Iniciará en la página principal del dominio dado y seguirá enlaces internos relevantes hasta un límite. Aspectos clave:
+
+Restringir al dominio: solo seguir URLs del mismo dominio (evitar enlaces externos o a subdominios no deseados).
+
+Límite de páginas: definir un número máximo de páginas a escanear por sitio (por ejemplo, vía variable de entorno MAX_PAGES). Esto impide crawls extensos en sitios muy grandes.
+
+Profundidad controlada: Opcionalmente limitar la profundidad de enlaces desde la página inicial (e.g., profundidad 2 o 3).
+
+Priorización de URLs: Mantener la lógica existente para priorizar páginas con palabras clave relevantes en la URL o texto del enlace. Por ejemplo, páginas típicas como "Contact", "About", "Team", "Staff", etc., suelen contener información de contacto y deben escanearse primero. El crawler puede ordenar los enlaces detectados dando mayor prioridad a aquellos cuyo href contenga términos importantes (como "contact", "about-us", "team", etc.).
+
+Filtrado de archivos: Ignorar enlaces a recursos no HTML (imágenes, PDFs, CSS/JS) a menos que sean necesarios. Si el sitio tiene un mapa del sitio (sitemap.xml) o páginas de índice, se puede aprovechar, aunque usualmente bastará con la navegación normal limitada.
+
+Internamente, se puede implementar con una estructura tipo queue o lista de URLs por visitar. A medida que se extraen enlaces de cada página, se agregan a la cola si son internos y no exceden los límites. Importante: usar una estructura de control (por ejemplo un set de URLs visitadas) para no procesar la misma URL más de una vez
+stackoverflow.com
+. Esto garantiza que no se repitan visitas y que el mapa del sitio resultante no tenga duplicados de páginas.
+
+Aplicación de filtros de Florida
+
+Una vez obtenido el contenido de las páginas relevantes, el script debe determinar si el sitio corresponde al estado de Florida (florida_ok). Para ello:
+
+Diccionario de ciudades: Utilizar florida_ciudades.json que contiene nombres de ciudades/localidades de Florida. El script debe buscar menciones de estas ciudades (o abreviaturas como "FL") en el texto de las páginas. Por ejemplo, la presencia de una dirección con "Naples, FL" o "Miami, FL" indicaría claramente que el sitio pertenece a Florida.
+
+Heurística de dirección: Buscar patrones de dirección postal de EE.UU. (ej. "City, FL 12345" con un código ZIP de 5 dígitos). Si se detecta una ciudad de Florida + “FL”, marcar florida_ok = true.
+
+Dominio local: En algunos casos, el propio dominio o contenido puede sugerir la ubicación (por ejemplo, vineyardscountryclubnaples incluye "naples", una ciudad de Florida). Esto puede ayudar, pero es más confiable confirmarlo en el contenido de la página (sección de contacto, pie de página, etc.).
+
+Actualización del campo: Si se encuentra al menos una referencia que indica Florida, establecer florida_ok: true en el JSON de salida; de lo contrario false (como en el ejemplo inicial antes de la adaptación). En el ejemplo deseado, tras la adaptación, florida_ok aparece en true porque detectó "Naples, FL 34119" en la página de contacto.
+
+El filtrado de Florida sirve también para decidir si profundizar en el crawl: si nada indica relación con Florida, se podría abortar temprano el procesamiento del dominio (ya que no es de interés). Sin embargo, dado que el JSON final igualmente requiere listar el sitio aunque sea con florida_ok: false, probablemente se debe completar el procesamiento mínimo aunque no se encuentre relación.
+
+Cálculo de band_score por palabras clave
+
+El band_score es una métrica calculada a partir de la presencia de ciertas palabras clave en el sitio. Según el JSON de ejemplo, este cálculo incluye:
+
+Conteo de palabras clave: Se debe tener una lista de términos relevantes (posiblemente relacionados con eventos, música en vivo, u otros según la temática). En el ejemplo, palabras como "event" y "show" fueron detectadas, lo que sugiere que el script buscó términos comunes a eventos o conciertos. Es probable que los CSV proporcionados (rubro_theatres_of_live_music_florida.csv, rubro_amphitheaters_of_live_music_florida.csv) contengan palabras clave o categorías relacionadas con música en vivo, que deben incluirse en el análisis.
+
+Ocurrencias únicas y ponderadas: El JSON de salida muestra campos unique_keywords (cantidad de palabras clave distintas encontradas) y weighted_hits (un conteo ponderado). Para lograr esto:
+
+Zonas HTML: Ponderar más las apariciones en secciones importantes. Por ejemplo, si una palabra clave aparece en títulos o encabezados (<h1>...<h6>), en menús de navegación, o en elementos destacados, podría sumar más puntos que si aparece solo en el cuerpo de texto normal
+dummies.com
+. En el ejemplo, cada keyword tiene un desglose de zonas: "headings", "nav", "body", con contadores separados.
+
+Peso asignado: Definir pesos (por ejemplo, 2 puntos por aparición en un heading, 1 punto en cuerpo, etc.) para calcular weighted_hits. En el ejemplo, quizás encontraron "event" 38 veces (24 en texto cuerpo, 12 en navegación, 2 en encabezados) y "show" 1 vez, y derivaron un score de 50 con weighted_hits 55 (posiblemente aplicando una fórmula de puntuación).
+
+Detalle por palabra: Llenar la estructura per_keyword en el JSON: para cada palabra clave encontrada, indicar el total de ocurrencias, las zonas donde apareció y una lista de páginas donde se halló. Esto significa que durante el crawl, el script debe acumular estas estadísticas. Por ejemplo, escaneando el HTML de cada página (quizás usando BeautifulSoup), contando las palabras clave en distintas partes:
+
+Texto de enlaces o menús (nav),
+
+Títulos (<title>, <h1>-<h6>),
+
+Texto general del cuerpo (<p>, <span>, etc.).
+
+Cálculo final: Asignar band.score de forma proporcional a los hallazgos. El ejemplo muestra score: 50 con unique_keywords: 2. Puede ser que score se calcule como unique_keywords * 25 (p.ej. 2*25=50) o algún otro algoritmo específico. Se debe implementar según la intención original (quizá definida en nav_pro.py o variables de entorno). Importante: si la lista de palabras clave está configurada en el .env o en un archivo, integrarlo en el código en lugar de valores hardcode.
+
+En resumen, esta sección del script debe leer las palabras clave relevantes (posiblemente combinando diccionarios o listas de los archivos CSV proporcionados) y luego, tras rastrear las páginas, contabilizar su aparición para finalmente llenar el objeto band del JSON.
+
+Extracción de datos de contacto
+
+El objetivo principal es extraer todos los datos de contacto disponibles en el sitio. Esto incluye:
+
+Correos electrónicos: Buscar patrones de email en el HTML. Los correos suelen aparecer ya sea como texto visible o en enlaces mailto. Una estrategia es usar una expresión regular que reconozca el formato típico nombre@dominio.tld
+scrapfly.io
+. Por ejemplo:
+
+email_pattern = re.compile(r'([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[A-Za-z]{2,4})')
+
+
+Con esta regex se pueden encontrar emails incrustados en texto
+scrapfly.io
+. Además, conviene buscar enlaces <a href="mailto:..."> directamente usando BeautifulSoup o regex, ya que muchos sitios utilizan ese formato
+scrapfly.io
+. Todos los correos encontrados se añaden a la lista emails en el JSON, evitando duplicados. Cada entrada debe incluir el valor del correo y las páginas donde apareció. En el ejemplo deseado, vemos que emails es una lista de objetos con value y pages (URLs donde se encontró). Si un email aparece en varias páginas, consolidarlo en una única entrada listando todas las URLs relevantes.
+
+Números de teléfono: Similar a los emails, se pueden usar expresiones regulares para detectar números telefónicos en formatos comunes. Un patrón genérico para números de EE.UU. podría ser:
+
+[+]*[(]{0,1}[0-9]{1,4}[)]{0,1}[-\s\.0-9]*(?=[^0-9])
+
+
+Este ejemplo de regex captura distintas variantes de formato telefónico (con o sin código de país, paréntesis, guiones, espacios, etc.)
+scrapfly.io
+. Al encontrar coincidencias, formatear el número de forma consistente (por ejemplo, +1 239-353-1500 o (239) 353-1500 según convenga) y añadir a la lista phones con su value y pages. De nuevo, evitar duplicados (usar un set temporal para valores ya vistos).
+
+Direcciones postales: Detectar direcciones puede ser más complejo, pero en este caso enfocamos en direcciones de Florida. Posibles indicios:
+
+Presencia de un nombre de ciudad de Florida seguido de coma y "FL" y código postal. Por ejemplo "Naples, FL 34119". El diccionario florida_ciudades.json puede proveer la lista de ciudades para buscar en el texto.
+
+También comúnmente las direcciones se encuentran en páginas de Contacto o pie de página. Tras localizar una ciudad de Florida en el texto, se puede extraer la línea completa que la contiene como potencial dirección.
+
+Se incluirá en addresses cada dirección encontrada, idealmente normalizada (una línea o formato consistente), con la página fuente en pages. En el JSON deseado seguramente aparece la dirección completa encontrada en la página de contacto.
+
+Redes sociales (socials): Examinar los enlaces <a> en la página para detectar URLs de plataformas sociales (Facebook, Twitter, Instagram, LinkedIn, YouTube, etc.). Por ejemplo, si <a href="https://www.facebook.com/miClub">Facebook</a> está presente, extraer ese enlace. Conviene tener una lista de dominios clave (facebook.com, twitter.com, etc.) y si href contiene uno de ellos, considerarlo una red social del sitio. Cada red social puede almacenarse con su URL en la lista socials. (Nota: El formato exacto de socials en el JSON deseado debe respetarse; por ejemplo, puede que sean solo URLs, o quizás objetos con nombre de red. Por la muestra parece ser una lista de URLs.)
+
+Personas y roles (equipo de contacto): Aquí se integra la lógica usando names_Usa.json y roles_dictionary.json:
+
+Detección de nombres: Usar names_Usa.json para reconocer patrones de nombres propios en el texto (por ejemplo, si en una página aparece "Julie Iravani – Membership Director", identificar "Julie Iravani" como nombre). El diccionario de nombres puede ser una lista de nombres comunes para verificar palabras capitalizadas en el texto.
+
+Detección de roles: roles_dictionary.json contendrá títulos de cargos (ej: "Director", "Manager", "President", "Coach", etc., posiblemente en inglés y variaciones). Si cerca de un nombre en el texto aparece uno de estos títulos, es muy probable que se trate de una persona y su cargo en la organización.
+
+Asociación con emails: Si un correo electrónico contiene parte de un nombre (por ejemplo, jiravani@... corresponde a Julie Iravani), se puede asociar ese correo a la persona. Muchos sitios listan personal de contacto con "Nombre – Cargo – Email – Teléfono". El script debe aprovechar esas estructuras:
+
+Por ejemplo, en Our Team de Vineyards CC Naples, se ve "JULIE IRAVANI. Membership Director – jiravani@...". El script debería capturar name="Julie Iravani", role="Membership Director", email="jiravani@..." y la página correspondiente.
+
+En algunos casos no todos los datos están juntos; puede haber nombres sin email o emails genéricos sin nombre (como info@...). Aún así incluirlos en la sección people con lo que se tenga. En el ejemplo JSON, vemos que info@... aparece como una persona con nombre y role vacíos, source: "mailto" indicando que proviene de un mailto genérico. También aparece "Amina Mokhtari – events" sin email (posible nombre detectado junto a la palabra "events"), y otros nombres.
+
+Crear entradas de personas: Cada persona en la lista people del JSON debe ser un objeto con campos como name, role, email, source (por ejemplo "text" si se extrajo del texto visible, o "mailto"/"page" si provino de un enlace), y pages donde se encontró. Integrar adecuadamente:
+
+Fuente text: cuando se reconoce nombre + cargo en texto plano.
+
+Fuente mailto: cuando se infiere la persona a partir de un email (sin nombre explícito).
+
+Fuente otras: incluso podría haber casos de nombres sacados de URLs de redes sociales (p.ej. a Twitter handle).
+
+Evitar duplicados: Si la misma persona aparece en varias páginas, combinar la info (por ej., si se encontró su nombre en "Team" y su email en "Contact", unificar en una sola entrada con ambas páginas listadas).
+
+Durante esta etapa de extracción, es útil convertir todo el texto de cada página en un texto agregable para hacer búsquedas (regex o str.find) de los patrones anteriores. Se puede utilizar BeautifulSoup para extraer el texto, o navegar el DOM buscando etiquetas típicas donde estén estos datos (por ejemplo <a> para emails y sociales, <p> o <li> for direcciones, etc.).
+
+Nota: Es importante mantener la consistencia de formato tal como en extraccion_deseada.json. Esto incluye mayúsculas/minúsculas en nombres (posiblemente capitalizar nombres propios correctamente), estructura de listas vacías vs. ausentes, etc. Por ejemplo, si no se encuentra ninguna persona, asegurarse de dejar "people": [] (lista vacía) en lugar de omitir el campo.
+
+Integración con diccionarios y variables de entorno
+
+El script debe cargar y utilizar los recursos proporcionados:
+
+Diccionarios JSON: Al inicio, leer los archivos:
+
+florida_ciudades.json: cargar la lista de ciudades de Florida (por ejemplo en un set para búsquedas eficientes por pertenencia).
+
+names_Usa.json: cargar lista de nombres (set de nombres comunes, posiblemente en mayúsculas para comparar de forma case-insensitive).
+
+roles_dictionary.json: cargar lista de títulos/cargos comunes (también normalizados a un caso fijo).
+
+Estos diccionarios se usarán en las secciones antes descritas (filtro de Florida y personas).
+
+Variables de entorno (.env): Utilizar la configuración definida por el usuario en el archivo .env en lugar de valores fijos en el código. Por ejemplo, es probable que existan variables como:
+
+MAX_PAGES_PER_DOMAIN (máx páginas a rastrear por dominio),
+
+MAX_DOMAINS (límite de dominios a procesar en lote),
+
+USER_AGENT (agente de usuario para las peticiones HTTP),
+
+TIMEOUT o REQUEST_DELAY (tiempos para evitar ser bloqueado),
+
+Palabras clave para band_score o pesos (si las keywords/pesos se definen ahí),
+
+Credenciales de proxy o API (si aplicara).
+
+Para manejarlas de forma cómoda, se puede usar la librería python-dotenv. Con ella, basta con cargar el .env al inicio del script:
+
+from dotenv import load_dotenv
+load_dotenv()
+
+
+Esto leerá automáticamente el archivo .env y exportará las variables definidas allí al entorno de la aplicación
+dev.to
+. Luego, en el código, se obtienen con os.getenv("NOMBRE_VAR")
+dev.to
+. Por ejemplo:
+
+import os
+max_pages = int(os.getenv("MAX_PAGES_PER_DOMAIN", "10"))
+user_agent = os.getenv("USER_AGENT", "nav_pro_bot/1.0")
+
+
+De esta forma, la configuración es fácil de ajustar sin tocar el código. Asegúrese de manejar correctamente tipos (conversión a int, bool, etc., ya que os.getenv devuelve cadenas).
+
+Uso de diccionarios cargados: una vez disponibles en memoria:
+
+Para Florida: cuando se escanea texto, dividir en palabras/patrones y verificar si alguna ciudad de Florida aparece (por ejemplo, hacer lowercase al texto y buscar cada ciudad con delimitadores).
+
+Para nombres: al buscar personas, tomar palabra capitalizada y chequear contra names_Usa (podría compararse la forma capitalizada exacta, o hacer coincidencias parciales).
+
+Para roles: similar, buscar si alguna palabra coincide con un título conocido de roles_dictionary. Podría hacerse matching la frase completa o contener alguna key (ej. "Membership Director" contiene "Director").
+
+Integrar estos recursos permite mayor precisión en filtrados y extracciones, tal como se necesita.
+
+Lógica de filtrado, deduplicación y priorización de URLs
+
+Es fundamental preservar y mejorar la lógica existente que evita procesar contenido irrelevante o repetido:
+
+Filtrado de URLs: Si el script original tenía reglas para ignorar ciertas URLs (por ejemplo, evitar páginas con extensiones no deseadas, o que coincidan con patrones irrelevantes), mantenerlas. Por ejemplo, puede que se filtre fuera cualquier URL que contenga ?session= o parámetros de tracking, o páginas de login, etc., que no aportan información de contacto.
+
+Deduplicación de URLs: Como mencionado, utilizar un set para almacenar URLs ya visitadas
+stackoverflow.com
+. Cada vez que se extrae un nuevo enlace interno, comprobar si ya está en el set. Si no, procesarlo y agregarlo; si sí, saltarlo. Esto evita loops y trabajo innecesario.
+
+Prioridad de rastreo: Mantener la cola de pendientes ordenada de modo que páginas con mayor probabilidad de contener datos de contacto se procesen primero. Esto podría significar:
+
+Inserción de ciertos URLs al frente de la cola (ej. detectados con palabra "contact").
+
+O mantener dos listas: una de alta prioridad (contact, about, team) y otra de baja (otras páginas generales), procesando primero la alta prioridad.
+
+Limitación de profundidad: Si la lógica existente tenía un límite de profundidad de enlaces (ej. no seguir enlaces más allá de X niveles desde home), conservarlo para evitar ir demasiado lejos del contexto principal del sitio.
+
+Respeto a robots: Opcionalmente, comprobar robots.txt del sitio para no incumplir políticas (aunque dado el contexto de un script interno, quizá no sea prioritario).
+
+Tiempo entre peticiones: Si .env define un delay o if the original had a sleep between requests to avoid overloading the server, mantenerlo.
+
+En esencia, la adaptación no debe convertir el crawler en más permisivo que antes; al contrario, mantenerlo focalizado. Por ejemplo, si el sitio tiene decenas de páginas de noticias, probablemente no es necesario escanearlas todas; con identificar que no contienen contacto (o limitar a primeros N enlaces) es suficiente. Mantener esas consideraciones asegura eficiencia.
+
+Soporte para CSV de entrada y límite de dominios
+
+Se necesita que el script procese múltiples dominios secuencialmente, leyendo de un archivo CSV de entrada. Para lograrlo:
+
+Lectura de CSV: Utilizar Python (csv módulo o pandas) para leer una lista de dominios. Asumimos que el CSV contiene al menos una columna con los dominios (y posiblemente otras columnas, pero el script puede enfocarse en la columna de dominio). Un ejemplo usando csv:
+
+import csv
+domains = []
+with open('input_domains.csv', newline='', encoding='utf-8') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        domain = row.get('domain')  # ajustar al nombre correcto de la columna
+        if domain:
+            domains.append(domain.strip())
+
+
+Ahora domains tendría la lista. Si el CSV es simple (una columna sin cabecera), usar csv.reader directamente.
+
+Límite de dominios por ejecución: Para evitar procesar demasiados sitios de una vez (que podría ser lento), implementar una forma de limitar el número de dominios a procesar en cada corrida. Esto puede hacerse de varias formas:
+
+Por variable de entorno: e.g., MAX_DOMAINS_PER_RUN. Leerla y hacer domains = domains[:MAX_DOMAINS_PER_RUN] para truncar la lista.
+
+Por argumento de línea de comandos: permitir que al ejecutar el script se pase un número límite (aunque dado que es para VS Code, quizás prefieran config por .env).
+
+O simplemente documentar que pueden segmentar el CSV.
+
+La opción de .env es cómoda: max_domains = int(os.getenv("MAX_DOMAINS", "0")) y si es > 0, usar solo esa cantidad.
+
+Procesamiento secuencial: Iterar sobre la lista de dominios y para cada uno llamar la función que hace el crawl y extracción (la lógica descrita en secciones previas). Por cada dominio generar (o agregar al) JSON de resultado.
+
+Salida consolidada: El JSON de salida (extract.json) tiene la estructura {"version": 3, "sites": [ {...}, {...} ]}. Esto sugiere que si procesamos varios dominios, iremos acumulando objetos en la lista sites. Al finalizar, escribir el JSON completo a disco. Importante: respetar el formato exacto (por ejemplo, "version": 3 dado en el ejemplo).
+
+Registro de estado (status_log.json) y reprocesamiento
+
+Para evitar reprocesar dominios ya atendidos en ejecuciones previas, usar un archivo de log (status_log.json). La adaptación debe:
+
+Formato de status_log: Puede ser tan simple como una lista de dominios ya procesados, o un objeto mapeando dominio a fecha de procesamiento. Depende de cómo el usuario lo espera:
+
+Si es una lista: e.g. ["domain1.com", "domain2.com", ...].
+
+Si es dict: e.g. { "domain1.com": "2025-09-13T07:15:38-03:00", ... } (timestamp de última actualización).
+
+Lectura inicial: Al iniciar la ejecución, tratar de abrir status_log.json. Si existe, cargarlo (JSON load). Si no existe, asumir ninguna página procesada aún (crear estructura vacía).
+
+Salto de dominios ya procesados: Al iterar los dominios del CSV, chequear si el dominio está marcado en status_log. Si sí, omitirlo (posiblemente imprimir/loguear algo como "Skipping already processed domain X"). Si no, procesarlo normalmente.
+
+Actualización: Después de procesar exitosamente un dominio (es decir, extraer sus datos y agregarlos al JSON principal), agregar una entrada en status_log. Por ejemplo:
+
+status[domain] = datetime.now().isoformat()
+
+
+(o añadir a la lista). Luego volcar status_log.json a disco inmediatamente o al final. Es buena idea escribirlo cada vez para no perder registro si el script se detiene a mitad de un lote.
+
+Uso en futuras ejecuciones: En la siguiente corrida, gracias a este log, el script sabrá qué saltar. Esto permite correr el scraper en múltiples sesiones sin repetir trabajo ya hecho.
+
+Asegúrese de manejar la concurrencia simple: si dos instancias corrieran a la vez, podrían entrar en condición de carrera con el log, pero asumiendo un uso secuencial manual desde VS Code, no es un problema.
+
+Consideraciones finales para Windows/VS Code
+
+La adaptación debe garantizar compatibilidad con entornos Windows:
+
+Usar rutas y manejo de archivos de forma agnóstica (utilizar os.path o rutas relativas en lugar de rutas específicas de Unix).
+
+Evitar dependencias que no funcionen en Windows. Librerías como requests, beautifulsoup4, re (regex), etc., funcionan en Windows sin problema. Si se usa algo como playwright o selenium para casos dinámicos, asegúrese de documentar la instalación en Windows.
+
+Probar el script en VS Code (por ejemplo usando la terminal integrada) para verificar que leerá correctamente archivos en la ruta del proyecto.
+
+Si se usa encoding específico (por ejemplo para CSV), Windows a veces usa 'cp1252' por defecto; es mejor especificar encoding='utf-8' al abrir archivos para evitar problemas de caracteres.
+
+Por último, mantener un registro o logs en consola puede ayudar durante la ejecución en VS Code, para ver el progreso por dominio, páginas escaneadas, etc. Esto no afecta la funcionalidad pero sí la experiencia de desarrollo, pudiendo incluir mensajes de debug controlados por una variable de entorno (ej. DEBUG=true).
+
+Cumpliendo todos estos puntos, el script nav_pro.py adaptado podrá tomar un dominio (o lista de ellos) y generar un archivo JSON de resultados con el mismo formato que el proporcionado, integrando los diccionarios y configuración externa, sin repetir trabajos ya hechos y enfocándose en sitios de Florida. Esto permitirá ejecutarlo fácilmente en un entorno local Windows, obteniendo de forma automatizada los datos de contacto deseados de cada sitio web.
+
+Fuentes utilizadas: Los patrones de extracción de datos se basan en buenas prácticas de web scraping con Python, por ejemplo el uso de regex para capturar teléfonos
+scrapfly.io
+ y correos electrónicos
+scrapfly.io
+, la identificación de correos en enlaces mailto
+scrapfly.io
+, y el manejo de variables de entorno mediante python-dotenv
+dev.to
+dev.to
+. Asimismo, se siguieron principios comunes de crawler para evitar duplicados usando estructuras de conjunto
+stackoverflow.com
+. Estas referencias respaldan las técnicas implementadas en la adaptación.

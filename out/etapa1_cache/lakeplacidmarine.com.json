@@ -1,0 +1,934 @@
+{
+  "site_url": "https://lakeplacidmarine.com/",
+  "domain": "lakeplacidmarine.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://lakeplacidmarine.com/",
+    "https://lakeplacidmarine.com/about-us-boats-pwc-dealership--info",
+    "https://lakeplacidmarine.com/staff-employees-boats-pwc-dealership--xstaff",
+    "https://lakeplacidmarine.com/contact-email-boats-pwc-dealership--xcontact",
+    "https://lakeplacidmarine.com/map-hours-directions-boats-pwc-dealership--hours",
+    "https://lakeplacidmarine.com/inventory/v1/",
+    "https://lakeplacidmarine.com/default.asp?page=xNewInventory",
+    "https://lakeplacidmarine.com/default.asp?page=xPreOwnedInventory",
+    "https://lakeplacidmarine.com/price-quote-boats-pwc-dealership--xget_quote",
+    "https://lakeplacidmarine.com/credit-financing-boats-pwc-dealership--financing",
+    "https://lakeplacidmarine.com/trade-in-value-boats-pwc-dealership--xtrade_value",
+    "https://lakeplacidmarine.com/promotions-boats-outboards-pwcs-sales-deals-archbold-sebring-arcadia-florida--promotions",
+    "https://lakeplacidmarine.com/test-drive-boats-pwc-dealership--xsched_ride",
+    "https://lakeplacidmarine.com/parts-boats-pwc-dealership--parts",
+    "https://lakeplacidmarine.com/request-parts-boats-pwc-dealership--xparts_request",
+    "https://lakeplacidmarine.com/service-repair-boats-pwc-dealership--service",
+    "https://lakeplacidmarine.com/service-request-boats-pwc-dealership--xservice_request",
+    "https://lakeplacidmarine.com/careers-jobs-employment-boats-pwc-dealership--xcareers",
+    "https://lakeplacidmarine.com/reviews-testimonials-boats-pwc-dealership--xtestimonials",
+    "https://lakeplacidmarine.com/submit-reviews-testimonials-boats-pwc-dealership--xsurvey",
+    "https://www.lakeplacidmarine.com/default.asp?page=xNewInventory",
+    "https://lakeplacidmarine.com/regional-promotions/promotion/20012",
+    "https://lakeplacidmarine.com/default.asp?page=xAllInventory&make=malibu%20boats",
+    "https://lakeplacidmarine.com/default.asp?page=xAllInventory&make=axis%20wake%20research",
+    "https://lakeplacidmarine.com/default.asp?page=xAllInventory&make=starcraft%20marine",
+    "https://lakeplacidmarine.com/default.asp?page=xAllInventory&make=sylvan",
+    "https://lakeplacidmarine.com/default.asp?page=xAllInventory&make=yamaha%20marine",
+    "https://lakeplacidmarine.com/default.asp?page=xAllInventory&make=continental%20trailers",
+    "https://lakeplacidmarine.com/default.asp?page=xAllInventory&make=evinrude",
+    "https://lakeplacidmarine.com/default.asp?page=xAllInventory&make=mercury%20marine",
+    "https://lakeplacidmarine.com/default.asp?page=xAllInventory&make=road%20king",
+    "https://lakeplacidmarine.com/default.asp?page=xAllInventory&make=smokercraft",
+    "https://lakeplacidmarine.com/default.asp?page=xAllInventory&make=sunchaser",
+    "https://lakeplacidmarine.com/default.asp?page=xAllInventory&make=sea%20pro",
+    "https://lakeplacidmarine.com/default.asp?page=xAllInventory&make=suzuki"
+  ],
+  "candidates": [
+    "https://lakeplacidmarine.com/contact-email-boats-pwc-dealership--xcontact",
+    "https://lakeplacidmarine.com/about-us-boats-pwc-dealership--info",
+    "https://lakeplacidmarine.com/staff-employees-boats-pwc-dealership--xstaff",
+    "https://lakeplacidmarine.com/",
+    "https://lakeplacidmarine.com/contact",
+    "https://lakeplacidmarine.com/contact/",
+    "https://lakeplacidmarine.com/contact-us",
+    "https://lakeplacidmarine.com/contact-us/",
+    "https://lakeplacidmarine.com/contactus",
+    "https://lakeplacidmarine.com/contactus/",
+    "https://lakeplacidmarine.com/about",
+    "https://lakeplacidmarine.com/about/",
+    "https://lakeplacidmarine.com/about-us",
+    "https://lakeplacidmarine.com/about-us/",
+    "https://lakeplacidmarine.com/visit",
+    "https://lakeplacidmarine.com/visit/",
+    "https://lakeplacidmarine.com/location",
+    "https://lakeplacidmarine.com/location/",
+    "https://lakeplacidmarine.com/directions",
+    "https://lakeplacidmarine.com/directions/"
+  ],
+  "per_page": {
+    "https://lakeplacidmarine.com/contact-email-boats-pwc-dealership--xcontact": {
+      "title": "Contact Us | Lake Placid Marine Florida",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/contact-email-boats-pwc-dealership--xcontact"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/contact-email-boats-pwc-dealership--xcontact"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/about-us-boats-pwc-dealership--info": {
+      "title": "Dealership Information | Lake Placid Marine Florida",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/about-us-boats-pwc-dealership--info"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/about-us-boats-pwc-dealership--info"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "(863) 465-2335",
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/staff-employees-boats-pwc-dealership--xstaff": {
+      "title": "Staff | Lake Placid Marine Florida",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/staff-employees-boats-pwc-dealership--xstaff"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/staff-employees-boats-pwc-dealership--xstaff"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "(863) 465-2335",
+        "(863)4652335",
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/contact": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/contact"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/contact/": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/contact/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/contact-us": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/contact-us"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/contact-us/": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/contact-us/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/contactus": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/contactus"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/contactus/": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/contactus/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/about": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/about"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/about/": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/about/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/about-us": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/about-us"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/about-us/": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/about-us/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/visit": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/visit"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/visit/": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/visit/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/location": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/location"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/location/": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/location/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/directions": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/directions"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    },
+    "https://lakeplacidmarine.com/directions/": {
+      "title": "Lake Placid Marine - New & Used Boats, Service, Parts and Financing in Lake Placid, FL, near Sylvan Shores, Archbold, Sebring, and Arcadia",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/directions/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lakeplacidmarine.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lakeplacidmarine.com",
+        "jacob@lakeplacidmarine.com"
+      ],
+      "phones": [
+        "863.465.2335",
+        "863.465.9550"
+      ],
+      "socials": [
+        "https://www.facebook.com/LakePlacidMarine/",
+        "https://www.instagram.com/explore/locations/83547801/lake-placid-marine/"
+      ]
+    }
+  }
+}

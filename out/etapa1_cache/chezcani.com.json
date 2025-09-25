@@ -1,0 +1,396 @@
+{
+  "site_url": "https://chezcani.com/",
+  "domain": "chezcani.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://chezcani.com/",
+    "https://www.chezcani.com/reservations",
+    "https://www.chezcani.com/event",
+    "https://www.chezcani.com/book-a-chef",
+    "https://www.chezcani.com/contact",
+    "https://www.chezcani.com/reservation",
+    "https://www.chezcani.com",
+    "https://www.chezcani.com/menu-1",
+    "https://www.chezcani.com/takeout-specials",
+    "https://www.chezcani.com/pastries",
+    "https://www.chezcani.com/french-market",
+    "https://www.chezcani.com/account/my-account",
+    "https://www.chezcani.com/gallery"
+  ],
+  "candidates": [
+    "https://www.chezcani.com/contact",
+    "https://www.chezcani.com/event",
+    "https://www.chezcani.com/book-a-chef",
+    "https://www.chezcani.com/reservation",
+    "https://www.chezcani.com/reservations",
+    "https://chezcani.com/",
+    "https://chezcani.com/contact",
+    "https://chezcani.com/contact/",
+    "https://chezcani.com/contact-us",
+    "https://chezcani.com/contact-us/",
+    "https://chezcani.com/contactus",
+    "https://chezcani.com/contactus/",
+    "https://chezcani.com/about",
+    "https://chezcani.com/about/",
+    "https://chezcani.com/about-us",
+    "https://chezcani.com/about-us/",
+    "https://chezcani.com/visit",
+    "https://chezcani.com/visit/",
+    "https://chezcani.com/location",
+    "https://chezcani.com/location/",
+    "https://chezcani.com/directions",
+    "https://chezcani.com/directions/"
+  ],
+  "per_page": {
+    "https://www.chezcani.com/contact": {
+      "title": "ChezCani - French Restaurant,Private Chef, Catering Melbourne, Florida,32940",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.chezcani.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "chef.chezcani@gmail.com"
+      ],
+      "phones": [
+        "(321) 610-3601"
+      ],
+      "socials": [
+        "https://www.facebook.com/ChezCani-105515694314532",
+        "https://www.instagram.com/chez_cani/"
+      ]
+    },
+    "https://www.chezcani.com/event": {
+      "title": "Events | Chez Cani| Melbourne| French Restaurant in Melbourne, FL. Cafe Bistro with an American touch. Breakfast, lunch, dinner. Crepes, Bakery, Cakes, Cofee, Tea, Pastries, Market|https://static.wixstatic.com/media/eb71e7_e041ba7581a948c8b1732fe7967bd65a~mv2.png",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.chezcani.com/event"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.chezcani.com/book-a-chef": {
+      "title": "ChezCani - French Restaurant,Private Chef, Catering Melbourne, Florida,32940",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.chezcani.com/reservation": {
+      "title": "ChezCani Book-French Restaurant,Private Chef, Catering Melbourne, Florida,32940",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.chezcani.com/reservation"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 610-3601"
+      ],
+      "socials": [
+        "https://www.facebook.com/ChezCani-105515694314532",
+        "https://www.instagram.com/chez_cani/"
+      ]
+    },
+    "https://www.chezcani.com/reservations": {
+      "title": "Reservations | Chez Cani| Melbourne| French Restaurant in Melbourne, FL. Cafe Bistro with an American touch. Breakfast, lunch, dinner. Crepes, Bakery, Cakes, Cofee, Tea, Pastries, Market|https://static.wixstatic.com/media/eb71e7_e041ba7581a948c8b1732fe7967bd65a~mv2.png",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://chezcani.com/": {
+      "title": "ChezCani French Restaurant,Private Chef, Catering Melbourne, Florida, FL 32940",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://chezcani.com/"
+          ]
+        }
+      },
+      "emails": [
+        "chef.chezcani@gmail.com"
+      ],
+      "phones": [
+        "(321) 610-3601"
+      ],
+      "socials": [
+        "https://www.facebook.com/ChezCani-105515694314532",
+        "https://www.instagram.com/chez_cani/"
+      ]
+    },
+    "https://chezcani.com/contact": {
+      "title": "ChezCani - French Restaurant,Private Chef, Catering Melbourne, Florida,32940",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://chezcani.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "chef.chezcani@gmail.com"
+      ],
+      "phones": [
+        "(321) 610-3601"
+      ],
+      "socials": [
+        "https://www.facebook.com/ChezCani-105515694314532",
+        "https://www.instagram.com/chez_cani/"
+      ]
+    },
+    "https://chezcani.com/contact/": {
+      "title": "ChezCani - French Restaurant,Private Chef, Catering Melbourne, Florida,32940",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://chezcani.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "chef.chezcani@gmail.com"
+      ],
+      "phones": [
+        "(321) 610-3601"
+      ],
+      "socials": [
+        "https://www.facebook.com/ChezCani-105515694314532",
+        "https://www.instagram.com/chez_cani/"
+      ]
+    },
+    "https://chezcani.com/contact-us": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://chezcani.com/contact-us/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://chezcani.com/contactus": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://chezcani.com/contactus/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://chezcani.com/about": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://chezcani.com/about/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://chezcani.com/about-us": {
+      "title": "ChezCani About us - French Restaurant in Melbourne, Florida, FL",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://chezcani.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "chef.chezcani@gmail.com"
+      ],
+      "phones": [
+        "(321) 610-3601"
+      ],
+      "socials": [
+        "https://www.facebook.com/ChezCani-105515694314532",
+        "https://www.instagram.com/chez_cani/"
+      ]
+    },
+    "https://chezcani.com/about-us/": {
+      "title": "ChezCani About us - French Restaurant in Melbourne, Florida, FL",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://chezcani.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "chef.chezcani@gmail.com"
+      ],
+      "phones": [
+        "(321) 610-3601"
+      ],
+      "socials": [
+        "https://www.facebook.com/ChezCani-105515694314532",
+        "https://www.instagram.com/chez_cani/"
+      ]
+    },
+    "https://chezcani.com/visit": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://chezcani.com/visit/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://chezcani.com/location": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://chezcani.com/location/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://chezcani.com/directions": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://chezcani.com/directions/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

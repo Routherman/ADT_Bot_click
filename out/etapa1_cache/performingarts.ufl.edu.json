@@ -1,0 +1,5431 @@
+{
+  "site_url": "https://performingarts.ufl.edu/",
+  "domain": "performingarts.ufl.edu",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://performingarts.ufl.edu/",
+    "https://performingarts.ufl.edu/events/",
+    "https://performingarts.ufl.edu/venues/",
+    "https://performingarts.ufl.edu/venues/baughman-center/",
+    "https://performingarts.ufl.edu/about/",
+    "https://performingarts.ufl.edu/about/contact-us/",
+    "https://performingarts.ufl.edu/about/accessibility/",
+    "https://performingarts.ufl.edu/about/faq/",
+    "https://performingarts.ufl.edu/events/hiromis-sonicwonder/",
+    "https://performingarts.ufl.edu/events/pilobolus-other-worlds/",
+    "https://performingarts.ufl.edu/events/dusty-slay/",
+    "https://performingarts.ufl.edu/about/plan-your-visit/",
+    "https://performingarts.ufl.edu/about/join-our-email-list/",
+    "http://performingarts.ufl.edu/about/staff/",
+    "https://performingarts.ufl.edu/about/staff/",
+    "https://performingarts.ufl.edu/about/ufpa-job-openings/",
+    "https://performingarts.ufl.edu/about/renting/",
+    "https://performingarts.ufl.edu/about/press-room/",
+    "https://performingarts.ufl.edu/about/venues/",
+    "https://performingarts.ufl.edu/about/baughman-center/",
+    "https://performingarts.ufl.edu/plan-your-visit/",
+    "https://performingarts.ufl.edu/tickets/",
+    "https://performingarts.ufl.edu/giving/",
+    "https://performingarts.ufl.edu/education/",
+    "https://performingarts.ufl.edu/students/",
+    "https://performingarts.ufl.edu/season-preview-online/",
+    "https://performingarts.ufl.edu/giving/affiliate-membership/",
+    "https://performingarts.ufl.edu/season-brochure/",
+    "https://performingarts.ufl.edu/giving/performance-sponsorship/",
+    "https://performingarts.ufl.edu/gift-certificates/",
+    "https://performingarts.ufl.edu/security-policies/",
+    "https://performingarts.ufl.edu/giving/bequests/",
+    "https://performingarts.ufl.edu/giving/volunteer/",
+    "https://performingarts.ufl.edu/past-events-archive/",
+    "https://performingarts.ufl.edu/events/tyreek-mcdole/",
+    "https://performingarts.ufl.edu/events/the-jacob-jolliff-band/",
+    "https://performingarts.ufl.edu/events/maria-ioudenitch-violin/",
+    "https://performingarts.ufl.edu/events/land-of-lachua/",
+    "https://performingarts.ufl.edu/events/the-arcadian-wild/",
+    "https://performingarts.ufl.edu/events/michael-feinstein-in-big-band-broadway/",
+    "https://performingarts.ufl.edu/events/joseph-keckler/",
+    "https://performingarts.ufl.edu/events/new-jazz-underground/",
+    "https://performingarts.ufl.edu/events/quartetto-di-cremona/",
+    "https://performingarts.ufl.edu/events/debate-baldwin-vs-buckley/",
+    "https://performingarts.ufl.edu/events/hadestown/",
+    "https://performingarts.ufl.edu/events/jake-shimabukuro/",
+    "https://performingarts.ufl.edu/events/galilee-chamber-orchestra/",
+    "https://performingarts.ufl.edu/events/scott-bradlees-postmodern-jukebox/",
+    "https://performingarts.ufl.edu/events/the-nutcracker-25/",
+    "https://performingarts.ufl.edu/events/class-with-clara-25/",
+    "https://performingarts.ufl.edu/events/prague-philharmonia/",
+    "https://performingarts.ufl.edu/events/jesse-cook/",
+    "https://performingarts.ufl.edu/events/liz-longley/",
+    "https://performingarts.ufl.edu/events/swan-lake-25/",
+    "https://performingarts.ufl.edu/events/dinosaur-world-live/",
+    "https://performingarts.ufl.edu/events/camille-thurman/",
+    "https://performingarts.ufl.edu/events/tatiana-eva-marie/",
+    "https://performingarts.ufl.edu/events/cirque-flip-fabrique-blizzard/",
+    "https://performingarts.ufl.edu/events/romeo-and-juliet-25/",
+    "https://performingarts.ufl.edu/events/tina-the-tina-turner-musical/",
+    "https://performingarts.ufl.edu/events/anthony-trionfo-flute/",
+    "https://performingarts.ufl.edu/events/voces8/",
+    "https://performingarts.ufl.edu/events/bang-bang/",
+    "https://performingarts.ufl.edu/events/jupiter-string-quartet/",
+    "https://performingarts.ufl.edu/events/sa-dance-company-rise/",
+    "https://performingarts.ufl.edu/events/buffalo-philharmonic-orchestra/",
+    "https://performingarts.ufl.edu/events/prelude-to-glory-semi-quincential-celebration-concert/",
+    "https://performingarts.ufl.edu/events/tuba-skinny/",
+    "https://performingarts.ufl.edu/events/meow-meow/",
+    "https://performingarts.ufl.edu/events/emmet-cohen-trio/",
+    "https://performingarts.ufl.edu/events/the-pirates-of-penzance/",
+    "https://performingarts.ufl.edu/events/evren-ozel-piano/",
+    "https://performingarts.ufl.edu/events/the-music-man/",
+    "https://performingarts.ufl.edu/events/the-isaiah-j-thompson-quartet/",
+    "https://performingarts.ufl.edu/events/lucia/",
+    "https://performingarts.ufl.edu/upstage/",
+    "https://performingarts.ufl.edu/dance-movement-events/"
+  ],
+  "candidates": [
+    "http://performingarts.ufl.edu/about/staff/",
+    "https://performingarts.ufl.edu/about/contact-us/",
+    "https://performingarts.ufl.edu/about/staff/",
+    "https://performingarts.ufl.edu/about/",
+    "https://performingarts.ufl.edu/about/accessibility/",
+    "https://performingarts.ufl.edu/about/baughman-center/",
+    "https://performingarts.ufl.edu/about/faq/",
+    "https://performingarts.ufl.edu/about/join-our-email-list/",
+    "https://performingarts.ufl.edu/about/plan-your-visit/",
+    "https://performingarts.ufl.edu/about/press-room/",
+    "https://performingarts.ufl.edu/about/renting/",
+    "https://performingarts.ufl.edu/about/ufpa-job-openings/",
+    "https://performingarts.ufl.edu/about/venues/",
+    "https://performingarts.ufl.edu/events/",
+    "https://performingarts.ufl.edu/events/anthony-trionfo-flute/",
+    "https://performingarts.ufl.edu/events/bang-bang/",
+    "https://performingarts.ufl.edu/events/buffalo-philharmonic-orchestra/",
+    "https://performingarts.ufl.edu/events/camille-thurman/",
+    "https://performingarts.ufl.edu/events/cirque-flip-fabrique-blizzard/",
+    "https://performingarts.ufl.edu/events/class-with-clara-25/",
+    "https://performingarts.ufl.edu/events/debate-baldwin-vs-buckley/",
+    "https://performingarts.ufl.edu/events/dinosaur-world-live/",
+    "https://performingarts.ufl.edu/events/dusty-slay/",
+    "https://performingarts.ufl.edu/events/emmet-cohen-trio/",
+    "https://performingarts.ufl.edu/events/evren-ozel-piano/",
+    "https://performingarts.ufl.edu/events/galilee-chamber-orchestra/",
+    "https://performingarts.ufl.edu/events/hadestown/",
+    "https://performingarts.ufl.edu/events/hiromis-sonicwonder/",
+    "https://performingarts.ufl.edu/events/jake-shimabukuro/",
+    "https://performingarts.ufl.edu/events/jesse-cook/",
+    "https://performingarts.ufl.edu/events/joseph-keckler/",
+    "https://performingarts.ufl.edu/events/jupiter-string-quartet/",
+    "https://performingarts.ufl.edu/events/land-of-lachua/",
+    "https://performingarts.ufl.edu/events/liz-longley/",
+    "https://performingarts.ufl.edu/events/lucia/",
+    "https://performingarts.ufl.edu/events/maria-ioudenitch-violin/",
+    "https://performingarts.ufl.edu/events/meow-meow/",
+    "https://performingarts.ufl.edu/events/michael-feinstein-in-big-band-broadway/",
+    "https://performingarts.ufl.edu/events/new-jazz-underground/",
+    "https://performingarts.ufl.edu/events/pilobolus-other-worlds/",
+    "https://performingarts.ufl.edu/events/prague-philharmonia/",
+    "https://performingarts.ufl.edu/events/prelude-to-glory-semi-quincential-celebration-concert/",
+    "https://performingarts.ufl.edu/events/quartetto-di-cremona/",
+    "https://performingarts.ufl.edu/events/romeo-and-juliet-25/",
+    "https://performingarts.ufl.edu/events/sa-dance-company-rise/",
+    "https://performingarts.ufl.edu/events/scott-bradlees-postmodern-jukebox/",
+    "https://performingarts.ufl.edu/events/swan-lake-25/",
+    "https://performingarts.ufl.edu/events/tatiana-eva-marie/",
+    "https://performingarts.ufl.edu/events/the-arcadian-wild/",
+    "https://performingarts.ufl.edu/events/the-isaiah-j-thompson-quartet/",
+    "https://performingarts.ufl.edu/events/the-jacob-jolliff-band/",
+    "https://performingarts.ufl.edu/events/the-music-man/",
+    "https://performingarts.ufl.edu/events/the-nutcracker-25/",
+    "https://performingarts.ufl.edu/events/the-pirates-of-penzance/",
+    "https://performingarts.ufl.edu/events/tina-the-tina-turner-musical/",
+    "https://performingarts.ufl.edu/events/tuba-skinny/",
+    "https://performingarts.ufl.edu/events/tyreek-mcdole/",
+    "https://performingarts.ufl.edu/events/voces8/",
+    "https://performingarts.ufl.edu/venues/",
+    "https://performingarts.ufl.edu/venues/baughman-center/",
+    "https://performingarts.ufl.edu/",
+    "https://performingarts.ufl.edu/dance-movement-events/",
+    "https://performingarts.ufl.edu/giving/performance-sponsorship/",
+    "https://performingarts.ufl.edu/past-events-archive/",
+    "https://performingarts.ufl.edu/upstage/"
+  ],
+  "per_page": {
+    "http://performingarts.ufl.edu/about/staff/": {
+      "title": "UFPA Staff Directory",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://performingarts.ufl.edu/about/staff/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://performingarts.ufl.edu/about/staff/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://performingarts.ufl.edu/about/staff/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://performingarts.ufl.edu/about/staff/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://performingarts.ufl.edu/about/staff/"
+          ]
+        }
+      },
+      "emails": [
+        "abittiker@performingarts.ufl.edu",
+        "abush@performingarts.ufl.edu",
+        "afledell@performingarts.ufl.edu",
+        "amclane@performingarts.ufl.edu",
+        "baughmanevents@performingarts.ufl.edu",
+        "bjose@performingarts.ufl.edu",
+        "drewclay@performingarts.ufl.edu",
+        "dsnyder@performingarts.ufl.edu",
+        "dvillamil@performingarts.ufl.edu",
+        "dwohlust@performingarts.ufl.edu",
+        "info@performingarts.ufl.edu",
+        "j.hammond@performingarts.ufl.edu",
+        "jcorreia@performingarts.ufl.edu",
+        "jcridlebaugh@performingarts.ufl.edu",
+        "jfoster@performingarts.ufl.edu",
+        "josburn@performingarts.ufl.edu",
+        "laurenkroll@performingarts.ufl.edu",
+        "lplugge@performingarts.ufl.edu",
+        "mcox@performingarts.ufl.edu",
+        "mhartman@performingarts.ufl.edu",
+        "msover@performingarts.ufl.edu",
+        "nlee@performingarts.ufl.edu",
+        "rstevens@performingarts.ufl.edu",
+        "scomstock@performingarts.ufl.edu",
+        "tlewis@performingarts.ufl.edu",
+        "vroyer@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.273.2458",
+        "352.273.2459",
+        "352.273.2460",
+        "352.273.2462",
+        "352.273.2463",
+        "352.273.2464",
+        "352.273.2465",
+        "352.273.2470",
+        "352.273.2471",
+        "352.273.2474",
+        "352.273.2475",
+        "352.273.2476",
+        "352.273.2477",
+        "352.273.2478",
+        "352.273.2479",
+        "352.273.2480",
+        "352.273.2481",
+        "352.273.2482",
+        "352.273.2483",
+        "352.273.2494",
+        "352.273.2703",
+        "352.294.0049",
+        "352.392.1900",
+        "352.392.2346",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787",
+        "800.955.8771"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/about/contact-us/": {
+      "title": "Contact Us",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/contact-us/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/contact-us/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/contact-us/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "boxoffice@performingarts.ufl.edu",
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "112750\n3201",
+        "352-392-1900",
+        "352-392-2787",
+        "352.294.0049",
+        "352.392.1900",
+        "352.392.2346",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/about/staff/": {
+      "title": "UFPA Staff Directory",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/staff/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/staff/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/staff/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/staff/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/staff/"
+          ]
+        }
+      },
+      "emails": [
+        "abittiker@performingarts.ufl.edu",
+        "abush@performingarts.ufl.edu",
+        "afledell@performingarts.ufl.edu",
+        "amclane@performingarts.ufl.edu",
+        "baughmanevents@performingarts.ufl.edu",
+        "bjose@performingarts.ufl.edu",
+        "drewclay@performingarts.ufl.edu",
+        "dsnyder@performingarts.ufl.edu",
+        "dvillamil@performingarts.ufl.edu",
+        "dwohlust@performingarts.ufl.edu",
+        "info@performingarts.ufl.edu",
+        "j.hammond@performingarts.ufl.edu",
+        "jcorreia@performingarts.ufl.edu",
+        "jcridlebaugh@performingarts.ufl.edu",
+        "jfoster@performingarts.ufl.edu",
+        "josburn@performingarts.ufl.edu",
+        "laurenkroll@performingarts.ufl.edu",
+        "lplugge@performingarts.ufl.edu",
+        "mcox@performingarts.ufl.edu",
+        "mhartman@performingarts.ufl.edu",
+        "msover@performingarts.ufl.edu",
+        "nlee@performingarts.ufl.edu",
+        "rstevens@performingarts.ufl.edu",
+        "scomstock@performingarts.ufl.edu",
+        "tlewis@performingarts.ufl.edu",
+        "vroyer@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.273.2458",
+        "352.273.2459",
+        "352.273.2460",
+        "352.273.2462",
+        "352.273.2463",
+        "352.273.2464",
+        "352.273.2465",
+        "352.273.2470",
+        "352.273.2471",
+        "352.273.2474",
+        "352.273.2475",
+        "352.273.2476",
+        "352.273.2477",
+        "352.273.2478",
+        "352.273.2479",
+        "352.273.2480",
+        "352.273.2481",
+        "352.273.2482",
+        "352.273.2483",
+        "352.273.2494",
+        "352.273.2703",
+        "352.294.0049",
+        "352.392.1900",
+        "352.392.2346",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787",
+        "800.955.8771"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/about/": {
+      "title": "About UFPA",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/"
+          ]
+        },
+        "stage": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/about/accessibility/": {
+      "title": "Accessibility",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/accessibility/"
+          ]
+        },
+        "performance": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/accessibility/"
+          ]
+        },
+        "stage": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/accessibility/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/accessibility/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-273-2457",
+        "352-273-2469",
+        "352-392-1900",
+        "352-392-2346",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800-905-2787",
+        "800-955-8771",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/about/baughman-center/": {
+      "title": "Baughman Center",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/baughman-center/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/baughman-center/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/baughman-center/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/baughman-center/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/baughman-center/"
+          ]
+        }
+      },
+      "emails": [
+        "baughmanevents@performingarts.ufl.edu",
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.294.0049",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/explore/tags/baughmancenter/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/about/faq/": {
+      "title": "FAQ",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/faq/"
+          ]
+        },
+        "event": {
+          "total": 29,
+          "zones": {
+            "title": 0,
+            "body": 29,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/faq/"
+          ]
+        },
+        "show": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/faq/"
+          ]
+        },
+        "performance": {
+          "total": 58,
+          "zones": {
+            "title": 0,
+            "body": 58,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/faq/"
+          ]
+        },
+        "stage": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/faq/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/faq/"
+          ]
+        },
+        "performers": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/faq/"
+          ]
+        },
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/faq/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-273-2457",
+        "352-273-2703",
+        "352-294-0049",
+        "352-392-1900",
+        "352-392-2346",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/about/join-our-email-list/": {
+      "title": "Join Our Email List",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/join-our-email-list/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/join-our-email-list/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/join-our-email-list/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/join-our-email-list/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/about/plan-your-visit/": {
+      "title": "Plan Your Visit",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/plan-your-visit/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/plan-your-visit/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/plan-your-visit/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/plan-your-visit/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/about/press-room/": {
+      "title": "Press Room",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/press-room/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/press-room/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/press-room/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/press-room/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/press-room/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu",
+        "j.hammond@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.273.2476",
+        "352.273.2494",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/about/renting/": {
+      "title": "Venue Use Rates and Information",
+      "band_hits": {
+        "concert": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/renting/"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/renting/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/renting/"
+          ]
+        },
+        "stage": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/renting/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/renting/"
+          ]
+        }
+      },
+      "emails": [
+        "baughmanevents@performingarts.ufl.edu",
+        "info@performingarts.ufl.edu",
+        "mcox@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-273-2474",
+        "352-294-0049",
+        "352-392-1900",
+        "352-392-2346",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/about/ufpa-job-openings/": {
+      "title": "UFPA Job Openings",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/ufpa-job-openings/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/ufpa-job-openings/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/ufpa-job-openings/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/ufpa-job-openings/"
+          ]
+        }
+      },
+      "emails": [
+        "%20dwohlust@performingarts.ufl.edu",
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/about/venues/": {
+      "title": "UFPA Venues",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/venues/"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/venues/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/venues/"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/venues/"
+          ]
+        },
+        "stage": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/venues/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/venues/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/venues/"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/venues/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/venues/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/about/venues/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/": {
+      "title": "Events",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/"
+          ]
+        },
+        "event": {
+          "total": 48,
+          "zones": {
+            "title": 1,
+            "body": 47,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/anthony-trionfo-flute/": {
+      "title": "Anthony Trionfo, flute",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/anthony-trionfo-flute/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/anthony-trionfo-flute/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/anthony-trionfo-flute/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/anthony-trionfo-flute/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/bang-bang/": {
+      "title": "bang bang",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/bang-bang/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/bang-bang/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/bang-bang/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/bang-bang/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/bang-bang/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/buffalo-philharmonic-orchestra/": {
+      "title": "Buffalo Philharmonic Orchestra",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/buffalo-philharmonic-orchestra/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/buffalo-philharmonic-orchestra/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/buffalo-philharmonic-orchestra/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/buffalo-philharmonic-orchestra/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/camille-thurman/": {
+      "title": "Camille Thurman",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/camille-thurman/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/camille-thurman/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/camille-thurman/"
+          ]
+        },
+        "stage": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/camille-thurman/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/camille-thurman/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/cirque-flip-fabrique-blizzard/": {
+      "title": "Cirque FLIP Fabrique – BLIZZARD",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/cirque-flip-fabrique-blizzard/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/cirque-flip-fabrique-blizzard/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/cirque-flip-fabrique-blizzard/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/cirque-flip-fabrique-blizzard/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/class-with-clara-25/": {
+      "title": "Class with Clara",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/class-with-clara-25/"
+          ]
+        },
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/class-with-clara-25/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/class-with-clara-25/"
+          ]
+        },
+        "stage": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/class-with-clara-25/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/class-with-clara-25/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/debate-baldwin-vs-buckley/": {
+      "title": "Debate: Baldwin vs. Buckley",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/debate-baldwin-vs-buckley/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/debate-baldwin-vs-buckley/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/debate-baldwin-vs-buckley/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/debate-baldwin-vs-buckley/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/dinosaur-world-live/": {
+      "title": "Dinosaur World Live",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/dinosaur-world-live/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/dinosaur-world-live/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/dinosaur-world-live/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/dinosaur-world-live/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/dinosaur-world-live/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/dusty-slay/": {
+      "title": "Dusty Slay",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/dusty-slay/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/dusty-slay/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/dusty-slay/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/dusty-slay/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/emmet-cohen-trio/": {
+      "title": "Emmet Cohen Trio",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/emmet-cohen-trio/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/emmet-cohen-trio/"
+          ]
+        },
+        "stage": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/emmet-cohen-trio/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/emmet-cohen-trio/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/evren-ozel-piano/": {
+      "title": "Evren Ozel, piano",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/evren-ozel-piano/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/evren-ozel-piano/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/evren-ozel-piano/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/evren-ozel-piano/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/galilee-chamber-orchestra/": {
+      "title": "Galilee Chamber Orchestra",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/galilee-chamber-orchestra/"
+          ]
+        },
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/galilee-chamber-orchestra/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/galilee-chamber-orchestra/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/galilee-chamber-orchestra/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/galilee-chamber-orchestra/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/hadestown/": {
+      "title": "HADESTOWN",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/hadestown/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/hadestown/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/hadestown/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/hadestown/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/hadestown/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/hiromis-sonicwonder/": {
+      "title": "Hiromi’s Sonicwonder",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/hiromis-sonicwonder/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/hiromis-sonicwonder/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/hiromis-sonicwonder/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/hiromis-sonicwonder/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/jake-shimabukuro/": {
+      "title": "Jake Shimabukuro",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/jake-shimabukuro/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/jake-shimabukuro/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/jake-shimabukuro/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/jake-shimabukuro/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/jesse-cook/": {
+      "title": "Jesse Cook",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/jesse-cook/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/jesse-cook/"
+          ]
+        },
+        "stage": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/jesse-cook/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/jesse-cook/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/joseph-keckler/": {
+      "title": "Joseph Keckler",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/joseph-keckler/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/joseph-keckler/"
+          ]
+        },
+        "stage": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/joseph-keckler/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/joseph-keckler/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/jupiter-string-quartet/": {
+      "title": "Jupiter String Quartet",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/jupiter-string-quartet/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/jupiter-string-quartet/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/jupiter-string-quartet/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/jupiter-string-quartet/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/land-of-lachua/": {
+      "title": "Land of LaChua",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/land-of-lachua/"
+          ]
+        },
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/land-of-lachua/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/land-of-lachua/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/land-of-lachua/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/land-of-lachua/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/land-of-lachua/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/liz-longley/": {
+      "title": "Liz Longley",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/liz-longley/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/liz-longley/"
+          ]
+        },
+        "stage": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/liz-longley/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/liz-longley/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/lucia/": {
+      "title": "Lucia",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/lucia/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/lucia/"
+          ]
+        },
+        "stage": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/lucia/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/lucia/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/maria-ioudenitch-violin/": {
+      "title": "Maria Ioudenitch, violin",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/maria-ioudenitch-violin/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/maria-ioudenitch-violin/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/maria-ioudenitch-violin/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/maria-ioudenitch-violin/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/meow-meow/": {
+      "title": "Meow Meow",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/meow-meow/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/meow-meow/"
+          ]
+        },
+        "stage": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/meow-meow/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/meow-meow/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/michael-feinstein-in-big-band-broadway/": {
+      "title": "Michael Feinstein in Big Band Broadway",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/michael-feinstein-in-big-band-broadway/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/michael-feinstein-in-big-band-broadway/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/michael-feinstein-in-big-band-broadway/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/michael-feinstein-in-big-band-broadway/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/michael-feinstein-in-big-band-broadway/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/new-jazz-underground/": {
+      "title": "New Jazz Underground",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/new-jazz-underground/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/new-jazz-underground/"
+          ]
+        },
+        "stage": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/new-jazz-underground/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/new-jazz-underground/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/new-jazz-underground/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/pilobolus-other-worlds/": {
+      "title": "Pilobolus: Other Worlds",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/pilobolus-other-worlds/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/pilobolus-other-worlds/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/pilobolus-other-worlds/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/pilobolus-other-worlds/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/prague-philharmonia/": {
+      "title": "Prague Philharmonia",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/prague-philharmonia/"
+          ]
+        },
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/prague-philharmonia/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/prague-philharmonia/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/prague-philharmonia/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/prague-philharmonia/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/prelude-to-glory-semi-quincential-celebration-concert/": {
+      "title": "Prelude to Glory: Semi Quincential Celebration Concert",
+      "band_hits": {
+        "concert": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/prelude-to-glory-semi-quincential-celebration-concert/"
+          ]
+        },
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/prelude-to-glory-semi-quincential-celebration-concert/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/prelude-to-glory-semi-quincential-celebration-concert/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/prelude-to-glory-semi-quincential-celebration-concert/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/prelude-to-glory-semi-quincential-celebration-concert/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/quartetto-di-cremona/": {
+      "title": "Quartetto di Cremona",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/quartetto-di-cremona/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/quartetto-di-cremona/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/quartetto-di-cremona/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/quartetto-di-cremona/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/quartetto-di-cremona/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/romeo-and-juliet-25/": {
+      "title": "Romeo and Juliet",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/romeo-and-juliet-25/"
+          ]
+        },
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/romeo-and-juliet-25/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/romeo-and-juliet-25/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/romeo-and-juliet-25/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/romeo-and-juliet-25/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/sa-dance-company-rise/": {
+      "title": "Sa Dance Company – RISE",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/sa-dance-company-rise/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/sa-dance-company-rise/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/sa-dance-company-rise/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/sa-dance-company-rise/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/scott-bradlees-postmodern-jukebox/": {
+      "title": "Postmodern Jukebox",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/scott-bradlees-postmodern-jukebox/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/scott-bradlees-postmodern-jukebox/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/scott-bradlees-postmodern-jukebox/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/scott-bradlees-postmodern-jukebox/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/scott-bradlees-postmodern-jukebox/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/scott-bradlees-postmodern-jukebox/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/swan-lake-25/": {
+      "title": "Swan Lake",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/swan-lake-25/"
+          ]
+        },
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/swan-lake-25/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/swan-lake-25/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/swan-lake-25/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/swan-lake-25/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/tatiana-eva-marie/": {
+      "title": "Tatiana Eva-Marie",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tatiana-eva-marie/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tatiana-eva-marie/"
+          ]
+        },
+        "stage": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tatiana-eva-marie/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tatiana-eva-marie/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/the-arcadian-wild/": {
+      "title": "The Arcadian Wild",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-arcadian-wild/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-arcadian-wild/"
+          ]
+        },
+        "stage": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-arcadian-wild/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-arcadian-wild/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/the-isaiah-j-thompson-quartet/": {
+      "title": "The Isaiah J. Thompson Quartet",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-isaiah-j-thompson-quartet/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-isaiah-j-thompson-quartet/"
+          ]
+        },
+        "stage": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-isaiah-j-thompson-quartet/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-isaiah-j-thompson-quartet/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-isaiah-j-thompson-quartet/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/the-jacob-jolliff-band/": {
+      "title": "The Jacob Jolliff Band",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-jacob-jolliff-band/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-jacob-jolliff-band/"
+          ]
+        },
+        "stage": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-jacob-jolliff-band/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-jacob-jolliff-band/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/the-music-man/": {
+      "title": "THE MUSIC MAN",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-music-man/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-music-man/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-music-man/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-music-man/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/the-nutcracker-25/": {
+      "title": "The Nutcracker",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-nutcracker-25/"
+          ]
+        },
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-nutcracker-25/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-nutcracker-25/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-nutcracker-25/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-nutcracker-25/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-nutcracker-25/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/the-pirates-of-penzance/": {
+      "title": "The Pirates of Penzance",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-pirates-of-penzance/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-pirates-of-penzance/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-pirates-of-penzance/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-pirates-of-penzance/"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/the-pirates-of-penzance/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/tina-the-tina-turner-musical/": {
+      "title": "TINA – The Tina Turner Musical",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tina-the-tina-turner-musical/"
+          ]
+        },
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tina-the-tina-turner-musical/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tina-the-tina-turner-musical/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tina-the-tina-turner-musical/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tina-the-tina-turner-musical/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tina-the-tina-turner-musical/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tina-the-tina-turner-musical/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tina-the-tina-turner-musical/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/tuba-skinny/": {
+      "title": "Tuba Skinny",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tuba-skinny/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tuba-skinny/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tuba-skinny/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tuba-skinny/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/tyreek-mcdole/": {
+      "title": "Tyreek McDole",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tyreek-mcdole/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tyreek-mcdole/"
+          ]
+        },
+        "stage": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tyreek-mcdole/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/tyreek-mcdole/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/events/voces8/": {
+      "title": "VOCES8",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/voces8/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/voces8/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/voces8/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/events/voces8/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/venues/": {
+      "title": "UFPA Venues",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/venues/"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/venues/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/venues/"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/venues/"
+          ]
+        },
+        "stage": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/venues/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/venues/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/venues/"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/venues/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/venues/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/venues/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/venues/baughman-center/": {
+      "title": "Baughman Center",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/venues/baughman-center/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/venues/baughman-center/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/venues/baughman-center/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/venues/baughman-center/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/venues/baughman-center/"
+          ]
+        }
+      },
+      "emails": [
+        "baughmanevents@performingarts.ufl.edu",
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.294.0049",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/explore/tags/baughmancenter/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/": {
+      "title": "Home",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/dance-movement-events/": {
+      "title": "Dance & Movement Events",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 1,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/dance-movement-events/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/dance-movement-events/"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/dance-movement-events/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/dance-movement-events/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/giving/performance-sponsorship/": {
+      "title": "Performance Sponsorships",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/giving/performance-sponsorship/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/giving/performance-sponsorship/"
+          ]
+        },
+        "performance": {
+          "total": 12,
+          "zones": {
+            "title": 1,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/giving/performance-sponsorship/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/giving/performance-sponsorship/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/giving/performance-sponsorship/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/giving/performance-sponsorship/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu",
+        "members@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.273.2480",
+        "352.273.2703",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/past-events-archive/": {
+      "title": "Past Events Archive",
+      "band_hits": {
+        "concert": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/past-events-archive/"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/past-events-archive/"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/past-events-archive/"
+          ]
+        },
+        "performance": {
+          "total": 38,
+          "zones": {
+            "title": 0,
+            "body": 38,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/past-events-archive/"
+          ]
+        },
+        "stage": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/past-events-archive/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/past-events-archive/"
+          ]
+        },
+        "artists": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/past-events-archive/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    },
+    "https://performingarts.ufl.edu/upstage/": {
+      "title": "UpStage Events",
+      "band_hits": {
+        "event": {
+          "total": 21,
+          "zones": {
+            "title": 1,
+            "body": 20,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/upstage/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/upstage/"
+          ]
+        },
+        "stage": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/upstage/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/upstage/"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://performingarts.ufl.edu/upstage/"
+          ]
+        }
+      },
+      "emails": [
+        "info@performingarts.ufl.edu"
+      ],
+      "phones": [
+        "352-392-1900",
+        "352-392-2787",
+        "352.392.1900",
+        "352.392.2787",
+        "352.392.3775",
+        "800.905.2787"
+      ],
+      "socials": [
+        "https://www.facebook.com/UFPerformingArts/",
+        "https://www.instagram.com/ufperformingarts/"
+      ]
+    }
+  }
+}

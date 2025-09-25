@@ -1,0 +1,137 @@
+{
+  "timestamp": "2025-09-22T11:49:55.052450",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T11:49:51.257735",
+      "company": {
+        "name": null,
+        "domain": "womansclubofcoconutgrove.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 10061003,
+          "description": "Coconut Grove Events also known as “Cg Events” is a full-service event management company with 25 years of amazing experience. Our hand selected event professionals work with you every step of the way to produce an event that is uniquely yours. We pride ourselves on providing clients with a wide range of planning services, including setup, day-of coordination, floral, rentals, event design. We can also provide you with exclusive use of the Woman’s Club of Coconut Grove venue. \n\n\nOur exclusive venue, the Woman’s Club of Coconut Grove is located in the heart of the Grove. While on the National Register of Historic Places, our coral rock clubhouse designed by Walter De Garmo, who also designed such properties as Villa Vizcaya & Villa Woodbine, was known for his Mediterranean style of architecture; our property is one of the few remaining examples of its type of architecture used by the early settlers to Coconut Grove. Our venue provides the perfect Old Florida Charm and an intimate gathering space for you and up to 150 of your guests. Coconut Grove Events has successfully achieved a perfect balance, displaying the Historical significance of the Woman’s Club, while still providing modern luxuries for truly memorable events. With our coordination services available, Woman’s Club of Coconut Grove is a one-stop shop for every detail from start to finish. With use of our venue, Coconut Grove Events provides extraordinary event cuisine, with a selection of menu options that can be tailored to fit your needs. \n\nLocated only minutes from Downtown Miami, Miami International Airport, Coral Gables and Brickell, our club offers a relaxed atmosphere perfect for escaping the formalities of the office and rejuvenating your team and staff.",
+          "domain": "womansclubofcoconutgrove.com",
+          "employees": "1 - 10",
+          "founded": "2008",
+          "fqdn": "www.womansclubofcoconutgrove.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/01/b01be3bccc1d57a5365f534db2f040f6",
+          "name": "CG Events at the Woman's Club of Coconut Grove",
+          "revenueRange": [],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Events Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/coconut-grove-events-at-the-woman%27s-club-of-coconut-grove"
+            }
+          },
+          "address": "Miami North America United States US 2985 South Bayshore Drive; Miami, FL 33133, US Florida FL -80.19365692138672,25.774269104003906 ",
+          "location": {
+            "city": "Miami",
+            "country": "United States",
+            "fullLocation": "Miami North America United States US 2985 South Bayshore Drive; Miami, FL 33133, US Florida FL -80.19365692138672,25.774269104003906 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "2985 South Bayshore Drive; Miami, FL 33133, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7389,
+                "description": "Business services, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 561920,
+                "description": "Convention and Trade Show Organizers"
+              }
+            ]
+          },
+          "website": "https://womansclubofcoconutgrove.com",
+          "specialities": [
+            "baby showers",
+            "bridal showers",
+            "corporate events",
+            "event coordination",
+            "event planning",
+            "outdoor weddings",
+            "venue management",
+            "wedding planning",
+            "weddings"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T11:49:52.488835",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T11:49:55.048072",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,928 @@
+{
+  "site_url": "https://princess.com/",
+  "domain": "princess.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://princess.com/",
+    "https://book.princess.com/captaincircle/myPrincess.page",
+    "https://www.princess.com/en-int/faq/pre-cruise",
+    "https://www.princess.com/en-int/faq/onboard-experience",
+    "https://www.princess.com/en-int/faq/post-cruise",
+    "https://www.princess.com/en-int/faq/cruisetours",
+    "https://book.princess.com/captaincircle/membershipBenefits.page",
+    "https://www.princess.com/en-int/ships-and-experience/celebrations/romance/wedding-cruises",
+    "https://book.princess.com/manage-booking/index.page",
+    "https://book.princess.com/manage-booking/index.page?cpfy=flightsummary",
+    "https://book.princess.com/manage-booking/index.page?cpfy=shoreex",
+    "https://book.princess.com/manage-booking/index.page?cpfy=ssv",
+    "https://book.princess.com/manage-booking/thirdPartyGifting/searchLanding.page",
+    "https://www.princess.com/en-int/faq",
+    "https://www.princess.com/en-int/plan/contact-us",
+    "https://book.princess.com/captaincircle/specialOfferRegistration.page?track=header&trackId=special-offers",
+    "https://www.princess.com/en-int",
+    "https://www.princess.com/cruise-search/cruises/",
+    "https://www.princess.com/my-princess/login/",
+    "https://www.princess.com/my-princess/register/",
+    "https://www.princess.com/cruise-vacation-planning-dashboard/home.do",
+    "https://www.princess.com/cruise-search/cruisetours/",
+    "https://www.princess.com/ports-excursions/",
+    "https://www.princess.com/en-int/plan/travel-agents",
+    "https://www.princess.com/en-int/why-princess/new-to-cruising",
+    "https://www.princess.com/en-int/why-princess"
+  ],
+  "candidates": [
+    "https://www.princess.com/en-int/plan/contact-us",
+    "https://book.princess.com/captaincircle/membershipBenefits.page",
+    "https://www.princess.com/en-int/ships-and-experience/celebrations/romance/wedding-cruises",
+    "https://www.princess.com/en-int/faq",
+    "https://www.princess.com/en-int/faq/cruisetours",
+    "https://www.princess.com/en-int/faq/onboard-experience",
+    "https://www.princess.com/en-int/faq/post-cruise",
+    "https://www.princess.com/en-int/faq/pre-cruise",
+    "https://princess.com/",
+    "https://book.princess.com/manage-booking/index.page",
+    "https://book.princess.com/manage-booking/index.page?cpfy=flightsummary",
+    "https://book.princess.com/manage-booking/index.page?cpfy=shoreex",
+    "https://book.princess.com/manage-booking/index.page?cpfy=ssv",
+    "https://book.princess.com/manage-booking/thirdPartyGifting/searchLanding.page",
+    "https://princess.com/contact",
+    "https://princess.com/contact/",
+    "https://princess.com/contact-us",
+    "https://princess.com/contact-us/",
+    "https://princess.com/contactus",
+    "https://princess.com/contactus/",
+    "https://princess.com/about",
+    "https://princess.com/about/",
+    "https://princess.com/about-us",
+    "https://princess.com/about-us/",
+    "https://princess.com/visit",
+    "https://princess.com/visit/",
+    "https://princess.com/location",
+    "https://princess.com/location/",
+    "https://princess.com/directions",
+    "https://princess.com/directions/"
+  ],
+  "per_page": {
+    "https://www.princess.com/en-int/plan/contact-us": {
+      "title": "Contact Us - Princess Cruises",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/plan/contact-us"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/plan/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PrincessCruises",
+        "https://www.instagram.com/princesscruises/",
+        "https://www.youtube.com/princesscruises"
+      ]
+    },
+    "https://book.princess.com/captaincircle/membershipBenefits.page": {
+      "title": "Captain Circle : Membership Benefits",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://book.princess.com/captaincircle/membershipBenefits.page"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-568-3262",
+        "800-774-6237"
+      ],
+      "socials": []
+    },
+    "https://www.princess.com/en-int/ships-and-experience/celebrations/romance/wedding-cruises": {
+      "title": "Wedding Cruises - Cruise Ship Weddings & Honeymoons - Princess Cruises",
+      "band_hits": {
+        "live music": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/ships-and-experience/celebrations/romance/wedding-cruises"
+          ]
+        },
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/ships-and-experience/celebrations/romance/wedding-cruises"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/ships-and-experience/celebrations/romance/wedding-cruises"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PrincessCruises",
+        "https://www.instagram.com/princesscruises/",
+        "https://www.youtube.com/princesscruises"
+      ]
+    },
+    "https://www.princess.com/en-int/faq": {
+      "title": "Frequently Asked Questions (FAQ)  - Princess Cruises",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PrincessCruises",
+        "https://www.instagram.com/princesscruises/",
+        "https://www.youtube.com/princesscruises"
+      ]
+    },
+    "https://www.princess.com/en-int/faq/cruisetours": {
+      "title": "FAQ: Cruisetours - Princess Cruises",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/cruisetours"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/cruisetours"
+          ]
+        },
+        "booking": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/cruisetours"
+          ]
+        },
+        "acts": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/cruisetours"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(907) 455-4477",
+        "(907) 595-1425",
+        "(907) 683-2282",
+        "(907) 733-2900",
+        "(907) 822-4000",
+        "661-284-4408",
+        "661-284-4410",
+        "661-284-4521",
+        "800-426-0442",
+        "800-513-4515",
+        "800-545-0008",
+        "800-774-6237",
+        "954-585-0575"
+      ],
+      "socials": []
+    },
+    "https://www.princess.com/en-int/faq/onboard-experience": {
+      "title": "FAQ: Onboard Experience - Princess Cruises",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/onboard-experience"
+          ]
+        },
+        "event": {
+          "total": 19,
+          "zones": {
+            "title": 0,
+            "body": 19,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/onboard-experience"
+          ]
+        },
+        "show": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/onboard-experience"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/onboard-experience"
+          ]
+        },
+        "booking": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/onboard-experience"
+          ]
+        },
+        "stage": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/onboard-experience"
+          ]
+        },
+        "schedule": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/onboard-experience"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(202) 324-3000",
+        "(800) 323-7233",
+        "(800) 656-4673",
+        "+1 661 593 6070",
+        "603-894-9386",
+        "661-284-4410",
+        "661-593-6001",
+        "661-593-6005",
+        "661-593-6010",
+        "661-593-6015",
+        "661-593-6020",
+        "661-593-6025",
+        "661-593-6030",
+        "661-593-6035",
+        "661-593-6040",
+        "661-593-6045",
+        "661-593-6050",
+        "661-593-6065",
+        "661-593-6070",
+        "661-593-6080",
+        "661-593-6085",
+        "662-593-6075",
+        "800-545-0008",
+        "800-774-6237",
+        "866-509-7712"
+      ],
+      "socials": []
+    },
+    "https://www.princess.com/en-int/faq/post-cruise": {
+      "title": "FAQ: Post-Cruise - Princess Cruises",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/post-cruise"
+          ]
+        },
+        "booking": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/post-cruise"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/post-cruise"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PrincessCruises",
+        "https://www.instagram.com/princesscruises/",
+        "https://www.youtube.com/princesscruises"
+      ]
+    },
+    "https://www.princess.com/en-int/faq/pre-cruise": {
+      "title": "FAQ: How To Prepare For Your Cruise - Princess Cruises",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/pre-cruise"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/pre-cruise"
+          ]
+        },
+        "booking": {
+          "total": 16,
+          "zones": {
+            "title": 0,
+            "body": 16,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/pre-cruise"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/pre-cruise"
+          ]
+        },
+        "schedule": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.princess.com/en-int/faq/pre-cruise"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "204-982-0657",
+        "800-513-4515",
+        "800-568-3262",
+        "800-774-6237",
+        "860-866-4172",
+        "877-487-2778",
+        "888-441-7575",
+        "888-772-6697",
+        "954-585-0575"
+      ],
+      "socials": []
+    },
+    "https://princess.com/": {
+      "title": "Princess Cruises: Award-Winning Cruises & Deals - Princess Cruises",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://princess.com/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://princess.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PrincessCruises",
+        "https://www.instagram.com/princesscruises/",
+        "https://www.youtube.com/princesscruises"
+      ]
+    },
+    "https://book.princess.com/manage-booking/index.page": {
+      "title": "Customize Your Voyage - Manage Booking for Guests - Princess Cruises",
+      "band_hits": {
+        "booking": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://book.princess.com/manage-booking/index.page"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://book.princess.com/manage-booking/index.page?cpfy=flightsummary": {
+      "title": "Customize Your Voyage - Manage Booking for Guests - Princess Cruises",
+      "band_hits": {
+        "booking": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://book.princess.com/manage-booking/index.page?cpfy=flightsummary"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://book.princess.com/manage-booking/index.page?cpfy=shoreex": {
+      "title": "Customize Your Voyage - Manage Booking for Guests - Princess Cruises",
+      "band_hits": {
+        "booking": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://book.princess.com/manage-booking/index.page?cpfy=shoreex"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://book.princess.com/manage-booking/index.page?cpfy=ssv": {
+      "title": "Customize Your Voyage - Manage Booking for Guests - Princess Cruises",
+      "band_hits": {
+        "booking": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://book.princess.com/manage-booking/index.page?cpfy=ssv"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://book.princess.com/manage-booking/thirdPartyGifting/searchLanding.page": {
+      "title": "Shopping : Guest Gifts : Princess Cruises",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://book.princess.com/manage-booking/thirdPartyGifting/searchLanding.page"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://book.princess.com/manage-booking/thirdPartyGifting/searchLanding.page"
+          ]
+        },
+        "booking": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://book.princess.com/manage-booking/thirdPartyGifting/searchLanding.page"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://princess.com/contact": {
+      "title": "Contact Us - Princess Cruises",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://princess.com/contact"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://princess.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PrincessCruises",
+        "https://www.instagram.com/princesscruises/",
+        "https://www.youtube.com/princesscruises"
+      ]
+    },
+    "https://princess.com/contact/": {
+      "title": "Looking for Something at Princess - Princess Cruises",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://princess.com/contact-us": {
+      "title": "Looking for Something at Princess - Princess Cruises",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://princess.com/contact-us/": {
+      "title": "Looking for Something at Princess - Princess Cruises",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://princess.com/contactus": {
+      "title": "Looking for Something at Princess - Princess Cruises",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://princess.com/contactus/": {
+      "title": "Looking for Something at Princess - Princess Cruises",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://princess.com/about": {
+      "title": "Plan Your Dream Cruise: Official Princess Cruises Website - Princess Cruises",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://princess.com/about"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://princess.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PrincessCruises",
+        "https://www.instagram.com/princesscruises/",
+        "https://www.youtube.com/princesscruises"
+      ]
+    },
+    "https://princess.com/about/": {
+      "title": "Plan Your Dream Cruise: Official Princess Cruises Website - Princess Cruises",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://princess.com/about/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://princess.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PrincessCruises",
+        "https://www.instagram.com/princesscruises/",
+        "https://www.youtube.com/princesscruises"
+      ]
+    },
+    "https://princess.com/about-us": {
+      "title": "Looking for Something at Princess - Princess Cruises",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://princess.com/about-us/": {
+      "title": "Looking for Something at Princess - Princess Cruises",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://princess.com/visit": {
+      "title": "Looking for Something at Princess - Princess Cruises",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://princess.com/visit/": {
+      "title": "Looking for Something at Princess - Princess Cruises",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://princess.com/location": {
+      "title": "Looking for Something at Princess - Princess Cruises",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://princess.com/location/": {
+      "title": "Looking for Something at Princess - Princess Cruises",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://princess.com/directions": {
+      "title": "Looking for Something at Princess - Princess Cruises",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://princess.com/directions/": {
+      "title": "Looking for Something at Princess - Princess Cruises",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

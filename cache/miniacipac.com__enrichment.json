@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-19T21:25:44.045674",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T21:25:40.429419",
+      "company": {
+        "name": null,
+        "domain": "miniacipac.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 22332993,
+          "description": "The Rose and Alfred Miniaci Performing Arts Center is part of the Alvin Sherman Library, Research, and Information Technology Center on the Nova Southeastern University main campus. This exceptional, 498-seat auditorium is equipped with state-of-the-art lighting and acoustics. The Performing Arts Center enhances both the academic experience at NSU, as well as the cultural life of the community at large, through its academic seminars and arts programming.\n\nThe Broward Center for the Performing Arts, as managing partner of the theater, provides additional cultural programming opportunities for Broward County residents, University students and faculty members. Many quality productions have already taken place at the Rose and Alfred Miniaci Performing Arts Center, and through the Center’s rental program, yours can be one of them.",
+          "domain": "miniacipac.com",
+          "employees": "1 - 10",
+          "fqdn": "www.miniacipac.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/e/d0/ed0f9ef7fc5053fc0c9551ff784d9df5",
+          "name": "The Rose and Alfred Miniaci Performing Arts Center",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Entertainment Providers",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/miniacipac"
+            }
+          },
+          "address": "Davie North America United States US 3100 Ray Ferrero Jr. Blvd.; Davie , FL 33314, US Florida FL -80.23310089111328,26.062870025634766 ",
+          "location": {
+            "city": "Davie",
+            "country": "United States",
+            "fullLocation": "Davie North America United States US 3100 Ray Ferrero Jr. Blvd.; Davie , FL 33314, US Florida FL -80.23310089111328,26.062870025634766 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3100 Ray Ferrero Jr. Blvd.; Davie , FL 33314, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7922,
+                "description": "Theatrical producers and services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 711110,
+                "description": "Theater Companies and Dinner Theaters"
+              }
+            ]
+          },
+          "website": "https://miniacipac.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T21:25:41.667706",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T21:25:44.039824",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

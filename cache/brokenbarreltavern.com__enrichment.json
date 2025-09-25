@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-18T04:55:14.765851",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-18T04:55:11.085598",
+      "company": {
+        "name": null,
+        "domain": "brokenbarreltavern.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 62934544,
+          "description": "The Broken Barrel Tavern is a restaurants company based out of 4700 BABCOCK ST NE, Palm Bay, Florida, United States.",
+          "domain": "brokenbarreltavern.com",
+          "employees": "11 - 50",
+          "fqdn": "www.brokenbarreltavern.com",
+          "logoUrl": "https://logo.lusha.co/d/company_62934544_logo.svg",
+          "name": "The Broken Barrel Tavern",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/the-broken-barrel-tavern"
+            }
+          },
+          "address": "Palm Bay North America United States US 4700 BABCOCK ST NE; Palm Bay, Florida 32905, us Florida FL -80.58866119384766,28.034460067749023 ",
+          "location": {
+            "city": "Palm Bay",
+            "country": "United States",
+            "fullLocation": "Palm Bay North America United States US 4700 BABCOCK ST NE; Palm Bay, Florida 32905, us Florida FL -80.58866119384766,28.034460067749023 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "4700 BABCOCK ST NE; Palm Bay, Florida 32905, us"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://brokenbarreltavern.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-18T04:55:12.313216",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-18T04:55:14.762492",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

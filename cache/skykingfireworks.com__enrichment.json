@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-18T13:04:06.617186",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-18T13:04:02.819042",
+      "company": {
+        "name": null,
+        "domain": "skykingfireworks.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 4057210,
+          "description": "For more than 30 years, Sky King Fireworks has provided America with family fun and excitement. From humble beginnings in South Florida, we’ve become one of the nation’s premier fireworks retailers with 20 storefronts and numerous seasonal stands. We’ve always operated under the mission to provide the best quality fireworks at the lowest prices.\n\nIt is this mission that pushes our company every year. We constantly work with our vendors and manufacturers to consistently improve the quality, reliability, and safety of the items we offer to our customers. We always give you the lowest prices, best in-store bonuses, and quality shopping experience.\n\nWe pride ourselves on offering a wide selection of the top fireworks available. While some firework retailers offer generic items, we only stock the highest quality fireworks from manufacturers including Sky King, 3D Pyro, Heavy Load, Black Cat, Shogun, Big, Brothers, Megabanger, and many more. This guarantees the safety and quality of our products are always second to none.\n\nPlease feel free to visit one of our locations for a fireworks shopping experience unlike any other. All of our stores are spacious, climate controlled, and staffed by our friendly and knowledgeable staff. Whether you are a seasoned fireworks fan or a first time buyer, Sky King Fireworks is sure to exceed all your expectations.",
+          "domain": "skykingfireworks.com",
+          "employees": "51 - 200",
+          "founded": "1989",
+          "fqdn": "www.skykingfireworks.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/a/f5/af579a07b966d6e77ccbc38f3e61514a",
+          "name": "Sky King Fireworks",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Retail",
+          "subIndustry": "Other",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/sky-king-fireworks"
+            }
+          },
+          "address": "Port Saint Lucie North America United States US 7350 South US-1; Port Saint Lucie, Florida 34952, US Florida FL -80.35032653808594,27.293930053710938 ",
+          "location": {
+            "city": "Port Saint Lucie",
+            "country": "United States",
+            "fullLocation": "Port Saint Lucie North America United States US 7350 South US-1; Port Saint Lucie, Florida 34952, US Florida FL -80.35032653808594,27.293930053710938 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "7350 South US-1; Port Saint Lucie, Florida 34952, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5999,
+                "description": "Miscellaneous retail stores, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 459999,
+                "description": "All Other Miscellaneous Retailers"
+              }
+            ]
+          },
+          "website": "https://skykingfireworks.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-18T13:04:03.950660",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-18T13:04:06.613091",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

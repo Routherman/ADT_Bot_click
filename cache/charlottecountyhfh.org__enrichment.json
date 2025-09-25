@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-24T03:49:05.510010",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T03:49:01.394603",
+      "company": {
+        "name": null,
+        "domain": "charlottecountyhfh.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 24773553,
+          "description": "Seeking to put God’s love into action, Habitat for Humanity brings people together to build homes, communities and hope.",
+          "domain": "charlottecountyhfh.org",
+          "employees": "51 - 200",
+          "fqdn": "www.charlottecountyhfh.org",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=30/j_lvlv18mk2ob27k593a.3e0f8ce67d6a05d4beede746cdf3f8d1fa1fd335.file_lvlw3jcb7q0xrxhpn.logo_cached.jpg",
+          "name": "Habitat for Humanity",
+          "revenueRange": [
+            250000000,
+            500000000
+          ],
+          "mainIndustry": "Organizations",
+          "subIndustry": "Civic & Social Organizations",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/habitat-for-humanity-punta-gorda-fl"
+            }
+          },
+          "address": "Punta Gorda North America United States US 1750 Manzana Ave.; Punta Gorda, Florida 33950, US Florida FL -82.04537200927734,26.929779052734375 ",
+          "location": {
+            "city": "Punta Gorda",
+            "country": "United States",
+            "fullLocation": "Punta Gorda North America United States US 1750 Manzana Ave.; Punta Gorda, Florida 33950, US Florida FL -82.04537200927734,26.929779052734375 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1750 Manzana Ave.; Punta Gorda, Florida 33950, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8399,
+                "description": "Social services, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 813410,
+                "description": "Civic and Social Organizations"
+              }
+            ]
+          },
+          "website": "https://charlottecountyhfh.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T03:49:02.563354",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T03:49:05.505840",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "timestamp": "2025-09-19T12:11:43.522274",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T12:11:39.974161",
+      "company": {
+        "name": null,
+        "domain": "beachplaceguesthouses.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 59157993,
+          "description": "Relax on our ocean-front view decks with fire pits and hammocks or book your dream beach wedding. Call (321) 783-4045 today!",
+          "domain": "beachplaceguesthouses.com",
+          "employees": "1 - 10",
+          "fqdn": "www.beachplaceguesthouses.com",
+          "name": "Beach Place Guesthouses",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/beach-place-guesthouses"
+            }
+          },
+          "address": "Cocoa Beach North America United States US 1445 S ATLANTIC AVE; Cocoa Beach, Florida 32931, us Florida FL -80.60922241210938,28.3205509185791 ",
+          "location": {
+            "city": "Cocoa Beach",
+            "country": "United States",
+            "fullLocation": "Cocoa Beach North America United States US 1445 S ATLANTIC AVE; Cocoa Beach, Florida 32931, us Florida FL -80.60922241210938,28.3205509185791 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1445 S ATLANTIC AVE; Cocoa Beach, Florida 32931, us"
+          },
+          "website": "https://beachplaceguesthouses.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T12:11:41.271785",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T12:11:43.505449",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

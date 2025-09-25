@@ -1,0 +1,110 @@
+{
+  "timestamp": "2025-09-24T19:14:25.670068",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T19:14:22.544249",
+      "company": {
+        "name": null,
+        "domain": "coastalindoorgolf.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 81075112,
+          "description": "Callaway Fits is a revolutionary new shaft analyzer that easily screws into the grip of a driver or seven iron. In just a few swings, this tool provides the best shaft options based off of a player's swing DNA via Bluetooth right to the Fits App, which is downloaded on the fitter's phone/iPad.",
+          "domain": "coastalindoorgolf.com",
+          "employees": "1 - 10",
+          "fqdn": "www.coastalindoorgolf.com",
+          "name": "Coastal Indoor Golf",
+          "revenueRange": [],
+          "mainIndustry": "Retail",
+          "subIndustry": "Retail",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/coastal-indoor-golf"
+            }
+          },
+          "address": "Jacksonville Beach North America United States US 1380 Beach Blvd; Jacksonville Beach, Florida 32250, us Florida FL -81.39314270019531,30.294689178466797 ",
+          "location": {
+            "city": "Jacksonville Beach",
+            "country": "United States",
+            "fullLocation": "Jacksonville Beach North America United States US 1380 Beach Blvd; Jacksonville Beach, Florida 32250, us Florida FL -81.39314270019531,30.294689178466797 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1380 Beach Blvd; Jacksonville Beach, Florida 32250, us"
+          },
+          "website": "https://coastalindoorgolf.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T19:14:23.771798",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T19:14:25.666013",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

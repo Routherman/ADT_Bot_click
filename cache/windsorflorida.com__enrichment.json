@@ -1,0 +1,135 @@
+{
+  "timestamp": "2025-09-24T16:11:06.110443",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T16:11:01.542222",
+      "company": {
+        "name": null,
+        "domain": "windsorflorida.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 5201775,
+          "description": "Windsor is a private sporting club and residential community spanning 472 acres of lush barrier island between the Indian River and the Atlantic Ocean in Vero Beach, Florida. Established in 1989 by Hilary and W. Galen Weston of Toronto, Canada, Windsor was designed by renowned town planners Andrés Duany and Elizabeth Plater-Zyberk in the New Urbanism style of residential living, one that offers public and community spaces framed by timeless architecture and landscape design that celebrates its unspoiled tropical setting.",
+          "domain": "windsorflorida.com",
+          "employees": "51 - 200",
+          "founded": "1989",
+          "fqdn": "www.windsorflorida.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/5/60/560154f46a3fe337d135a99e68dccf50",
+          "name": "Windsor Properties",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Real Estate",
+          "subIndustry": "Real Estate",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/windsor-properties"
+            }
+          },
+          "address": "Vero Beach North America United States US 3125 Windsor Boulevard; Vero Beach, Florida 32963, US Florida FL -80.39727020263672,27.638639450073242 ",
+          "location": {
+            "city": "Vero Beach",
+            "country": "United States",
+            "fullLocation": "Vero Beach North America United States US 3125 Windsor Boulevard; Vero Beach, Florida 32963, US Florida FL -80.39727020263672,27.638639450073242 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3125 Windsor Boulevard; Vero Beach, Florida 32963, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 6531,
+                "description": "Real estate agents and managers"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 531210,
+                "description": "Offices of Real Estate Agents and Brokers"
+              }
+            ]
+          },
+          "website": "https://windsorflorida.com",
+          "specialities": [
+            "luxury real estate",
+            "mixed-use development",
+            "real estate",
+            "waterfront real estate"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T16:11:03.051095",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T16:11:06.104941",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

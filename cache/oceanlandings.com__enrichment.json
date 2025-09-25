@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-17T03:24:25.116217",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-17T03:24:21.417603",
+      "company": {
+        "name": null,
+        "domain": "oceanlandings.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 9296063,
+          "description": "Welcome to Ocean Landings Resort and Racquet Club where you can stay and play. We offer the perfect blend of amenities for you to enjoy an oceanfront weekend getaway, family vacation, business retreat, family reunion, or beach wedding. We are located in world famous Cocoa Beach, Florida on the Atlantic Ocean just south of Port Canaveral and the Kennedy Space Center.\n\nThe resort features sandy secluded beaches, 2 pools, hot tub, spa, 4 Tennis Courts, a state-of-the-art fitness center, children’s playground, arcade, lounge, restaurant and private Banquet Room/conference center. Rooms range from ocean front 1 and 2 bedroom suites, to off-ocean hotel rooms where you can always enjoy fully equipped kitchens, flat screen TV’s, walks on the beach, or relax and sip your morning coffee out on your balcony.",
+          "domain": "oceanlandings.com",
+          "employees": "1 - 10",
+          "fqdn": "www.oceanlandings.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/e/0b/e0b9260228699c063943eee9ac458bb6",
+          "name": "Ocean Landings Resort & Racquet Club",
+          "revenueRange": [],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/ocean-landings-resort-%26-racquet-club"
+            }
+          },
+          "location": {
+            "city": "",
+            "country": "",
+            "fullLocation": "",
+            "state": "",
+            "stateCode": ""
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://oceanlandings.com",
+          "specialities": [
+            "banqueting",
+            "destination weddings",
+            "hotel",
+            "resorts"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-17T03:24:22.539198",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-17T03:24:25.109463",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

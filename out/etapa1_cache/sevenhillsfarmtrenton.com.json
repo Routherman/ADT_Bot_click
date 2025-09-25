@@ -1,0 +1,190 @@
+{
+  "site_url": "https://sevenhillsfarmtrenton.com/",
+  "domain": "sevenhillsfarmtrenton.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://sevenhillsfarmtrenton.com/",
+    "https://www.sevenhillsfarmtrenton.com/event-info",
+    "https://www.sevenhillsfarmtrenton.com/about-us",
+    "https://www.sevenhillsfarmtrenton.com",
+    "https://www.sevenhillsfarmtrenton.com/amenities",
+    "https://www.sevenhillsfarmtrenton.com/appointments",
+    "https://www.sevenhillsfarmtrenton.com/testimonials"
+  ],
+  "candidates": [
+    "https://www.sevenhillsfarmtrenton.com/about-us",
+    "https://www.sevenhillsfarmtrenton.com/event-info",
+    "https://sevenhillsfarmtrenton.com/"
+  ],
+  "per_page": {
+    "https://www.sevenhillsfarmtrenton.com/about-us": {
+      "title": "Seven Hills Farm About Us",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.sevenhillsfarmtrenton.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SevenHillsFarmTrenton"
+      ]
+    },
+    "https://www.sevenhillsfarmtrenton.com/event-info": {
+      "title": "Seven Hills Farm Event Information",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.sevenhillsfarmtrenton.com/event-info"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.sevenhillsfarmtrenton.com/event-info"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.sevenhillsfarmtrenton.com/event-info"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.sevenhillsfarmtrenton.com/event-info"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.sevenhillsfarmtrenton.com/event-info"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SevenHillsFarmTrenton"
+      ]
+    },
+    "https://sevenhillsfarmtrenton.com/": {
+      "title": "Seven Hills Farm, Barn Wedding and Event Venue, Trenton, FL",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sevenhillsfarmtrenton.com/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sevenhillsfarmtrenton.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

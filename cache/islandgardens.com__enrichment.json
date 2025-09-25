@@ -1,0 +1,141 @@
+{
+  "timestamp": "2025-09-22T09:32:32.943416",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T09:32:28.809505",
+      "company": {
+        "name": null,
+        "domain": "islandgardens.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 51641574,
+          "description": "The Deck at Island Gardens is a chic waterfront dining destination celebrated for its exclusive island location and high-energy atmosphere complemented by premium bottle service and authentic Mediterranean culinary delights. Most famously known for its vibrant weekend dinner parties and sensational Sunday Brunch Buffet, it’s situated alongside a stunning mega-yacht marina, offering unparalleled panoramic views of Biscayne Bay and Downtown Miami’s iconic skyline.",
+          "domain": "islandgardens.com",
+          "employees": "51 - 200",
+          "founded": "2016",
+          "fqdn": "www.islandgardens.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/6/a1/6a1f7d866d009ede7cbbc631ead045e0",
+          "name": "The Deck at Island Gardens",
+          "revenueRange": [
+            1000000,
+            10000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/islandgardens"
+            }
+          },
+          "address": "Miami North America United States US 888 MacArthur Causeway; Miami, Florida 33132, US Florida FL -80.19365692138672,25.774269104003906 ",
+          "location": {
+            "city": "Miami",
+            "country": "United States",
+            "fullLocation": "Miami North America United States US 888 MacArthur Causeway; Miami, Florida 33132, US Florida FL -80.19365692138672,25.774269104003906 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "888 MacArthur Causeway; Miami, Florida 33132, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://islandgardens.com/the-deck",
+          "specialities": [
+            "bottle service",
+            "brunch buffet",
+            "dinner parties",
+            "event venue",
+            "mediterranean food",
+            "outdoor dining",
+            "private events",
+            "sunset",
+            "vip",
+            "waterfront dining"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T09:32:30.244112",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T09:32:32.933674",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

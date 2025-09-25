@@ -1,0 +1,162 @@
+{
+  "timestamp": "2025-09-20T20:09:31.066523",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T20:09:27.326899",
+      "company": {
+        "name": null,
+        "domain": "ulta.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 166572,
+          "description": "At Ulta Beauty (NASDAQ: ULTA), the possibilities are beautiful. Ulta Beauty is the largest U.S. beauty retailer and the premier beauty destination for cosmetics, fragrance, skin care products, hair care products and salon services. In 1990, the Company reinvented the beauty retail experience by offering a new way to shop for beauty – bringing together all things beauty, all in one place. Today, Ulta Beauty has grown to become the top national retailer offering the complete beauty experience.\n \nUlta Beauty brings possibilities to life through the power of beauty each and every day in our stores and online with more than 25,000 products from approximately 500 well-established and emerging beauty brands across all categories and price points, including Ulta Beauty’s own private label. Ulta Beauty also offers a full-service salon in every store featuring hair, skin, brow, and make-up services.\n \nUlta Beauty is recognized for its commitment to personalized service, fun and inviting stores and our industry-leading Ultamate Rewards loyalty program.\n\nALERT: We are aware of a scam whereby imposters are posing as employees from Ulta Beauty and vendors to Ulta Beauty. Beware of anyone requesting financial or personal information.\n\nAt Ulta Beauty, we take pride in creating a best in class candidate experience. During the recruitment process, no recruiter or employee will request financial or personal information (Social Security Number, credit card, driver’s license or bank information, etc.) from you via text or email. If you are suspicious of a job posting or job-related email mentioning Ulta Beauty, let us know by contacting us at 630-410-4800 or email HRServiceCenter@ulta.com.",
+          "domain": "ulta.com",
+          "employees": "10001 - 100000",
+          "founded": "1990",
+          "fqdn": "www.ulta.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=30/j_lvlumwl2fo0gw52gp.15781b8c3e0d7f7cddd5953d4c7eeb7c5a3c724d.file_lvlunl012q4kidxam3.logo_cached.jpg",
+          "name": "Ulta Beauty",
+          "revenueRange": [
+            10000000000,
+            100000000000
+          ],
+          "mainIndustry": "Retail",
+          "subIndustry": "Other",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/ulta-beauty"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/ulta"
+            }
+          },
+          "address": "Bolingbrook North America United States US 1000 Remington Blvd; Bolingbrook, IL 60440, US Illinois IL -88.06839752197266,41.698638916015625 ",
+          "location": {
+            "city": "Bolingbrook",
+            "country": "United States",
+            "fullLocation": "Bolingbrook North America United States US 1000 Remington Blvd; Bolingbrook, IL 60440, US Illinois IL -88.06839752197266,41.698638916015625 ",
+            "state": "Illinois",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1000 Remington Blvd; Bolingbrook, IL 60440, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5999,
+                "description": "Miscellaneous retail stores, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 458110,
+                "description": "Clothing and Clothing Accessories Retailers"
+              }
+            ]
+          },
+          "website": "https://ulta.com",
+          "specialities": [
+            "beauty destination",
+            "cosmetics and beauty",
+            "salon"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "currency": "USD",
+                "roundAmount": 266300000,
+                "roundType": "Post-IPO Equity",
+                "roundDate": "Aug 14, 2024"
+              },
+              {
+                "roundType": "Post-IPO Equity",
+                "roundDate": "Oct 11, 2016"
+              },
+              {
+                "roundType": "Seed Round",
+                "roundDate": "Jun 1, 1993"
+              }
+            ],
+            "totalRounds": 3,
+            "totalRoundsAmount": 266300000,
+            "currency": "USD",
+            "isIpo": true,
+            "lastRoundType": "Post-IPO Equity",
+            "lastRoundAmount": 266300000,
+            "lastRoundDate": "Aug 14, 2024"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T20:09:28.491640",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T20:09:31.063093",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

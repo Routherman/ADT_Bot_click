@@ -1,0 +1,64 @@
+{
+  "pages": [
+    {
+      "url": "http://capitalroom.bar/events",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "Events\nWe are updating our events\nPlease stay tuned\nEvents\nWe are updating our events\nPlease stay tuned",
+      "emails": [
+        "email@example.com",
+        "info@capitalroom.club"
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/100216552257111",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "http://capitalroom.bar/catering",
+    "http://capitalroom.bar/reservations",
+    "http://capitalroom.bar/party",
+    "https://capitalroom.bar/-reservations?source=header&spot_id=78601&destination=reservations&promotion=reservations",
+    "http://capitalroom.bar/",
+    "http://capitalroom.bar/jobs",
+    "http://capitalroom.bar/#newsletter",
+    "http://capitalroom.bar/accessibility-page-01",
+    "http://capitalroom.bar/events",
+    "http://capitalroom.bar/#map-v3-container"
+  ],
+  "candidate_links": [
+    "http://capitalroom.bar/events",
+    "https://www.facebook.com/100216552257111"
+  ],
+  "visited": [
+    "http://capitalroom.bar/",
+    "http://capitalroom.bar/about",
+    "http://capitalroom.bar/contact",
+    "http://capitalroom.bar/staff",
+    "http://capitalroom.bar/team",
+    "http://capitalroom.bar/board",
+    "http://capitalroom.bar/directory",
+    "http://capitalroom.bar/events",
+    "http://capitalroom.bar/sitemap.xml",
+    "http://capitalroom.bar/council",
+    "http://capitalroom.bar/leadership",
+    "http://capitalroom.bar/management",
+    "http://capitalroom.bar/producers",
+    "http://capitalroom.bar/support",
+    "http://capitalroom.bar/crew",
+    "http://capitalroom.bar/members",
+    "http://capitalroom.bar/bios",
+    "http://capitalroom.bar/people",
+    "http://capitalroom.bar/artists",
+    "http://capitalroom.bar/musicians",
+    "http://capitalroom.bar/faculty",
+    "http://capitalroom.bar/administration",
+    "http://capitalroom.bar/events",
+    "https://www.facebook.com/100216552257111"
+  ],
+  "base_url": "http://capitalroom.bar/"
+}

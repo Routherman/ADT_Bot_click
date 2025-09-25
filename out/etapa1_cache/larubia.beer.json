@@ -1,0 +1,519 @@
+{
+  "site_url": "https://larubia.beer/",
+  "domain": "larubia.beer",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://larubia.beer/",
+    "https://larubia.beer/private-events",
+    "https://larubia.beer/faq",
+    "https://larubia.beer/contact",
+    "https://larubia.beer/cart",
+    "https://larubia.beer/beer",
+    "https://larubia.beer/casa",
+    "https://larubia.beer/privacy",
+    "https://larubia.beer/terms",
+    "https://larubia.beer/accessibility"
+  ],
+  "candidates": [
+    "https://larubia.beer/contact",
+    "https://larubia.beer/private-events",
+    "https://larubia.beer/faq",
+    "https://larubia.beer/",
+    "https://larubia.beer/contact/",
+    "https://larubia.beer/contact-us",
+    "https://larubia.beer/contact-us/",
+    "https://larubia.beer/contactus",
+    "https://larubia.beer/contactus/",
+    "https://larubia.beer/about",
+    "https://larubia.beer/about/",
+    "https://larubia.beer/about-us",
+    "https://larubia.beer/about-us/",
+    "https://larubia.beer/visit",
+    "https://larubia.beer/visit/",
+    "https://larubia.beer/location",
+    "https://larubia.beer/location/",
+    "https://larubia.beer/directions",
+    "https://larubia.beer/directions/"
+  ],
+  "per_page": {
+    "https://larubia.beer/contact": {
+      "title": "Contact — La Rubia Ale",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/private-events": {
+      "title": "Private Events — La Rubia Ale",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/private-events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/faq": {
+      "title": "Frequently Asked Questions — La Rubia Ale",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/faq"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/faq"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/": {
+      "title": "La Rubia Ale",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale",
+        "https://www.instagram.com/p/DCzUYNmOT5G/",
+        "https://www.instagram.com/p/DGEhjwFurTs/",
+        "https://www.instagram.com/p/DK7h9D4O25F/",
+        "https://www.instagram.com/p/DKfjXXuOI1y/",
+        "https://www.instagram.com/p/DLsObWhubQs/"
+      ]
+    },
+    "https://larubia.beer/contact/": {
+      "title": "Contact — La Rubia Ale",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/contact-us": {
+      "title": "La Rubia Ale",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/contact-us/": {
+      "title": "La Rubia Ale",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/contactus": {
+      "title": "La Rubia Ale",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/contactus/": {
+      "title": "La Rubia Ale",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/about": {
+      "title": "La Rubia Ale",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/about/": {
+      "title": "La Rubia Ale",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/about-us": {
+      "title": "La Rubia Ale",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/about-us/": {
+      "title": "La Rubia Ale",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/visit": {
+      "title": "La Rubia Ale",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/visit/": {
+      "title": "La Rubia Ale",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/location": {
+      "title": "La Rubia Ale",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/location/": {
+      "title": "La Rubia Ale",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/directions": {
+      "title": "La Rubia Ale",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    },
+    "https://larubia.beer/directions/": {
+      "title": "La Rubia Ale",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://larubia.beer/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(786) 362-6300"
+      ],
+      "socials": [
+        "http://instagram.com/larubiablondeale"
+      ]
+    }
+  }
+}

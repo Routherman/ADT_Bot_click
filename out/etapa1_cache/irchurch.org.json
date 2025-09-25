@@ -1,0 +1,864 @@
+{
+  "site_url": "https://irchurch.org/",
+  "domain": "irchurch.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://irchurch.org/",
+    "https://irchurch.org/events/",
+    "https://irchurch.org/contact-us/",
+    "https://irchurch.org/about-ircca/",
+    "https://irchurch.org/about-tkp/",
+    "https://irchurch.org/events",
+    "https://irchurch.org/newhere/",
+    "https://irchurch.org/sample-page/",
+    "https://irchurch.org/giving/",
+    "https://irchurch.org/inquire/",
+    "https://irchurch.org/registration/",
+    "https://irchurch.org/meet-our-teachers/",
+    "https://irchurch.org/rockets-pledge/",
+    "https://irchurch.org/vision-mission/",
+    "https://irchurch.org/tkp-registration/",
+    "https://irchurch.org/programs/",
+    "https://irchurch.org/tkp-job-application/",
+    "https://irchurch.org/tkp-and-ircca-staff/",
+    "https://irchurch.org/parent-resources-2/",
+    "https://irchurch.org/irc-kids/",
+    "https://irchurch.org/irc-students/",
+    "https://irchurch.org/irc-young-adults/",
+    "https://irchurch.org/senior-ministry/",
+    "https://irchurch.org/care-ministry/",
+    "https://irchurch.org/prayer/",
+    "https://irchurch.org/ties-that-bind/",
+    "http://irchurch.org/live/",
+    "https://irchurch.org/standards-of-ethical-conduct/",
+    "https://irchurch.org/myprocare/",
+    "https://irchurch.org/pyramid-program-model/",
+    "https://irchurch.org/dcf/"
+  ],
+  "candidates": [
+    "https://irchurch.org/contact-us/",
+    "https://irchurch.org/about-ircca/",
+    "https://irchurch.org/about-tkp/",
+    "https://irchurch.org/events",
+    "https://irchurch.org/events/",
+    "https://irchurch.org/",
+    "https://irchurch.org/contact",
+    "https://irchurch.org/contact/",
+    "https://irchurch.org/contact-us",
+    "https://irchurch.org/contactus",
+    "https://irchurch.org/contactus/",
+    "https://irchurch.org/about",
+    "https://irchurch.org/about/",
+    "https://irchurch.org/about-us",
+    "https://irchurch.org/about-us/",
+    "https://irchurch.org/visit",
+    "https://irchurch.org/visit/",
+    "https://irchurch.org/location",
+    "https://irchurch.org/location/",
+    "https://irchurch.org/directions",
+    "https://irchurch.org/directions/"
+  ],
+  "per_page": {
+    "https://irchurch.org/contact-us/": {
+      "title": "Contact Us – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/about-ircca/": {
+      "title": "About IRCCA – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/about-ircca/"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/about-ircca/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/about-tkp/": {
+      "title": "About TKP – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/about-tkp/"
+          ]
+        },
+        "calendar": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/about-tkp/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/events": {
+      "title": "Events – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/events"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/events/": {
+      "title": "Events – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/events/"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/": {
+      "title": "Indian River Church – Love God, Love People, Serve the World",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/contact": {
+      "title": "Contact Us – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/contact"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/contact/": {
+      "title": "Contact Us – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/contact-us": {
+      "title": "Contact Us – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/contactus": {
+      "title": "Page not found – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/contactus/": {
+      "title": "Page not found – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/about": {
+      "title": "About IRCCA – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/about"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/about/": {
+      "title": "About IRCCA – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/about/"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/about-us": {
+      "title": "Page not found – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/about-us/": {
+      "title": "Page not found – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/visit": {
+      "title": "Page not found – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/visit"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/visit/": {
+      "title": "Page not found – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/location": {
+      "title": "Page not found – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/location"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/location/": {
+      "title": "Page not found – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/location/"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/directions": {
+      "title": "Page not found – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/directions"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    },
+    "https://irchurch.org/directions/": {
+      "title": "Page not found – Indian River Church",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irchurch.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/IndianRiverChurch/",
+        "https://www.instagram.com/irc_fl/",
+        "https://www.youtube.com/@IRChurch/live"
+      ]
+    }
+  }
+}

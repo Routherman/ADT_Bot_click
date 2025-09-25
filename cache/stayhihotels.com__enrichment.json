@@ -1,0 +1,114 @@
+{
+  "timestamp": "2025-09-16T22:14:51.382412",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-16T22:14:46.959208",
+      "company": {
+        "name": null,
+        "domain": "stayhihotels.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 71061962,
+          "description": "In a residential and commercial area, this down-to-earth hotel is 2 miles from Matzke Park, 4 miles from Kickerillo-Mischer Preserve and 5 miles from Route 290.\n\nLow-key rooms offer en suite bathrooms, flat-screens and free Wi-Fi, plus microwaves and minifridges. Upgraded rooms add bathtubs.\n\nParking is complimentary, as is continental breakfast served in a pared-down dining room.",
+          "domain": "stayhihotels.com",
+          "employees": "11 - 50",
+          "fqdn": "www.stayhihotels.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/ac/bac593d24fa53884eb16b60575bb0c56",
+          "name": "Scottish Inns & Suites Jones Rd",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/scottish-inns-suites-jones-rd"
+            }
+          },
+          "address": "Houston North America United States US 11275 Jones Rd; Houston, Texas 77070, US Texas TX -95.36327362060547,29.763280868530273 ",
+          "location": {
+            "city": "Houston",
+            "country": "United States",
+            "fullLocation": "Houston North America United States US 11275 Jones Rd; Houston, Texas 77070, US Texas TX -95.36327362060547,29.763280868530273 ",
+            "state": "Texas",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "11275 Jones Rd; Houston, Texas 77070, US"
+          },
+          "website": "https://stayhihotels.com/property/scottish-inns-suites-jones-road-houston-tx"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-16T22:14:48.388283",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-16T22:14:51.376118",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

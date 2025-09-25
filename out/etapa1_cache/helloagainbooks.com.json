@@ -1,0 +1,318 @@
+{
+  "site_url": "https://helloagainbooks.com/",
+  "domain": "helloagainbooks.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://helloagainbooks.com/",
+    "https://www.helloagainbooks.com/events",
+    "https://www.helloagainbooks.com",
+    "https://www.helloagainbooks.com/betherainbow",
+    "https://www.helloagainbooks.com/the-books",
+    "https://www.helloagainbooks.com/core-values",
+    "https://www.helloagainbooks.com/copy-of-core-values",
+    "https://www.helloagainbooks.com/hab-community"
+  ],
+  "candidates": [
+    "https://www.helloagainbooks.com/events",
+    "https://helloagainbooks.com/",
+    "https://helloagainbooks.com/contact",
+    "https://helloagainbooks.com/contact/",
+    "https://helloagainbooks.com/contact-us",
+    "https://helloagainbooks.com/contact-us/",
+    "https://helloagainbooks.com/contactus",
+    "https://helloagainbooks.com/contactus/",
+    "https://helloagainbooks.com/about",
+    "https://helloagainbooks.com/about/",
+    "https://helloagainbooks.com/about-us",
+    "https://helloagainbooks.com/about-us/",
+    "https://helloagainbooks.com/visit",
+    "https://helloagainbooks.com/visit/",
+    "https://helloagainbooks.com/location",
+    "https://helloagainbooks.com/location/",
+    "https://helloagainbooks.com/directions",
+    "https://helloagainbooks.com/directions/"
+  ],
+  "per_page": {
+    "https://www.helloagainbooks.com/events": {
+      "title": "events | hello again books",
+      "band_hits": {
+        "event": {
+          "total": 17,
+          "zones": {
+            "title": 1,
+            "body": 16,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.helloagainbooks.com/events"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.helloagainbooks.com/events"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.helloagainbooks.com/events"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.helloagainbooks.com/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 877-0351"
+      ],
+      "socials": [
+        "https://www.facebook.com/helloagainbooks",
+        "https://www.instagram.com/helloagainbooks/"
+      ]
+    },
+    "https://helloagainbooks.com/": {
+      "title": "Bookstore | Hello Again Books | Cocoa",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://helloagainbooks.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/helloagainbooks",
+        "https://www.instagram.com/helloagainbooks/"
+      ]
+    },
+    "https://helloagainbooks.com/contact": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://helloagainbooks.com/contact/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://helloagainbooks.com/contact-us": {
+      "title": "contact us | hello again books",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://helloagainbooks.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "helloagainbooks@gmail.com"
+      ],
+      "phones": [
+        "(321) 877-0351"
+      ],
+      "socials": [
+        "https://www.facebook.com/helloagainbooks",
+        "https://www.instagram.com/helloagainbooks/"
+      ]
+    },
+    "https://helloagainbooks.com/contact-us/": {
+      "title": "contact us | hello again books",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://helloagainbooks.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "helloagainbooks@gmail.com"
+      ],
+      "phones": [
+        "(321) 877-0351"
+      ],
+      "socials": [
+        "https://www.facebook.com/helloagainbooks",
+        "https://www.instagram.com/helloagainbooks/"
+      ]
+    },
+    "https://helloagainbooks.com/contactus": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://helloagainbooks.com/contactus/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://helloagainbooks.com/about": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://helloagainbooks.com/about/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://helloagainbooks.com/about-us": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://helloagainbooks.com/about-us/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://helloagainbooks.com/visit": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://helloagainbooks.com/visit/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://helloagainbooks.com/location": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://helloagainbooks.com/location/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://helloagainbooks.com/directions": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://helloagainbooks.com/directions/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

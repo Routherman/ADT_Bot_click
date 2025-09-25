@@ -1,0 +1,2186 @@
+{
+  "site_url": "https://citruslibraries.org/",
+  "domain": "citruslibraries.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://citruslibraries.org/",
+    "https://attend.citruslibraries.org/events",
+    "https://attend.citruslibraries.org/events?l=Central%20Ridge%20Library",
+    "https://attend.citruslibraries.org/events?l=Homosassa%20Public%20Library",
+    "https://attend.citruslibraries.org/events?l=Coastal%20Region%20Library",
+    "https://attend.citruslibraries.org/events?l=Lakes%20Region%20Library",
+    "https://attend.citruslibraries.org/events?l=Floral%20City%20Public%20Library",
+    "https://citruslibraries.org/books-media/",
+    "https://www.citruslibraries.org/books-media/ebooks/",
+    "https://www.citruslibraries.org/books-media/magazines/",
+    "https://www.citruslibraries.org/books-media/upcoming-bestsellers/",
+    "https://www.citruslibraries.org/books-media/movies-tv/",
+    "https://www.citruslibraries.org/books-media/interlibrary-loans/",
+    "https://www.citruslibraries.org/books-media/beanstack/",
+    "https://www.citruslibraries.org/books-media/readers-advisory/",
+    "https://www.citruslibraries.org/books-media/book-club-in-a-bag/",
+    "https://www.citruslibraries.org/support-us/booked/",
+    "https://citruslibraries.org/about-us/",
+    "https://www.citruslibraries.org/about-us/about-the-library/",
+    "https://www.citruslibraries.org/about-us/library-stories/",
+    "https://www.citruslibraries.org/about-us/contact-us/",
+    "https://www.citruslibraries.org/about-us/newsletters-socials/",
+    "https://www.citruslibraries.org/about-us/faq/",
+    "https://www.citruslibraries.org/about-us/policies/",
+    "https://attend.citruslibraries.org/events?term=constitution&r=range&start=2025-09-15&end=2025-09-23&v=list",
+    "https://www.citruslibraries.org/book-lists/were-in-our-orange-era/",
+    "https://www.citruslibraries.org/category/book-lists/",
+    "https://www.citruslibraries.org/books-media/",
+    "https://www.citruslibraries.org/about-us/",
+    "https://www.citruslibraries.org/contact-us/",
+    "https://www.citruslibraries.org/about-us/about-the-library/citrus-county-special-library-taxing-district/",
+    "https://www.citruslibraries.org/",
+    "https://www.citruslibraries.org/locations/",
+    "https://www.citruslibraries.org/library-card/",
+    "https://attend.citruslibraries.org/myevents",
+    "https://citruslibraries.org/programs-events/",
+    "https://www.citruslibraries.org/programs-events/early-childhood-literacy/",
+    "https://www.citruslibraries.org/programs-events/kids-families/",
+    "https://www.citruslibraries.org/programs-events/teens/",
+    "https://www.citruslibraries.org/programs-events/adults/"
+  ],
+  "candidates": [
+    "https://www.citruslibraries.org/about-us/contact-us/",
+    "https://www.citruslibraries.org/contact-us/",
+    "https://citruslibraries.org/about-us/",
+    "https://www.citruslibraries.org/about-us/",
+    "https://www.citruslibraries.org/about-us/about-the-library/",
+    "https://www.citruslibraries.org/about-us/about-the-library/citrus-county-special-library-taxing-district/",
+    "https://www.citruslibraries.org/about-us/faq/",
+    "https://www.citruslibraries.org/about-us/library-stories/",
+    "https://www.citruslibraries.org/about-us/newsletters-socials/",
+    "https://www.citruslibraries.org/about-us/policies/",
+    "https://attend.citruslibraries.org/events",
+    "https://attend.citruslibraries.org/events?l=Central%20Ridge%20Library",
+    "https://attend.citruslibraries.org/events?l=Coastal%20Region%20Library",
+    "https://attend.citruslibraries.org/events?l=Floral%20City%20Public%20Library",
+    "https://attend.citruslibraries.org/events?l=Homosassa%20Public%20Library",
+    "https://attend.citruslibraries.org/events?l=Lakes%20Region%20Library",
+    "https://attend.citruslibraries.org/events?term=constitution&r=range&start=2025-09-15&end=2025-09-23&v=list",
+    "https://citruslibraries.org/books-media/",
+    "https://www.citruslibraries.org/book-lists/were-in-our-orange-era/",
+    "https://www.citruslibraries.org/books-media/",
+    "https://www.citruslibraries.org/books-media/beanstack/",
+    "https://www.citruslibraries.org/books-media/book-club-in-a-bag/",
+    "https://www.citruslibraries.org/books-media/ebooks/",
+    "https://www.citruslibraries.org/books-media/interlibrary-loans/",
+    "https://www.citruslibraries.org/books-media/magazines/",
+    "https://www.citruslibraries.org/books-media/movies-tv/",
+    "https://www.citruslibraries.org/books-media/readers-advisory/",
+    "https://www.citruslibraries.org/books-media/upcoming-bestsellers/",
+    "https://www.citruslibraries.org/category/book-lists/",
+    "https://www.citruslibraries.org/support-us/booked/",
+    "https://citruslibraries.org/",
+    "https://attend.citruslibraries.org/myevents",
+    "https://citruslibraries.org/programs-events/",
+    "https://www.citruslibraries.org/programs-events/adults/",
+    "https://www.citruslibraries.org/programs-events/early-childhood-literacy/",
+    "https://www.citruslibraries.org/programs-events/kids-families/",
+    "https://www.citruslibraries.org/programs-events/teens/",
+    "https://citruslibraries.org/contact",
+    "https://citruslibraries.org/contact/",
+    "https://citruslibraries.org/contact-us",
+    "https://citruslibraries.org/contact-us/",
+    "https://citruslibraries.org/contactus",
+    "https://citruslibraries.org/contactus/",
+    "https://citruslibraries.org/about",
+    "https://citruslibraries.org/about/",
+    "https://citruslibraries.org/about-us",
+    "https://citruslibraries.org/visit",
+    "https://citruslibraries.org/visit/",
+    "https://citruslibraries.org/location",
+    "https://citruslibraries.org/location/",
+    "https://citruslibraries.org/directions",
+    "https://citruslibraries.org/directions/"
+  ],
+  "per_page": {
+    "https://www.citruslibraries.org/about-us/contact-us/": {
+      "title": "Contact Us - Citrus Libraries - Contact us online or your library",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/contact-us/": {
+      "title": "Contact Us - Citrus Libraries - Contact us online or your library",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/about-us/": {
+      "title": "About Us - Citrus Libraries - Learn about the Citrus County Library System",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/about-us/": {
+      "title": "About Us - Citrus Libraries - Learn about the Citrus County Library System",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/about-us/about-the-library/": {
+      "title": "About the Library - Citrus Libraries - Discover the Library's Impact",
+      "band_hits": {
+        "event": {
+          "total": 26,
+          "zones": {
+            "title": 0,
+            "body": 26,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/about-the-library/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/about-the-library/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/about-us/about-the-library/citrus-county-special-library-taxing-district/": {
+      "title": "Citrus County Special Library Taxing District - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/about-the-library/citrus-county-special-library-taxing-district/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/about-the-library/citrus-county-special-library-taxing-district/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/about-us/faq/": {
+      "title": "FAQ - Citrus Libraries - Answers about Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 28,
+          "zones": {
+            "title": 0,
+            "body": 28,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/faq/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/faq/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/faq/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/about-us/library-stories/": {
+      "title": "Library Stories - Citrus Libraries - View Library Stories from our community",
+      "band_hits": {
+        "event": {
+          "total": 26,
+          "zones": {
+            "title": 0,
+            "body": 26,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/library-stories/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/library-stories/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/about-us/newsletters-socials/": {
+      "title": "Newsletters & Socials - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 26,
+          "zones": {
+            "title": 0,
+            "body": 26,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/newsletters-socials/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/newsletters-socials/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/@CitrusLibrariesDigital",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/about-us/policies/": {
+      "title": "Library Policies - Citrus Libraries - View all policies by Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/policies/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/about-us/policies/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://attend.citruslibraries.org/events": {
+      "title": "Events - Citrus County Library System",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/events"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/CitrusLibrariesDigital"
+      ]
+    },
+    "https://attend.citruslibraries.org/events?l=Central%20Ridge%20Library": {
+      "title": "Events - Citrus County Library System",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/events?l=Central%20Ridge%20Library"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/events?l=Central%20Ridge%20Library"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/CitrusLibrariesDigital"
+      ]
+    },
+    "https://attend.citruslibraries.org/events?l=Coastal%20Region%20Library": {
+      "title": "Events - Citrus County Library System",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/events?l=Coastal%20Region%20Library"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/events?l=Coastal%20Region%20Library"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/CitrusLibrariesDigital"
+      ]
+    },
+    "https://attend.citruslibraries.org/events?l=Floral%20City%20Public%20Library": {
+      "title": "Events - Citrus County Library System",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/events?l=Floral%20City%20Public%20Library"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/events?l=Floral%20City%20Public%20Library"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/CitrusLibrariesDigital"
+      ]
+    },
+    "https://attend.citruslibraries.org/events?l=Homosassa%20Public%20Library": {
+      "title": "Events - Citrus County Library System",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/events?l=Homosassa%20Public%20Library"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/events?l=Homosassa%20Public%20Library"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/CitrusLibrariesDigital"
+      ]
+    },
+    "https://attend.citruslibraries.org/events?l=Lakes%20Region%20Library": {
+      "title": "Events - Citrus County Library System",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/events?l=Lakes%20Region%20Library"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/events?l=Lakes%20Region%20Library"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/CitrusLibrariesDigital"
+      ]
+    },
+    "https://attend.citruslibraries.org/events?term=constitution&r=range&start=2025-09-15&end=2025-09-23&v=list": {
+      "title": "Events - Citrus County Library System",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/events?term=constitution&r=range&start=2025-09-15&end=2025-09-23&v=list"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/events?term=constitution&r=range&start=2025-09-15&end=2025-09-23&v=list"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/CitrusLibrariesDigital"
+      ]
+    },
+    "https://citruslibraries.org/books-media/": {
+      "title": "Books & Media - Citrus Libraries - Books, eBooks, Magazines, & More",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/books-media/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/books-media/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/books-media/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/book-lists/were-in-our-orange-era/": {
+      "title": "We’re in Our Orange Era - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/book-lists/were-in-our-orange-era/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/book-lists/were-in-our-orange-era/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.facebook.com/sharer.php",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/books-media/": {
+      "title": "Books & Media - Citrus Libraries - Books, eBooks, Magazines, & More",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/books-media/beanstack/": {
+      "title": "Beanstack - Citrus Libraries | Track Your Reading",
+      "band_hits": {
+        "event": {
+          "total": 26,
+          "zones": {
+            "title": 0,
+            "body": 26,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/beanstack/"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/beanstack/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/books-media/book-club-in-a-bag/": {
+      "title": "Book Club in a Bag - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 26,
+          "zones": {
+            "title": 0,
+            "body": 26,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/book-club-in-a-bag/"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/book-club-in-a-bag/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/books-media/ebooks/": {
+      "title": "eBooks & Audiobooks - Citrus Libraries - Borrow eBooks & audio with Libby",
+      "band_hits": {
+        "event": {
+          "total": 26,
+          "zones": {
+            "title": 0,
+            "body": 26,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/ebooks/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/ebooks/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/books-media/interlibrary-loans/": {
+      "title": "Borrow from other libraries with Interlibrary Loans - Citrus Libraries -",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/interlibrary-loans/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/interlibrary-loans/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/books-media/magazines/": {
+      "title": "Digital Magazines - Citrus Libraries - Download Magazines with Libby",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/magazines/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/magazines/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/books-media/movies-tv/": {
+      "title": "Movies & TV - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/movies-tv/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/movies-tv/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/movies-tv/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/books-media/readers-advisory/": {
+      "title": "Readers' Advisory - Citrus Libraries - Read-a-likes, Book Clubs, and more",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/readers-advisory/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/readers-advisory/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/books-media/upcoming-bestsellers/": {
+      "title": "Upcoming Bestsellers - Citrus Libraries - New Bestsellers in Our Catalog.",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/upcoming-bestsellers/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/books-media/upcoming-bestsellers/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/category/book-lists/": {
+      "title": "Book Lists Archives - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/category/book-lists/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/category/book-lists/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/support-us/booked/": {
+      "title": "BOOKED - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 29,
+          "zones": {
+            "title": 0,
+            "body": 29,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/support-us/booked/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/support-us/booked/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/": {
+      "title": "Citrus Libraries - Home Page - Discover. Learn. Engage.",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://attend.citruslibraries.org/myevents": {
+      "title": "My Events - Citrus County Library System",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/myevents"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://attend.citruslibraries.org/myevents"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/CitrusLibrariesDigital"
+      ]
+    },
+    "https://citruslibraries.org/programs-events/": {
+      "title": "Programs & Events - Citrus Libraries - Events for All Ages at Your Library",
+      "band_hits": {
+        "event": {
+          "total": 53,
+          "zones": {
+            "title": 2,
+            "body": 51,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/programs-events/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/programs-events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/programs-events/adults/": {
+      "title": "Adult Programs - Citrus Libraries - Crafts, technology, sewing, and more",
+      "band_hits": {
+        "event": {
+          "total": 29,
+          "zones": {
+            "title": 0,
+            "body": 29,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/programs-events/adults/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/programs-events/adults/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/programs-events/adults/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/programs-events/early-childhood-literacy/": {
+      "title": "Early Childhood Literacy - Citrus Libraries - Story times at your Library",
+      "band_hits": {
+        "event": {
+          "total": 26,
+          "zones": {
+            "title": 0,
+            "body": 26,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/programs-events/early-childhood-literacy/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/programs-events/early-childhood-literacy/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/programs-events/kids-families/": {
+      "title": "Kids & Families - Citrus Libraries - STEM, Reading, and More Programs",
+      "band_hits": {
+        "event": {
+          "total": 28,
+          "zones": {
+            "title": 0,
+            "body": 28,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/programs-events/kids-families/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/programs-events/kids-families/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://www.citruslibraries.org/programs-events/teens/": {
+      "title": "Teens - Citrus Libraries - Discover Programs for Teens at the Library.",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/programs-events/teens/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.citruslibraries.org/programs-events/teens/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/contact": {
+      "title": "Page not found - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/contact"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/contact/": {
+      "title": "Page not found - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/contact-us": {
+      "title": "Contact Us - Citrus Libraries - Contact us online or your library",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/contact-us/": {
+      "title": "Contact Us - Citrus Libraries - Contact us online or your library",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 0,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/contactus": {
+      "title": "Page not found - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/contactus/": {
+      "title": "Page not found - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/about": {
+      "title": "Page not found - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/about"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/about/": {
+      "title": "Page not found - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/about/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/about-us": {
+      "title": "About Us - Citrus Libraries - Learn about the Citrus County Library System",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/visit": {
+      "title": "Page not found - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/visit"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/visit/": {
+      "title": "Page not found - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/location": {
+      "title": "Page not found - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/location"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/location/": {
+      "title": "Page not found - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/location/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/directions": {
+      "title": "Page not found - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/directions"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    },
+    "https://citruslibraries.org/directions/": {
+      "title": "Page not found - Citrus Libraries",
+      "band_hits": {
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://citruslibraries.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 746-9077"
+      ],
+      "socials": [
+        "https://www.facebook.com/CitrusLibraries",
+        "https://www.instagram.com/citruslibraries/",
+        "https://www.youtube.com/channel/UCScRrGHH9JP5XP5pQEktocg"
+      ]
+    }
+  }
+}

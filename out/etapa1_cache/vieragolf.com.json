@@ -1,0 +1,485 @@
+{
+  "site_url": "https://vieragolf.com/",
+  "domain": "vieragolf.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://vieragolf.com/",
+    "https://vieragolf.com/news/",
+    "https://vieragolf.com/blog/",
+    "https://vieragolf.com/contact-us/",
+    "https://vieragolf.com/book-online-get-rewarded-instantly/",
+    "https://vieragolf.com/course-details/",
+    "https://vieragolf.com/pro-shop/",
+    "https://vieragolf.com/practice-facilities/",
+    "https://vieragolf.com/what-is-a-daily-steal/",
+    "https://vieragolf.com/category/course-news/",
+    "https://vieragolf.com/category/golf-tips/",
+    "https://vieragolf.com/privacy-policy/",
+    "https://vieragolf.com/category/blog/golfing/",
+    "https://vieragolf.com/the-most-challenging-hole-at-viera-east-golf-course/",
+    "https://vieragolf.com/advertise/",
+    "https://vieragolf.com/author/sarahjean/"
+  ],
+  "candidates": [
+    "https://vieragolf.com/contact-us/",
+    "https://vieragolf.com/blog/",
+    "https://vieragolf.com/category/blog/golfing/",
+    "https://vieragolf.com/book-online-get-rewarded-instantly/",
+    "https://vieragolf.com/news/",
+    "https://vieragolf.com/",
+    "https://vieragolf.com/contact",
+    "https://vieragolf.com/contact/",
+    "https://vieragolf.com/contact-us",
+    "https://vieragolf.com/contactus",
+    "https://vieragolf.com/contactus/",
+    "https://vieragolf.com/about",
+    "https://vieragolf.com/about/",
+    "https://vieragolf.com/about-us",
+    "https://vieragolf.com/about-us/",
+    "https://vieragolf.com/visit",
+    "https://vieragolf.com/visit/",
+    "https://vieragolf.com/location",
+    "https://vieragolf.com/location/",
+    "https://vieragolf.com/directions",
+    "https://vieragolf.com/directions/"
+  ],
+  "per_page": {
+    "https://vieragolf.com/contact-us/": {
+      "title": "Contact Us - Viera East Golf Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/blog/": {
+      "title": "Blog - Viera East Golf Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/category/blog/golfing/": {
+      "title": "Golfing Archives - Viera East Golf Club",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieragolf.com/category/blog/golfing/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/book-online-get-rewarded-instantly/": {
+      "title": "Book Online. Get Rewarded. Instantly. - Viera East Golf Club",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieragolf.com/book-online-get-rewarded-instantly/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/news/": {
+      "title": "News - Viera East Golf Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/": {
+      "title": "Viera East Golf Club - Play in Rockledge, FL",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/contact": {
+      "title": "Contact Us - Viera East Golf Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/contact/": {
+      "title": "Contact Us - Viera East Golf Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/contact-us": {
+      "title": "Contact Us - Viera East Golf Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/contactus": {
+      "title": "Page not found - Viera East Golf Club",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieragolf.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/contactus/": {
+      "title": "Page not found - Viera East Golf Club",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieragolf.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/about": {
+      "title": "Page not found - Viera East Golf Club",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieragolf.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/about/": {
+      "title": "Page not found - Viera East Golf Club",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieragolf.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/about-us": {
+      "title": "Page not found - Viera East Golf Club",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieragolf.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/about-us/": {
+      "title": "Page not found - Viera East Golf Club",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieragolf.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/visit": {
+      "title": "Page not found - Viera East Golf Club",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieragolf.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/visit/": {
+      "title": "Page not found - Viera East Golf Club",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieragolf.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/location": {
+      "title": "Page not found - Viera East Golf Club",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieragolf.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/location/": {
+      "title": "Page not found - Viera East Golf Club",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieragolf.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/directions": {
+      "title": "Page not found - Viera East Golf Club",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieragolf.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    },
+    "https://vieragolf.com/directions/": {
+      "title": "Page not found - Viera East Golf Club",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieragolf.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Viera-East-Golf-Club-230309820322956/",
+        "https://www.instagram.com/vieraeastgolfclub/"
+      ]
+    }
+  }
+}

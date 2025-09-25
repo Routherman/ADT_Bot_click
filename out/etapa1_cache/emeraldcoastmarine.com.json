@@ -1,0 +1,705 @@
+{
+  "site_url": "https://emeraldcoastmarine.com/",
+  "domain": "emeraldcoastmarine.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://emeraldcoastmarine.com/",
+    "https://emeraldcoastmarine.com/contact-us/",
+    "https://www.emeraldcoastmarine.com/contact-us/",
+    "https://emeraldcoastmarine.com/contact-us",
+    "https://www.emeraldcoastmarine.com",
+    "https://www.emeraldcoastmarine.com/",
+    "https://emeraldcoastmarine.com/boats-for-sale/New/",
+    "https://emeraldcoastmarine.com/boats-for-sale/Used/?sort=NormPrice|asc",
+    "https://emeraldcoastmarine.com/boats-for-sale/New/Beneteau/",
+    "https://emeraldcoastmarine.com/boats-for-sale/New/Blackfin/",
+    "https://emeraldcoastmarine.com/boats-for-sale/New/Crownline/",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/New/Crest/",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/New/Finseeker/",
+    "https://emeraldcoastmarine.com/boats-for-sale/New/Hurricane/",
+    "https://emeraldcoastmarine.com/boats-for-sale/New/Key+West/",
+    "https://emeraldcoastmarine.com/boats-for-sale/New/Monterey/",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/New/Nautique/?sort=NormPrice|asc",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/New/Scout/",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/New/Viaggio/",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/New/Wellcraft/",
+    "https://www.emeraldcoastmarine.com/emerald-coast-marine-at-orange-beach/",
+    "https://www.emeraldcoastmarine.com/consignment-brokerage/",
+    "https://www.emeraldcoastmarine.com/finance/",
+    "https://www.emeraldcoastmarine.com/sales-team/",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/New/1/?min-length=30",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/Used/?min-length=32&sort=NormPrice|asc",
+    "https://www.emeraldcoastmarine.com/new-boat-showrooms/beneteau/",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/New/Beneteau/?min-length=32",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/New/Blackfin/?min-length=32",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/New/Monterey/?min-length=30",
+    "https://www.emeraldcoastmarine.com/1363-2/",
+    "https://www.emeraldcoastmarine.com/yacht-management/",
+    "https://www.emeraldcoastmarine.com/emerald_coast_marine_group_yacht_division/",
+    "https://www.emeraldcoastmarine.com/our-crew/",
+    "https://www.emeraldcoastmarine.com/service-parts/services-repairs/",
+    "https://www.emeraldcoastmarine.com/parts-accessories/",
+    "https://www.emeraldcoastmarine.com/electronics/",
+    "https://www.emeraldcoastmarine.com/cosmetic-fiberglass-repair/",
+    "https://www.emeraldcoastmarine.com/canvas-upholstery/",
+    "https://www.emeraldcoastmarine.com/engine-repower/",
+    "https://www.emeraldcoastmarine.com/optimus-360-joystick/",
+    "https://www.emeraldcoastmarine.com/service-team/",
+    "https://www.emeraldcoastmarine.com/emerald-coast-boat-club/",
+    "https://www.emeraldcoastmarine.com/club-membership/",
+    "https://www.emeraldcoastmarine.com/fleet/",
+    "https://www.emeraldcoastmarine.com/boat-club-brochure/",
+    "https://www.emeraldcoastmarine.com/boat-club-testimonials/",
+    "https://www.emeraldcoastmarine.com/boat-club-team/",
+    "https://www.emeraldcoastmarine.com/yacht-club/",
+    "https://www.emeraldcoastmarine.com/amenities/",
+    "https://www.emeraldcoastmarine.com/yacht-club-brochure/",
+    "https://www.emeraldcoastmarine.com/yacht-club-team/",
+    "https://www.emeraldcoastmarine.com/mission-values/",
+    "https://www.emeraldcoastmarine.com/our-crew-2/",
+    "https://www.emeraldcoastmarine.com/uscg-boating-safety-class/",
+    "https://www.emeraldcoastmarine.com/coastal-escapes/",
+    "https://www.emeraldcoastmarine.com/learning-center/",
+    "https://www.emeraldcoastmarine.com/news-room/",
+    "https://www.emeraldcoastmarine.com/ecmg-careers/",
+    "https://www.emeraldcoastmarine.com/testimonials-2/",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/New/Beneteau/",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/New/Key+West/",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/New/Blackfin/",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/New/Monterey/",
+    "https://www.emeraldcoastmarine.com/boats-for-sale/New/Nautique/?sort=NormPrice%7Casc",
+    "https://emeraldcoastmarine.com/boats-for-sale/Used/?sort_order=NormPrice|desc&sort=NormPrice|asc",
+    "https://emeraldcoastmarine.com/boats-for-sale/?sort=NormPrice|asc&boatclasscode=Motor%20Yachts",
+    "https://emeraldcoastmarine.com/service-parts/services-repairs/"
+  ],
+  "candidates": [
+    "https://emeraldcoastmarine.com/contact-us",
+    "https://emeraldcoastmarine.com/contact-us/",
+    "https://www.emeraldcoastmarine.com/contact-us/",
+    "https://emeraldcoastmarine.com/",
+    "https://www.emeraldcoastmarine.com/new-boat-showrooms/beneteau/",
+    "https://emeraldcoastmarine.com/contact",
+    "https://emeraldcoastmarine.com/contact/",
+    "https://emeraldcoastmarine.com/contactus",
+    "https://emeraldcoastmarine.com/contactus/",
+    "https://emeraldcoastmarine.com/about",
+    "https://emeraldcoastmarine.com/about/",
+    "https://emeraldcoastmarine.com/about-us",
+    "https://emeraldcoastmarine.com/about-us/",
+    "https://emeraldcoastmarine.com/visit",
+    "https://emeraldcoastmarine.com/visit/",
+    "https://emeraldcoastmarine.com/location",
+    "https://emeraldcoastmarine.com/location/",
+    "https://emeraldcoastmarine.com/directions",
+    "https://emeraldcoastmarine.com/directions/"
+  ],
+  "per_page": {
+    "https://emeraldcoastmarine.com/contact-us": {
+      "title": "Contact Us - Emerald Coast Marine Group",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/contact-us"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@emeraldcoastmarine.com",
+        "michael@emeraldcoastmarine.com"
+      ],
+      "phones": [
+        "(251) 263-4440",
+        "(251) 981-7247",
+        "(850) 279-4774",
+        "(850) 389-8318",
+        "(850) 543-6236",
+        "(850) 806-1870",
+        "(850) 974-3267"
+      ],
+      "socials": [
+        "https://www.facebook.com/Emeraldcoastmarine/",
+        "https://www.instagram.com/emeraldcoastmarine/",
+        "https://www.youtube.com/emeraldcoastmarine"
+      ]
+    },
+    "https://emeraldcoastmarine.com/contact-us/": {
+      "title": "Contact Us - Emerald Coast Marine Group",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/contact-us/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@emeraldcoastmarine.com",
+        "michael@emeraldcoastmarine.com"
+      ],
+      "phones": [
+        "(251) 263-4440",
+        "(251) 981-7247",
+        "(850) 279-4774",
+        "(850) 389-8318",
+        "(850) 543-6236",
+        "(850) 806-1870",
+        "(850) 974-3267"
+      ],
+      "socials": [
+        "https://www.facebook.com/Emeraldcoastmarine/",
+        "https://www.instagram.com/emeraldcoastmarine/",
+        "https://www.youtube.com/emeraldcoastmarine"
+      ]
+    },
+    "https://www.emeraldcoastmarine.com/contact-us/": {
+      "title": "Contact Us - Emerald Coast Marine Group",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.emeraldcoastmarine.com/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.emeraldcoastmarine.com/contact-us/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.emeraldcoastmarine.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@emeraldcoastmarine.com",
+        "michael@emeraldcoastmarine.com"
+      ],
+      "phones": [
+        "(251) 263-4440",
+        "(251) 981-7247",
+        "(850) 279-4774",
+        "(850) 389-8318",
+        "(850) 543-6236",
+        "(850) 806-1870",
+        "(850) 974-3267"
+      ],
+      "socials": [
+        "https://www.facebook.com/Emeraldcoastmarine/",
+        "https://www.instagram.com/emeraldcoastmarine/",
+        "https://www.youtube.com/emeraldcoastmarine"
+      ]
+    },
+    "https://emeraldcoastmarine.com/": {
+      "title": "Boat Dealer in Niceville, Florida | Emerald Coast Marine",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(251) 263-4440",
+        "(251) 981-7247",
+        "(850) 279-4774",
+        "(850) 389-8318",
+        "(850) 543-6236",
+        "(850) 806-1870"
+      ],
+      "socials": [
+        "https://www.facebook.com/Emeraldcoastmarine/",
+        "https://www.instagram.com/emeraldcoastmarine/",
+        "https://www.youtube.com/emeraldcoastmarine"
+      ]
+    },
+    "https://www.emeraldcoastmarine.com/new-boat-showrooms/beneteau/": {
+      "title": "Beneteau New Boat Models - Emerald Coast Marine Group",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.emeraldcoastmarine.com/new-boat-showrooms/beneteau/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.emeraldcoastmarine.com/new-boat-showrooms/beneteau/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.emeraldcoastmarine.com/new-boat-showrooms/beneteau/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(251) 263-4440",
+        "(251) 981-7247",
+        "(850) 279-4774",
+        "(850) 389-8318",
+        "(850) 543-6236",
+        "(850) 806-1870"
+      ],
+      "socials": [
+        "https://www.facebook.com/Emeraldcoastmarine/",
+        "https://www.instagram.com/emeraldcoastmarine/",
+        "https://www.youtube.com/emeraldcoastmarine"
+      ]
+    },
+    "https://emeraldcoastmarine.com/contact": {
+      "title": "Contact Us - Emerald Coast Marine Group",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/contact"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/contact"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@emeraldcoastmarine.com",
+        "michael@emeraldcoastmarine.com"
+      ],
+      "phones": [
+        "(251) 263-4440",
+        "(251) 981-7247",
+        "(850) 279-4774",
+        "(850) 389-8318",
+        "(850) 543-6236",
+        "(850) 806-1870",
+        "(850) 974-3267"
+      ],
+      "socials": [
+        "https://www.facebook.com/Emeraldcoastmarine/",
+        "https://www.instagram.com/emeraldcoastmarine/",
+        "https://www.youtube.com/emeraldcoastmarine"
+      ]
+    },
+    "https://emeraldcoastmarine.com/contact/": {
+      "title": "Contact Us - Emerald Coast Marine Group",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/contact/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@emeraldcoastmarine.com",
+        "michael@emeraldcoastmarine.com"
+      ],
+      "phones": [
+        "(251) 263-4440",
+        "(251) 981-7247",
+        "(850) 279-4774",
+        "(850) 389-8318",
+        "(850) 543-6236",
+        "(850) 806-1870",
+        "(850) 974-3267"
+      ],
+      "socials": [
+        "https://www.facebook.com/Emeraldcoastmarine/",
+        "https://www.instagram.com/emeraldcoastmarine/",
+        "https://www.youtube.com/emeraldcoastmarine"
+      ]
+    },
+    "https://emeraldcoastmarine.com/contactus": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://emeraldcoastmarine.com/contactus/": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://emeraldcoastmarine.com/about": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://emeraldcoastmarine.com/about/": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://emeraldcoastmarine.com/about-us": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://emeraldcoastmarine.com/about-us/": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://emeraldcoastmarine.com/visit": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://emeraldcoastmarine.com/visit/": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://emeraldcoastmarine.com/location": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://emeraldcoastmarine.com/location/": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://emeraldcoastmarine.com/directions": {
+      "title": "Directions - Emerald Coast Marine Group",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/directions"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(251) 263-4440",
+        "(251) 981-7247",
+        "(850) 279-4774",
+        "(850) 389-8318",
+        "(850) 543-6236",
+        "(850) 806-1870"
+      ],
+      "socials": [
+        "https://www.facebook.com/Emeraldcoastmarine/",
+        "https://www.instagram.com/emeraldcoastmarine/",
+        "https://www.youtube.com/emeraldcoastmarine"
+      ]
+    },
+    "https://emeraldcoastmarine.com/directions/": {
+      "title": "Directions - Emerald Coast Marine Group",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://emeraldcoastmarine.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(251) 263-4440",
+        "(251) 981-7247",
+        "(850) 279-4774",
+        "(850) 389-8318",
+        "(850) 543-6236",
+        "(850) 806-1870"
+      ],
+      "socials": [
+        "https://www.facebook.com/Emeraldcoastmarine/",
+        "https://www.instagram.com/emeraldcoastmarine/",
+        "https://www.youtube.com/emeraldcoastmarine"
+      ]
+    }
+  }
+}

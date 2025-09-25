@@ -1,0 +1,163 @@
+{
+  "timestamp": "2025-09-16T21:26:26.764560",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-16T21:26:23.042474",
+      "company": {
+        "name": null,
+        "domain": "tampamuseum.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 746809,
+          "description": "Founded in 1920, the Tampa Museum of Art inspires the residents of the Tampa Bay region and others around the world by providing engaging exhibitions and innovative educational programs that emphasize ancient, modern, and contemporary art. \n\nThe Museum houses one of the largest Greek and Roman antiquities collections in the southeastern United States. As one of the region’s largest museums devoted to the art of our time, the Museum’s permanent collection also embraces sculpture, photography, painting, new media, and more.\n\nNew online programs add to the year-round studio art classes, lectures, and tours that provide children, teens, and adults with opportunities to discover new perspectives and learn different art-making techniques. Likewise, through unique community partnerships, the Museum offers outreach programs that provide art therapy interventions and meaningful modes of self-expression to vulnerable segments of the population.\n\nLocated in the heart of downtown Tampa, next to the Curtis Hixon Waterfront Park and Tampa’s Riverwalk, the Tampa Museum of Art leads as both a cultural institution and a community museum dedicated to celebrating the diversity of its home city.\n\nGeneral Hours\nThe Tampa Museum of Art is open seven days a week, Monday – Sunday 10 am – 5 pm and Thursdays from 10 am – 8 pm.",
+          "domain": "tampamuseum.org",
+          "employees": "51 - 200",
+          "founded": "1920",
+          "fqdn": "www.tampamuseum.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/9/24/924f415dc02e4880fffce8bfc5fac6f5",
+          "name": "Tampa Museum of Art",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/tampa-museum-of-art"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/tampa-museum-of-art"
+            }
+          },
+          "address": "Tampa North America United States US 120 W. Gasparilla Plaza; Tampa, Florida 33602, US Florida FL -82.45842742919922,27.947519302368164 ",
+          "location": {
+            "city": "Tampa",
+            "country": "United States",
+            "fullLocation": "Tampa North America United States US 120 W. Gasparilla Plaza; Tampa, Florida 33602, US Florida FL -82.45842742919922,27.947519302368164 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "120 W. Gasparilla Plaza; Tampa, Florida 33602, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8412,
+                "description": "Museums and art galleries"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 712110,
+                "description": "Museums"
+              }
+            ]
+          },
+          "website": "https://tampamuseum.org",
+          "specialities": [
+            "art classes",
+            "art gallery",
+            "arts education",
+            "contemporary art",
+            "greece",
+            "roman"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "currency": "USD",
+                "roundAmount": 100000,
+                "roundType": "Grant",
+                "roundDate": "Jun 14, 2023"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 255158,
+                "roundType": "Grant",
+                "roundDate": "Dec 22, 2020"
+              }
+            ],
+            "totalRounds": 2,
+            "totalRoundsAmount": 355158,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundType": "Grant",
+            "lastRoundAmount": 100000,
+            "lastRoundDate": "Jun 14, 2023"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-16T21:26:24.352725",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-16T21:26:26.759660",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

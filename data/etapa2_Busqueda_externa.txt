@@ -1,0 +1,217 @@
+Etapa 2: Búsqueda web externa para completar información faltante
+
+En esta segunda etapa del script de extracción, se realiza una búsqueda en la web para encontrar información de contacto adicional (correos electrónicos, perfiles en redes sociales, nombres de personas relevantes) del sitio, utilizando motores de búsqueda externos. Esta fase solo se ejecuta si el campo people quedó vacío tras la etapa 1 (navegación interna del sitio con navegar_secciones.py). De este modo, si el propio sitio web no listó personal o contactos, el script intentará obtener esos datos desde resultados de búsqueda externos. A continuación, se detallan las consultas a realizar, cómo automatizar la búsqueda repartiendo entre varios motores (Google, Yahoo, Brave), la extracción de datos de interés, el almacenamiento de resultados en JSON, y la integración ordenada con el flujo existente.
+
+Consultas de búsqueda a ejecutar
+
+Para cada dominio cuyo campo people esté vacío, el script formulará una serie de consultas específicas combinando el nombre del sitio, su dominio y (si se conoce) el nombre del propietario u organización. Las consultas recomendadas son:
+
+${DOMINIO} email: busca menciones de direcciones de correo electrónico asociadas al dominio (por ejemplo, "ejemplo.com email").
+
+${NOMBRE DEL SITIO} contact: busca la página de contacto o información de contacto del sitio por nombre (por ejemplo, "Teatro Ejemplo contact").
+
+${NOMBRE DEL SITIO} staff: intenta encontrar secciones de personal, staff o plantillas asociadas al sitio (por ejemplo, "Teatro Ejemplo staff").
+
+${NOMBRE DEL SITIO} leadership: busca información sobre liderazgo o directiva del sitio (por ejemplo, "Teatro Ejemplo leadership").
+
+${NOMBRE DEL OWNER} email: si se conoce el nombre del dueño/propietario o director de la entidad, busca su correo electrónico (por ejemplo, "Juan Pérez email").
+
+${NOMBRE DEL OWNER} ${CIUDAD} contact: combinando nombre del propietario y ciudad (u otra ubicación relevante) para encontrar datos de contacto personales o locales (por ejemplo, "Juan Pérez Miami contact").
+
+Estas consultas están diseñadas para cubrir distintos ángulos: desde información de contacto general del dominio, hasta páginas de staff/leadership (personal y dirigentes), así como información de contacto del propietario en caso de tratarse de una persona identificable. Si alguno de los componentes (como el nombre del owner o la ciudad) no está disponible, el script omitirá las consultas que no apliquen. Por ejemplo, si no se tiene el nombre del propietario, no se ejecutarán las últimas dos consultas.
+
+Uso de múltiples motores de búsqueda (Google, Yahoo, Brave)
+
+Para evitar sesgos y reducir el riesgo de bloqueos o límites por parte de un solo buscador, es recomendable alternar las consultas entre varios motores de búsqueda. En este caso se sugiere usar Google, Yahoo y Brave Search de forma balanceada. Algunas estrategias para distribuir las búsquedas podrían ser:
+
+Rotación por consulta: Asignar cada consulta a un motor distinto en orden. Por ejemplo, la primera consulta con Google, la segunda con Yahoo, la tercera con Brave, y repetir el ciclo para las siguientes. De esta forma, cada motor recibe un número similar de consultas.
+
+Rotación por dominio: Alternativamente, si se procesan muchos dominios, se podría asignar un motor principal distinto a cada dominio o iterar entre motores para cada nuevo dominio a procesar.
+
+Selección aleatoria controlada: Otra opción es elegir aleatoriamente el motor para cada búsqueda pero asegurando una distribución equitativa (por ejemplo, mediante un conteo para que ninguno se use excesivamente más que los otros).
+
+Cualquiera de estos enfoques debe incluir también pequeños retardos entre consultas para imitar un patrón humano y no disparar mecanismos anti-scraping. Por ejemplo, tras ejecutar las 6 consultas para un dominio, el script podría esperar unos segundos antes de pasar al siguiente dominio. Igualmente, conviene usar User Agents variados o genéricos para las peticiones HTTP de forma que cada motor vea las consultas como si vinieran de navegadores comunes.
+
+Implementación automatizada de la búsqueda web
+
+La automatización de las búsquedas se puede lograr utilizando peticiones HTTP y procesamiento de HTML para extraer los resultados. En Python, bibliotecas como requests (para obtener el HTML) y BeautifulSoup (para parsear el HTML) son útiles. Cada buscador tiene una URL de consulta donde se puede enviar el término de búsqueda como parámetro. Por ejemplo:
+
+Yahoo Search: se puede realizar una petición GET a https://search.yahoo.com/search?p=<consulta> pasando la consulta en el parámetro p.
+
+Brave Search: de forma similar, usando https://search.brave.com/search?q=<consulta>.
+
+Google Search: su página de búsqueda https://www.google.com/search?q=<consulta> también podría intentarse, aunque Google suele tener más protecciones anti-scraping. En entornos robustos, se recomienda usar la API oficial de Búsqueda Personalizada de Google o un servicio especializado si se requiere alta confiabilidad.
+
+Es fundamental incluir un encabezado de User-Agent en cada petición para simular un navegador real. Los motores de búsqueda detectan y pueden bloquear agentes por defecto como el de Python-requests. Por ejemplo, se puede usar un User-Agent de Chrome o Firefox. Una recomendación de buenas prácticas es:
+
+headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)... Safari/537.36"} 
+
+
+Esto evita bloqueos iniciales, como señalan guías de scraping
+serpapi.com
+. A modo de ilustración, a continuación mostramos un pseudocódigo simplificado para obtener resultados orgánicos desde Yahoo y Brave mediante requests y BeautifulSoup:
+
+import requests
+from bs4 import BeautifulSoup
+
+headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)..."} 
+
+query = "Teatro Ejemplo contact"  # ejemplo de consulta
+engine = "yahoo"  # o "brave" o "google"
+
+if engine == "yahoo":
+    url = "https://search.yahoo.com/search?p=" + query
+elif engine == "brave":
+    url = "https://search.brave.com/search?q=" + query
+else:  # google
+    url = "https://www.google.com/search?q=" + query
+
+response = requests.get(url, headers=headers)
+soup = BeautifulSoup(response.text, 'lxml')
+
+# Parsear resultados (ejemplo para Yahoo):
+for result in soup.find_all('div', class_='layoutMiddle'):
+    title = result.find('h3').get_text()
+    snippet = result.find('div', class_='compText').get_text()
+    link = result.find('h3').a['href']
+    # ... procesar snippet y link según necesidades ...
+
+
+En este fragmento, se construye la URL de búsqueda según el motor seleccionado y se realiza la petición HTTP. Luego, con BeautifulSoup se busca cada bloque de resultado orgánico. En el caso de Yahoo, cada resultado se encuentra dentro de un <div class="layoutMiddle"> e incluye un título (<h3>), un snippet de texto y el enlace
+dev.to
+. De manera análoga, Brave Search presenta sus resultados con selectores CSS identificables (por ejemplo, clase .snippet para cada resultado)
+serpapi.com
+, y Google requiere identificar sus elementos de resultado (<div class="g"> para resultados clásicos, aunque Google cambia con frecuencia su estructura).
+
+Nota: Para Google, debido a sus medidas anti-robots, podría ser necesario usar la API oficial o servicios terceros. Sin embargo, dado que el volumen de consultas no es masivo (solo unas pocas por dominio y balanceadas entre motores), a veces requests con un buen User-Agent y quizá cookies de sesión pueden recuperar el HTML de resultados. Siempre hay que estar preparado para manejar casos donde Google responda con CAPTCHA u HTML no estándar.
+
+Extracción de correos, redes sociales y nombres de personas
+
+Obtenido el HTML de los resultados de búsqueda (o eventualmente, del contenido de alguna página específica si decidimos hacer clic automatizado en el primer resultado), el siguiente paso es extraer de los fragmentos de texto cualquier correo, enlace de red social o nombre propio relevante. Se pueden emplear las siguientes técnicas:
+
+Correos electrónicos: Utilizar una expresión regular para detectar patrones de emails en el texto. Por ejemplo, una regex común es:
+
+import re
+emails_found = re.findall(r'[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}', snippet_text)
+
+
+Esta busca cadenas con forma usuario@dominio.ext. Conviene aplicar esto tanto a los snippets de resultados de búsqueda como a textos de páginas enlazadas relevantes (por ejemplo, si un resultado parece ser la página de contacto del sitio, sería útil hacer una petición a ese enlace y buscar allí correos). Todos los correos encontrados se agregan a la lista de resultados. Es importante considerar variaciones como correos presentados con espacios o con [@] en lugar de @ (algunos sitios los ofuscan), por lo que la lógica puede expandirse según lo encontrado.
+
+Redes sociales: Para detectar perfiles de redes sociales asociados, se puede buscar por presencia de URLs conocidas en el texto o enlaces. Por ejemplo, comprobar si en el snippet o página aparecen dominios como facebook.com/, twitter.com/, instagram.com/, linkedin.com/ u otras redes relevantes. Una manera sencilla es buscar esas cadenas directamente y extraer la URL completa. Por ejemplo:
+
+socials = []
+for social_domain in ["facebook.com/", "twitter.com/", "instagram.com/", "linkedin.com/"]:
+    idx = page_text.find(social_domain)
+    if idx != -1:
+        # Extraer la URL completa desde idx hasta el siguiente espacio o comilla
+        start = idx
+        end = idx
+        while end < len(page_text) and page_text[end] not in ['"', '\'', ' ', '\n']:
+            end += 1
+        social_url = page_text[start:end]
+        socials.append(social_url)
+
+
+(En producción, se puede hacer más robusto usando BeautifulSoup para extraer atributos href de enlaces directamente). El resultado será una lista de URLs o identificadores de redes sociales que se encontraron vinculados al sitio o a personas del sitio.
+
+Nombres de personas: La identificación de nombres propios puede ser más compleja, pero se puede abordar de dos formas complementarias:
+
+Búsqueda de patrones de mayúsculas: muchas veces los nombres de personas aparecen como dos o tres palabras iniciando en mayúscula (ej. "John Doe", "Maria Lopez"). Usando regex se pueden encontrar secuencias de palabras Capitalizadas. Ejemplo básico: re.findall(r'\b[A-Z][a-z]+ [A-Z][a-z]+\b', texto), que capturaría pares Nombre Apellido. Luego se podrían filtrar estos resultados contra una lista de nombres comunes para afinar la precisión. En nuestro caso, disponemos de names_Usa.json que podría utilizarse para verificar si la primera palabra es un nombre válido.
+
+Diccionario de roles: dado que a menudo los nombres vienen acompañados de un cargo o rol (p.ej. "Director: Juan Pérez"), podemos usar roles_dictionary.json que contiene títulos o puestos (CEO, Director, Owner, Propietario, Presidente, etc.) para buscar en el texto. Si encontramos una palabra clave de rol, es probable que justo antes o después aparezca un nombre propio. Por ejemplo, si el snippet dice "CEO Jane Smith", podríamos extraer "Jane Smith". Implementacionalmente, se buscaría cada palabra clave de roles en el snippet y, al hallarla, capturar las palabras adyacentes que luzcan como nombre (capitalizadas).
+
+Al combinar ambas técnicas, el script puede poblar la lista de nombres con posibles personas asociadas al sitio. Es importante luego eliminar duplicados y quizás verificar consistencia (si el mismo nombre apareció en varias búsquedas, es un buen indicador de relevancia).
+
+Durante esta etapa de extracción, también se debe almacenar el texto de contexto donde se encontró cada dato. Por ejemplo, si se halló un correo en el snippet de Yahoo para la consulta "X email", guardar ese snippet; si se encontró un nombre en una página enlazada, guardar quizás la línea o párrafo donde apareció. Esto servirá como respaldo textual para validar la información posteriormente.
+
+Almacenamiento de resultados en busqueda_externa.json
+
+Todos los datos recopilados de las búsquedas externas se almacenarán en un archivo JSON de salida llamado busqueda_externa.json, ubicado en la carpeta /out/. La estructura propuesta para este JSON es utilizar el dominio del sitio como clave única para cada entrada, y como valor un objeto con los campos recolectados. En concreto, para cada dominio habrá algo como lo siguiente:
+
+{
+  "<dominio>": {
+    "emails": [ "<correo1>", "<correo2>", ... ],
+    "socials": [ "<perfil_red1>", "<perfil_red2>", ... ],
+    "names": [ "<Nombre Persona1>", "<Nombre Persona2>", ... ],
+    "search_text": {
+      "<consulta 1>": "<texto encontrado o snippet de respaldo>",
+      "<consulta 2>": "<texto encontrado o snippet de respaldo>",
+      "...": "..."
+    }
+  },
+  "otrodominio.com": {
+    ... (siguiente entrada)
+  }
+}
+
+
+Por ejemplo, si el dominio vineyardscountryclubnaples.com no tenía personas en la etapa 1, tras la búsqueda externa podríamos obtener algo como:
+
+{
+  "vineyardscountryclubnaples.com": {
+    "emails": ["info@vineyardscountryclub.com", "contacto@vineyardscountryclubnaples.com"],
+    "socials": ["https://facebook.com/VineyardsCountryClub", "https://twitter.com/VCCNaples"],
+    "names": ["Jane Doe", "John Smith"],
+    "search_text": {
+      "vineyardscountryclubnaples.com email": "For more information email us at info@vineyardscountryclub.com ...",
+      "Vineyards Country Club Naples staff": "Our leadership team includes General Manager Jane Doe and Head Pro John Smith ...",
+      "John Smith Naples contact": "John Smith (Naples) contact info: john.smith@example.com ..."
+    }
+  }
+}
+
+
+En este ejemplo hipotético, se llenaron listas de emails, socials y names. Además, en el campo search_text se guardó texto de respaldo para cada consulta ejecutada (solo se muestran 3 consultas a modo ilustrativo). Así, si en un futuro se necesita verificar de dónde vino un dato, se puede revisar el snippet o párrafo almacenado.
+
+El script debe ir construyendo esta estructura a medida que procesa cada dominio. Si un dominio ya existe en busqueda_externa.json (por haberse procesado previamente), habría que actualizar su contenido evitando duplicados, en lugar de duplicar la clave.
+
+Finalmente, una vez recolectada la información, se escribe el JSON en /out/busqueda_externa.json. Esto puede hacerse utilizando la librería estándar json de Python, volcando la estructura diccionario en formato JSON. Asegúrese de manejar correctamente la codificación (por si hay caracteres especiales en nombres) y de formatear el JSON de manera legible (por ejemplo, usando json.dump(..., indent=4, ensure_ascii=False) para que sea fácil de inspeccionar).
+
+Integración con navegar_secciones.py y flujo general
+
+Es importante integrar esta etapa 2 con el script existente navegar_secciones.py, respetando el orden de pasos definido por el usuario para la extracción de datos. La integración se puede realizar de la siguiente manera:
+
+Ejecución condicional: Al finalizar la etapa 1 para un dominio (después de haber escaneado las secciones internas del sitio web), el script debe verificar si el campo people quedó vacío en los resultados de esa etapa. Esto podría traducirse en una condición, por ejemplo: if not site_data["people"]: ... entonces invocar la rutina de búsqueda externa. De este modo, solo se lanza la etapa 2 cuando hace falta.
+
+Llamada a la función de búsqueda externa: Se implementará una función (por ejemplo, buscar_contactos_externos(dominio, nombre_sitio, nombre_owner)) que realice todo el proceso descrito: ejecutar las consultas, recolectar datos y devolver un diccionario listo para insertar en busqueda_externa.json. Esta función será llamada desde navegar_secciones.py cuando corresponda, pasándole los parámetros necesarios (el dominio, el nombre del sitio, etc., que probablemente ya estén en la estructura de datos de la etapa 1).
+
+Secuencia ordenada: La llamada a la búsqueda externa debe realizarse después de completar la recolección interna, nunca antes, para no mezclar datos ni consumir tiempo innecesario si ya se encontraron personas internamente. Idealmente, el flujo por cada sitio sería:
+
+Recopilar contactos internos (etapa 1).
+
+Si faltan personas (u otros datos críticos), lanzar etapa 2 de búsquedas externas.
+
+Combinar o guardar los resultados.
+
+Pasar al siguiente sitio.
+
+Almacenamiento y combinación de resultados: Tras obtener el resultado externo, el script debe agregarlo a busqueda_externa.json. También podría optar por actualizar la estructura principal (extract.json o similar) si se desea integrar los nuevos datos al conjunto principal. Sin embargo, mantenerlos separados (en busqueda_externa.json) tiene la ventaja de distinguir qué datos vinieron de la web externa. El dominio es la clave común que relaciona ambas fuentes.
+
+Respaldo textual: A la par de guardar los datos estructurados (emails, nombres, etc.), la integración asegura que el respaldo textual también se guarde. Esto simplemente significa que en caso de auditoría manual o depuración, el equipo puede revisar busqueda_externa.json y ver de dónde provinieron esos datos. Al integrar, se debe pasar este texto tal cual se obtuvo.
+
+Por ejemplo, dentro de navegar_secciones.py, tras procesar un sitio se podría tener algo como:
+
+if not site_info["people"]:
+    resultado_ext = buscar_contactos_externos(site_info["domain"], site_info["site_name"], site_info.get("owner_name"))
+    guardar_resultados_externos(resultado_ext)
+
+
+Donde guardar_resultados_externos se encargaría de abrir/actualizar el archivo JSON de salida con la información devuelta.
+
+Con esta integración, el usuario final puede ejecutar un solo proceso secuencial que primero navega las secciones del sitio web en busca de contactos internos (teléfonos, emails, direcciones, personas), y si no encuentra personas, automáticamente lanza las búsquedas externas especificadas. Todo ocurre respetando el flujo lógico y sin requerir intervención manual entre pasos.
+
+Consideraciones finales
+
+Al desarrollar esta etapa 2, se deben tener en cuenta algunas consideraciones adicionales:
+
+Manejo de errores y excepciones: Las peticiones web a motores externos pueden fallar (problemas de conexión, cambios en el HTML, bloqueos temporales). El script debería manejar excepciones (try/except) en torno a las consultas externas para que, en caso de fallo, no detenga todo el proceso. Se puede reintentar con otro motor si uno falla, o simplemente registrar el error y continuar.
+
+Velocidad vs. Compleción: Realizar 6 búsquedas por dominio en tres motores diferentes implica muchas peticiones. Para un número grande de sitios, esto puede ser lento. Se podría optimizar reduciendo algunas consultas si otras ya dieron resultados. Por ejemplo, si en la consulta "${DOMINIO} email" ya se encontró un correo válido, quizá no es necesario hacer "${NOMBRE DEL SITIO} contact" porque probablemente redirigiría a la misma info. Sin embargo, por completitud quizás convenga ejecutar todas de todos modos y unir resultados.
+
+Actualización de datos: En caso de que busqueda_externa.json ya exista (de ejecuciones previas) conviene cargarlo al inicio para no duplicar trabajos. El script podría cargar el JSON existente y, antes de buscar un dominio, comprobar si ya tiene una entrada. Si existe, podría omitir la búsqueda (o eventualmente actualizarla si se desea refrescar datos obsoletos).
+
+Verificación de pertenencia: Dado que la búsqueda externa puede traer datos no siempre relevantes (por ejemplo, un correo de alguien con apellido igual pero ajeno, o un perfil social homónimo), sería prudente filtrar resultados asegurando que estén vinculados al sitio. Por ejemplo, un correo con el mismo dominio es claramente pertinente. Un nombre de persona habría que confiar en la relevancia de la consulta. Quizá limitarse a las primeras 1-3 resultados de cada búsqueda aumenta la probabilidad de relevancia.
+
+Documentación y mantenimiento: Al almacenar el respaldo textual y separar los datos externos, se facilita que otros usuarios (o futuros desarrolladores) entiendan de dónde salió cada dato, lo que es importante para la confiabilidad del scraping. En la documentación del código, se debe explicar qué hace la etapa 2, para qué sirve cada consulta y cómo se decidieron esos campos.
+
+En resumen, la etapa 2 de búsqueda externa complementa la información de contactos obtenida del sitio cuando éste no proporciona nombres de personas clave. Implementando búsquedas automatizadas en Google, Yahoo y Brave (con rotación y cuidado de no ser bloqueados), extrayendo correos, redes sociales y nombres con técnicas de parsing, y almacenando todo en busqueda_externa.json, el script logrará compilar un perfil más completo de cada sitio. Esta solución integrada con navegar_secciones.py asegura que se sigan los pasos en orden y que el resultado final incluya tanto datos internos como externos, listos para ser utilizados o revisados según necesite el usuario. Cada dominio procesado contará con su entrada unificada por clave, facilitando la referencia cruzada y manteniendo la trazabilidad de la información obtenida.

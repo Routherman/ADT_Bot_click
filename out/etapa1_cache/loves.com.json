@@ -1,0 +1,785 @@
+{
+  "site_url": "https://loves.com/",
+  "domain": "loves.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://loves.com/",
+    "https://loves.com/news/newsroom",
+    "https://loves.com/about-us",
+    "https://loves.com/about-us/common-contact-us",
+    "https://loves.com/about-us/common-contact-us/contact-fleet-sales",
+    "https://loves.com/about-us/real-estate",
+    "https://loves.com/about-us/community-giving",
+    "https://loves.com/about-us/loves-racing",
+    "https://loves.com/news/2025/june/touch-tap-taste-with-loves-newest-technology",
+    "https://loves.com/en",
+    "https://fleetportal.loves.com/",
+    "https://loves.com/location-and-fuel-price-search",
+    "https://loves.com/ev-charging",
+    "https://loves.com/truck-services/truck-wash",
+    "https://loves.com/location-and-fuel-price-search/station-codes",
+    "https://loves.com/my-love-rewards",
+    "https://loves.com/my-love-rewards/wifi",
+    "https://loves.com/my-love-rewards/my-love-rewards-contact-us",
+    "https://loves.com/my-love-rewards/loves-connect-app",
+    "https://loves.com/truck-services",
+    "https://loves.com/truck-services/freightliner",
+    "https://loves.com/truck-services/international-navistar",
+    "https://loves.com/truck-services/light-mechanical-batteries",
+    "https://loves.com/truck-services/loves-emergency-roadside-assistance",
+    "https://loves.com/truck-services/oil-pm-services",
+    "https://loves.com/truck-services/loves-retread",
+    "https://loves.com/truck-services/lovestireselection",
+    "https://loves.com/truck-services/loves-fleet-view",
+    "https://loves.com/truck-services/truck-care-academy",
+    "https://loves.com/store-offerings",
+    "https://loves.com/store-offerings/food-and-beverages",
+    "https://loves.com/store-offerings/electronics-apparel-loves-products",
+    "https://loves.com/store-offerings/loves-exclusive-brands",
+    "https://loves.com/store-offerings/promos-and-savings",
+    "https://loves.com/news",
+    "https://jobs.loves.com/",
+    "https://loves.com/promos/gasdiscount",
+    "https://loves.com/legal-pages/terms-of-use",
+    "https://loves.com/legal-pages/privacy-policy",
+    "https://loves.com/legal-pages/california-supply-chain-act",
+    "https://theheartbeat.loves.com/",
+    "https://loves.com/pricesblendstax",
+    "https://loves.com/1095-c-forms",
+    "https://jobs.loves.com/content/Former-Employees/?locale=en_US&previewLink=true&overrideEmployeeLogin=false&referrerSave=false",
+    "https://loves.com/en/news/newsroom",
+    "https://loves.com/news/2025/september/loves-reopens-travel-stop-in-seminole-ok",
+    "https://loves.com/en/news",
+    "https://loves.com/en/about-us",
+    "https://loves.com/en/about-us/gemini-motor-transport",
+    "http://loves.com",
+    "https://loves.com/en/truck-services",
+    "https://loves.com/en/about-us/common-contact-us",
+    "https://loves.com/en/about-us/common-contact-us/contact-fleet-sales",
+    "https://loves.com/en/truck-services/truck-wash",
+    "https://loves.com/en/about-us/real-estate",
+    "https://loves.com/en/about-us/community-giving"
+  ],
+  "candidates": [
+    "https://loves.com/about-us/common-contact-us/contact-fleet-sales",
+    "https://loves.com/en/about-us/common-contact-us/contact-fleet-sales",
+    "https://loves.com/about-us",
+    "https://loves.com/about-us/common-contact-us",
+    "https://loves.com/about-us/community-giving",
+    "https://loves.com/about-us/loves-racing",
+    "https://loves.com/about-us/real-estate",
+    "https://loves.com/en/about-us",
+    "https://loves.com/en/about-us/common-contact-us",
+    "https://loves.com/en/about-us/community-giving",
+    "https://loves.com/en/about-us/gemini-motor-transport",
+    "https://loves.com/en/about-us/real-estate",
+    "https://loves.com/en/news/newsroom",
+    "https://loves.com/news/2025/june/touch-tap-taste-with-loves-newest-technology",
+    "https://loves.com/news/2025/september/loves-reopens-travel-stop-in-seminole-ok",
+    "https://loves.com/news/newsroom",
+    "https://loves.com/",
+    "https://loves.com/contact",
+    "https://loves.com/contact/",
+    "https://loves.com/contact-us",
+    "https://loves.com/contact-us/",
+    "https://loves.com/contactus",
+    "https://loves.com/contactus/",
+    "https://loves.com/about",
+    "https://loves.com/about/",
+    "https://loves.com/about-us/",
+    "https://loves.com/visit",
+    "https://loves.com/visit/",
+    "https://loves.com/location",
+    "https://loves.com/location/",
+    "https://loves.com/directions",
+    "https://loves.com/directions/"
+  ],
+  "per_page": {
+    "https://loves.com/about-us/common-contact-us/contact-fleet-sales": {
+      "title": "Fleet Solutions Contacts",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/about-us/common-contact-us/contact-fleet-sales"
+          ]
+        },
+        "acts": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/about-us/common-contact-us/contact-fleet-sales"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/en/about-us/common-contact-us/contact-fleet-sales": {
+      "title": "Fleet Solutions Contacts",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/en/about-us/common-contact-us/contact-fleet-sales"
+          ]
+        },
+        "acts": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/en/about-us/common-contact-us/contact-fleet-sales"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/about-us": {
+      "title": "About the Love's Family of Companies",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/geminimotortransport",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.linkedin.com/company/love's-travel-stops/",
+        "https://www.linkedin.com/company/loves-alternative-energy/",
+        "https://www.linkedin.com/company/musket-corp.",
+        "https://www.linkedin.com/company/speedco-inc.",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/about-us/common-contact-us": {
+      "title": "Contact Us",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/about-us/community-giving": {
+      "title": "Community Giving at Love's",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/about-us/community-giving"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/about-us/loves-racing": {
+      "title": "Love's Racing",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/about-us/real-estate": {
+      "title": "Real Estate",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/about-us/real-estate"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/en/about-us": {
+      "title": "About the Love's Family of Companies",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/en/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/geminimotortransport",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.linkedin.com/company/love's-travel-stops/",
+        "https://www.linkedin.com/company/loves-alternative-energy/",
+        "https://www.linkedin.com/company/musket-corp.",
+        "https://www.linkedin.com/company/speedco-inc.",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/en/about-us/common-contact-us": {
+      "title": "Contact Us",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/en/about-us/community-giving": {
+      "title": "Community Giving at Love's",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/en/about-us/community-giving"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/en/about-us/gemini-motor-transport": {
+      "title": "Gemini Motor Transport",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/en/about-us/real-estate": {
+      "title": "Real Estate",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/en/about-us/real-estate"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/en/news/newsroom": {
+      "title": "Love's Travel Stops Newsroom",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/en/news/newsroom"
+          ]
+        }
+      },
+      "emails": [
+        "lauren.daniels@loves.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops",
+        "https://www.youtube.com/user/lovestravelstops"
+      ]
+    },
+    "https://loves.com/news/2025/june/touch-tap-taste-with-loves-newest-technology": {
+      "title": "Touch, tap, taste with Love’s newest technology",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/news/2025/september/loves-reopens-travel-stop-in-seminole-ok": {
+      "title": "Love’s reopens travel stop in Seminole, Oklahoma",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/news/2025/september/loves-reopens-travel-stop-in-seminole-ok"
+          ]
+        },
+        "lineup": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/news/2025/september/loves-reopens-travel-stop-in-seminole-ok"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/news/2025/september/loves-reopens-travel-stop-in-seminole-ok"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/news/newsroom": {
+      "title": "Love's Travel Stops Newsroom",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/news/newsroom"
+          ]
+        }
+      },
+      "emails": [
+        "lauren.daniels@loves.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops",
+        "https://www.youtube.com/user/lovestravelstops"
+      ]
+    },
+    "https://loves.com/": {
+      "title": "Love's Travel Stops",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/contact": {
+      "title": "Contact Us",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/contact/": {
+      "title": "Contact Us",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/contact-us": {
+      "title": "Contact Us",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/contact-us/": {
+      "title": "Contact Us",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/contactus": {
+      "title": "Contact Us",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/contactus/": {
+      "title": "Contact Us",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/about": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/about/": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/about-us/": {
+      "title": "About the Love's Family of Companies",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://loves.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/geminimotortransport",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.linkedin.com/company/love's-travel-stops/",
+        "https://www.linkedin.com/company/loves-alternative-energy/",
+        "https://www.linkedin.com/company/musket-corp.",
+        "https://www.linkedin.com/company/speedco-inc.",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/visit": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/visit/": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/location": {
+      "title": "Location & Fuel Price Search",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/location/": {
+      "title": "Location & Fuel Price Search",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/directions": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    },
+    "https://loves.com/directions/": {
+      "title": "404",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/lovestravelstops/",
+        "https://www.instagram.com/lovestravelstops/",
+        "https://www.linkedin.com/company/love's-travel-stops",
+        "https://www.tiktok.com/@officiallovestravelstops",
+        "https://www.youtube.com/user/LovesTravelStops"
+      ]
+    }
+  }
+}

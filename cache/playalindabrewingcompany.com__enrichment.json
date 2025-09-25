@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-19T20:06:49.028749",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T20:06:45.339139",
+      "company": {
+        "name": null,
+        "domain": "playalindabrewingcompany.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 18857626,
+          "description": "COME TOGETHER AND CELEBRATE GOOD TASTE.\n\nAt Playalinda Brewing Company, our goal is simple – To brew the highest quality beer possible, and craft taste experiences worth remembering. We place high priority on incorporating quality ingredients and locally-sourced materials in everything we do. This helps to engage us in an authentic way with our community, and cultivate a sense of pride in every member of our team.",
+          "domain": "playalindabrewingcompany.com",
+          "employees": "51 - 200",
+          "fqdn": "www.playalindabrewingcompany.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/4/32/432282eb9e2e9a72df79928720648e36",
+          "name": "Playalinda Brewing Company",
+          "revenueRange": [
+            1000000,
+            10000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Food & Beverage Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/playalinda-brewing-company"
+            }
+          },
+          "address": "Titusville North America United States US 5220 S Washington Ave; Titusville, Florida, US Florida FL -80.80754852294922,28.612220764160156 ",
+          "location": {
+            "city": "Titusville",
+            "country": "United States",
+            "fullLocation": "Titusville North America United States US 5220 S Washington Ave; Titusville, Florida, US Florida FL -80.80754852294922,28.612220764160156 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "5220 S Washington Ave; Titusville, Florida, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://playalindabrewingcompany.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T20:06:46.583087",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T20:06:49.024764",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

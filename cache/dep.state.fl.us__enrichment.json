@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-19T15:03:22.645892",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T15:03:18.740328",
+      "company": {
+        "name": null,
+        "domain": "dep.state.fl.us",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 4494448,
+          "description": "Fla State Of Fdep is an education management company based out of 2055 S Patrick Dr, Indian Hrbr Bch, Florida, United States.",
+          "domain": "dep.state.fl.us",
+          "employees": "1 - 10",
+          "fqdn": "dep.state.fl.us",
+          "logoUrl": "https://logo.lusha.co/d/company_4494448_logo.svg",
+          "name": "Fla State Of Fdep",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Education",
+          "subIndustry": "Other",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/fla-state-of-fdep"
+            }
+          },
+          "address": "North America United States US 2055 S Patrick Dr; Indian Hrbr Bch, Florida 32937-4447, US ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 2055 S Patrick Dr; Indian Hrbr Bch, Florida 32937-4447, US ",
+            "state": "",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "2055 S Patrick Dr; Indian Hrbr Bch, Florida 32937-4447, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8299,
+                "description": "Schools and educational services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 611710,
+                "description": "Educational Support Services"
+              }
+            ]
+          },
+          "website": "https://dep.state.fl.us"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T15:03:20.005350",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T15:03:22.640940",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

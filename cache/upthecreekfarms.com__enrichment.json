@@ -1,0 +1,135 @@
+{
+  "timestamp": "2025-09-18T02:19:51.785946",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-18T02:19:48.206502",
+      "company": {
+        "name": null,
+        "domain": "upthecreekfarms.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 5235682,
+          "description": "Up the Creek Farms is an event venue set on 8 beautiful acres, offering a charming and unique taste of old Florida.  Majestic oaks draped in Spanish moss, a pristine creek running the length of the property, and the historic Decklan house present a truly unique setting for any occasion.  The 6,000 square foot Boathouse completes the picture with its rustic, open-air feel and spectacular views of the property.  Rustic, but providing all the modern amenities: air, catering kitchen, beautifully appointed bathrooms. At Up the Creek Farms, we provide excellent personal service and attention to detail to create your one of a kind event.\n\nCorporate & Private Events\n- Board Meetings\n- Networking Events\n- Banquets and Lectures\n- Business Development Meetings\n- Photo Shoots \n- Community/Fundraisers\n- Christmas & Holiday Parties\n- Anniversaries & Family Reunions  \n\nWeddings\nCelebrate your special day in elegance and style at Up the Creek Farms. Wedding packages include private on-site parking, exclusive use of grounds, choice of outdoor ceremony location, and Boathouse reception for 150 guests. A private dressing room is available for the bride prior to the ceremony. We offer a variety of packages including an exclusive weekend package with accommodations at our Bed & Breakfast and optional rentals and services allowing you to create the wedding of your dreams.  Excellent photo opportunities and all the little details at Up the Creek Farms make for a very special day.   \n\nRehearsal, Baby & Bridal Showers\nFor smaller events, you may consider the Decklan House's historic and charming setting. Enjoy the historic home and share with your closest friends and family for a rehearsal dinner, baby or bridal shower. Included in use are the main living areas, wrap around porches, and pool deck.",
+          "domain": "upthecreekfarms.com",
+          "employees": "1 - 10",
+          "founded": "2013",
+          "fqdn": "www.upthecreekfarms.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/c/6e/c6e7a8ed16322cb97f854b4f456c22e6",
+          "name": "Up the Creek Farms",
+          "revenueRange": [],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Events Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/up-the-creek-farms"
+            }
+          },
+          "address": "North America United States US 3590 Valkaria Road; Grant-Valkaria/Malabar, Florida 32950, US Florida FL ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 3590 Valkaria Road; Grant-Valkaria/Malabar, Florida 32950, US Florida FL ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3590 Valkaria Road; Grant-Valkaria/Malabar, Florida 32950, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "naics": [
+              {
+                "naics": 561920,
+                "description": "Convention and Trade Show Organizers"
+              }
+            ]
+          },
+          "website": "https://upthecreekfarms.com",
+          "specialities": [
+            "anniversary parties",
+            "banqueting",
+            "bed and breakfast",
+            "board meetings",
+            "charity events",
+            "corporate events",
+            "family reunions",
+            "holiday parties",
+            "lectures",
+            "location photography",
+            "networking events",
+            "rehearsal space",
+            "weddings"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-18T02:19:49.427910",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-18T02:19:51.782255",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

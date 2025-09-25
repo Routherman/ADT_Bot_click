@@ -1,0 +1,130 @@
+{
+  "timestamp": "2025-09-23T03:05:45.752299",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T03:05:42.367241",
+      "company": {
+        "name": null,
+        "domain": "melbourneballroom.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 8227988,
+          "description": "Melbourne Ballroom is a place where all levels of dancers can come and enjoy learning to dance in a great social and fun setting. We offer private lessons and group classes. Our Friday Night Dance Parties are a time when everyone can get together to practice what they’ve learned in a comfortable environment where others are going through same learning process.  In recent years Melbourne Ballroom has grown to a 3000 square foot facility with 2 ballrooms for private lessons, group classes, dance parties, and showcase events. We also offer the finest teaching staff who truly enjoy working on their own dancing as much as teaching our students.\n\nOur goals are to teach dancing to any level of student. Whether you just want to get out of the house, try something new, socialize more, get exercise, or make it a serious hobby, Melbourne Ballroom has the facility, and the staff to reach any goal. We also specialize in upcoming events that may pop up in your life. Things like – preparing for a cruise, office parties, and especially that first wedding dance.\n\nPlease check out the rest of the website to answer any questions you might have. We have our calendar of group classes posted, and you can learn more about each staff member just by clicking on the “instructors” tab. We hope to see you here learning to dance, having fun, and reaping all the benefits Melbourne Ballroom and dancing can provide.",
+          "domain": "melbourneballroom.com",
+          "employees": "1 - 10",
+          "founded": "1995",
+          "fqdn": "www.melbourneballroom.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/5/9e/59ee59bfd390c7c90646e5f5ca6274c3",
+          "name": "Melbourne Ballroom",
+          "revenueRange": [],
+          "mainIndustry": "Consumer Services",
+          "subIndustry": "Personal care services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/melbourne-ballroom-school"
+            }
+          },
+          "address": "Melbourne North America United States US 6300 N Wickham Rd 132J; Melbourne, Florida 32940, US Florida FL -80.60810852050781,28.083629608154297 ",
+          "location": {
+            "city": "Melbourne",
+            "country": "United States",
+            "fullLocation": "Melbourne North America United States US 6300 N Wickham Rd 132J; Melbourne, Florida 32940, US Florida FL -80.60810852050781,28.083629608154297 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "6300 N Wickham Rd 132J; Melbourne, Florida 32940, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7299,
+                "description": "Miscellaneous personal services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 812199,
+                "description": "Other Personal Care Services"
+              }
+            ]
+          },
+          "website": "https://melbourneballroom.com",
+          "specialities": [
+            "ballroom",
+            "latin"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T03:05:43.486473",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T03:05:45.742635",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

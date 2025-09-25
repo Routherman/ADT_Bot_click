@@ -1,0 +1,115 @@
+{
+  "timestamp": "2025-09-19T09:04:04.473288",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T09:03:59.861335",
+      "company": {
+        "name": null,
+        "domain": "edisonfestival.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 3337191,
+          "description": "Mission Statement: The Edison Festival of Light, Inc. is an organization that honors Thomas Alva Edison's contributions to mankind including Southwest Florida, and seeks to improve the community by education and activities relating to Edison's works and values.\n\nSince 1938, we have been celebrating Thomas Edison and his contributions in Fort Myers. We acknowledge now even more than ever, the importance of continuing the history while strengthening the economy and culture of our community.  Fort Myers has an ever-changing population and it is important to continually re-introduce the knowledge, history and tradition of the contributions Mr. Edison gave not only to Southwest Florida, but to the world.  For generations, the rich tradition of the Edison Festival of Light has helped to bring the people of Fort Myers together for many common goals.",
+          "domain": "edisonfestival.org",
+          "employees": "11 - 50",
+          "founded": "1938",
+          "fqdn": "www.edisonfestival.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/6/0c/60cdcd740d136bc2161ab6a7b20e8546",
+          "name": "Edison Festival of Light",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Events Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/edison-festival-of-light"
+            }
+          },
+          "address": "Fort Myers North America United States US 1524 Jackson Street; Fort Myers, FL 33901, US Florida FL -81.84059143066406,26.621679306030273 ",
+          "location": {
+            "city": "Fort Myers",
+            "country": "United States",
+            "fullLocation": "Fort Myers North America United States US 1524 Jackson Street; Fort Myers, FL 33901, US Florida FL -81.84059143066406,26.621679306030273 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1524 Jackson Street; Fort Myers, FL 33901, US"
+          },
+          "website": "https://edisonfestival.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T09:04:01.126254",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T09:04:04.469423",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

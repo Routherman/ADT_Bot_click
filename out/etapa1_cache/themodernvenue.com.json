@@ -1,0 +1,786 @@
+{
+  "site_url": "https://themodernvenue.com/",
+  "domain": "themodernvenue.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://themodernvenue.com/",
+    "https://themodernvenue.com/book-a-tour",
+    "https://themodernvenue.com/event-styling-%26-planning-1",
+    "https://themodernvenue.com/contact",
+    "https://themodernvenue.com/faq",
+    "https://themodernvenue.com/about-1",
+    "https://themodernvenue.com/amenities",
+    "https://themodernvenue.com/privacy-policy",
+    "https://themodernvenue.com/planning-inquiry"
+  ],
+  "candidates": [
+    "https://themodernvenue.com/contact",
+    "https://themodernvenue.com/about-1",
+    "https://themodernvenue.com/event-styling-%26-planning-1",
+    "https://themodernvenue.com/book-a-tour",
+    "https://themodernvenue.com/faq",
+    "https://themodernvenue.com/",
+    "https://themodernvenue.com/contact/",
+    "https://themodernvenue.com/contact-us",
+    "https://themodernvenue.com/contact-us/",
+    "https://themodernvenue.com/contactus",
+    "https://themodernvenue.com/contactus/",
+    "https://themodernvenue.com/about",
+    "https://themodernvenue.com/about/",
+    "https://themodernvenue.com/about-us",
+    "https://themodernvenue.com/about-us/",
+    "https://themodernvenue.com/visit",
+    "https://themodernvenue.com/visit/",
+    "https://themodernvenue.com/location",
+    "https://themodernvenue.com/location/",
+    "https://themodernvenue.com/directions",
+    "https://themodernvenue.com/directions/"
+  ],
+  "per_page": {
+    "https://themodernvenue.com/contact": {
+      "title": "Contact",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/contact"
+          ]
+        },
+        "booking": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "booking@themodernvenue.com"
+      ],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/about-1": {
+      "title": "About | The Modern Venue Space",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/about-1"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/about-1"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/event-styling-%26-planning-1": {
+      "title": "EVENT STYLING & PLANNING",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/event-styling-%26-planning-1"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/event-styling-%26-planning-1"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/event-styling-%26-planning-1"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/book-a-tour": {
+      "title": "Book a tour",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/book-a-tour"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/book-a-tour"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/faq": {
+      "title": "FAQ",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/faq"
+          ]
+        },
+        "booking": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/faq"
+          ]
+        }
+      },
+      "emails": [
+        "booking@themodernvenue.com"
+      ],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/": {
+      "title": "Event Space for Rent | The Modern Venue Space",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/"
+          ]
+        },
+        "booking": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/contact/": {
+      "title": "Contact",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/contact/"
+          ]
+        },
+        "booking": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "booking@themodernvenue.com"
+      ],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/contact-us": {
+      "title": "The Modernvenue",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/contact-us"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/contact-us/": {
+      "title": "The Modernvenue",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/contact-us/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/contactus": {
+      "title": "The Modernvenue",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/contactus"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/about": {
+      "title": "The Modernvenue",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/about"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/about/": {
+      "title": "The Modernvenue",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/about/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/about-us": {
+      "title": "The Modernvenue",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/about-us"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/about-us/": {
+      "title": "The Modernvenue",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/about-us/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/visit/": {
+      "title": "The Modernvenue",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/visit/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/location": {
+      "title": "The Modernvenue",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/location"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/location/": {
+      "title": "The Modernvenue",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/location/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/directions": {
+      "title": "The Modernvenue",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/directions"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    },
+    "https://themodernvenue.com/directions/": {
+      "title": "The Modernvenue",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/directions/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://themodernvenue.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "754.229.8320"
+      ],
+      "socials": []
+    }
+  }
+}

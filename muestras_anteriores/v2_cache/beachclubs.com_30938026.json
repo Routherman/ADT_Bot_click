@@ -1,0 +1,100 @@
+{
+  "pages": [
+    {
+      "url": "http://www.beachclubs.com/contact-satellite-beach",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nHome\nCocoa Beach\nAbout\nPhotos\nVirtual Tours\nRental Rates\nContact\nSatellite Beach\nAbout\nPhotos\nVirtual Tours\nRental Rates\nContact\nOwner's Portal\nHelpful Info\nNewsletter Signup\nTimeshare Weeks Calendar\nCocoa Beach Surf Cam\nSatellite Beach Surf Cam\nContact Us\nContact Cocoa Beach\nContact Satellite Beach\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nContact\nnavigation placeholders\nContact Our Satellite Beach Resort\nSend Us A Message\nFirst Name\nLast Name\nPhone\nEmail\nMessage\nThank you for reaching out! We have received your message and we will contact you shortly.\nOops, there was an error sending your message.\nPlease try again.\nCONTACT INFO\n(321) 777-3224\n1215 Highway A1A\nSatellite Beach, FL 32937\nbeaches@beachclubs.com\nOFFICE HOURS\nMon - Fri\n9:00 am\n-\n5:00 pm\nSaturday\n9:00 am\n-\n7:00 pm\nSunday\n9:00 am\n-\n3:00 pm\nLas Olas of Cocoa Beach\nAddress:\n5100 Ocean Beach Blvd\n﻿\nCocoa Beach, FL 32931\nPhone:\n(321) 784-2706\nEmail:\nlasolas@beachclubs.com\nLas Olas of Satellite Beach\nAddress:\n1215 Highway A1\nA\nSatellite Beach, FL 32937\nPhone:\n(321) 777-3224\nEmail:\nbeaches@beachclubs.com\nQuick Links:\nOwner's Portal (Satellite Beach)\nPortal Sign-Up Instructions\nSign Up For Our Newsletter\nTimeshare Weeks Calendar\nPrivacy Policy\n﻿\n© 2025\nAll Rights Reserved | Las Olas Beach Clubs\nAdd full CSS and Javascript before the close tag of the body if needed\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: afbf021a\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": [
+        "beaches@beachclubs.com",
+        "lasolas@beachclubs.com"
+      ]
+    },
+    {
+      "url": "http://www.beachclubs.com/satellite-beach#About",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "Las Olas Beach Club of Satellite Beach\nOur oceanfront resort provides spacious accommodations, a convenient location, and a tropical setting. Enjoy your own private balcony with a breathtaking view of the ocean.\nBook Now\nResort Highlights\nBeach Access\nYour vacation condo is just steps from the ocean via our private beach access.\nAmenities\nOur heated pool and hot tub are open every day of the year.\nFull Kitchens\nAll units have a full-size kitchen with any dishes, utilities, and cookware you may need.\nFree WiFi\nFree and unlimited WiFi is available throughout the resort.\nGallery\nMain Bedroom\nThe main bedroom has a king bed, TV, and en-suite bathroom. Some units have balcony access from the bedroom.\nButton\nYear-Round Pool & Hot Tub\nThe pool deck is open every day of the year, and the pool is heated during the colder months.\nButton\nLiving/Dining Area\nOur 1400+ sq ft units provide plenty of space for you and your guests.\nButton\nMain Bathroom\nBoth the en-suite and guest bathrooms were recently renovated with vinyl floors and lighted mirrors.\nButton\nBreathtaking Views\nWatch the sunrise from your oceanfront condo.\nButton\nFull Kitchen\nFull size refrigerator, range, microwave, and dishwasher in every unit. In-unit laundry too!\nLiving Room\nThe sofa contains a queen bed - each unit sleeps up to 6 people.\nButton\nGuest Bedroom\nAll units are 2-bed/2-bath, so there's room for the whole family!\nButton\nPrivate Beach Access\nYou're only a few steps from the sand with our gated beach access.\nButton",
+      "emails": [
+        "beaches@beachclubs.com",
+        "lasolas@beachclubs.com"
+      ]
+    },
+    {
+      "url": "http://www.beachclubs.com/contact-cocoa-beach",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nHome\nCocoa Beach\nAbout\nPhotos\nVirtual Tours\nRental Rates\nContact\nSatellite Beach\nAbout\nPhotos\nVirtual Tours\nRental Rates\nContact\nOwner's Portal\nHelpful Info\nNewsletter Signup\nTimeshare Weeks Calendar\nCocoa Beach Surf Cam\nSatellite Beach Surf Cam\nContact Us\nContact Cocoa Beach\nContact Satellite Beach\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nContact\nnavigation placeholders\nContact Our Cocoa Beach Resort\nSend Us A Message\nFirst Name\nLast Name\nPhone\nEmail\nMessage\nThank you for reaching out! We have received your message and we will contact you shortly.\nOops, there was an error sending your message.\nPlease try again.\nCONTACT INFO\n(321) 784-2706\n5100 Ocean Beach Blvd\nCocoa Beach, FL 32931\nlasolas@beachclubs.com\nOFFICE HOURS\nMon - Fri\n9:00 am\n-\n5:30 pm\nSaturday\n9:00 am\n-\n7:00 pm\nSunday\n9:00 am\n-\n5:00 pm\nLas Olas of Cocoa Beach\nAddress:\n5100 Ocean Beach Blvd\n﻿\nCocoa Beach, FL 32931\nPhone:\n(321) 784-2706\nEmail:\nlasolas@beachclubs.com\nLas Olas of Satellite Beach\nAddress:\n1215 Highway A1\nA\nSatellite Beach, FL 32937\nPhone:\n(321) 777-3224\nEmail:\nbeaches@beachclubs.com\nQuick Links:\nOwner's Portal (Satellite Beach)\nPortal Sign-Up Instructions\nSign Up For Our Newsletter\nTimeshare Weeks Calendar\nPrivacy Policy\n﻿\n© 2025\nAll Rights Reserved | Las Olas Beach Clubs\nAdd full CSS and Javascript before the close tag of the body if needed\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: afbf021a\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": [
+        "beaches@beachclubs.com",
+        "lasolas@beachclubs.com"
+      ]
+    },
+    {
+      "url": "http://www.beachclubs.com/cocoa-beach#About",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "Las Olas Beach Club of Cocoa Beach\nWe look forward to welcoming you to our beautiful resort in Cocoa Beach, where you’ll enjoy spacious accommodations that are maintained with pride. Conveniently located near famous destinations like Ron Jon Surf Shop and the Cocoa Beach Pier.\nBook Now\nResort Highlights\nBeach Access\nYour vacation condo is just steps from the ocean via our private beach access.\nAmenities\nOur heated pool and hot tub are open every day of the year.\nFull Kitchens\nAll units have a full-size kitchen with any dishes, utilities, and cookware you may need.\nFree WiFi\nFree and unlimited WiFi is available throughout the resort.\nGallery\nMain Bedroom\nThe main bedroom has a king bed, TV, Roman soaking tub, and en-suite bathroom. Some units may have a view of the ocean.\nButton\nFull Kitchen\nFull size refrigerator, range, microwave, and dishwasher in every unit. In-unit laundry too!\nButton\nLiving Area\nOur units provide plenty of space for you and your guests.\nButton\nDining Area\nButton\nGuest Bedroom\nWith a selection of 1-, 2-, and 3-bedroom units, you can be sure there's enough room for your guests.\nButton\nMain Bathroom\nEnjoy double sinks and granite countertops in your private en-suite bathroom.\nButton\nGuest Bathroom\nButton\nYear-Round Pool & Hot Tub\nThe pool deck is open every day of the year, and the pool is heated during the colder months.\nButton\nPrivate Beach Access\nYou're only a few steps from the sand with our private beach access.\nButton",
+      "emails": [
+        "beaches@beachclubs.com",
+        "lasolas@beachclubs.com"
+      ]
+    }
+  ],
+  "all_links": [
+    "mailto:Address: 5100 Ocean Beach Blvd, Cocoa Beach, FL 32931Phone:(321) 784-2706Email: lasolas@beachclubs.com",
+    "http://www.beachclubs.com/contact-satellite-beach",
+    "http://www.beachclubs.com/",
+    "http://www.beachclubs.com/privacy-policy",
+    "http://www.beachclubs.com/satellite-beach#SatBeachGallery",
+    "http://www.beachclubs.com/satellite-beach#RatesandPolicies",
+    "http://www.beachclubs.com/satellite-beach#About",
+    "mailto:beaches@beachclubs.com",
+    "http://www.beachclubs.com/cocoa-beach-virtual-tours",
+    "mailto:lasolas@beachclubs.com",
+    "http://www.beachclubs.com/cocoa-beach",
+    "http://www.beachclubs.com/contact-cocoa-beach",
+    "http://www.beachclubs.com/cocoa-beach#RentalRates",
+    "http://www.beachclubs.com/cocoa-beach#Photos",
+    "http://www.beachclubs.com/satellite-beach-surf-cam",
+    "http://www.beachclubs.com/cocoa-beach#About",
+    "http://www.beachclubs.com/cocoa-beach-surf-cam",
+    "http://www.beachclubs.com/satellite-beach",
+    "http://www.beachclubs.com/satellite-beach-virtual-tours"
+  ],
+  "candidate_links": [
+    "http://www.beachclubs.com/contact-satellite-beach",
+    "http://www.beachclubs.com/satellite-beach#About",
+    "http://www.beachclubs.com/contact-cocoa-beach",
+    "http://www.beachclubs.com/cocoa-beach#About"
+  ],
+  "visited": [
+    "http://www.beachclubs.com/",
+    "http://www.beachclubs.com/about",
+    "http://www.beachclubs.com/contact",
+    "http://www.beachclubs.com/staff",
+    "http://www.beachclubs.com/team",
+    "http://www.beachclubs.com/board",
+    "http://www.beachclubs.com/directory",
+    "http://www.beachclubs.com/events",
+    "http://www.beachclubs.com/sitemap.xml",
+    "http://www.beachclubs.com/council",
+    "http://www.beachclubs.com/leadership",
+    "http://www.beachclubs.com/management",
+    "http://www.beachclubs.com/producers",
+    "http://www.beachclubs.com/support",
+    "http://www.beachclubs.com/crew",
+    "http://www.beachclubs.com/members",
+    "http://www.beachclubs.com/bios",
+    "http://www.beachclubs.com/people",
+    "http://www.beachclubs.com/artists",
+    "http://www.beachclubs.com/musicians",
+    "http://www.beachclubs.com/faculty",
+    "http://www.beachclubs.com/administration",
+    "http://www.beachclubs.com/contact-satellite-beach",
+    "http://www.beachclubs.com/satellite-beach#About",
+    "http://www.beachclubs.com/contact-cocoa-beach",
+    "http://www.beachclubs.com/cocoa-beach#About"
+  ],
+  "base_url": "http://www.beachclubs.com/"
+}

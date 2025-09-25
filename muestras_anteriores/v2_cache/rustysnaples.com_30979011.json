@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "url": "http://www.rustysnaples.com/contact",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nHOME\nABOUT\nMENU\nSPECIALS\nENTERTAINMENT\nCONTACT\nHOME\nABOUT\nMENU\nSPECIALS\nENTERTAINMENT\nCONTACT\nFacebook\nCONTACT US\nRusty's Raw Bar & Grill\n2700 Immokalee Rd\nNaples, FL\n34110\nPhone: 239-263-9464\nOpen Daily\n﻿\n11 am - 2 am\nDrop us a line!\nName\nEmail\nPhone\nMessage\nThank you for contacting us.\nWe will get back to you as soon as possible\nOops, there was an error sending your message.\nPlease try again later\nLOCATION\n2700 Immokalee Rd\nNaples, FL\n34110\nHOURS\nOpen Daily\n11 am - 2 am\nHappy Hour\n3 - 6 pm\nFIND US ON\n239-263-9464\nstacie@rustysnaples.com\nCopyright © 2025 Rusty's Raw Bar & Grill - All Rights Reserved.\nDesigned by ITVizon Inc.\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: b5f3610d\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": [
+        "stacie@rustysnaples.com"
+      ]
+    },
+    {
+      "url": "http://www.rustysnaples.com/about",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nHOME\nABOUT\nMENU\nSPECIALS\nENTERTAINMENT\nCONTACT\nHOME\nABOUT\nMENU\nSPECIALS\nENTERTAINMENT\nCONTACT\nFacebook\nABOUT US\nRusty's Raw Bar & Grill is a laid back and local spot in Naples. We offer a casual dining experience and welcoming staff. Enjoy live entertainment, daily drink deals, and a wide variety of menu items including fresh seafood and hot-off-the-grill dishes. Rusty's has something to satisfy everyone's taste buds.\nLOCATION\n2700 Immokalee Rd\nNaples, FL\n34110\nHOURS\nOpen Daily\n11 am - 2 am\nHappy Hour\n3 - 6 pm\nFIND US ON\n239-263-9464\nstacie@rustysnaples.com\nCopyright © 2025 Rusty's Raw Bar & Grill - All Rights Reserved.\nDesigned by ITVizon Inc.\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: b5f3610d\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": [
+        "stacie@rustysnaples.com"
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/rustysnaples/",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "http://www.rustysnaples.com/",
+    "http://www.rustysnaples.com/entertainment",
+    "http://www.rustysnaples.com/rustys-specials",
+    "http://www.rustysnaples.com/menu",
+    "http://www.rustysnaples.com/contact",
+    "http://www.rustysnaples.com/about"
+  ],
+  "candidate_links": [
+    "http://www.rustysnaples.com/contact",
+    "http://www.rustysnaples.com/about",
+    "https://www.facebook.com/rustysnaples/"
+  ],
+  "visited": [
+    "http://www.rustysnaples.com/",
+    "http://www.rustysnaples.com/about",
+    "http://www.rustysnaples.com/contact",
+    "http://www.rustysnaples.com/staff",
+    "http://www.rustysnaples.com/team",
+    "http://www.rustysnaples.com/board",
+    "http://www.rustysnaples.com/directory",
+    "http://www.rustysnaples.com/events",
+    "http://www.rustysnaples.com/sitemap.xml",
+    "http://www.rustysnaples.com/council",
+    "http://www.rustysnaples.com/leadership",
+    "http://www.rustysnaples.com/management",
+    "http://www.rustysnaples.com/producers",
+    "http://www.rustysnaples.com/support",
+    "http://www.rustysnaples.com/crew",
+    "http://www.rustysnaples.com/members",
+    "http://www.rustysnaples.com/bios",
+    "http://www.rustysnaples.com/people",
+    "http://www.rustysnaples.com/artists",
+    "http://www.rustysnaples.com/musicians",
+    "http://www.rustysnaples.com/faculty",
+    "http://www.rustysnaples.com/administration",
+    "http://www.rustysnaples.com/contact",
+    "http://www.rustysnaples.com/about",
+    "https://www.facebook.com/rustysnaples/"
+  ],
+  "base_url": "http://www.rustysnaples.com/"
+}

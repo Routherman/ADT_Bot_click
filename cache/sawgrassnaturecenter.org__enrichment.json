@@ -1,0 +1,132 @@
+{
+  "timestamp": "2025-09-17T10:30:27.086603",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-17T10:30:23.074886",
+      "company": {
+        "name": null,
+        "domain": "sawgrassnaturecenter.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 3088976,
+          "description": "The SNC offers a wide range of educational programs about South Florida's ecosystems and inhabitants. These programs are availble to school groups, classes, boy and girl scout troops, church groups, retirement communities, etc.\n\nDuring spring, summer, and winter breaks, and on the days off of school, we offer a camp program for children ages 6-12. The camp is geared towards environmental science activities. Camp Wild is held mainly in the outdoor classroom at the SNC and all activities and programs are on-site. Pre-registration is REQUIRED. Please visit our website for a registration packet and a printable copy of the Camp Wild days!\n\nFor children ages 3-5, we have a Nature Explorers program. Nature Explorers is every Wednesday from 10-11 am. It's never too early to get hands on in environmental education!\n\nWant to have a WILD party? Come to the SNC to make it happen! Use our facilities to give your child a hands-on experience with some of Florida's wildlife for a party that will be remembered for years to come. Book a party for a birthday, graduation, or any other special occasion.\n\nFor more information please visit our website.",
+          "domain": "sawgrassnaturecenter.org",
+          "employees": "1 - 10",
+          "founded": "1995",
+          "fqdn": "www.sawgrassnaturecenter.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/8/7c/87c6de845bc47bfefef9d61853085637",
+          "name": "Sawgrass Nature Center and Wildlife Hospital",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Business Services",
+          "subIndustry": "Environmental Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/sawgrass-nature-center-and-wildlife-hospital"
+            }
+          },
+          "address": "Coral Springs North America United States US 3000 Sportsplex Drive; Coral Springs, FL 33065, US Florida FL -80.27059936523438,26.271190643310547 ",
+          "location": {
+            "city": "Coral Springs",
+            "country": "United States",
+            "fullLocation": "Coral Springs North America United States US 3000 Sportsplex Drive; Coral Springs, FL 33065, US Florida FL -80.27059936523438,26.271190643310547 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3000 Sportsplex Drive; Coral Springs, FL 33065, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8999,
+                "description": "Services, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 541620,
+                "description": "Environmental Consulting Services"
+              }
+            ]
+          },
+          "website": "https://sawgrassnaturecenter.org",
+          "specialities": [
+            "wildlife education"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-17T10:30:24.303341",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-17T10:30:27.081849",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

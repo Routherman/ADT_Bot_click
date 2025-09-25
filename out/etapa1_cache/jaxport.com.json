@@ -1,0 +1,677 @@
+{
+  "site_url": "https://jaxport.com/",
+  "domain": "jaxport.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://jaxport.com/",
+    "https://www.jaxport.com/contact-us/",
+    "https://www.jaxport.com/cruise/book-your-cruise/",
+    "https://www.jaxport.com/corporate/about-jaxport/",
+    "https://www.jaxport.com/corporate/about-jaxport/strategic-plan/",
+    "https://www.jaxport.com/corporate/about-jaxport/financial-reports/",
+    "https://www.jaxport.com/corporate/about-jaxport/grants/",
+    "https://www.jaxport.com/corporate/about-jaxport/port-history/",
+    "https://www.jaxport.com/corporate/about-jaxport/charter-and-executive-summary/",
+    "https://www.jaxport.com/port-access/visitor-forms/",
+    "https://jaxport.com/contact-us/",
+    "https://www.jaxport.com/cruise/parking-directions/",
+    "https://www.jaxport.com/corporate/jobs/",
+    "https://www.jaxport.com/cargo/resources/vessel-schedule/",
+    "https://www.jaxport.com/procurement/active-solicitations/",
+    "https://www.jaxport.com/cargo/",
+    "https://www.jaxport.com/port-access/twic/",
+    "https://www.jaxport.com/media/news-releases/",
+    "https://jaxport.com/cargo/cargo-blog/",
+    "https://www.jaxport.com/corporate/public-meetings/",
+    "https://www.jaxport.com/",
+    "https://www.jaxport.com/cargo/strategic-location/",
+    "https://www.jaxport.com/cargo/highway-connections/",
+    "https://www.jaxport.com/cargo/rail-connections/",
+    "https://www.jaxport.com/cargo/foreign-trade-zone-64/",
+    "https://www.jaxport.com/cargo/warehousing-distribution/",
+    "https://www.jaxport.com/cargo/backhaul-opportunities/",
+    "https://www.jaxport.com/cargo/global-connections/",
+    "https://www.jaxport.com/cargo/global-connections/trade-lanes-map/",
+    "https://www.jaxport.com/cargo/global-connections/africa/",
+    "https://www.jaxport.com/cargo/global-connections/asia/",
+    "https://www.jaxport.com/cargo/global-connections/caribbean/",
+    "https://www.jaxport.com/cargo/global-connections/central-america/",
+    "https://www.jaxport.com/cargo/global-connections/europe/",
+    "https://www.jaxport.com/cargo/global-connections/indian-subcontinent/",
+    "https://www.jaxport.com/cargo/global-connections/middle-east/",
+    "https://www.jaxport.com/cargo/global-connections/oceania/",
+    "https://www.jaxport.com/cargo/global-connections/north-america/",
+    "https://www.jaxport.com/cargo/global-connections/south-america/",
+    "https://www.jaxport.com/cargo/cargo-types/",
+    "https://www.jaxport.com/cargo/cargo-types/autos/",
+    "https://www.jaxport.com/cargo/cargo-types/breakbulk/",
+    "https://www.jaxport.com/cargo/cargo-types/bulk/",
+    "https://www.jaxport.com/cargo/cargo-types/containerized/",
+    "https://www.jaxport.com/cargo/cargo-types/forest-products/",
+    "https://www.jaxport.com/cargo/cargo-types/fresh-and-frozen/",
+    "https://www.jaxport.com/cargo/cargo-types/heavy-lift/",
+    "https://www.jaxport.com/cargo/cargo-types/high-heavy-roro/",
+    "https://www.jaxport.com/cargo/cargo-types/lng/",
+    "https://www.jaxport.com/cargo/cargo-types/military/",
+    "https://www.jaxport.com/cargo/ocean-carriers/",
+    "https://www.jaxport.com/cargo/ocean-carriers/container-services/",
+    "https://www.jaxport.com/cargo/ocean-carriers/roro-services/",
+    "https://www.jaxport.com/cargo/cargo-blog/",
+    "https://www.jaxport.com/cargo/resources/",
+    "https://www.jaxport.com/cargo/resources/live-harbor-map/",
+    "https://www.jaxport.com/cargo/resources/business-directory/",
+    "https://www.jaxport.com/cargo/resources/tariff/",
+    "https://www.jaxport.com/cargo/resources/cargo-faq/",
+    "https://www.jaxport.com/cargo/facilities/",
+    "https://www.jaxport.com/cargo/facilities/hours-of-operation/",
+    "https://www.jaxport.com/cargo/facilities/blount-island-marine-terminal/",
+    "https://www.jaxport.com/cargo/facilities/dames-point-marine-terminal/",
+    "https://www.jaxport.com/cargo/facilities/dames-point-ictf/",
+    "https://www.jaxport.com/cargo/facilities/talleyrand-marine-terminal/",
+    "https://www.jaxport.com/cargo/facilities/talleyrand-ictf/",
+    "https://www.jaxport.com/cargo/facilities/tech-specs/",
+    "https://www.jaxport.com/corporate/board-of-directors/",
+    "https://www.jaxport.com/corporate/executive-staff/",
+    "https://www.jaxport.com/cargo/sales-marketing-team/",
+    "https://www.jaxport.com/cargo/port-improvements/",
+    "https://www.jaxport.com/cargo/port-improvements/ssa-jacksonville-container-terminal/",
+    "https://www.jaxport.com/cargo/port-improvements/harbor-deepening/",
+    "https://www.jaxport.com/cargo/port-improvements/100-gauge-cranes/",
+    "https://www.jaxport.com/cargo/port-improvements/berth-enhancements/",
+    "https://www.jaxport.com/cruise/",
+    "https://www.jaxport.com/cruise/transportation-to-terminal/",
+    "https://www.jaxport.com/cruise/cruise-faq/",
+    "https://www.jaxport.com/cruise/berth-information/",
+    "https://www.jaxport.com/cruise/commercial-traffic/",
+    "https://www.jaxport.com/corporate/",
+    "https://www.jaxport.com/corporate/board-meetings/",
+    "https://www.jaxport.com/corporate/public-records/",
+    "https://www.jaxport.com/corporate/ethics/",
+    "https://www.jaxport.com/corporate/jobs/jaxport-jobs/",
+    "https://www.jaxport.com/corporate/jobs/private-sector-jobs/",
+    "https://www.jaxport.com/corporate/jobs/jobs-faq/",
+    "https://www.jaxport.com/corporate/jobs/economic-impact/",
+    "https://www.jaxport.com/corporate/community/",
+    "https://www.jaxport.com/corporate/community/environmental-programs/",
+    "https://www.jaxport.com/corporate/community/education/",
+    "https://www.jaxport.com/corporate/community/giving/",
+    "https://www.jaxport.com/corporate/community/sponsorships/",
+    "https://www.jaxport.com/procurement/small-business-program/",
+    "https://www.jaxport.com/procurement/"
+  ],
+  "candidates": [
+    "https://jaxport.com/contact-us/",
+    "https://www.jaxport.com/contact-us/",
+    "https://www.jaxport.com/corporate/about-jaxport/",
+    "https://www.jaxport.com/corporate/about-jaxport/charter-and-executive-summary/",
+    "https://www.jaxport.com/corporate/about-jaxport/financial-reports/",
+    "https://www.jaxport.com/corporate/about-jaxport/grants/",
+    "https://www.jaxport.com/corporate/about-jaxport/port-history/",
+    "https://www.jaxport.com/corporate/about-jaxport/strategic-plan/",
+    "https://www.jaxport.com/cruise/book-your-cruise/",
+    "https://www.jaxport.com/port-access/visitor-forms/",
+    "https://jaxport.com/",
+    "https://www.jaxport.com/cargo/resources/vessel-schedule/",
+    "https://jaxport.com/contact",
+    "https://jaxport.com/contact/",
+    "https://jaxport.com/contact-us",
+    "https://jaxport.com/contactus",
+    "https://jaxport.com/contactus/",
+    "https://jaxport.com/about",
+    "https://jaxport.com/about/",
+    "https://jaxport.com/about-us",
+    "https://jaxport.com/about-us/",
+    "https://jaxport.com/visit",
+    "https://jaxport.com/visit/",
+    "https://jaxport.com/location",
+    "https://jaxport.com/location/",
+    "https://jaxport.com/directions",
+    "https://jaxport.com/directions/"
+  ],
+  "per_page": {
+    "https://jaxport.com/contact-us/": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://jaxport.com/contact-us/"
+          ]
+        },
+        "schedule": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://jaxport.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "communications@jaxport.com",
+        "cruises@jaxport.com",
+        "hr@jaxport.com",
+        "info@jaxport.com",
+        "portjobs@jaxport.com",
+        "public.records@jaxport.com",
+        "security.opscenter@jaxport.com"
+      ],
+      "phones": [
+        "(800) 874-8050",
+        "(904) 357-3000",
+        "(904) 357-3001",
+        "(904) 357-3004",
+        "(904) 357-3006",
+        "(904) 357-3009",
+        "(904) 357-3013",
+        "(904) 357-3017",
+        "(904) 357-3020",
+        "(904) 357-3021",
+        "(904) 357-3024",
+        "(904) 357-3029",
+        "(904) 357-3030",
+        "(904) 357-3035",
+        "(904) 357-3036",
+        "(904) 357-3038",
+        "(904) 357-3044",
+        "(904) 357-3047",
+        "(904) 357-3049",
+        "(904) 357-3055",
+        "(904) 357-3056",
+        "(904) 357-3059",
+        "(904) 357-3062",
+        "(904) 357-3067",
+        "(904) 357-3068",
+        "(904) 357-3070",
+        "(904) 357-3072",
+        "(904) 357-3075",
+        "(904) 357-3083",
+        "(904) 357-3091",
+        "(904) 357-3094",
+        "(904) 357-3100",
+        "(904) 357-3120",
+        "(904) 357-3121",
+        "(904) 357-3132",
+        "(904) 357-3204",
+        "(904) 357-3206",
+        "(904) 357-3210",
+        "(904) 357-3303",
+        "(904) 357-3344",
+        "(904) 357-3351",
+        "(904) 357-3360",
+        "(904) 357-3370",
+        "(904) 357-3452",
+        "(904) 477-9730",
+        "(904) 545-6004"
+      ],
+      "socials": [
+        "http://instagram.com/jax_port",
+        "http://www.linkedin.com/company/334262",
+        "https://www.facebook.com/JacksonvillePortAuthority",
+        "https://www.youtube.com/user/JAXPORT"
+      ]
+    },
+    "https://www.jaxport.com/contact-us/": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/contact-us/"
+          ]
+        },
+        "schedule": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "communications@jaxport.com",
+        "cruises@jaxport.com",
+        "hr@jaxport.com",
+        "info@jaxport.com",
+        "portjobs@jaxport.com",
+        "public.records@jaxport.com",
+        "security.opscenter@jaxport.com"
+      ],
+      "phones": [
+        "(800) 874-8050",
+        "(904) 357-3000",
+        "(904) 357-3001",
+        "(904) 357-3004",
+        "(904) 357-3006",
+        "(904) 357-3009",
+        "(904) 357-3013",
+        "(904) 357-3017",
+        "(904) 357-3020",
+        "(904) 357-3021",
+        "(904) 357-3024",
+        "(904) 357-3029",
+        "(904) 357-3030",
+        "(904) 357-3035",
+        "(904) 357-3036",
+        "(904) 357-3038",
+        "(904) 357-3044",
+        "(904) 357-3047",
+        "(904) 357-3049",
+        "(904) 357-3055",
+        "(904) 357-3056",
+        "(904) 357-3059",
+        "(904) 357-3062",
+        "(904) 357-3067",
+        "(904) 357-3068",
+        "(904) 357-3070",
+        "(904) 357-3072",
+        "(904) 357-3075",
+        "(904) 357-3083",
+        "(904) 357-3091",
+        "(904) 357-3094",
+        "(904) 357-3100",
+        "(904) 357-3120",
+        "(904) 357-3121",
+        "(904) 357-3132",
+        "(904) 357-3204",
+        "(904) 357-3206",
+        "(904) 357-3210",
+        "(904) 357-3303",
+        "(904) 357-3344",
+        "(904) 357-3351",
+        "(904) 357-3360",
+        "(904) 357-3370",
+        "(904) 357-3452",
+        "(904) 477-9730",
+        "(904) 545-6004"
+      ],
+      "socials": [
+        "http://instagram.com/jax_port",
+        "http://www.linkedin.com/company/334262",
+        "https://www.facebook.com/JacksonvillePortAuthority",
+        "https://www.youtube.com/user/JAXPORT"
+      ]
+    },
+    "https://www.jaxport.com/corporate/about-jaxport/": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/corporate/about-jaxport/"
+          ]
+        },
+        "schedule": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/corporate/about-jaxport/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 357-3000",
+        "(904) 357-3006"
+      ],
+      "socials": [
+        "http://instagram.com/jax_port",
+        "http://www.linkedin.com/company/334262",
+        "https://www.facebook.com/JacksonvillePortAuthority",
+        "https://www.youtube.com/user/JAXPORT"
+      ]
+    },
+    "https://www.jaxport.com/corporate/about-jaxport/charter-and-executive-summary/": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/corporate/about-jaxport/charter-and-executive-summary/"
+          ]
+        },
+        "schedule": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/corporate/about-jaxport/charter-and-executive-summary/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 357-3000",
+        "(904) 357-3006"
+      ],
+      "socials": [
+        "http://instagram.com/jax_port",
+        "http://www.linkedin.com/company/334262",
+        "https://www.facebook.com/JacksonvillePortAuthority",
+        "https://www.youtube.com/user/JAXPORT"
+      ]
+    },
+    "https://www.jaxport.com/corporate/about-jaxport/financial-reports/": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/corporate/about-jaxport/financial-reports/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/corporate/about-jaxport/financial-reports/"
+          ]
+        },
+        "schedule": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/corporate/about-jaxport/financial-reports/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 357-3000",
+        "(904) 357-3006"
+      ],
+      "socials": [
+        "http://instagram.com/jax_port",
+        "http://www.linkedin.com/company/334262",
+        "https://www.facebook.com/JacksonvillePortAuthority",
+        "https://www.youtube.com/user/JAXPORT"
+      ]
+    },
+    "https://www.jaxport.com/corporate/about-jaxport/grants/": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/corporate/about-jaxport/grants/"
+          ]
+        },
+        "schedule": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/corporate/about-jaxport/grants/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 357-3000",
+        "(904) 357-3006"
+      ],
+      "socials": [
+        "http://instagram.com/jax_port",
+        "http://www.linkedin.com/company/334262",
+        "https://www.facebook.com/JacksonvillePortAuthority",
+        "https://www.youtube.com/user/JAXPORT"
+      ]
+    },
+    "https://www.jaxport.com/corporate/about-jaxport/port-history/": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/corporate/about-jaxport/port-history/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/corporate/about-jaxport/port-history/"
+          ]
+        },
+        "schedule": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/corporate/about-jaxport/port-history/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 357-3000",
+        "(904) 357-3006"
+      ],
+      "socials": [
+        "http://instagram.com/jax_port",
+        "http://www.linkedin.com/company/334262",
+        "https://www.facebook.com/JacksonvillePortAuthority",
+        "https://www.youtube.com/user/JAXPORT"
+      ]
+    },
+    "https://www.jaxport.com/corporate/about-jaxport/strategic-plan/": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/corporate/about-jaxport/strategic-plan/"
+          ]
+        },
+        "schedule": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/corporate/about-jaxport/strategic-plan/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 357-3000",
+        "(904) 357-3006"
+      ],
+      "socials": [
+        "http://instagram.com/jax_port",
+        "http://www.linkedin.com/company/334262",
+        "https://www.facebook.com/JacksonvillePortAuthority",
+        "https://www.youtube.com/user/JAXPORT"
+      ]
+    },
+    "https://www.jaxport.com/cruise/book-your-cruise/": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/cruise/book-your-cruise/"
+          ]
+        },
+        "schedule": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.jaxport.com/cruise/book-your-cruise/"
+          ]
+        }
+      },
+      "emails": [
+        "cruises@jaxport.com"
+      ],
+      "phones": [
+        "(904) 260-7827",
+        "(904) 357-3000",
+        "(904) 357-3006",
+        "(904) 387-2234",
+        "(904) 403-2956",
+        "(904) 422-6124",
+        "(904) 565-7722",
+        "(904) 567-8256",
+        "(904) 731-3101"
+      ],
+      "socials": [
+        "http://instagram.com/jax_port",
+        "http://www.linkedin.com/company/334262",
+        "https://www.facebook.com/JacksonvillePortAuthority",
+        "https://www.facebook.com/visitjacksonville",
+        "https://www.linkedin.com/company/visit-jacksonville/",
+        "https://www.youtube.com/user/JAXPORT"
+      ]
+    }
+  }
+}

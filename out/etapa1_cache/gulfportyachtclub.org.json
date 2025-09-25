@@ -1,0 +1,834 @@
+{
+  "site_url": "https://gulfportyachtclub.org/",
+  "domain": "gulfportyachtclub.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://gulfportyachtclub.org/",
+    "https://www.gulfportyachtclub.org/about-the-club",
+    "https://www.gulfportyachtclub.org/contact-us",
+    "https://www.gulfportyachtclub.org/",
+    "https://www.gulfportyachtclub.org/the-log-sheet",
+    "https://www.gulfportyachtclub.org/Default.aspx?p=v35Calendar&ssid=100196&vnf=1",
+    "https://www.gulfportyachtclub.org/default.aspx?p=TrackHyperlink&URL=https%3a%2f%2fwww.regattanetwork.com%2fevent%2f29486&ssid=112383233695&fid=14213920321",
+    "https://www.gulfportyachtclub.org/default.aspx?p=TrackHyperlink&URL=https%3a%2f%2fwww.regattanetwork.com%2fevent%2f29485&ssid=112383604432&fid=14213920321",
+    "https://www.gulfportyachtclub.org/default.aspx?p=TrackHyperlink&URL=%2fdefault.aspx%3fp%3dDynamicModule%26pageid%3d133%26ssid%3d100159%26vnf%3d1&ssid=112375077481&fid=14213920321",
+    "https://www.gulfportyachtclub.org/default.aspx?p=TrackHyperlink&URL=%2fdefault.aspx%3fp%3dDynamicModule%26pageid%3d134%26ssid%3d100160%26vnf%3d1&ssid=112375201060&fid=14213920321",
+    "https://www.gulfportyachtclub.org/default.aspx?p=TrackHyperlink&URL=%2fdefault.aspx%3fp%3dDynamicModule%26pageid%3d135%26ssid%3d100161%26vnf%3d1&ssid=112375324639&fid=14213920321",
+    "https://www.gulfportyachtclub.org/default.aspx?p=TrackHyperlink&URL=https%3a%2f%2fwww.gulfportyachtclub.org%2fthe-log-sheet&ssid=112382986537&fid=14213920321",
+    "https://www.gulfportyachtclub.org/default.aspx?p=TrackHyperlink&URL=%2fdefault.aspx%3fp%3dDynamicModule%26pageid%3d137%26ssid%3d100163%26vnf%3d1&ssid=112375571797&fid=14213920321",
+    "https://www.gulfportyachtclub.org/default.aspx?p=TrackHyperlink&URL=%2fdefault.aspx%3fp%3dDynamicModule%26pageid%3d138%26ssid%3d100164%26vnf%3d1&ssid=112375695376&fid=14213920321",
+    "https://www.gulfportyachtclub.org/default.aspx?p=TrackHyperlink&URL=%2fdefault.aspx%3fp%3dDynamicModule%26pageid%3d139%26ssid%3d100165%26vnf%3d1&ssid=112375818955&fid=14213920321",
+    "https://www.gulfportyachtclub.org/default.aspx?p=TrackHyperlink&URL=%2fdefault.aspx%3fp%3dDynamicModule%26pageid%3d140%26ssid%3d100166%26vnf%3d1&ssid=112375942534&fid=14213920321",
+    "https://www.gulfportyachtclub.org/member-login",
+    "https://www.gulfportyachtclub.org/default.aspx?p=DynamicModule&pageid=133&ssid=100159&vnf=1",
+    "https://www.gulfportyachtclub.org/gyc-regatta-page",
+    "https://www.gulfportyachtclub.org/learn-to-sail",
+    "https://www.gulfportyachtclub.org/Default.aspx?p=.NETCEEditorPFSTC&NoNav=1&ShowFooter=Falsenoimgtrack=1&NoModResize=1&ID=100251",
+    "https://www.gulfportyachtclub.org/cdn-cgi/l/email-protection",
+    "https://gulfportyachtclub.org",
+    "https://www.gulfportyachtclub.org/default.aspx?p=PrintCalendar&ssid=100196&vnf=1&NS=TRUE&nomodresize=1&showfooter=false&nonav=1",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.NET_Calendar&noReset=yes&mtab=true&ssid=100196&qfilter=&startdate=&title=&subtitle=&showfilter=&chgs=&view=l1",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.NET_Calendar&noReset=yes&mtab=true&ssid=100196&qfilter=&startdate=&title=&subtitle=&showfilter=&chgs=&view=l2",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.NET_Calendar&noReset=yes&mtab=true&ssid=100196&qfilter=&startdate=&title=&subtitle=&showfilter=&chgs=&view=l4",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.NET_Calendar&noReset=yes&mtab=true&ssid=100196&qfilter=&startdate=&title=&subtitle=&showfilter=&chgs=&view=l5",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.NET_Calendar&noReset=yes&mtab=true&ssid=100196&qfilter=&startdate=&title=&subtitle=&showfilter=&chgs=&view=l6",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=8/31/2025&ssid=100196&chgs=&sfil=",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=9/1/2025&ssid=100196&chgs=&sfil=",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=9/2/2025&ssid=100196&chgs=&sfil=",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=9/3/2025&ssid=100196&chgs=&sfil=",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=9/4/2025&ssid=100196&chgs=&sfil=",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=9/5/2025&ssid=100196&chgs=&sfil=",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=9/6/2025&ssid=100196&chgs=&sfil=",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=9/7/2025&ssid=100196&chgs=&sfil=",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=9/8/2025&ssid=100196&chgs=&sfil=",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=9/9/2025&ssid=100196&chgs=&sfil=",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=9/10/2025&ssid=100196&chgs=&sfil=",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=9/11/2025&ssid=100196&chgs=&sfil=",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=9/12/2025&ssid=100196&chgs=&sfil=",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=9/13/2025&ssid=100196&chgs=&sfil=",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=9/14/2025&ssid=100196&chgs=&sfil=",
+    "https://www.gulfportyachtclub.org/default.aspx?p=.net_calendar&qfilter=&view=l1&day=9/15/2025&ssid=100196&chgs=&sfil="
+  ],
+  "candidates": [
+    "https://www.gulfportyachtclub.org/contact-us",
+    "https://www.gulfportyachtclub.org/about-the-club",
+    "https://gulfportyachtclub.org",
+    "https://gulfportyachtclub.org/",
+    "https://gulfportyachtclub.org/contact",
+    "https://gulfportyachtclub.org/contact/",
+    "https://gulfportyachtclub.org/contact-us",
+    "https://gulfportyachtclub.org/contact-us/",
+    "https://gulfportyachtclub.org/contactus",
+    "https://gulfportyachtclub.org/contactus/",
+    "https://gulfportyachtclub.org/about",
+    "https://gulfportyachtclub.org/about/",
+    "https://gulfportyachtclub.org/about-us",
+    "https://gulfportyachtclub.org/about-us/",
+    "https://gulfportyachtclub.org/visit",
+    "https://gulfportyachtclub.org/visit/",
+    "https://gulfportyachtclub.org/location",
+    "https://gulfportyachtclub.org/location/",
+    "https://gulfportyachtclub.org/directions",
+    "https://gulfportyachtclub.org/directions/"
+  ],
+  "per_page": {
+    "https://www.gulfportyachtclub.org/contact-us": {
+      "title": "Contact Us - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.gulfportyachtclub.org/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.gulfportyachtclub.org/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "gyc.frontdesk@gmail.com",
+        "gyckitchen@gmail.com",
+        "gycmaintenance@gmail.com",
+        "info@gulfportyachtclub.org",
+        "koltengyc@gmail.com",
+        "stevechat1014@gmail.com"
+      ],
+      "phones": [
+        "(228) 383-3380",
+        "(228) 863-2263",
+        "(228) 863-6796"
+      ],
+      "socials": []
+    },
+    "https://www.gulfportyachtclub.org/about-the-club": {
+      "title": "About the Club - Gulfport Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.gulfportyachtclub.org/about-the-club"
+          ]
+        }
+      },
+      "emails": [
+        "gyc.frontdesk@gmail.com"
+      ],
+      "phones": [
+        "(228) 863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org"
+          ]
+        }
+      },
+      "emails": [
+        "gyc.frontdesk@gmail.com",
+        "koltengyc@gmail.com"
+      ],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/"
+          ]
+        }
+      },
+      "emails": [
+        "gyc.frontdesk@gmail.com",
+        "koltengyc@gmail.com"
+      ],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/contact": {
+      "title": "",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/contact/": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "gyc.frontdesk@gmail.com",
+        "koltengyc@gmail.com"
+      ],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/contact-us": {
+      "title": "Contact Us - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "gyc.frontdesk@gmail.com",
+        "gyckitchen@gmail.com",
+        "gycmaintenance@gmail.com",
+        "info@gulfportyachtclub.org",
+        "koltengyc@gmail.com",
+        "stevechat1014@gmail.com"
+      ],
+      "phones": [
+        "(228) 383-3380",
+        "(228) 863-2263",
+        "(228) 863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/contact-us/": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "gyc.frontdesk@gmail.com",
+        "koltengyc@gmail.com"
+      ],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/contactus": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "gyc.frontdesk@gmail.com",
+        "koltengyc@gmail.com"
+      ],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/contactus/": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "gyc.frontdesk@gmail.com",
+        "koltengyc@gmail.com"
+      ],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/about": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/about"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/about"
+          ]
+        }
+      },
+      "emails": [
+        "gyc.frontdesk@gmail.com",
+        "koltengyc@gmail.com"
+      ],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/about/": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/about/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/about/"
+          ]
+        }
+      },
+      "emails": [
+        "gyc.frontdesk@gmail.com",
+        "koltengyc@gmail.com"
+      ],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/about-us": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "gyc.frontdesk@gmail.com",
+        "koltengyc@gmail.com"
+      ],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/about-us/": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "gyc.frontdesk@gmail.com",
+        "koltengyc@gmail.com"
+      ],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/visit": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/visit"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/visit"
+          ]
+        }
+      },
+      "emails": [
+        "gyc.frontdesk@gmail.com",
+        "koltengyc@gmail.com"
+      ],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/visit/": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "gyc.frontdesk@gmail.com",
+        "koltengyc@gmail.com"
+      ],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/location": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/location"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/location/": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/location/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/directions": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/directions"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    },
+    "https://gulfportyachtclub.org/directions/": {
+      "title": "Home | Gulfport Yacht Club | Mississippi - Gulfport Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gulfportyachtclub.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(228) 863-6796",
+        "228-863-6796"
+      ],
+      "socials": []
+    }
+  }
+}

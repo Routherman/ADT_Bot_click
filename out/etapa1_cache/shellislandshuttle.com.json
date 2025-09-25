@@ -1,0 +1,415 @@
+{
+  "site_url": "https://shellislandshuttle.com/",
+  "domain": "shellislandshuttle.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://shellislandshuttle.com/",
+    "https://www.shellislandshuttle.com/contact-us/",
+    "https://www.shellislandshuttle.com/news/",
+    "https://www.shellislandshuttle.com/st-andrews-st-park-information/weddings-at-the-park/",
+    "https://www.shellislandshuttle.com/policies/terms-of-use/",
+    "https://www.shellislandshuttle.com/policies/privacy-policy/",
+    "https://www.shellislandshuttle.com/policies/accessibility/",
+    "https://www.shellislandshuttle.com/shell-island-shuttle/",
+    "https://www.shellislandshuttle.com/panama-city-beach-boat-rentals/",
+    "https://www.shellislandshuttle.com/dolphin-tours/",
+    "https://www.shellislandshuttle.com/shell-island-shuttle/snorkeling/",
+    "https://www.shellislandshuttle.com/reviews/",
+    "https://www.shellislandshuttle.com/shell-island-web-cam/",
+    "https://www.shellislandshuttle.com/hours/",
+    "https://www.shellislandshuttle.com/shell-island-shuttle/coupons/",
+    "https://www.shellislandshuttle.com/st-andrews-st-park-information/",
+    "https://www.shellislandshuttle.com/st-andrews-st-park-information/st-andrews-state-park-map/",
+    "https://www.shellislandshuttle.com/st-andrews-st-park-information/gift-shops/",
+    "https://www.shellislandshuttle.com/st-andrews-st-park-information/beach-warning-flags/",
+    "https://www.shellislandshuttle.com",
+    "https://www.shellislandshuttle.com/snorkeling/",
+    "https://www.shellislandshuttle.com/",
+    "https://www.shellislandshuttle.com/shell-island/",
+    "https://www.shellislandshuttle.com/shell-island-shuttle/kayak-rentals/",
+    "https://www.shellislandshuttle.com/st-andrews-st-park-information/bike-rentals/",
+    "https://www.shellislandshuttle.com/news/page/2/",
+    "https://www.shellislandshuttle.com/news/page/4/",
+    "https://www.shellislandshuttle.com/things-to-do-in-panama-city-beach-this-fall/",
+    "https://www.shellislandshuttle.com/love-dolphins-come-explore-with-us/",
+    "https://www.shellislandshuttle.com/the-best-things-to-do-at-saint-andrews-state-park/",
+    "https://www.shellislandshuttle.com/whats-better-guided-tours-or-exploring-on-your-own/",
+    "https://www.shellislandshuttle.com/the-many-different-ways-to-exercise-at-saint-andrews-state-park/",
+    "https://www.shellislandshuttle.com/would-you-like-to-experience-recreational-boating-in-panama-city-pontoon-rentals-are-the-best-bet/",
+    "https://www.shellislandshuttle.com/explore-shell-island/",
+    "https://www.shellislandshuttle.com/the-best-side-of-panama-city-beach/",
+    "https://www.shellislandshuttle.com/shell-island-st-andrews-state-park/",
+    "https://www.shellislandshuttle.com/contact/",
+    "https://www.shellislandshuttle.com/visit-shell-island/",
+    "http://shellislandshuttle.com/things-panama-city-beach/",
+    "https://shellislandshuttle.com/st-andrews-st-park-information/",
+    "https://www.shellislandshuttle.com/st-andrews-st-park-information/paddleboard-rentals/",
+    "https://www.shellislandshuttle.com/st-andrews-st-park-information/beach-chair-rentals/",
+    "https://www.shellislandshuttle.com/shell-island-day-trip/",
+    "https://www.shellislandshuttle.com/news/?gclid=Cj0KCQjwl_SHBhCQARIsAFIFRVXOQjAj3BNZvrtlpDTansiJgNSjmhnnczoQ9mQxkDvaTTwB7bDdBwoaAoi9EALw_wcB",
+    "https://www.shellislandshuttle.com/news/page/3/?gclid=Cj0KCQjwl_SHBhCQARIsAFIFRVXOQjAj3BNZvrtlpDTansiJgNSjmhnnczoQ9mQxkDvaTTwB7bDdBwoaAoi9EALw_wcB",
+    "https://www.shellislandshuttle.com/news/page/4/?gclid=Cj0KCQjwl_SHBhCQARIsAFIFRVXOQjAj3BNZvrtlpDTansiJgNSjmhnnczoQ9mQxkDvaTTwB7bDdBwoaAoi9EALw_wcB",
+    "https://www.shellislandshuttle.com/what-you-should-consider-before-renting-a-pontoon-boat/",
+    "https://www.shellislandshuttle.com/top-three-ways-to-have-fun-in-the-water-in-panama-city/",
+    "https://www.shellislandshuttle.com/the-best-animal-adventures-in-panama-city-beach/",
+    "https://www.shellislandshuttle.com/fun-affordable-boat-rentals-in-panama-city-beach/",
+    "https://www.shellislandshuttle.com/dolphin-reunites-with-family/",
+    "https://www.shellislandshuttle.com/stranded-bottled-nose-dolphins/",
+    "https://www.shellislandshuttle.com/spring-break-2014/",
+    "https://www.shellislandshuttle.com/shell-island-shuttle-is-moving/",
+    "https://www.shellislandshuttle.com/brand-new-pontoon-boats-st-andrews-state-park/",
+    "https://www.shellislandshuttle.com/news/page/3/",
+    "https://www.shellislandshuttle.com/happiness-everywhere/",
+    "https://www.shellislandshuttle.com/the-best-things-to-rent-in-saint-andrews-state-park/",
+    "https://www.shellislandshuttle.com/why-rent-pontoon-boats-in-panama-city-beach/",
+    "https://www.shellislandshuttle.com/top-three-things-to-do-on-a-sunny-day-in-panama-city-florida/",
+    "https://www.shellislandshuttle.com/5-must-see-attractions-in-panama-city/",
+    "https://www.shellislandshuttle.com/top-5-reasons-to-rent-a-pontoon-from-shell-island-pontoon-boats/",
+    "https://shellislandshuttle.com/dolphin-tours/",
+    "https://shellislandshuttle.com/things-panama-city-beach/",
+    "https://www.shellislandshuttle.com/shell-island-2/",
+    "https://www.shellislandshuttle.com/explore-shell-island",
+    "https://www.shellislandshuttle.com/family-pontoon-adventure/",
+    "https://www.shellislandshuttle.com/gator-lake-at-st-andrews-state-park/",
+    "https://www.shellislandshuttle.com/relating-with-dolphins/",
+    "https://www.shellislandshuttle.com/natural-asset/",
+    "https://shellislandshuttle.com/pontoon-boats/double-decker-boats/",
+    "https://shellislandshuttle.com/dolphin-tours/dolphin-tours-gallery/",
+    "https://shellislandshuttle.com/contact-us/",
+    "https://shellislandshuttle.com/pontoon-boats/?utm_source=Blog%20Post&utm_medium=blog%20link&utm_campaign=Fun%2C%20Affordable%20Boat%20Rentals%20in%20Panama%20City%20Beach&utm_content=Affordable%20Boat%20Rentals%20Blog%20Post",
+    "https://shellislandshuttle.com/pontoon-boats/pontoon-boat-rental-faqs/",
+    "https://shellislandshuttle.com/shell-island-shuttle/",
+    "https://shellislandshuttle.com/st-andrews-st-park-information/bike-rentals/",
+    "https://shellislandshuttle.com/pontoon-boats/",
+    "https://shellislandshuttle.com/panama-city-beach-dolphin-tour/"
+  ],
+  "candidates": [
+    "https://shellislandshuttle.com/contact-us/",
+    "https://www.shellislandshuttle.com/contact-us/",
+    "https://www.shellislandshuttle.com/contact/",
+    "https://www.shellislandshuttle.com/st-andrews-st-park-information/weddings-at-the-park/",
+    "https://www.shellislandshuttle.com/policies/accessibility/",
+    "https://www.shellislandshuttle.com/policies/privacy-policy/",
+    "https://www.shellislandshuttle.com/policies/terms-of-use/",
+    "https://www.shellislandshuttle.com/visit-shell-island/",
+    "https://www.shellislandshuttle.com/news/",
+    "https://www.shellislandshuttle.com/news/?gclid=Cj0KCQjwl_SHBhCQARIsAFIFRVXOQjAj3BNZvrtlpDTansiJgNSjmhnnczoQ9mQxkDvaTTwB7bDdBwoaAoi9EALw_wcB",
+    "https://www.shellislandshuttle.com/news/page/2/",
+    "https://www.shellislandshuttle.com/news/page/3/",
+    "https://www.shellislandshuttle.com/news/page/3/?gclid=Cj0KCQjwl_SHBhCQARIsAFIFRVXOQjAj3BNZvrtlpDTansiJgNSjmhnnczoQ9mQxkDvaTTwB7bDdBwoaAoi9EALw_wcB",
+    "https://www.shellislandshuttle.com/news/page/4/",
+    "https://www.shellislandshuttle.com/news/page/4/?gclid=Cj0KCQjwl_SHBhCQARIsAFIFRVXOQjAj3BNZvrtlpDTansiJgNSjmhnnczoQ9mQxkDvaTTwB7bDdBwoaAoi9EALw_wcB",
+    "https://shellislandshuttle.com/",
+    "https://shellislandshuttle.com/contact",
+    "https://shellislandshuttle.com/contact/",
+    "https://shellislandshuttle.com/contact-us",
+    "https://shellislandshuttle.com/contactus",
+    "https://shellislandshuttle.com/contactus/",
+    "https://shellislandshuttle.com/about",
+    "https://shellislandshuttle.com/about/",
+    "https://shellislandshuttle.com/about-us",
+    "https://shellislandshuttle.com/about-us/",
+    "https://shellislandshuttle.com/visit",
+    "https://shellislandshuttle.com/visit/",
+    "https://shellislandshuttle.com/location",
+    "https://shellislandshuttle.com/location/",
+    "https://shellislandshuttle.com/directions",
+    "https://shellislandshuttle.com/directions/"
+  ],
+  "per_page": {
+    "https://shellislandshuttle.com/contact-us/": {
+      "title": "Shell Island Info|Shell Island Shuttle | Panama City Beach",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://shellislandshuttle.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 233-0504"
+      ],
+      "socials": [
+        "https://www.facebook.com/ShellIslandShuttle/",
+        "https://www.instagram.com/shellislandshuttle/"
+      ]
+    },
+    "https://www.shellislandshuttle.com/contact-us/": {
+      "title": "Shell Island Info|Shell Island Shuttle | Panama City Beach",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.shellislandshuttle.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 233-0504"
+      ],
+      "socials": [
+        "https://www.facebook.com/ShellIslandShuttle/",
+        "https://www.instagram.com/shellislandshuttle/"
+      ]
+    },
+    "https://www.shellislandshuttle.com/contact/": {
+      "title": "Shell Island Info|Shell Island Shuttle | Panama City Beach",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.shellislandshuttle.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 233-0504"
+      ],
+      "socials": [
+        "https://www.facebook.com/ShellIslandShuttle/",
+        "https://www.instagram.com/shellislandshuttle/"
+      ]
+    },
+    "https://www.shellislandshuttle.com/st-andrews-st-park-information/weddings-at-the-park/": {
+      "title": "Panama City Beach Weddings located at Shell Island in St. Andrews State Park",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(850) 233-0504",
+        "(850) 628-2237"
+      ],
+      "socials": [
+        "https://www.facebook.com/ShellIslandShuttle/",
+        "https://www.instagram.com/shellislandshuttle/"
+      ]
+    },
+    "https://www.shellislandshuttle.com/policies/accessibility/": {
+      "title": "Accessibility",
+      "band_hits": {
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.shellislandshuttle.com/policies/accessibility/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 233-0504"
+      ],
+      "socials": []
+    },
+    "https://www.shellislandshuttle.com/policies/privacy-policy/": {
+      "title": "Privacy Policy",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.shellislandshuttle.com/policies/privacy-policy/"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.shellislandshuttle.com/policies/privacy-policy/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.shellislandshuttle.com/policies/privacy-policy/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 233-0504",
+        "1649686938",
+        "5681374933"
+      ],
+      "socials": [
+        "https://www.facebook.com/full_data_use_policy",
+        "https://www.facebook.com/help/164968693837950",
+        "https://www.facebook.com/help/568137493302217",
+        "https://www.facebook.com/policy.php",
+        "https://www.facebook.com/privacy/explanation",
+        "https://www.facebook.com/terms.php"
+      ]
+    },
+    "https://www.shellislandshuttle.com/policies/terms-of-use/": {
+      "title": "Terms of Use",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.shellislandshuttle.com/policies/terms-of-use/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.shellislandshuttle.com/policies/terms-of-use/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 233-0504"
+      ],
+      "socials": []
+    },
+    "https://www.shellislandshuttle.com/visit-shell-island/": {
+      "title": "Shell Island Shuttle | Panama City Beach | Shell Island",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.shellislandshuttle.com/visit-shell-island/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 233-0504"
+      ],
+      "socials": [
+        "https://www.facebook.com/ShellIslandShuttle/",
+        "https://www.instagram.com/shellislandshuttle/"
+      ]
+    },
+    "https://www.shellislandshuttle.com/news/": {
+      "title": "Fall in Panama City Beach| Shell Island Shuttle | Panama City Beach Boat Rentals",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.shellislandshuttle.com/news/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 233-0504"
+      ],
+      "socials": [
+        "https://www.facebook.com/ShellIslandShuttle/",
+        "https://www.instagram.com/shellislandshuttle/"
+      ]
+    }
+  }
+}

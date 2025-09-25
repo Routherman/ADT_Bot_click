@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "url": "http://www.floridaysrvpark.com/about",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nRESERVE A SITE »\n(772) 546-5060\n10705 SE Federal Highway, Hobe Sound, FL 33455\n﻿\nHome\nAbout\nAmenities\nArea Attractions\nRates & Reservations\nBlog\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nAbout\nAbout Us\nFloridays is a friendly 84-site community of like-minded people who love the RV lifestyle. We have vacationers, snowbirds, and around 30 full-timers who live and work in Hobe Sound. Our location is blessed with nearby natural attractions and landmark restaurants and is right on Florida’s infamous Highway 1, or as the locals call it—Federal Highway. While Hobe Sound lies along the Treasure Coast just north of the elegant Palm Beaches, it may as well be a million miles away.\nShopping and fine dining are nearby, but the real Hobe Sound is Floridays—“better days” kayaking down the Loxahatchee River, hiking wooded trails, watching giant Loggerhead turtles dig their nest on the beach, or just hanging out either with the locals listening to live music at Harry and the Natives.\nOur History\nWhen we purchased what was then Angle Inn Mobile Court in October 2010, the park was an eyesore. From the moment of purchase improvements were underway. Invasive plant species were torn out and replaced with native vegetation. Young oaks were planted as part of an overall long-term landscaping plan to provide lush foliage for year-round shade. Unstable RV pads were reinforced and firmed-up making them suitable for the largest RVs. Laundry facilities were expanded and vending machines added for guest convenience. The once run-down RV park is now experiencing its own kind of “Floridays” under its new, very appropriate name Floridays RV Park.\nHobe Sound’s History\nHobe Sound, population 11,500, is 6 square miles of old Florida charm, founded by shipwreck survivors in 1696. As the story goes, Captain Jonathan Dickinson and his crew convinced Jobe Indians to help his party survive. The Florida State Park named after him will be a highlight of your stay in Hobe Sound.\nHobe Sound was pineapple plantations around the time Henry Flagler built his famous coastal railroad. A group of English investors bought the land and developed road, bridges, and water systems. In the Roaring 20s Hobe Sound was renamed Picture City by the Olympia Improvement Corporation with plans to be the new Hollywood. Streets were spokes around a town park and had names like Zeus, Saturn, Mercury, Mars, Olympus, Venus, Pluto and Athena. Less than 10 years and one strong hurricane later, the original name was restored, but the street names and streetlights remain. After languishing through the Great Depression, The Hobe Sound Company bought the town. Two members of that group were William Barstow and Joseph V. Reed, both of whom went on to make a huge and important impact on Hobe Sound’s slow growth policy and preservation as a part of old Florida.\nDuring WWII the US Army Signal Corps build a base to train men to repair and operate RADAR units. After the war, the 10,000 acres were acquired by the state and became Jonathan Dickinson State Park.\nJupiter Island, an ocean-facing parcel of land next to Hobe Sound, was developed by the Reed family and the contribution they made define Hobe Sound today: The Banyan trees on Bridge Road, land for Zeus Park and the community center and its huge oak trees, Banner Lake’s community center, the public beach on Bridge Road, formation of Blowing Rocks preserve, and the Hobe Sound National Wildlife Refuge. Jupiter Island’s Beach Road makes a great biking route. According to FloridaRambler.com houses here have two names, one to describe the property (like Paradise Found) and one named “Service Entry.”\nCelebrities such as Tiger Woods, Celine Dion, Greg Norman, and Alan Jackson (Jimmy Buffett’s buddy) have called Jupiter Island home.\nWhat to do in Hobe Sound\nButton\nButton\nButton\nButton\nButton\nButton\nButton\nSome images on this site are compliments of The Jupiter Daily\nCONTACT US\nFloridays RV Park\n10705 SE Federal Highway\nHobe Sound, FL 33455\n(772) 546-5060\ninfo@floridaysrvpark.com\nGUEST REVIEWS\n“Floridays is the best RV park decision we ever made and a good value.”\nReviews\nSITE MAP\nHome\nAbout\nAmenities\nArea Attractions\nRates & Reservations\nBlog\n© 2025\nFloridays RV Park. All rights reserved\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: 068c475e\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": [
+        "info@floridaysrvpark.com"
+      ]
+    }
+  ],
+  "all_links": [
+    "http://www.floridaysrvpark.com/amenities",
+    "http://www.floridaysrvpark.com/area-attractions",
+    "http://www.floridaysrvpark.com/about",
+    "http://www.floridaysrvpark.com/",
+    "mailto:info@floridaysrvpark.com",
+    "http://www.floridaysrvpark.com/reviews",
+    "http://www.floridaysrvpark.com/blog",
+    "http://www.floridaysrvpark.com/rates-and-reservations"
+  ],
+  "candidate_links": [
+    "http://www.floridaysrvpark.com/about"
+  ],
+  "visited": [
+    "http://www.floridaysrvpark.com/",
+    "http://www.floridaysrvpark.com/about",
+    "http://www.floridaysrvpark.com/contact",
+    "http://www.floridaysrvpark.com/staff",
+    "http://www.floridaysrvpark.com/team",
+    "http://www.floridaysrvpark.com/board",
+    "http://www.floridaysrvpark.com/directory",
+    "http://www.floridaysrvpark.com/events",
+    "http://www.floridaysrvpark.com/sitemap.xml",
+    "http://www.floridaysrvpark.com/council",
+    "http://www.floridaysrvpark.com/leadership",
+    "http://www.floridaysrvpark.com/management",
+    "http://www.floridaysrvpark.com/producers",
+    "http://www.floridaysrvpark.com/support",
+    "http://www.floridaysrvpark.com/crew",
+    "http://www.floridaysrvpark.com/members",
+    "http://www.floridaysrvpark.com/bios",
+    "http://www.floridaysrvpark.com/people",
+    "http://www.floridaysrvpark.com/artists",
+    "http://www.floridaysrvpark.com/musicians",
+    "http://www.floridaysrvpark.com/faculty",
+    "http://www.floridaysrvpark.com/administration",
+    "http://www.floridaysrvpark.com/about"
+  ],
+  "base_url": "http://www.floridaysrvpark.com/"
+}

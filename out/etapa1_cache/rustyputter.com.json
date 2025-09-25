@@ -1,0 +1,529 @@
+{
+  "site_url": "https://rustyputter.com/",
+  "domain": "rustyputter.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://rustyputter.com/",
+    "https://rustyputter.com/about-us/",
+    "https://rustyputter.com/weddings/",
+    "https://rustyputter.com/contacts-us/",
+    "https://rustyputter.com/special-events/",
+    "https://rustyputter.com/catering/",
+    "https://rustyputter.com/trusted-vendors/"
+  ],
+  "candidates": [
+    "https://rustyputter.com/contacts-us/",
+    "https://rustyputter.com/about-us/",
+    "https://rustyputter.com/weddings/",
+    "https://rustyputter.com/",
+    "https://rustyputter.com/special-events/",
+    "https://rustyputter.com/contact",
+    "https://rustyputter.com/contact/",
+    "https://rustyputter.com/contact-us",
+    "https://rustyputter.com/contact-us/",
+    "https://rustyputter.com/contactus",
+    "https://rustyputter.com/contactus/",
+    "https://rustyputter.com/about",
+    "https://rustyputter.com/about/",
+    "https://rustyputter.com/about-us",
+    "https://rustyputter.com/visit",
+    "https://rustyputter.com/visit/",
+    "https://rustyputter.com/location",
+    "https://rustyputter.com/location/",
+    "https://rustyputter.com/directions",
+    "https://rustyputter.com/directions/"
+  ],
+  "per_page": {
+    "https://rustyputter.com/contacts-us/": {
+      "title": "Contact Us - The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/contacts-us/"
+          ]
+        }
+      },
+      "emails": [
+        "bonnerbar1@gmail.com"
+      ],
+      "phones": [
+        "(561) 603-4899"
+      ],
+      "socials": [
+        "https://www.facebook.com/therustyputtervenue"
+      ]
+    },
+    "https://rustyputter.com/about-us/": {
+      "title": "About Us - The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(561) 603-4899"
+      ],
+      "socials": []
+    },
+    "https://rustyputter.com/weddings/": {
+      "title": "Weddings - The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/weddings/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(561) 603-4899"
+      ],
+      "socials": []
+    },
+    "https://rustyputter.com/": {
+      "title": "The Rusty Putter - The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(561) 603-4899"
+      ],
+      "socials": [
+        "https://www.instagram.com/the-rusty-putter/"
+      ]
+    },
+    "https://rustyputter.com/special-events/": {
+      "title": "Special Events - The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/special-events/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/special-events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(561) 603-4899"
+      ],
+      "socials": []
+    },
+    "https://rustyputter.com/contact": {
+      "title": "Contact Us - The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "bonnerbar1@gmail.com"
+      ],
+      "phones": [
+        "(561) 603-4899"
+      ],
+      "socials": [
+        "https://www.facebook.com/therustyputtervenue"
+      ]
+    },
+    "https://rustyputter.com/contact/": {
+      "title": "Contact Us - The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "bonnerbar1@gmail.com"
+      ],
+      "phones": [
+        "(561) 603-4899"
+      ],
+      "socials": [
+        "https://www.facebook.com/therustyputtervenue"
+      ]
+    },
+    "https://rustyputter.com/contact-us": {
+      "title": "Page not found – The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rustyputter.com/contact-us/": {
+      "title": "Page not found – The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rustyputter.com/contactus": {
+      "title": "Page not found – The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rustyputter.com/contactus/": {
+      "title": "Page not found – The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rustyputter.com/about": {
+      "title": "About Us - The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(561) 603-4899"
+      ],
+      "socials": []
+    },
+    "https://rustyputter.com/about/": {
+      "title": "About Us - The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(561) 603-4899"
+      ],
+      "socials": []
+    },
+    "https://rustyputter.com/about-us": {
+      "title": "About Us - The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(561) 603-4899"
+      ],
+      "socials": []
+    },
+    "https://rustyputter.com/visit": {
+      "title": "Page not found – The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rustyputter.com/visit/": {
+      "title": "Page not found – The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rustyputter.com/location": {
+      "title": "Page not found – The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rustyputter.com/location/": {
+      "title": "Page not found – The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rustyputter.com/directions": {
+      "title": "Page not found – The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rustyputter.com/directions/": {
+      "title": "Page not found – The Rusty Putter",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rustyputter.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

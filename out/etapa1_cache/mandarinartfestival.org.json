@@ -1,0 +1,1268 @@
+{
+  "site_url": "https://mandarinartfestival.org/",
+  "domain": "mandarinartfestival.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://mandarinartfestival.org/",
+    "https://mandarinartfestival.org/about--visitor-info.html",
+    "https://mandarinartfestival.org/contact.html",
+    "https://mandarinartfestival.org/green-market.html",
+    "https://mandarinartfestival.org/childrens-art-show.html",
+    "https://mandarinartfestival.org/artist-information.html",
+    "https://mandarinartfestival.org/accepted-artists.html",
+    "https://mandarinartfestival.org/category-winners.html",
+    "https://mandarinartfestival.org/judges-biography.html",
+    "https://mandarinartfestival.org/sponsorship--advertising.html",
+    "https://mandarinartfestival.org/maf-news.html",
+    "https://www.mandarinartfestival.org/artist-information.html",
+    "https://mandarinartfestival.org/cdn-cgi/l/email-protection",
+    "https://mandarinartfestival.org/maf-news/category/event",
+    "https://www.mandarinartfestival.org/maf-news/2025-mandarin-art-festival-volunteers-needed",
+    "https://www.mandarinartfestival.org/maf-news/2025-maf-sponsors-become-a-sponsor-today",
+    "https://www.mandarinartfestival.org/maf-news/2023-maf-sponsors-become-a-sponsor-today",
+    "https://www.mandarinartfestival.org/maf-news/2022-maf-sponsors-become-a-sponsor-today",
+    "https://www.mandarinartfestival.org/maf-news/covid-19-pandemic-forces-cancellation-of-2020-festival",
+    "http://www.mandarinartfestival.org/accepted-artists.html",
+    "https://www.mandarinartfestival.org/maf-news/50th-anniversary-mandarin-art-festival-is-march-31-april-1-2018",
+    "https://www.mandarinartfestival.org/maf-news/vintage-for-the-arts-benefiting-the-50th-anniversary-mandarin-art-festival-o-sat-march-3rd-o-6-9-pm",
+    "https://www.mandarinartfestival.org/maf-news/travel-leisure-17-things-to-do-in-jacksonville-fl",
+    "https://www.mandarinartfestival.org/maf-news/2018-calling-all-artists-join-us-march-31-april-1",
+    "https://www.mandarinartfestival.org/maf-news/49th-annual-maf-featured-in-fl-times-union",
+    "https://mandarinartfestival.org/maf-news/previous/2",
+    "https://mandarinartfestival.org/maf-news/category/all",
+    "https://mandarinartfestival.org/maf-news/category/call-for-artists",
+    "https://mandarinartfestival.org/maf-news/category/call-for-sponsors",
+    "https://mandarinartfestival.org/maf-news/category/news",
+    "https://mandarinartfestival.org/maf-news/category/press-releases",
+    "https://mandarinartfestival.org/maf-news/archives/11-2024",
+    "https://mandarinartfestival.org/maf-news/archives/01-2023",
+    "https://mandarinartfestival.org/maf-news/archives/02-2022",
+    "https://mandarinartfestival.org/maf-news/archives/03-2020",
+    "https://mandarinartfestival.org/maf-news/archives/03-2018",
+    "https://mandarinartfestival.org/maf-news/archives/02-2018",
+    "https://mandarinartfestival.org/maf-news/archives/01-2018",
+    "https://mandarinartfestival.org/maf-news/archives/04-2017",
+    "https://mandarinartfestival.org/maf-news/archives/02-2017",
+    "https://mandarinartfestival.org/maf-news/archives/01-2017",
+    "https://mandarinartfestival.org/maf-news/archives/03-2016",
+    "https://www.mandarinartfestival.org/about--visitor-info.html",
+    "https://www.mandarinartfestival.org/contact.html",
+    "https://www.mandarinartfestival.org/",
+    "https://www.mandarinartfestival.org/green-market.html",
+    "https://www.mandarinartfestival.org/childrens-art-show.html",
+    "https://www.mandarinartfestival.org/accepted-artists.html",
+    "https://www.mandarinartfestival.org/category-winners.html",
+    "https://www.mandarinartfestival.org/judges-biography.html",
+    "https://www.mandarinartfestival.org/sponsorship--advertising.html",
+    "https://www.mandarinartfestival.org/maf-news.html",
+    "https://www.mandarinartfestival.org/cdn-cgi/l/email-protection",
+    "https://www.mandarinartfestival.org/maf-news/category/event",
+    "https://www.mandarinartfestival.org/maf-news/category/all",
+    "https://www.mandarinartfestival.org/maf-news/category/call-for-artists",
+    "https://www.mandarinartfestival.org/maf-news/category/call-for-sponsors",
+    "https://www.mandarinartfestival.org/maf-news/category/news",
+    "https://www.mandarinartfestival.org/maf-news/category/press-releases",
+    "https://www.mandarinartfestival.org/maf-news/archives/11-2024",
+    "https://www.mandarinartfestival.org/maf-news/archives/01-2023",
+    "https://www.mandarinartfestival.org/maf-news/archives/02-2022",
+    "https://www.mandarinartfestival.org/maf-news/archives/03-2020",
+    "https://www.mandarinartfestival.org/maf-news/archives/03-2018",
+    "https://www.mandarinartfestival.org/maf-news/archives/02-2018",
+    "https://www.mandarinartfestival.org/maf-news/archives/01-2018",
+    "https://www.mandarinartfestival.org/maf-news/archives/04-2017",
+    "https://www.mandarinartfestival.org/maf-news/archives/02-2017",
+    "https://www.mandarinartfestival.org/maf-news/archives/01-2017",
+    "https://www.mandarinartfestival.org/maf-news/archives/03-2016",
+    "http://www.mandarinartfestival.org/about--visitor-info.html",
+    "http://www.mandarinartfestival.org/contact.html"
+  ],
+  "candidates": [
+    "http://www.mandarinartfestival.org/contact.html",
+    "https://mandarinartfestival.org/contact.html",
+    "https://www.mandarinartfestival.org/contact.html",
+    "http://www.mandarinartfestival.org/about--visitor-info.html",
+    "https://mandarinartfestival.org/about--visitor-info.html",
+    "https://www.mandarinartfestival.org/about--visitor-info.html",
+    "https://mandarinartfestival.org/maf-news/category/event",
+    "https://www.mandarinartfestival.org/maf-news/category/event",
+    "https://mandarinartfestival.org/",
+    "http://www.mandarinartfestival.org/accepted-artists.html",
+    "https://mandarinartfestival.org/accepted-artists.html",
+    "https://mandarinartfestival.org/childrens-art-show.html",
+    "https://mandarinartfestival.org/maf-news/category/call-for-artists",
+    "https://www.mandarinartfestival.org/accepted-artists.html",
+    "https://www.mandarinartfestival.org/childrens-art-show.html",
+    "https://www.mandarinartfestival.org/maf-news/2018-calling-all-artists-join-us-march-31-april-1",
+    "https://www.mandarinartfestival.org/maf-news/category/call-for-artists",
+    "https://mandarinartfestival.org/contact",
+    "https://mandarinartfestival.org/contact/",
+    "https://mandarinartfestival.org/contact-us",
+    "https://mandarinartfestival.org/contact-us/",
+    "https://mandarinartfestival.org/contactus",
+    "https://mandarinartfestival.org/contactus/",
+    "https://mandarinartfestival.org/about",
+    "https://mandarinartfestival.org/about/",
+    "https://mandarinartfestival.org/about-us",
+    "https://mandarinartfestival.org/about-us/",
+    "https://mandarinartfestival.org/visit",
+    "https://mandarinartfestival.org/visit/",
+    "https://mandarinartfestival.org/location",
+    "https://mandarinartfestival.org/location/",
+    "https://mandarinartfestival.org/directions",
+    "https://mandarinartfestival.org/directions/"
+  ],
+  "per_page": {
+    "http://www.mandarinartfestival.org/contact.html": {
+      "title": "Contact - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.mandarinartfestival.org/contact.html"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.mandarinartfestival.org/contact.html"
+          ]
+        },
+        "artists": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.mandarinartfestival.org/contact.html"
+          ]
+        }
+      },
+      "emails": [
+        "mandarinartfestival@gmail.com"
+      ],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival"
+      ]
+    },
+    "https://mandarinartfestival.org/contact.html": {
+      "title": "Contact - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/contact.html"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/contact.html"
+          ]
+        },
+        "artists": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/contact.html"
+          ]
+        }
+      },
+      "emails": [
+        "mandarinartfestival@gmail.com"
+      ],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival"
+      ]
+    },
+    "https://www.mandarinartfestival.org/contact.html": {
+      "title": "Contact - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/contact.html"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/contact.html"
+          ]
+        },
+        "artists": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/contact.html"
+          ]
+        }
+      },
+      "emails": [
+        "mandarinartfestival@gmail.com"
+      ],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival"
+      ]
+    },
+    "http://www.mandarinartfestival.org/about--visitor-info.html": {
+      "title": "About & Visitor Info - Mandarin Art Festival - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.mandarinartfestival.org/about--visitor-info.html"
+          ]
+        },
+        "show": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.mandarinartfestival.org/about--visitor-info.html"
+          ]
+        },
+        "artists": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.mandarinartfestival.org/about--visitor-info.html"
+          ]
+        }
+      },
+      "emails": [
+        "mandarinartfestival@gmail.com"
+      ],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival"
+      ]
+    },
+    "https://mandarinartfestival.org/about--visitor-info.html": {
+      "title": "About & Visitor Info - Mandarin Art Festival - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/about--visitor-info.html"
+          ]
+        },
+        "show": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/about--visitor-info.html"
+          ]
+        },
+        "artists": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/about--visitor-info.html"
+          ]
+        }
+      },
+      "emails": [
+        "mandarinartfestival@gmail.com"
+      ],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival"
+      ]
+    },
+    "https://www.mandarinartfestival.org/about--visitor-info.html": {
+      "title": "About & Visitor Info - Mandarin Art Festival - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/about--visitor-info.html"
+          ]
+        },
+        "show": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/about--visitor-info.html"
+          ]
+        },
+        "artists": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/about--visitor-info.html"
+          ]
+        }
+      },
+      "emails": [
+        "mandarinartfestival@gmail.com"
+      ],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival"
+      ]
+    },
+    "https://mandarinartfestival.org/maf-news/category/event": {
+      "title": "Mandarin Art Festival - News - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/maf-news/category/event"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/maf-news/category/event"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/maf-news/category/event"
+          ]
+        },
+        "artists": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/maf-news/category/event"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival"
+      ]
+    },
+    "https://www.mandarinartfestival.org/maf-news/category/event": {
+      "title": "Mandarin Art Festival - News - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/maf-news/category/event"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/maf-news/category/event"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/maf-news/category/event"
+          ]
+        },
+        "artists": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/maf-news/category/event"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival"
+      ]
+    },
+    "https://mandarinartfestival.org/": {
+      "title": "Mandarin Art Festival - Jacksonville, Florida - Home - Mandarin Art Festival",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/"
+          ]
+        },
+        "artists": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/"
+          ]
+        }
+      },
+      "emails": [
+        "mandarinartfestival@gmail.com"
+      ],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival"
+      ]
+    },
+    "http://www.mandarinartfestival.org/accepted-artists.html": {
+      "title": "Accepted Artists - Mandarin Art Festival - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.mandarinartfestival.org/accepted-artists.html"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.mandarinartfestival.org/accepted-artists.html"
+          ]
+        },
+        "artists": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.mandarinartfestival.org/accepted-artists.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival",
+        "https://www.facebook.com/TallgalStudios/",
+        "https://www.instagram.com/color.wheel.cottage/",
+        "https://www.instagram.com/indian.river.decoys/"
+      ]
+    },
+    "https://mandarinartfestival.org/accepted-artists.html": {
+      "title": "Accepted Artists - Mandarin Art Festival - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/accepted-artists.html"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/accepted-artists.html"
+          ]
+        },
+        "artists": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/accepted-artists.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival",
+        "https://www.facebook.com/TallgalStudios/",
+        "https://www.instagram.com/color.wheel.cottage/",
+        "https://www.instagram.com/indian.river.decoys/"
+      ]
+    },
+    "https://mandarinartfestival.org/childrens-art-show.html": {
+      "title": "Children's Art Show - Mandarin Art Festival - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/childrens-art-show.html"
+          ]
+        },
+        "show": {
+          "total": 33,
+          "zones": {
+            "title": 1,
+            "body": 32,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/childrens-art-show.html"
+          ]
+        },
+        "artists": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/childrens-art-show.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival"
+      ]
+    },
+    "https://mandarinartfestival.org/maf-news/category/call-for-artists": {
+      "title": "Mandarin Art Festival - News - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/maf-news/category/call-for-artists"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/maf-news/category/call-for-artists"
+          ]
+        },
+        "artists": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/maf-news/category/call-for-artists"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival",
+        "https://www.facebook.com/hashtag/callforartists",
+        "https://www.facebook.com/hashtag/easterweekend2017",
+        "https://www.facebook.com/hashtag/maf",
+        "https://www.facebook.com/hashtag/mandarinflorida"
+      ]
+    },
+    "https://www.mandarinartfestival.org/accepted-artists.html": {
+      "title": "Accepted Artists - Mandarin Art Festival - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/accepted-artists.html"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/accepted-artists.html"
+          ]
+        },
+        "artists": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/accepted-artists.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival",
+        "https://www.facebook.com/TallgalStudios/",
+        "https://www.instagram.com/color.wheel.cottage/",
+        "https://www.instagram.com/indian.river.decoys/"
+      ]
+    },
+    "https://www.mandarinartfestival.org/childrens-art-show.html": {
+      "title": "Children's Art Show - Mandarin Art Festival - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/childrens-art-show.html"
+          ]
+        },
+        "show": {
+          "total": 33,
+          "zones": {
+            "title": 1,
+            "body": 32,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/childrens-art-show.html"
+          ]
+        },
+        "artists": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/childrens-art-show.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival"
+      ]
+    },
+    "https://www.mandarinartfestival.org/maf-news/2018-calling-all-artists-join-us-march-31-april-1": {
+      "title": "Mandarin Art Festival - News - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/maf-news/2018-calling-all-artists-join-us-march-31-april-1"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/maf-news/2018-calling-all-artists-join-us-march-31-april-1"
+          ]
+        },
+        "artists": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/maf-news/2018-calling-all-artists-join-us-march-31-april-1"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival"
+      ]
+    },
+    "https://www.mandarinartfestival.org/maf-news/category/call-for-artists": {
+      "title": "Mandarin Art Festival - News - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/maf-news/category/call-for-artists"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/maf-news/category/call-for-artists"
+          ]
+        },
+        "artists": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.mandarinartfestival.org/maf-news/category/call-for-artists"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival",
+        "https://www.facebook.com/hashtag/callforartists",
+        "https://www.facebook.com/hashtag/easterweekend2017",
+        "https://www.facebook.com/hashtag/maf",
+        "https://www.facebook.com/hashtag/mandarinflorida"
+      ]
+    },
+    "https://mandarinartfestival.org/contact": {
+      "title": "Contact - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/contact"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/contact"
+          ]
+        },
+        "artists": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "mandarinartfestival@gmail.com"
+      ],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival"
+      ]
+    },
+    "https://mandarinartfestival.org/contact/": {
+      "title": "Contact - Mandarin Art Festival - Jacksonville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/contact/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/contact/"
+          ]
+        },
+        "artists": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mandarinartfestival.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "mandarinartfestival@gmail.com"
+      ],
+      "phones": [
+        "(904) 268-1622",
+        "800-435-7352"
+      ],
+      "socials": [
+        "http://www.facebook.com/MandarinArtFestival",
+        "http://www.instagram.com/MandarinArtFestival"
+      ]
+    },
+    "https://mandarinartfestival.org/contact-us": {
+      "title": "404 - No se ha encontrado la página",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://mandarinartfestival.org/contact-us/": {
+      "title": "404 - No se ha encontrado la página",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://mandarinartfestival.org/contactus": {
+      "title": "404 - No se ha encontrado la página",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://mandarinartfestival.org/contactus/": {
+      "title": "404 - No se ha encontrado la página",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://mandarinartfestival.org/about": {
+      "title": "404 - No se ha encontrado la página",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://mandarinartfestival.org/about/": {
+      "title": "404 - No se ha encontrado la página",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://mandarinartfestival.org/about-us": {
+      "title": "404 - No se ha encontrado la página",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://mandarinartfestival.org/about-us/": {
+      "title": "404 - No se ha encontrado la página",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://mandarinartfestival.org/visit": {
+      "title": "404 - No se ha encontrado la página",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://mandarinartfestival.org/visit/": {
+      "title": "404 - No se ha encontrado la página",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://mandarinartfestival.org/location": {
+      "title": "404 - No se ha encontrado la página",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://mandarinartfestival.org/location/": {
+      "title": "404 - No se ha encontrado la página",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://mandarinartfestival.org/directions": {
+      "title": "404 - No se ha encontrado la página",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://mandarinartfestival.org/directions/": {
+      "title": "404 - No se ha encontrado la página",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

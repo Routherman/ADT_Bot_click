@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-22T13:15:07.064275",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T13:14:59.892238",
+      "company": {
+        "name": null,
+        "domain": "joiabeachmiami.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 52122075,
+          "description": "European-inspired restaurant and beach club located at Jungle Island on Watson Island in Miami.\n\nReservations: www.sevenrooms.com/reservations/joiabeach",
+          "domain": "joiabeachmiami.com",
+          "employees": "51 - 200",
+          "founded": "2020",
+          "fqdn": "www.joiabeachmiami.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/2/09/209c5e09aeec0ebc7ebff8fe26b3555a",
+          "name": "Joia Beach",
+          "revenueRange": [
+            1000000,
+            10000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/joiabeachclub"
+            }
+          },
+          "address": "Miami North America United States US 1111 Parrot Jungle Trail; Miami, Florida 33132, US Florida FL -80.19365692138672,25.774269104003906 ",
+          "location": {
+            "city": "Miami",
+            "country": "United States",
+            "fullLocation": "Miami North America United States US 1111 Parrot Jungle Trail; Miami, Florida 33132, US Florida FL -80.19365692138672,25.774269104003906 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1111 Parrot Jungle Trail; Miami, Florida 33132, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://joiabeachmiami.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T13:15:01.120485",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T13:15:07.060712",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

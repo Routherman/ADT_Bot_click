@@ -1,0 +1,130 @@
+{
+  "timestamp": "2025-09-20T19:24:11.736666",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T19:24:08.052778",
+      "company": {
+        "name": null,
+        "domain": "shooterswaterfront.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 7127468,
+          "description": "Shooters Waterfront is the largest waterfront restaurant in Ft Lauderdale with over 350 feet of private dock space and over 35,000 sq. ft. of indoor/outdoor space.  The landmark property proudly serves over 500,000 customers annually and that number has steadily grown each year. Shooters Waterfront embodies the memories and historic spirit of good times, great food and incredible views of the Intracoastal Waterway since it's inception in 1979.  After the 2014 remodel, Shooters reemerged as a destination restaurant with a modern look and new menu serving as Ft. Lauderdale’s best take on waterfront dining. The new ownership has successfully revitalized the restaurant while preserving Shooters’ one-of-a-kind atmosphere that loyal customers have come to know and love. \n\nFrom the sophisticated outside lounge to the contemporary dining room accompanied by three state-of-the-art bars, patrons can enjoy scenic Intracoastal Waterway views from day into night, whether they arrive by boat or car. Open daily for lunch and dinner, with a popular weekend brunch on Saturday and Sunday (dogs welcome), Shooter’s coastal cuisine and craft cocktails ensure a relaxed, yet elegant experience in beautiful Fort Lauderdale. Complimentary dock side yoga on Saturday mornings, Sushi 101 classes and monthly wine dinners are just a few of the exciting offerings that Shooters Waterfront regularly hosts. \n\nPlease visit our web site for all of our current Shooters Waterfront events as well as our sister property, Grateful Palate Catering & Events to learn more.",
+          "domain": "shooterswaterfront.com",
+          "employees": "201 - 500",
+          "founded": "2014",
+          "fqdn": "www.shooterswaterfront.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/1/e4/1e4db308ed7be7fcaf0a2b73b428a81d",
+          "name": "Shooters Waterfront",
+          "revenueRange": [],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/shooters-waterfront"
+            }
+          },
+          "address": "Fort Lauderdale North America United States US 3033 NE 32nd Ave; Fort Lauderdale, Florida, US Florida FL -80.14337921142578,26.122310638427734 ",
+          "location": {
+            "city": "Fort Lauderdale",
+            "country": "United States",
+            "fullLocation": "Fort Lauderdale North America United States US 3033 NE 32nd Ave; Fort Lauderdale, Florida, US Florida FL -80.14337921142578,26.122310638427734 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3033 NE 32nd Ave; Fort Lauderdale, Florida, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://shooterswaterfront.com",
+          "specialities": [
+            "catering",
+            "private events"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T19:24:09.387337",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T19:24:11.732070",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

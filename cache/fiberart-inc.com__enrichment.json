@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-24T05:17:00.436436",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T05:16:58.327836",
+      "company": {
+        "name": null,
+        "domain": "fiberart-inc.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 6940113,
+          "description": "Fiber Art Inc is an aviation & aerospace company based out of 8702 N Mobley Rd, Odessa, Florida, United States.",
+          "domain": "fiberart-inc.com",
+          "employees": "11 - 50",
+          "fqdn": "www.fiberart-inc.com",
+          "logoUrl": "https://logo.lusha.co/d/company_6940113_logo.svg",
+          "name": "Fiber Art Inc",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Manufacturing",
+          "subIndustry": "Aerospace & Defense",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/fiber-art-inc"
+            }
+          },
+          "address": "North America United States US 8702 N Mobley Rd; Odessa, Florida 33556-2509, US ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 8702 N Mobley Rd; Odessa, Florida 33556-2509, US ",
+            "state": "",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "8702 N Mobley Rd; Odessa, Florida 33556-2509, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 3761,
+                "description": "Guided missiles and space vehicles"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 336411,
+                "description": "Aircraft Manufacturing"
+              }
+            ]
+          },
+          "website": "https://fiberart-inc.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "not_found",
+      "last_check": "2025-09-24T05:16:58.881686",
+      "http_status": 502,
+      "raw_text": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n\n<title>contactout.com | 502: Bad gateway</title>\n<meta charset=\"UTF-8\" />\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />\n<meta name=\"robots\" content=\"noindex, nofollow\" />\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />\n<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/main.css\" />\n</head>\n<body>\n<div id=\"cf-wrapper\">\n    <div id=\"cf-error-details\" class=\"p-0\">\n        <header class=\"mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8\">\n            <h1 class=\"inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2\">\n "
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T05:17:00.432052",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

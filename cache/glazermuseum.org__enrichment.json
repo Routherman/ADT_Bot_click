@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-25T00:35:13.356154",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T00:35:09.512463",
+      "company": {
+        "name": null,
+        "domain": "glazermuseum.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 2697770,
+          "description": "At the Glazer Children’s Museum, we create and foster engaging, impactful play experiences for children and families to learn and thrive. Play inspires imagination and discovery, forms new connections in the brain, and builds skills like resilience, collaboration, and creative problem-solving. Play is learning. Through interactive exhibits, engaging and inclusive programming, and community outreach,\nGCM encourages families to make play a part of their everyday lives.",
+          "domain": "glazermuseum.org",
+          "employees": "11 - 50",
+          "founded": "1986",
+          "fqdn": "www.glazermuseum.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/a/f8/af86105ed9c32aa9b46afc34fa231f6b",
+          "name": "Glazer Children's Museum",
+          "revenueRange": [
+            50000000,
+            100000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/glazer-children%27s-museum"
+            }
+          },
+          "address": "Tampa North America United States US 110 W Gasparilla Plaza; Tampa, FL 33602, US Florida FL -82.45842742919922,27.947519302368164 ",
+          "location": {
+            "city": "Tampa",
+            "country": "United States",
+            "fullLocation": "Tampa North America United States US 110 W Gasparilla Plaza; Tampa, FL 33602, US Florida FL -82.45842742919922,27.947519302368164 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "110 W Gasparilla Plaza; Tampa, FL 33602, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8412,
+                "description": "Museums and art galleries"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 712110,
+                "description": "Museums"
+              }
+            ]
+          },
+          "website": "https://glazermuseum.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T00:35:10.715712",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T00:35:13.349537",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

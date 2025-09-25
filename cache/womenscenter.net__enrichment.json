@@ -1,0 +1,138 @@
+{
+  "timestamp": "2025-09-23T17:30:13.484031",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T17:30:09.868239",
+      "company": {
+        "name": null,
+        "domain": "womenscenter.net",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 19009874,
+          "description": "On March 8, 1975, International Women’s Day, the Women’s Center, Inc. opened its doors at 808 Carolina Street in Melbourne, Florida, and on September 4, 1975, the Women’s Center became an authenticated non-profit organization.\n\nThe Women’s Center takes pride in its progressive vision of women’s issues. It is a well-established, United Way agency that has, since its inception, \nconsistently provided quality services to women and their families in Brevard County, Florida. Additionally, the Women’s Center partners with educational institutions in the community to provide learning opportunities for those clients interested in expanding their employment potential.\n\nNow located at 1425 Aurora Road, Melbourne, the Women’s Center is growing to be more than just a warm inviting place for women in the community to go for their counseling and supportive needs. During the past decade, the Women’s Center has grown to become a multi-service agency dedicated to providing comprehensive services to meet the needs of women and their families in crisis and transition. Services are designed to target the cause of the crisis, not just the symptoms.\n\nOur Mission: \nTo assist in creating safe, healthy, self-sufficient lives by providing support, education, counseling, information and services to survivors of domestic, dating and sexual violence and to those suffering the ill effects of poverty, homelessness and mental health challenges.\n\nOur Vision: \nTo be a progressive center, serving our community.\nTo expand and grow to meet the changing needs in women’s lives.\nTo help women and families help themselves to develop safe, healthy and self sufficient lives.\nTo provide the gift of hope and courage, changing lives for the better – forever.",
+          "domain": "womenscenter.net",
+          "employees": "11 - 50",
+          "founded": "1975",
+          "fqdn": "www.womenscenter.net",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/5/f5/5f54f196da1df7a2092bd40aac46cb27",
+          "name": "Women's Center of Brevard",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Organizations",
+          "subIndustry": "Civic & Social Organizations",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/south-brevard-women-s-center"
+            }
+          },
+          "address": "Melbourne North America United States US 1425 Aurora Road; Melbourne, FL 32935, US Florida FL -80.60810852050781,28.083629608154297 ",
+          "location": {
+            "city": "Melbourne",
+            "country": "United States",
+            "fullLocation": "Melbourne North America United States US 1425 Aurora Road; Melbourne, FL 32935, US Florida FL -80.60810852050781,28.083629608154297 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1425 Aurora Road; Melbourne, FL 32935, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8399,
+                "description": "Social services, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 813410,
+                "description": "Civic and Social Organizations"
+              }
+            ]
+          },
+          "website": "https://womenscenter.net",
+          "specialities": [
+            "counseling",
+            "mental health",
+            "nonprofit",
+            "thrift store",
+            "transitional housing",
+            "victim services",
+            "women's healthcare"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T17:30:10.992133",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T17:30:13.479436",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

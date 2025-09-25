@@ -1,0 +1,58 @@
+{
+  "pages": [
+    {
+      "url": "http://thehansonbuilding.com/hansons-shoe-repair/reservations",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "Event Request\nLooking for a place to host your event? Fill out the form below and we'll get back to you as soon as possible.\nHaving trouble with the form?\nEmail\nevents@thehansonbuilding.com\nor text\n(407) 476-9446\n.\nSelect Date\n*\nERRORMSG:datepicker\nSelect Time\n*\n--\n7:00 PM\n7:30 PM\n8:00 PM\n8:30 PM\n9:00 PM\n9:30 PM\n10:00 PM\n10:30 PM\n11:00 PM\n11:30 PM\nERRORMSG:time\n# of Guests\n*\n--\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\nERRORMSG:guests\nFirst Name\n*\nERRORMSG:fname\nLast Name\n*\nERRORMSG:lname\nEmail Address\n*\nERRORMSG:email\nPhone Number\n*\nERRORMSG:phone\nConnect with us",
+      "emails": [
+        "events@thehansonbuilding.com",
+        "user@provider.com"
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/hansonsshoerepair/",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "http://thehansonbuilding.com/",
+    "http://thehansonbuilding.com/hansons-shoe-repair/reservations",
+    "http://thehansonbuilding.com/bauhaus/",
+    "http://thehansonbuilding.com/hansons-shoe-repair/"
+  ],
+  "candidate_links": [
+    "http://thehansonbuilding.com/hansons-shoe-repair/reservations",
+    "https://www.facebook.com/hansonsshoerepair/"
+  ],
+  "visited": [
+    "http://www.thehansonbuilding.com/hansons-shoe-repair/",
+    "http://www.thehansonbuilding.com/about",
+    "http://www.thehansonbuilding.com/contact",
+    "http://www.thehansonbuilding.com/staff",
+    "http://www.thehansonbuilding.com/team",
+    "http://www.thehansonbuilding.com/board",
+    "http://www.thehansonbuilding.com/directory",
+    "http://www.thehansonbuilding.com/events",
+    "http://www.thehansonbuilding.com/sitemap.xml",
+    "http://www.thehansonbuilding.com/council",
+    "http://www.thehansonbuilding.com/leadership",
+    "http://www.thehansonbuilding.com/management",
+    "http://www.thehansonbuilding.com/producers",
+    "http://www.thehansonbuilding.com/support",
+    "http://www.thehansonbuilding.com/crew",
+    "http://www.thehansonbuilding.com/members",
+    "http://www.thehansonbuilding.com/bios",
+    "http://www.thehansonbuilding.com/people",
+    "http://www.thehansonbuilding.com/artists",
+    "http://www.thehansonbuilding.com/musicians",
+    "http://www.thehansonbuilding.com/faculty",
+    "http://www.thehansonbuilding.com/administration",
+    "http://thehansonbuilding.com/hansons-shoe-repair/reservations",
+    "https://www.facebook.com/hansonsshoerepair/"
+  ],
+  "base_url": "http://www.thehansonbuilding.com/hansons-shoe-repair/"
+}

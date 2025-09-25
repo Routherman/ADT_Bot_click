@@ -1,0 +1,500 @@
+{
+  "site_url": "https://discowitchbrewing.com/",
+  "domain": "discowitchbrewing.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://discowitchbrewing.com/",
+    "https://discowitchbrewing.com/events",
+    "https://discowitchbrewing.com/about-us",
+    "https://discowitchbrewing.com/donation-requests",
+    "https://discowitchbrewing.com/food-menu-1"
+  ],
+  "candidates": [
+    "https://discowitchbrewing.com/about-us",
+    "https://discowitchbrewing.com/events",
+    "https://discowitchbrewing.com/",
+    "https://discowitchbrewing.com/contact",
+    "https://discowitchbrewing.com/contact/",
+    "https://discowitchbrewing.com/contact-us",
+    "https://discowitchbrewing.com/contact-us/",
+    "https://discowitchbrewing.com/contactus",
+    "https://discowitchbrewing.com/contactus/",
+    "https://discowitchbrewing.com/about",
+    "https://discowitchbrewing.com/about/",
+    "https://discowitchbrewing.com/about-us/",
+    "https://discowitchbrewing.com/visit",
+    "https://discowitchbrewing.com/visit/",
+    "https://discowitchbrewing.com/location",
+    "https://discowitchbrewing.com/location/",
+    "https://discowitchbrewing.com/directions",
+    "https://discowitchbrewing.com/directions/"
+  ],
+  "per_page": {
+    "https://discowitchbrewing.com/about-us": {
+      "title": "About Us",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/102046065036001",
+        "https://www.instagram.com/discowitchbrewing"
+      ]
+    },
+    "https://discowitchbrewing.com/events": {
+      "title": "Events",
+      "band_hits": {
+        "live music": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/events"
+          ]
+        },
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/events"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/events"
+          ]
+        },
+        "open mic": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://discowitchbrewing.com/": {
+      "title": "Disco Witch Brewing",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/"
+          ]
+        }
+      },
+      "emails": [
+        "discowitch@yahoo.com"
+      ],
+      "phones": [
+        "904-426-5178"
+      ],
+      "socials": [
+        "https://www.facebook.com/102046065036001",
+        "https://www.instagram.com/discowitchbrewing"
+      ]
+    },
+    "https://discowitchbrewing.com/contact": {
+      "title": "Disco Witch Brewing",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://discowitchbrewing.com/contact/": {
+      "title": "Disco Witch Brewing",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://discowitchbrewing.com/contact-us": {
+      "title": "Disco Witch Brewing",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://discowitchbrewing.com/contact-us/": {
+      "title": "Disco Witch Brewing",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://discowitchbrewing.com/contactus": {
+      "title": "Disco Witch Brewing",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://discowitchbrewing.com/contactus/": {
+      "title": "Disco Witch Brewing",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://discowitchbrewing.com/about": {
+      "title": "Disco Witch Brewing",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://discowitchbrewing.com/about/": {
+      "title": "Disco Witch Brewing",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://discowitchbrewing.com/about-us/": {
+      "title": "About Us",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/102046065036001",
+        "https://www.instagram.com/discowitchbrewing"
+      ]
+    },
+    "https://discowitchbrewing.com/visit": {
+      "title": "Disco Witch Brewing",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://discowitchbrewing.com/visit/": {
+      "title": "Disco Witch Brewing",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://discowitchbrewing.com/location": {
+      "title": "Disco Witch Brewing",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://discowitchbrewing.com/location/": {
+      "title": "Disco Witch Brewing",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://discowitchbrewing.com/directions": {
+      "title": "Disco Witch Brewing",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://discowitchbrewing.com/directions/": {
+      "title": "Disco Witch Brewing",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://discowitchbrewing.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

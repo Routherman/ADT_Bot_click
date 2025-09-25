@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-23T01:41:32.220757",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T01:41:29.247432",
+      "company": {
+        "name": null,
+        "domain": "thescottcenter.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 16244776,
+          "description": "The Scott Center for Autism Treatment is a 501(c)3 tax-exempt, not-for-profit organization that provides children, youth and families affected by Autism Spectrum Disorders (ASD) and provides a full-range of evaluation and services, from diagnosis to intensive treatment. The Scott Center for Autism Treatment pursues a three-fold mission of clinical service, research and training. Parents and children from around the world now come to the Scott Center for the most advanced treatment methods available. As an integrated component of Florida Tech's School of Psychology and Applied Behavior, graduate students receive state–of-the-art training and supervision from doctoral level faculty. This prepares them for a future as professionals to continue the work to improve the lives of individuals and their families. The Scott Center is ranked among the best in the world for its research contributions to the field of behavior analysis.",
+          "domain": "thescottcenter.org",
+          "employees": "51 - 200",
+          "founded": "2009",
+          "fqdn": "www.thescottcenter.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/4/b2/4b25ed407cf7781224ad4635ebae6de1",
+          "name": "The Scott Center for Autism Treatment",
+          "revenueRange": [
+            1000000,
+            10000000
+          ],
+          "mainIndustry": "Hospitals, Healthcare & Clinics",
+          "subIndustry": "Hospitals & Healthcare",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/thescottcenterforautismtreatment"
+            }
+          },
+          "address": "Melbourne North America United States US Florida Institute of Technology; 150 W. University Blvd; Melbourne, FL 32901, US Florida FL -80.60810852050781,28.083629608154297 ",
+          "location": {
+            "city": "Melbourne",
+            "country": "United States",
+            "fullLocation": "Melbourne North America United States US Florida Institute of Technology; 150 W. University Blvd; Melbourne, FL 32901, US Florida FL -80.60810852050781,28.083629608154297 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Florida Institute of Technology; 150 W. University Blvd; Melbourne, FL 32901, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8062,
+                "description": "General medical and surgical hospitals"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 621111,
+                "description": "Offices of Physicians (except Mental Health Specialists)"
+              }
+            ]
+          },
+          "website": "https://thescottcenter.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T01:41:29.813823",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T01:41:32.216284",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

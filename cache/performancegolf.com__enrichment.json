@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-23T18:12:59.710035",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T18:12:56.693939",
+      "company": {
+        "name": null,
+        "domain": "performancegolf.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 95050841,
+          "description": "Performance Golf is a leading online golf instruction company that provides golfers of all levels with the tools and resources they need to take their game to the next level.\n\nWe’re on a mission to help 1 million amateur golfers play the best golf of their lives, and enjoy every minute of it. Everything you need to reach your full potential is right here. What are you waiting for?",
+          "domain": "performancegolf.com",
+          "employees": "51 - 200",
+          "fqdn": "www.performancegolf.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/1/a4/1a4fc8d8f589a5e0f337a652cc8c9224",
+          "name": "Performance Golf",
+          "revenueRange": [
+            50000000,
+            100000000
+          ],
+          "mainIndustry": "Manufacturing",
+          "subIndustry": "Sporting Goods",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/performancegolf"
+            }
+          },
+          "address": "Fort Lauderdale North America United States US Fort Lauderdale, FL, US Florida FL -80.14337921142578,26.122310638427734 ",
+          "location": {
+            "city": "Fort Lauderdale",
+            "country": "United States",
+            "fullLocation": "Fort Lauderdale North America United States US Fort Lauderdale, FL, US Florida FL -80.14337921142578,26.122310638427734 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Fort Lauderdale, FL, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 3949,
+                "description": "Sporting and athletic goods, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 339920,
+                "description": "Sporting and Athletic Goods Manufacturing"
+              }
+            ]
+          },
+          "website": "https://performancegolf.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T18:12:57.216190",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T18:12:59.701981",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,840 @@
+{
+  "site_url": "https://encoredocs.com/",
+  "domain": "encoredocs.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://encoredocs.com/",
+    "https://encoredocs.com/blog/",
+    "https://encoredocs.com/about-us/",
+    "https://encoredocs.com/events/list/",
+    "https://encoredocs.com/locations/",
+    "https://encoredocs.com/patient-home-page/",
+    "https://encoredocs.com/enrolling-studies/",
+    "https://encoredocs.com/online-forms/",
+    "https://encoredocs.com/videos/",
+    "https://encoredocs.com/member-log-in/members-2/community-perks-landing-page/",
+    "https://encoredocs.com/frequently-asked-questions/",
+    "https://encoredocs.com/sponsors/",
+    "https://encoredocs.com/sponsors/research-sites/",
+    "https://encoredocs.com/sponsors/research-sites/therapeutic-expertise/",
+    "https://encoredocs.com/recruitment-success/",
+    "https://encoredocs.com/sponsor-contact-form/",
+    "https://encoredocs.com/physicians/",
+    "https://encoredocs.com/refer-a-patient/",
+    "https://encoredocs.com/physicians/physician-contact-form/",
+    "https://encoredocs.com/testimonials/",
+    "https://encoredocs.com/careers/",
+    "https://encoredocs.com/in-the-news/",
+    "https://encoredocs.com/encore-borland-groover-clinical-research/",
+    "https://encoredocs.com/fleming-island-center-for-clinical-research/",
+    "https://encoredocs.com/jacksonville-center-for-clinical-research/",
+    "https://encoredocs.com/st-johns-center-for-clinical-research/",
+    "https://encoredocs.com/nature-coast-clinical-research-crystal-river/",
+    "https://encoredocs.com/nature-coast-clinical-research-inverness/",
+    "https://encoredocs.com/westside-center-for-clinical-research/",
+    "https://encoredocs.com/sponsors/encore-news/",
+    "https://encoredocs.com/member-log-in/members-2/puzzle-answer-keys/",
+    "https://encoredocs.com/2025/09/19/navigating-adhd/",
+    "https://encoredocs.com/2025/09/12/living-with-crohns-disease/",
+    "https://encoredocs.com/2025/09/05/are-robots-more-dangerous-than-cholesterol/",
+    "https://encoredocs.com/email-sign-up/",
+    "https://encoredocs.com/privacy-policy/",
+    "https://encoredocs.com/blog/?_page=2",
+    "https://encoredocs.com/blog/?_page=3",
+    "https://encoredocs.com/blog/?_page=18",
+    "https://encoredocs.com/complete-your-profile/",
+    "https://encoredocs.com/member-log-in/members-2/current-free-health-screenings/",
+    "https://encoredocs.com/member-log-in/members-2/dr-fulmer-funnies/",
+    "https://encoredocs.com/member-log-in/members-2/perks/exercise-tips/",
+    "https://encoredocs.com/member-log-in/members-2/recipes/",
+    "https://encoredocs.com/2025/08/29/marijuana-thc-and-the-science-of-pain-relief/",
+    "https://encoredocs.com/2025/08/22/understanding-celiac-disease-and-the-latest-research/",
+    "https://encoredocs.com/2025/08/08/what-happened-after-world-war-one-world-war-flu/",
+    "https://encoredocs.com/2025/08/01/dealing-with-autosomal-dominant-polycystic-kidney-disease-adpkd/",
+    "https://encoredocs.com/2025/07/24/the-brains-worst-hit-understanding-traumatic-brain-injury/",
+    "https://encoredocs.com/2025/07/21/how-inflammation-threatens-your-kidneys-and-heart/"
+  ],
+  "candidates": [
+    "https://encoredocs.com/about-us/",
+    "https://encoredocs.com/blog/",
+    "https://encoredocs.com/blog/?_page=18",
+    "https://encoredocs.com/blog/?_page=2",
+    "https://encoredocs.com/blog/?_page=3",
+    "https://encoredocs.com/events/list/",
+    "https://encoredocs.com/",
+    "https://encoredocs.com/contact",
+    "https://encoredocs.com/contact/",
+    "https://encoredocs.com/contact-us",
+    "https://encoredocs.com/contact-us/",
+    "https://encoredocs.com/contactus",
+    "https://encoredocs.com/contactus/",
+    "https://encoredocs.com/about",
+    "https://encoredocs.com/about/",
+    "https://encoredocs.com/about-us",
+    "https://encoredocs.com/visit",
+    "https://encoredocs.com/visit/",
+    "https://encoredocs.com/location",
+    "https://encoredocs.com/location/",
+    "https://encoredocs.com/directions",
+    "https://encoredocs.com/directions/"
+  ],
+  "per_page": {
+    "https://encoredocs.com/about-us/": {
+      "title": "About Us - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/blog/": {
+      "title": "Articles - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/blog/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.linkedin.com/shareArticle",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/blog/?_page=18": {
+      "title": "Articles - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/blog/?_page=18"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.linkedin.com/shareArticle",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/blog/?_page=2": {
+      "title": "Articles - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/blog/?_page=2"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.linkedin.com/shareArticle",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/blog/?_page=3": {
+      "title": "Articles - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/blog/?_page=3"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.linkedin.com/shareArticle",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/events/list/": {
+      "title": "Upcoming Events – ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 1,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/events/list/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/events/list/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/": {
+      "title": "ENCORE Research Group - Clinical Research Site Network",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/contact": {
+      "title": "Clinical Research Locations - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "ssmith@encoredocs.com"
+      ],
+      "phones": [
+        "(352) 341-0363",
+        "(352) 341-2100",
+        "(352) 563-1865",
+        "(352) 563-2169",
+        "(904) 209-0043",
+        "(904) 209-0047",
+        "(904) 621-0390",
+        "(904) 621-0395",
+        "(904) 680-0871",
+        "(904) 680-0872",
+        "(904) 693-1490",
+        "(904) 730-0101",
+        "(904) 730-0121",
+        "(904) 730-0166",
+        "(904) 786-7519",
+        "(904) 861-3050",
+        "(904) 861-3055"
+      ],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/contact/": {
+      "title": "ENCORE Research Group - Clinical Research Site Network",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/contact-us": {
+      "title": "Page not found - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/contact-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/contact-us/": {
+      "title": "Clinical Research Locations - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "ssmith@encoredocs.com"
+      ],
+      "phones": [
+        "(352) 341-0363",
+        "(352) 341-2100",
+        "(352) 563-1865",
+        "(352) 563-2169",
+        "(904) 209-0043",
+        "(904) 209-0047",
+        "(904) 621-0390",
+        "(904) 621-0395",
+        "(904) 680-0871",
+        "(904) 680-0872",
+        "(904) 693-1490",
+        "(904) 730-0101",
+        "(904) 730-0121",
+        "(904) 730-0166",
+        "(904) 786-7519",
+        "(904) 861-3050",
+        "(904) 861-3055"
+      ],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/contactus": {
+      "title": "Page not found - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/contactus"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/contactus/": {
+      "title": "Page not found - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/contactus/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/about": {
+      "title": "About Us - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/about/": {
+      "title": "About Us - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/about-us": {
+      "title": "About Us - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/visit": {
+      "title": "Page not found - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/visit"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/visit/": {
+      "title": "Page not found - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/visit/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/location": {
+      "title": "Clinical Research Locations - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "ssmith@encoredocs.com"
+      ],
+      "phones": [
+        "(352) 341-0363",
+        "(352) 341-2100",
+        "(352) 563-1865",
+        "(352) 563-2169",
+        "(904) 209-0043",
+        "(904) 209-0047",
+        "(904) 621-0390",
+        "(904) 621-0395",
+        "(904) 680-0871",
+        "(904) 680-0872",
+        "(904) 693-1490",
+        "(904) 730-0101",
+        "(904) 730-0121",
+        "(904) 730-0166",
+        "(904) 786-7519",
+        "(904) 861-3050",
+        "(904) 861-3055"
+      ],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/location/": {
+      "title": "Clinical Research Locations - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "ssmith@encoredocs.com"
+      ],
+      "phones": [
+        "(352) 341-0363",
+        "(352) 341-2100",
+        "(352) 563-1865",
+        "(352) 563-2169",
+        "(904) 209-0043",
+        "(904) 209-0047",
+        "(904) 621-0390",
+        "(904) 621-0395",
+        "(904) 680-0871",
+        "(904) 680-0872",
+        "(904) 693-1490",
+        "(904) 730-0101",
+        "(904) 730-0121",
+        "(904) 730-0166",
+        "(904) 786-7519",
+        "(904) 861-3050",
+        "(904) 861-3055"
+      ],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/directions": {
+      "title": "Page not found - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/directions"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    },
+    "https://encoredocs.com/directions/": {
+      "title": "Page not found - ENCORE Research Group",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/directions/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://encoredocs.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/EncoreResearchGroup",
+        "https://www.instagram.com/encoreresearch/",
+        "https://www.tiktok.com/@encoreresearch"
+      ]
+    }
+  }
+}

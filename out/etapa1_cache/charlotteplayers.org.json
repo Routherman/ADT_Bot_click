@@ -1,0 +1,871 @@
+{
+  "site_url": "https://charlotteplayers.org/",
+  "domain": "charlotteplayers.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://charlotteplayers.org/",
+    "https://www.charlotteplayers.org/faqs/",
+    "https://www.charlotteplayers.org/staff/",
+    "https://www.charlotteplayers.org",
+    "https://www.charlotteplayers.org/donate-now-2/",
+    "https://www.charlotteplayers.org/tickets/buy-tickets/",
+    "https://www.charlotteplayers.org/",
+    "https://www.charlotteplayers.org/tickets/ticket-info-venues/",
+    "https://www.charlotteplayers.org/special-events/fundraisers/",
+    "https://www.charlotteplayers.org/special-events/comedy-for-a-cause-2/",
+    "https://charlotteplayers.org/store/index.php?route=common/home&language=en-gb",
+    "https://www.charlotteplayers.org/support/ways-to-give/",
+    "https://charlotteplayers.org/store/index.php?route=product/category&language=en-gb&path=60",
+    "https://www.charlotteplayers.org/our-supporters/",
+    "https://www.charlotteplayers.org/support/become-a-volunteer/",
+    "https://www.charlotteplayers.org/summer-camp-music/",
+    "https://www.charlotteplayers.org/in-the-news/",
+    "https://www.charlotteplayers.org/gallery/",
+    "https://www.charlotteplayers.org/in-the-news/newsletters/",
+    "https://www.charlotteplayers.org/special-events/",
+    "https://www.charlotteplayers.org/auditions/",
+    "https://www.charlotteplayers.org/who-we-are/",
+    "https://www.charlotteplayers.org/mission-and-vision/",
+    "https://www.charlotteplayers.org/who-we-are/our-history/",
+    "https://www.charlotteplayers.org/auditions-2025-2026/",
+    "https://www.charlotteplayers.org/64th-season/",
+    "https://www.charlotteplayers.org/2024-2025-advertising-form/",
+    "https://charlotteplayers.org/store/index.php?route=information/contact&language=en-gb",
+    "https://charlotteplayers.org/store/index.php?route=account/register&language=en-gb",
+    "https://charlotteplayers.org/store/index.php?route=account/login&language=en-gb",
+    "https://charlotteplayers.org/store/index.php?route=account/wishlist&language=en-gb",
+    "https://charlotteplayers.org/store/index.php?route=checkout/cart&language=en-gb",
+    "https://charlotteplayers.org/store/index.php?route=checkout/checkout&language=en-gb",
+    "https://charlotteplayers.org/store/index.php?route=product/category&language=en-gb&path=59",
+    "https://charlotteplayers.org/store/index.php?route=product/product&language=en-gb&product_id=56",
+    "https://charlotteplayers.org/store/index.php?route=product/product&language=en-gb&product_id=54",
+    "https://charlotteplayers.org/store/index.php?route=product/product&language=en-gb&product_id=55",
+    "https://charlotteplayers.org/store/index.php?route=information/information&language=en-gb&information_id=2",
+    "https://charlotteplayers.org/store/index.php?route=information/information&language=en-gb&information_id=4",
+    "https://charlotteplayers.org/store/index.php?route=information/information&language=en-gb&information_id=1",
+    "https://charlotteplayers.org/store/index.php?route=information/information&language=en-gb&information_id=3",
+    "https://charlotteplayers.org/store/index.php?route=account/returns.add&language=en-gb",
+    "https://charlotteplayers.org/store/index.php?route=information/sitemap&language=en-gb",
+    "https://charlotteplayers.org/store/index.php?route=product/manufacturer&language=en-gb",
+    "https://charlotteplayers.org/store/index.php?route=checkout/voucher&language=en-gb"
+  ],
+  "candidates": [
+    "https://www.charlotteplayers.org/staff/",
+    "https://www.charlotteplayers.org/faqs/",
+    "https://charlotteplayers.org/",
+    "https://www.charlotteplayers.org/special-events/",
+    "https://www.charlotteplayers.org/special-events/comedy-for-a-cause-2/",
+    "https://www.charlotteplayers.org/special-events/fundraisers/",
+    "https://charlotteplayers.org/contact",
+    "https://charlotteplayers.org/contact/",
+    "https://charlotteplayers.org/contact-us",
+    "https://charlotteplayers.org/contact-us/",
+    "https://charlotteplayers.org/contactus",
+    "https://charlotteplayers.org/contactus/",
+    "https://charlotteplayers.org/about",
+    "https://charlotteplayers.org/about/",
+    "https://charlotteplayers.org/about-us",
+    "https://charlotteplayers.org/about-us/",
+    "https://charlotteplayers.org/visit",
+    "https://charlotteplayers.org/visit/",
+    "https://charlotteplayers.org/location",
+    "https://charlotteplayers.org/location/",
+    "https://charlotteplayers.org/directions",
+    "https://charlotteplayers.org/directions/"
+  ],
+  "per_page": {
+    "https://www.charlotteplayers.org/staff/": {
+      "title": "Staff – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.charlotteplayers.org/staff/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://www.charlotteplayers.org/faqs/": {
+      "title": "FAQs – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.charlotteplayers.org/faqs/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.charlotteplayers.org/faqs/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://charlotteplayers.org/": {
+      "title": "Charlotte Players – Your community theatre since 1961",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://www.charlotteplayers.org/special-events/": {
+      "title": "Special Events – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.charlotteplayers.org/special-events/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.charlotteplayers.org/special-events/"
+          ]
+        },
+        "stage": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.charlotteplayers.org/special-events/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.charlotteplayers.org/special-events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://www.charlotteplayers.org/special-events/comedy-for-a-cause-2/": {
+      "title": "Comedy for a Cause – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.charlotteplayers.org/special-events/comedy-for-a-cause-2/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://www.charlotteplayers.org/special-events/fundraisers/": {
+      "title": "Fundraisers – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.charlotteplayers.org/special-events/fundraisers/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://charlotteplayers.org/contact": {
+      "title": "Contact Us – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@charlotteplayers.org"
+      ],
+      "phones": [
+        "(941) 255-1022",
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": [
+        "https://www.facebook.com/CharlottePlayers/",
+        "https://www.instagram.com/charlotteplayers/",
+        "https://www.youtube.com/user/TheCharlottePlayers"
+      ]
+    },
+    "https://charlotteplayers.org/contact/": {
+      "title": "Contact Us – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@charlotteplayers.org"
+      ],
+      "phones": [
+        "(941) 255-1022",
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": [
+        "https://www.facebook.com/CharlottePlayers/",
+        "https://www.instagram.com/charlotteplayers/",
+        "https://www.youtube.com/user/TheCharlottePlayers"
+      ]
+    },
+    "https://charlotteplayers.org/contact-us": {
+      "title": "Contact Us – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact-us"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact-us"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@charlotteplayers.org"
+      ],
+      "phones": [
+        "(941) 255-1022",
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": [
+        "https://www.facebook.com/CharlottePlayers/",
+        "https://www.instagram.com/charlotteplayers/",
+        "https://www.youtube.com/user/TheCharlottePlayers"
+      ]
+    },
+    "https://charlotteplayers.org/contact-us/": {
+      "title": "Contact Us – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact-us/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact-us/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@charlotteplayers.org"
+      ],
+      "phones": [
+        "(941) 255-1022",
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": [
+        "https://www.facebook.com/CharlottePlayers/",
+        "https://www.instagram.com/charlotteplayers/",
+        "https://www.youtube.com/user/TheCharlottePlayers"
+      ]
+    },
+    "https://charlotteplayers.org/contactus": {
+      "title": "Page not found – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://charlotteplayers.org/contactus/": {
+      "title": "Page not found – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://charlotteplayers.org/about": {
+      "title": "Page not found – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://charlotteplayers.org/about/": {
+      "title": "Page not found – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://charlotteplayers.org/about-us": {
+      "title": "Page not found – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://charlotteplayers.org/about-us/": {
+      "title": "Page not found – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://charlotteplayers.org/visit": {
+      "title": "Visiting Mr. Green – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://charlotteplayers.org/visit/": {
+      "title": "Visiting Mr. Green – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://charlotteplayers.org/location": {
+      "title": "Page not found – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://charlotteplayers.org/location/": {
+      "title": "Page not found – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://charlotteplayers.org/directions": {
+      "title": "Directions & Hours – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    },
+    "https://charlotteplayers.org/directions/": {
+      "title": "Directions & Hours – Charlotte Players",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://charlotteplayers.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-352-9832",
+        "800-435-7352",
+        "941-255-1022"
+      ],
+      "socials": []
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "timestamp": "2025-09-19T01:16:40.404900",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T01:16:36.968049",
+      "company": {
+        "name": null,
+        "domain": "floridalottery.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 699198,
+          "description": "In 1986, Florida voters authorized a lottery through a constitutional amendment, enacted by a 2-to-1 margin, with the goal of using its proceeds to enhance public education in Florida. Governor Bob Martinez and the Florida Legislature established the Florida Lottery with the mission of maximizing revenues for education, allowing the people of Florida to benefit from significant additional funds while providing the best lottery games available.",
+          "domain": "floridalottery.com",
+          "employees": "201 - 500",
+          "founded": "1988",
+          "fqdn": "www.floridalottery.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2023/month=11/day=17/j_lp2s6nok2ohii3urqo.7a6152d32283dc787d7fbdc075cba21367a15488.file_lp2suzmj28na91by0l.logo_cached.jpg",
+          "name": "The Florida Lottery",
+          "revenueRange": [],
+          "mainIndustry": "Government",
+          "subIndustry": "Government Relations Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/state-of-florida---lottery"
+            }
+          },
+          "address": "Tallahassee North America United States US 250 Marriott Drive; Tallahassee, FL 32301, US Florida FL -84.28073120117188,30.43825912475586 ",
+          "location": {
+            "city": "Tallahassee",
+            "country": "United States",
+            "fullLocation": "Tallahassee North America United States US 250 Marriott Drive; Tallahassee, FL 32301, US Florida FL -84.28073120117188,30.43825912475586 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "250 Marriott Drive; Tallahassee, FL 32301, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 9611,
+                "description": "Administration of general economic programs"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 921120,
+                "description": "Legislative Bodies"
+              }
+            ]
+          },
+          "website": "https://floridalottery.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T01:16:38.156419",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T01:16:40.399774",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

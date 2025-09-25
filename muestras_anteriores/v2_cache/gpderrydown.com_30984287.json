@@ -1,0 +1,85 @@
+{
+  "pages": [
+    {
+      "url": "http://www.gpderrydown.com/collections/special-event",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "<h2>/ <a href=\"/collections\">{ 'general.breadcrumbs.collections' | t }</a></h2>\n      <h2>/ { collection.title }</h2>\nHOME\nHISTORY\nUPCOMING SHOWS\nSPECIAL EVENT\nMERCH\nPRIVATE EVENTS\nCONTACT\n—\nSign In\n<li class=\"separator\">—</li>\n<li class=\"close\"><a href=\"#\" data-action=\"toggle-browse\">{ 'layout.side_nav.close' | t }</a></li>\nSpecial Event\nSorry, there are currently no products available at this collection.\nContact us\ngpderrydown@gmail.com\n863 295 9422\nFollow us\nFacebook\nTwitter\nPinterest\nInstagram\nQuick links\nHome\nHistory\nUpcoming Shows\nMerch\nPrivate Events\nContact\nNewsletter\n© Copyright 2025\nGram Parsons Derry Down\n{ powered_by_link }} { 'layout.footer.theme_title' | t }} <a href=\"https://themes.shopify.com/themes/california?ref=guille-lopez\" target=\"_blank\" title=\"California Theme on Shopify\">California Theme</a>",
+      "emails": [
+        "gpderrydown@gmail.com"
+      ]
+    },
+    {
+      "url": "http://www.gpderrydown.com/pages/rent-the-derry-down",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "Hang on we are almost ready! Gram Parsons' Derry Down is available for private gatherings, please give us a call at 863.295.9422 for more information.",
+      "emails": [
+        "gpderrydown@gmail.com"
+      ]
+    },
+    {
+      "url": "http://www.gpderrydown.com/pages/contact",
+      "is_candidate": false,
+      "has_email": true,
+      "text": " We would love to hear from you!  ",
+      "emails": [
+        "gpderrydown@gmail.com"
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/gramparsonsderrydown",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "http://www.gpderrydown.com/account/login",
+    "http://www.gpderrydown.com/pages/upcoming-shows",
+    "http://www.gpderrydown.com/admin/products",
+    "http://www.gpderrydown.com/",
+    "http://www.gpderrydown.com/collections/special-event",
+    "http://www.gpderrydown.com/pages/rent-the-derry-down",
+    "https://www.gpderrydown.com",
+    "http://www.gpderrydown.com/collections/merch",
+    "http://www.gpderrydown.com/collections/frontpage",
+    "http://www.gpderrydown.com/pages/contact"
+  ],
+  "candidate_links": [
+    "http://www.gpderrydown.com/collections/special-event",
+    "http://www.gpderrydown.com/pages/rent-the-derry-down",
+    "http://www.gpderrydown.com/pages/contact",
+    "https://www.facebook.com/gramparsonsderrydown"
+  ],
+  "visited": [
+    "http://www.gpderrydown.com/",
+    "http://www.gpderrydown.com/about",
+    "http://www.gpderrydown.com/contact",
+    "http://www.gpderrydown.com/staff",
+    "http://www.gpderrydown.com/team",
+    "http://www.gpderrydown.com/board",
+    "http://www.gpderrydown.com/directory",
+    "http://www.gpderrydown.com/events",
+    "http://www.gpderrydown.com/sitemap.xml",
+    "http://www.gpderrydown.com/council",
+    "http://www.gpderrydown.com/leadership",
+    "http://www.gpderrydown.com/management",
+    "http://www.gpderrydown.com/producers",
+    "http://www.gpderrydown.com/support",
+    "http://www.gpderrydown.com/crew",
+    "http://www.gpderrydown.com/members",
+    "http://www.gpderrydown.com/bios",
+    "http://www.gpderrydown.com/people",
+    "http://www.gpderrydown.com/artists",
+    "http://www.gpderrydown.com/musicians",
+    "http://www.gpderrydown.com/faculty",
+    "http://www.gpderrydown.com/administration",
+    "http://www.gpderrydown.com/collections/special-event",
+    "http://www.gpderrydown.com/pages/rent-the-derry-down",
+    "http://www.gpderrydown.com/pages/contact",
+    "https://www.facebook.com/gramparsonsderrydown"
+  ],
+  "base_url": "http://www.gpderrydown.com/"
+}

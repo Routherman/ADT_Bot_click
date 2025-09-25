@@ -1,0 +1,112 @@
+{
+  "timestamp": "2025-09-18T19:31:26.455795",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-18T19:31:22.662491",
+      "company": {
+        "name": null,
+        "domain": "vintagemarketdays.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 22340127,
+          "description": "Vintage Market Days® of Lexington is an upscale vintage-inspired market featuring original art, antiques, clothing, jewelry, handmade treasures, home décor, outdoor furnishings, consumable yummies, seasonal plantings and a little more. Vintage Market Days® events are so much more than a flea market. Each Vintage Market Days® event is a unique opportunity for vendors to display their talents and passions in creative venues.\nVMD Lexington takes place twice a year at The Kentucky Horse Park.",
+          "domain": "vintagemarketdays.com",
+          "employees": "1 - 10",
+          "founded": "2016",
+          "fqdn": "www.vintagemarketdays.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/f/63/f6374434584d14bd6c6a2c2f80ce450d",
+          "name": "Vintage Market Days of Lexington",
+          "revenueRange": [],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Events Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/vintagemarketdaysoflexington"
+            }
+          },
+          "address": "Lexington-Fayette North America United States US Lexington, KY, US Kentucky KY -84.45854949951172,38.049800872802734 ",
+          "location": {
+            "city": "Lexington-Fayette",
+            "country": "United States",
+            "fullLocation": "Lexington-Fayette North America United States US Lexington, KY, US Kentucky KY -84.45854949951172,38.049800872802734 ",
+            "state": "Kentucky",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Lexington, KY, US"
+          },
+          "website": "https://vintagemarketdays.com/market/lexington"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-18T19:31:23.790840",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-18T19:31:26.451409",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

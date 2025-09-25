@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-22T08:11:52.262791",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T08:11:48.265813",
+      "company": {
+        "name": null,
+        "domain": "cocoplumyachtclub.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 6564473,
+          "description": "Cocoplum Yacht Club is a maritime company based out of 6500 Prado Blvd, Coral Gables, FL, United States.",
+          "domain": "cocoplumyachtclub.com",
+          "employees": "1 - 10",
+          "fqdn": "www.cocoplumyachtclub.com",
+          "logoUrl": "https://logo.lusha.co/d/company_6564473_logo.svg",
+          "name": "Cocoplum Yacht Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Transportation, Logistics, Supply Chain & Storage",
+          "subIndustry": "Maritime Transportation",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/cocoplum-yacht-club"
+            }
+          },
+          "address": "Coral Gables North America United States US 6500 Prado Blvd; Coral Gables, FL 33143, US Florida FL -80.26837921142578,25.72149085998535 ",
+          "location": {
+            "city": "Coral Gables",
+            "country": "United States",
+            "fullLocation": "Coral Gables North America United States US 6500 Prado Blvd; Coral Gables, FL 33143, US Florida FL -80.26837921142578,25.72149085998535 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "6500 Prado Blvd; Coral Gables, FL 33143, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 4412,
+                "description": "Deep sea foreign transportation of freight"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 483112,
+                "description": "Deep Sea Passenger Transportation"
+              }
+            ]
+          },
+          "website": "https://cocoplumyachtclub.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T08:11:49.502704",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T08:11:52.259303",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

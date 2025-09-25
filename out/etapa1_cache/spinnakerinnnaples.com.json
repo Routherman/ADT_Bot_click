@@ -1,0 +1,675 @@
+{
+  "site_url": "https://spinnakerinnnaples.com/",
+  "domain": "spinnakerinnnaples.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://spinnakerinnnaples.com/",
+    "https://spinnakerinnnaples.com/rooms/",
+    "https://spinnakerinnnaples.com/policies/",
+    "https://spinnakerinnnaples.com/about-us/",
+    "https://spinnakerinnnaples.com/contact/",
+    "https://spinnakerinnnaples.com",
+    "https://spinnakerinnnaples.com/amenities/"
+  ],
+  "candidates": [
+    "https://spinnakerinnnaples.com/contact/",
+    "https://spinnakerinnnaples.com/about-us/",
+    "https://spinnakerinnnaples.com/policies/",
+    "https://spinnakerinnnaples.com/rooms/",
+    "https://spinnakerinnnaples.com",
+    "https://spinnakerinnnaples.com/",
+    "https://spinnakerinnnaples.com/contact",
+    "https://spinnakerinnnaples.com/contact-us",
+    "https://spinnakerinnnaples.com/contact-us/",
+    "https://spinnakerinnnaples.com/contactus",
+    "https://spinnakerinnnaples.com/contactus/",
+    "https://spinnakerinnnaples.com/about",
+    "https://spinnakerinnnaples.com/about/",
+    "https://spinnakerinnnaples.com/about-us",
+    "https://spinnakerinnnaples.com/visit",
+    "https://spinnakerinnnaples.com/visit/",
+    "https://spinnakerinnnaples.com/location",
+    "https://spinnakerinnnaples.com/location/",
+    "https://spinnakerinnnaples.com/directions",
+    "https://spinnakerinnnaples.com/directions/"
+  ],
+  "per_page": {
+    "https://spinnakerinnnaples.com/contact/": {
+      "title": "Contact – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/contact/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/about-us/": {
+      "title": "About Us – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/about-us/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/policies/": {
+      "title": "Policies – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/policies/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/rooms/": {
+      "title": "Rooms – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/rooms/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com": {
+      "title": "Spinnaker Inn Of Naples",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/": {
+      "title": "Spinnaker Inn Of Naples",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/contact": {
+      "title": "Contact – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/contact"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/contact-us": {
+      "title": "Page not found – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/contact-us/": {
+      "title": "Page not found – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/contactus": {
+      "title": "Page not found – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/contactus/": {
+      "title": "Page not found – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/about": {
+      "title": "About Us – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/about"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/about/": {
+      "title": "About Us – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/about/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/about-us": {
+      "title": "About Us – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/about-us"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/visit": {
+      "title": "Page not found – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/visit/": {
+      "title": "Page not found – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/location": {
+      "title": "Page not found – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/location/": {
+      "title": "Page not found – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/directions": {
+      "title": "Page not found – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    },
+    "https://spinnakerinnnaples.com/directions/": {
+      "title": "Page not found – Spinnaker Inn Of Naples",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spinnakerinnnaples.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@spinnakerinnnaples.com"
+      ],
+      "phones": [
+        "+1 (239) 434-0444"
+      ],
+      "socials": [
+        "https://www.facebook.com/Spinnaker-Inn-of-Naples-246726842398182/"
+      ]
+    }
+  }
+}

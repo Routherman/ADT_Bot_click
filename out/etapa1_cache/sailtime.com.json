@@ -1,0 +1,1426 @@
+{
+  "site_url": "https://sailtime.com/",
+  "domain": "sailtime.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://sailtime.com/",
+    "https://sailtime.com/membership/",
+    "https://sailtime.com/membership/membership-levels/",
+    "https://sailtime.com/membership/plus/",
+    "https://sailtime.com/membership/embark/",
+    "https://sailtime.com/membership/faq/",
+    "https://sailtime.com/ownership/faq/",
+    "https://sailtime.com/about/",
+    "https://sailtime.com/about/management/",
+    "https://sailtime.com/about/partners/",
+    "https://sailtime.com/blog/",
+    "https://sailtime.com/about/press/",
+    "https://sailtime.com/about/articles-media/",
+    "https://sailtime.com/contact/",
+    "https://embark.sailtime.com/login",
+    "https://sailtime.com",
+    "https://sailtime.com/ownership/",
+    "https://sailtime.com/ownership/ownership-benefits/",
+    "https://sailtime.com/ownership/ownership-opportunities/",
+    "https://sailtime.com/ownership/boat-financing/",
+    "https://sailtime.com/fleet/our-sailboat-fleet/",
+    "https://sailtime.com/locations/",
+    "https://sailtime.com/target-bases/",
+    "https://sailtime.com/learn/",
+    "https://sailtime.com/franchise-opportunities/",
+    "https://sailtime.com/sailtime-brochures/",
+    "https://sailtime.com/join/",
+    "https://sailtime.com/10-reasons-a-sailing-membership/",
+    "https://sailtime.com/new-yachts-2025/",
+    "https://sailtime.com/learn-to-sail-later-in-life/",
+    "https://sailtime.com/start-your-own-business/",
+    "https://sailtime.com/privacy/",
+    "https://sailtime.com/sitemap/",
+    "https://sailtime.com/accessibility/",
+    "https://sailtime.com/team/todd-hess/",
+    "https://sailtime.com/team/bob-remsing/",
+    "https://sailtime.com/team/wayne-diviney/",
+    "https://sailtime.com/team/george-bonelli/",
+    "https://sailtime.com/team/graham-raspass/",
+    "https://sailtime.com/team/kristen-diviney-mcgarr/",
+    "https://sailtime.com/partner/groupe-beneteau/",
+    "https://sailtime.com/partner/american-sailing-association/",
+    "https://sailtime.com/partner/shore-premier-finance/",
+    "https://sailtime.com/partner/hilb-group-insurance/",
+    "https://sailtime.com/partner/markel-corporation/",
+    "https://sailtime.com/partner/national-marine-manufacturers-association/",
+    "https://sailtime.com/learn-to-sail-at-sail-time-san-diego-ca/",
+    "https://sailtime.com/learn-to-sail-at-chicago-in-two-locations/",
+    "https://sailtime.com/learn-to-sail-at-boston-ma/",
+    "https://sailtime.com/learn-to-sail-at-annapolis/",
+    "https://sailtime.com/sailing-lessons-101/",
+    "https://sailtime.com/is-a-sailboat-really-a-solid-investment/",
+    "https://sailtime.com/national-boating-safety-week-2025/",
+    "https://sailtime.com/top-5-reasons-to-join-sailtime-as-a-member/",
+    "https://sailtime.com/sailtime-san-francisco-celebrates-20-years/",
+    "https://sailtime.com/sailtime-charleston-launches/",
+    "https://sailtime.com/sailtime-houston-celebrates-a-decade-on-the-water/",
+    "https://sailtime.com/sailtime-san-diego-celebrates-its-emerald-anniversary/",
+    "https://sailtime.com/20-years-of-smooth-sailing-sailtime-new-yorks-legacy-of-accessible-boating/",
+    "https://sailtime.com/sailtime-cleveland-to-debut-at-catawba-boat-show/",
+    "https://sailtime.com/sailtime-expands-to-the-netherlands-with-new-franchise-in-stavoren/",
+    "https://sailtime.com/sailtime-chicago-celebrates-20-years-of-sailing-in-the-windy-city/",
+    "https://sailtime.com/sailtime-virginia-marks-two-decades-of-sailing-success-in-the-chesapeake-bay/",
+    "https://sailtime.com/sailtime-boston-celebrates-two-decades-of-sailing-in-boston/",
+    "https://sailtime.com/sailtime-group-llc-named-to-inc-5000-list-of-fastest-growing-private-companies-in-america/",
+    "https://sailtime.com/sailtime-annapolis-celebrates-20-years-of-excellence-in-sailing-adventures/",
+    "https://sailtime.com/professional-boat-sharing-your-subscription-to-pure-sailing-time/",
+    "https://sailtime.com/one-of-us-rose-ann-points/",
+    "https://sailtime.com/sailtime-offers-benefits-of-boat-ownership-without-the-cost/",
+    "https://sailtime.com/sailtime-alabama-sets-sail-as-the-states-exclusive-sailing-school/",
+    "https://sailtime.com/tour-yachts-during-sailtimes-open-house/",
+    "https://sailtime.com/the-windy-city-debunked-what-locals-love-about-chicago/",
+    "https://sailtime.com/27-entrepreneurs-explain-what-they-love-about-being-an-entrepreneur/",
+    "https://sailtime.com/the-largest-sailboat-show-sailtime-annapolis/",
+    "https://sailtime.com/certified-asa-instructor-and-uscg-captain-rick-robey-about-annapolis-sailboat-show-clinic/",
+    "https://sailtime.com/annapolis-sailboat-show-with-michael-and-liza-campbell/",
+    "https://sailtime.com/annapolis-sailboat-show-clinic-with-todd-hess/",
+    "https://sailtime.com/sailtime-boat-sharing-service-offers-a-solution-to-shortage-of-new-vessels/",
+    "https://embark.sailtime.com/forget-password",
+    "https://sailtime.com/fleet/beneteau-oceanis-34-1/"
+  ],
+  "candidates": [
+    "https://sailtime.com/contact/",
+    "https://sailtime.com/membership/faq/",
+    "https://sailtime.com/about/",
+    "https://sailtime.com/about/articles-media/",
+    "https://sailtime.com/about/management/",
+    "https://sailtime.com/about/partners/",
+    "https://sailtime.com/about/press/",
+    "https://sailtime.com/blog/",
+    "https://sailtime.com/membership/",
+    "https://sailtime.com/membership/embark/",
+    "https://sailtime.com/membership/membership-levels/",
+    "https://sailtime.com/membership/plus/",
+    "https://sailtime.com/team/bob-remsing/",
+    "https://sailtime.com/team/george-bonelli/",
+    "https://sailtime.com/team/graham-raspass/",
+    "https://sailtime.com/team/kristen-diviney-mcgarr/",
+    "https://sailtime.com/team/todd-hess/",
+    "https://sailtime.com/team/wayne-diviney/",
+    "https://sailtime.com/ownership/faq/",
+    "https://sailtime.com",
+    "https://sailtime.com/",
+    "https://sailtime.com/annapolis-sailboat-show-clinic-with-todd-hess/",
+    "https://sailtime.com/annapolis-sailboat-show-with-michael-and-liza-campbell/",
+    "https://sailtime.com/certified-asa-instructor-and-uscg-captain-rick-robey-about-annapolis-sailboat-show-clinic/",
+    "https://sailtime.com/sailtime-cleveland-to-debut-at-catawba-boat-show/",
+    "https://sailtime.com/the-largest-sailboat-show-sailtime-annapolis/",
+    "https://sailtime.com/contact",
+    "https://sailtime.com/contact-us",
+    "https://sailtime.com/contact-us/",
+    "https://sailtime.com/contactus",
+    "https://sailtime.com/contactus/",
+    "https://sailtime.com/about",
+    "https://sailtime.com/about-us",
+    "https://sailtime.com/about-us/",
+    "https://sailtime.com/visit",
+    "https://sailtime.com/visit/",
+    "https://sailtime.com/location",
+    "https://sailtime.com/location/",
+    "https://sailtime.com/directions",
+    "https://sailtime.com/directions/"
+  ],
+  "per_page": {
+    "https://sailtime.com/contact/": {
+      "title": "Contact | Fractional Sailing Opportunities | SailTime",
+      "band_hits": {},
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [
+        "443-951-0230",
+        "855-855-7245",
+        "866-847-1386"
+      ],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/membership/faq/": {
+      "title": "Sailing Club Membership FAQ | SailTime",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/membership/faq/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/membership/faq/"
+          ]
+        },
+        "schedule": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/membership/faq/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/about/": {
+      "title": "Fractional Sailing Club | Sailboat Charter | About SailTime",
+      "band_hits": {},
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/about/articles-media/": {
+      "title": "Discover Sailing Insights & News | Articles & Media | SailTime",
+      "band_hits": {
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/about/articles-media/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/about/management/": {
+      "title": "Management Team | Fractional Boating Club | SailTime",
+      "band_hits": {},
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.linkedin.com/in/georgebonelli/",
+        "https://www.linkedin.com/in/graham-raspass-62546316/",
+        "https://www.linkedin.com/in/kristendivineymcgarr/",
+        "https://www.linkedin.com/in/todd-hess-28515518/",
+        "https://www.linkedin.com/in/wayne-diviney-a76b037/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/about/partners/": {
+      "title": "Fractional Sailing Club Strategic Partners | SailTime",
+      "band_hits": {},
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/about/press/": {
+      "title": "Explore Press Releases & Latest News | SailTime",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/about/press/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/blog/": {
+      "title": "Blog | Fractional Sail Club | Set Sail With SailTime",
+      "band_hits": {},
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/membership/": {
+      "title": "Fractional Sailing Club Membership Benefits | SailTime",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/membership/"
+          ]
+        },
+        "schedule": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/membership/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/membership/embark/": {
+      "title": "Embark Membership Sailing App | Book Sailing Time | SailTime",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/membership/embark/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/membership/embark/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/membership/membership-levels/": {
+      "title": "Choose From 3 Sailing Club Membership Levels Easily | SailTime",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/membership/membership-levels/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/membership/plus/": {
+      "title": "SailTime Plus | Get Global Sailing Access To Premium Yachts",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/membership/plus/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/team/bob-remsing/": {
+      "title": "Bob Remsing | SailTime",
+      "band_hits": {},
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/team/george-bonelli/": {
+      "title": "George Bonelli | SailTime",
+      "band_hits": {},
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/team/graham-raspass/": {
+      "title": "Graham Raspass | SailTime",
+      "band_hits": {
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/team/graham-raspass/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/team/kristen-diviney-mcgarr/": {
+      "title": "Kristen Diviney McGarr | SailTime",
+      "band_hits": {},
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/team/todd-hess/": {
+      "title": "Todd Hess | SailTime",
+      "band_hits": {},
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/team/wayne-diviney/": {
+      "title": "Wayne Diviney | SailTime",
+      "band_hits": {},
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/ownership/faq/": {
+      "title": "Yacht Ownership FAQ | Sailing Club | SailTime",
+      "band_hits": {
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/ownership/faq/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com": {
+      "title": "Sailing Club | Fractional Boat Ownership Franchise | SailTime",
+      "band_hits": {},
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/": {
+      "title": "Sailing Club | Fractional Boat Ownership Franchise | SailTime",
+      "band_hits": {},
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/annapolis-sailboat-show-clinic-with-todd-hess/": {
+      "title": "Annapolis Sailboat Show Clinic With Todd Hess",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/annapolis-sailboat-show-clinic-with-todd-hess/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/annapolis-sailboat-show-with-michael-and-liza-campbell/": {
+      "title": "Annapolis Sailboat Show With Michael And Liza Campbell",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/annapolis-sailboat-show-with-michael-and-liza-campbell/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/certified-asa-instructor-and-uscg-captain-rick-robey-about-annapolis-sailboat-show-clinic/": {
+      "title": "Certified ASA Instructor And USCG Captain Rick Robey About Annapolis Sailboat Show Clinic",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/certified-asa-instructor-and-uscg-captain-rick-robey-about-annapolis-sailboat-show-clinic/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/sailtime-cleveland-to-debut-at-catawba-boat-show/": {
+      "title": "SailTime Cleveland To Debut At Catawba Boat Show | SailTime",
+      "band_hits": {
+        "show": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/sailtime-cleveland-to-debut-at-catawba-boat-show/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/sailtime-cleveland-to-debut-at-catawba-boat-show/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/sailtime-cleveland-to-debut-at-catawba-boat-show/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/the-largest-sailboat-show-sailtime-annapolis/": {
+      "title": "The Largest Sailboat Show - SailTime Annapolis",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/the-largest-sailboat-show-sailtime-annapolis/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/contact": {
+      "title": "Contact | Fractional Sailing Opportunities | SailTime",
+      "band_hits": {},
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [
+        "443-951-0230",
+        "855-855-7245",
+        "866-847-1386"
+      ],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/contact-us": {
+      "title": "Page Not Found | SailTime",
+      "band_hits": {},
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/contact-us/": {
+      "title": "Page Not Found | SailTime",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/contact-us/"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/contact-us/"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/contactus": {
+      "title": "Page Not Found | SailTime",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/contactus"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/contactus"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/contactus/": {
+      "title": "Page Not Found | SailTime",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/contactus/"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/contactus/"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/about": {
+      "title": "Fractional Sailing Club | Sailboat Charter | About SailTime",
+      "band_hits": {},
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/about-us": {
+      "title": "Page Not Found | SailTime",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/about-us"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/about-us"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/about-us/": {
+      "title": "Page Not Found | SailTime",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/about-us/"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/about-us/"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/visit": {
+      "title": "Page Not Found | SailTime",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/visit"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/visit"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/visit/": {
+      "title": "Page Not Found | SailTime",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/visit/"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/visit/"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/location": {
+      "title": "Fractional Sailing Club Locations | Boat Share | SailTime",
+      "band_hits": {},
+      "emails": [
+        "anacortes@sailtime.com",
+        "annapolis@sailtime.com",
+        "boston@sailtime.com",
+        "chicago@sailtime.com",
+        "cleveland@sailtime.com",
+        "detroit@sailtime.com",
+        "doorcounty@sailtime.com",
+        "houston@sailtime.com",
+        "info@sailtime.com",
+        "inquiry@sailtime.com",
+        "keenan@sailtime.com",
+        "losangelesventura@sailtime.com",
+        "milwaukee@sailtime.com",
+        "neworleans@sailtime.com",
+        "newyork@sailtime.com",
+        "northeastflorida@sailtime.com",
+        "northjersey@sailtime.com",
+        "oahu@sailtime.com",
+        "orangecounty@sailtime.com",
+        "portland@sailtime.com",
+        "sanfrancisco@sailtime.com",
+        "virginia@sailtime.com"
+      ],
+      "phones": [
+        "201-445-3020",
+        "216-407-0296",
+        "262-825-4123",
+        "262-994-1416",
+        "310-821-8446",
+        "360-299-0777",
+        "409-500-7245",
+        "415-869-2861",
+        "443-376-7245",
+        "503-289-6306",
+        "504-283-2507",
+        "586-888-9744",
+        "617-981-6208",
+        "619-417-3303",
+        "714-878-7700",
+        "757-480-7245",
+        "808-495-1035",
+        "815-356-8791",
+        "843-806-1113",
+        "845-429-1557",
+        "877-724-5846",
+        "904-717-1240",
+        "920-371-5599"
+      ],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/location/": {
+      "title": "Fractional Sailing Club Locations | Boat Share | SailTime",
+      "band_hits": {},
+      "emails": [
+        "anacortes@sailtime.com",
+        "annapolis@sailtime.com",
+        "boston@sailtime.com",
+        "chicago@sailtime.com",
+        "cleveland@sailtime.com",
+        "detroit@sailtime.com",
+        "doorcounty@sailtime.com",
+        "houston@sailtime.com",
+        "info@sailtime.com",
+        "inquiry@sailtime.com",
+        "keenan@sailtime.com",
+        "losangelesventura@sailtime.com",
+        "milwaukee@sailtime.com",
+        "neworleans@sailtime.com",
+        "newyork@sailtime.com",
+        "northeastflorida@sailtime.com",
+        "northjersey@sailtime.com",
+        "oahu@sailtime.com",
+        "orangecounty@sailtime.com",
+        "portland@sailtime.com",
+        "sanfrancisco@sailtime.com",
+        "virginia@sailtime.com"
+      ],
+      "phones": [
+        "201-445-3020",
+        "216-407-0296",
+        "262-825-4123",
+        "262-994-1416",
+        "310-821-8446",
+        "360-299-0777",
+        "409-500-7245",
+        "415-869-2861",
+        "443-376-7245",
+        "503-289-6306",
+        "504-283-2507",
+        "586-888-9744",
+        "617-981-6208",
+        "619-417-3303",
+        "714-878-7700",
+        "757-480-7245",
+        "808-495-1035",
+        "815-356-8791",
+        "843-806-1113",
+        "845-429-1557",
+        "877-724-5846",
+        "904-717-1240",
+        "920-371-5599"
+      ],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/directions": {
+      "title": "Page Not Found | SailTime",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/directions"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/directions"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    },
+    "https://sailtime.com/directions/": {
+      "title": "Page Not Found | SailTime",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/directions/"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/directions/"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailtime.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sailtime.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailTime/",
+        "https://www.instagram.com/sailtimeboatclub/",
+        "https://www.linkedin.com/company/sailtime/",
+        "https://www.youtube.com/channel/UCNDajh1r_OfvMdfhpwFw9GA"
+      ]
+    }
+  }
+}

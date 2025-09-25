@@ -1,0 +1,72 @@
+{
+  "pages": [
+    {
+      "url": "https://www.citywineandcigar.com/contact",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nHome\nCalendar\nMenu\nBecome a VIP\nContact\nCatering & Events\nBronx Pizza\nContact Us\n555-555-5555\ninfo@citywineandcigar.com\n386-337-7008\nHome\nCalendar\nMenu\nBecome a VIP\nContact\nCatering & Events\nBronx Pizza\nnavigation placeholders\n111 Victoria Commons Blvd., Suite 113 | DeLand, FL 32724\nEmail\ninfo@citywineandcigar.com\nPhone\n(386) 337-7008\nContact\nContact Us\nName\nPhone\nEmail\nMessage\nThank you for contacting us.\nWe will get back to you as soon as possible\nOops, there was an error sending your message.\nPlease try again later\n111 Victoria Commons Blvd.\nSuite 113\nDeLand, FL 32724\n﻿\nContact Us\n386-337-7008\ninfo@citywineandcigar.com\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: 650f6978\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": [
+        "info@citywineandcigar.com"
+      ]
+    },
+    {
+      "url": "https://www.citywineandcigar.com/about",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nHome\nCalendar\nMenu\nBecome a VIP\nContact\nCatering & Events\nBronx Pizza\nContact Us\n555-555-5555\ninfo@citywineandcigar.com\n386-337-7008\nHome\nCalendar\nMenu\nBecome a VIP\nContact\nCatering & Events\nBronx Pizza\nnavigation placeholders\nLet us host your next event!\nLet us host your next event at City Wine & Cigar! Whether it’s a bridal shower, birthday party, retirement celebration, rehearsal dinner, or reunion, our venue provides a welcoming and relaxed atmosphere—without any facility fee. With live music on Thursday, Friday, and Saturday nights, your event will be even more special.\nCatering food items are also available for pickup with 24 hours’ notice.\nCall or text our event planner, Constance, at (386) 785-3271 to start planning your event today!\nPlace your catering order by calling\n(386) 785-3271\n.\n111 Victoria Commons Blvd.\nSuite 113\nDeLand, FL 32724\n﻿\nContact Us\n386-337-7008\ninfo@citywineandcigar.com\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: 650f6978\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": [
+        "info@citywineandcigar.com"
+      ]
+    },
+    {
+      "url": "https://facebook.com/CityWineandCigar",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "https://www.citywineandcigar.com/contact",
+    "https://www.citywineandcigar.com/calendar",
+    "https://www.citywineandcigar.com/menu2ee9025f",
+    "https://www.citywineandcigar.com/",
+    "https://www.citywineandcigar.com/bronx-pizza",
+    "https://www.citywineandcigar.com/gallery",
+    "https://www.citywineandcigar.com/about",
+    "https://www.citywineandcigar.com/_dm/s/rt/widgets/opentable/opentable.jsp?restid=&ref=&country=us&return=%2F%3Fnull&device=desktop"
+  ],
+  "candidate_links": [
+    "https://www.citywineandcigar.com/contact",
+    "https://www.citywineandcigar.com/about",
+    "https://facebook.com/CityWineandCigar"
+  ],
+  "visited": [
+    "https://www.citywineandcigar.com/",
+    "https://www.citywineandcigar.com/about",
+    "https://www.citywineandcigar.com/contact",
+    "https://www.citywineandcigar.com/staff",
+    "https://www.citywineandcigar.com/team",
+    "https://www.citywineandcigar.com/board",
+    "https://www.citywineandcigar.com/directory",
+    "https://www.citywineandcigar.com/events",
+    "https://www.citywineandcigar.com/sitemap.xml",
+    "https://www.citywineandcigar.com/council",
+    "https://www.citywineandcigar.com/leadership",
+    "https://www.citywineandcigar.com/management",
+    "https://www.citywineandcigar.com/producers",
+    "https://www.citywineandcigar.com/support",
+    "https://www.citywineandcigar.com/crew",
+    "https://www.citywineandcigar.com/members",
+    "https://www.citywineandcigar.com/bios",
+    "https://www.citywineandcigar.com/people",
+    "https://www.citywineandcigar.com/artists",
+    "https://www.citywineandcigar.com/musicians",
+    "https://www.citywineandcigar.com/faculty",
+    "https://www.citywineandcigar.com/administration",
+    "https://www.citywineandcigar.com/contact",
+    "https://www.citywineandcigar.com/about",
+    "https://facebook.com/CityWineandCigar"
+  ],
+  "base_url": "https://www.citywineandcigar.com/"
+}

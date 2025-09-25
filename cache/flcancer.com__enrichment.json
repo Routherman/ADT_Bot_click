@@ -1,0 +1,147 @@
+{
+  "timestamp": "2025-09-24T04:42:38.700856",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T04:42:34.570024",
+      "company": {
+        "name": null,
+        "domain": "flcancer.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 63587,
+          "description": "Founded in 1984, Florida Cancer Specialists & Research Institute (FCS) is the largest independent medical oncology/hematology practice in the United States. With over 240 physicians, more than 220 advanced practice providers and physician assistants and nearly 100 locations in our network, we are committed to providing world-class cancer care in community-based settings close to home.\n\nOur team includes well-respected physicians and highly trained staff who provide each patient with an individualized treatment plan. Our physicians are board-certified and consistently ranked nationally as Top Doctors by U.S. News & World Report. Trained in such prestigious medical schools and research institutes as Duke, Stanford, Harvard, Emory, M.D. Anderson, and Memorial Sloan-Kettering, the physicians of Florida Cancer Specialists provide leadership and consultation in many of the state's leading hospitals.\n\nWe serve patients on the Gulf Coast from Naples to Tallahassee, Central Florida and on the East Coast from Palm Beach County to Jacksonville.\n\nWe have built a national reputation for excellence that is reflected in exceptional and compassionate patient care, driven by innovative clinical research and cutting-edge technologies that help advance targeted treatments and genetically-based immunotherapies, and embodied by our outstanding team of highly-trained and dedicated physicians, clinicians and staff.\n\nThere are over 100 job opportunities at FCS throughout Florida, including seasonal nursing positions. Please visit http://flcancer.com/current_positions.aspx for more information.\n\nFollow us on Glassdoor and Indeed!\nGlassdoor: https://www.glassdoor.com/Overview/Working-at-Florida-Cancer-Specialists-and-Research-Institute-EI_IE491941.11,60.htm\nIndeed: https://www.indeed.com/cmp/Florida-Cancer-Specialists-&-Research-Institute-3",
+          "domain": "flcancer.com",
+          "employees": "1001 - 5000",
+          "founded": "1984",
+          "fqdn": "www.flcancer.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=05/day=05/j_lvsyu4uf7zrxokw6h.2b4346a316aa37a4e33180273cb60c9f41e04841.file_lvsyv0931ziex23oni.logo_cached.jpg",
+          "name": "Florida Cancer Specialists & Research Institute",
+          "revenueRange": [
+            250000000,
+            500000000
+          ],
+          "mainIndustry": "Hospitals, Healthcare & Clinics",
+          "subIndustry": "Hospitals & Healthcare",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/florida-cancer-specialists"
+            }
+          },
+          "address": "Fort Myers North America United States US 4371 Veronica S Shoemaker Blvd; Fort Myers, Florida 33916, US Florida FL -81.84059143066406,26.621679306030273 ",
+          "location": {
+            "city": "Fort Myers",
+            "country": "United States",
+            "fullLocation": "Fort Myers North America United States US 4371 Veronica S Shoemaker Blvd; Fort Myers, Florida 33916, US Florida FL -81.84059143066406,26.621679306030273 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "4371 Veronica S Shoemaker Blvd; Fort Myers, Florida 33916, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8062,
+                "description": "General medical and surgical hospitals"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 621111,
+                "description": "Offices of Physicians (except Mental Health Specialists)"
+              }
+            ]
+          },
+          "website": "https://flcancer.com",
+          "specialities": [
+            "clinical trials",
+            "diagnostic imaging",
+            "genetics",
+            "gynecologic oncology",
+            "hematology/oncology",
+            "interventional radiology",
+            "laboratory services",
+            "molecular biology",
+            "pain management",
+            "pathology",
+            "pharmacy",
+            "precision oncology",
+            "radiation oncology",
+            "radio",
+            "urology",
+            "value based care"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T04:42:35.694021",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T04:42:38.695462",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

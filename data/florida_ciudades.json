@@ -1,0 +1,461 @@
+{
+  "florida": {
+    "condados": {
+      "Alachua": {
+        "ciudades": [
+          {"nombre": "Gainesville", "abreviatura": "GNV"},
+          {"nombre": "Alachua", "abreviatura": "ALC"},
+          {"nombre": "Newberry", "abreviatura": "NBY"},
+          {"nombre": "High Springs", "abreviatura": "HS"},
+          {"nombre": "Hawthorne", "abreviatura": "HAW"}
+        ]
+      },
+      "Baker": {
+        "ciudades": [
+          {"nombre": "Macclenny", "abreviatura": "MAC"},
+          {"nombre": "Glen St. Mary", "abreviatura": "GSM"}
+        ]
+      },
+      "Bay": {
+        "ciudades": [
+          {"nombre": "Panama City", "abreviatura": "PC"},
+          {"nombre": "Lynn Haven", "abreviatura": "LH"},
+          {"nombre": "Callaway", "abreviatura": "CALL"},
+          {"nombre": "Springfield", "abreviatura": "SPF"}
+        ]
+      },
+      "Bradford": {
+        "ciudades": [
+          {"nombre": "Starke", "abreviatura": "STR"},
+          {"nombre": "Hampton", "abreviatura": "HAM"},
+          {"nombre": "Lawtey", "abreviatura": "LAW"}
+        ]
+      },
+      "Brevard": {
+        "ciudades": [
+          {"nombre": "Palm Bay", "abreviatura": "PB"},
+          {"nombre": "Melbourne", "abreviatura": "MLB"},
+          {"nombre": "Cocoa", "abreviatura": "COC"},
+          {"nombre": "Titusville", "abreviatura": "TIT"},
+          {"nombre": "Satellite Beach", "abreviatura": "SAT"}
+        ]
+      },
+      "Broward": {
+        "ciudades": [
+          {"nombre": "Fort Lauderdale", "abreviatura": "FLL"},
+          {"nombre": "Hollywood", "abreviatura": "HOL"},
+          {"nombre": "Pembroke Pines", "abreviatura": "PP"},
+          {"nombre": "Miramar", "abreviatura": "MIR"},
+          {"nombre": "Coral Springs", "abreviatura": "CS"}
+        ]
+      },
+      "Calhoun": {
+        "ciudades": [
+          {"nombre": "Blountstown", "abreviatura": "BLT"},
+          {"nombre": "Altha", "abreviatura": "ALT"}
+        ]
+      },
+      "Charlotte": {
+        "ciudades": [
+          {"nombre": "Port Charlotte", "abreviatura": "PC"},
+          {"nombre": "Punta Gorda", "abreviatura": "PG"}
+        ]
+      },
+      "Citrus": {
+        "ciudades": [
+          {"nombre": "Inverness", "abreviatura": "INV"},
+          {"nombre": "Crystal River", "abreviatura": "CR"},
+          {"nombre": "Homosassa", "abreviatura": "HOM"}
+        ]
+      },
+      "Clay": {
+        "ciudades": [
+          {"nombre": "Orange Park", "abreviatura": "OP"},
+          {"nombre": "Green Cove Springs", "abreviatura": "GCS"},
+          {"nombre": "Keystone Heights", "abreviatura": "KH"}
+        ]
+      },
+      "Collier": {
+        "ciudades": [
+          {"nombre": "Naples", "abreviatura": "NAP"},
+          {"nombre": "Marco Island", "abreviatura": "MI"},
+          {"nombre": "Everglades City", "abreviatura": "EVG"}
+        ]
+      },
+      "Columbia": {
+        "ciudades": [
+          {"nombre": "Lake City", "abreviatura": "LC"},
+          {"nombre": "Fort White", "abreviatura": "FW"}
+        ]
+      },
+      "DeSoto": {
+        "ciudades": [
+          {"nombre": "Arcadia", "abreviatura": "ARC"}
+        ]
+      },
+      "Dixie": {
+        "ciudades": [
+          {"nombre": "Cross City", "abreviatura": "CC"},
+          {"nombre": "Horseshoe Beach", "abreviatura": "HB"}
+        ]
+      },
+      "Duval": {
+        "ciudades": [
+          {"nombre": "Jacksonville", "abreviatura": "JAX"},
+          {"nombre": "Atlantic Beach", "abreviatura": "AB"},
+          {"nombre": "Neptune Beach", "abreviatura": "NB"},
+          {"nombre": "Baldwin", "abreviatura": "BAL"}
+        ]
+      },
+      "Escambia": {
+        "ciudades": [
+          {"nombre": "Pensacola", "abreviatura": "PNS"},
+          {"nombre": "Century", "abreviatura": "CEN"}
+        ]
+      },
+      "Flagler": {
+        "ciudades": [
+          {"nombre": "Palm Coast", "abreviatura": "PC"},
+          {"nombre": "Flagler Beach", "abreviatura": "FB"},
+          {"nombre": "Bunnell", "abreviatura": "BUN"}
+        ]
+      },
+      "Franklin": {
+        "ciudades": [
+          {"nombre": "Apalachicola", "abreviatura": "APA"},
+          {"nombre": "Carrabelle", "abreviatura": "CAR"}
+        ]
+      },
+      "Gadsden": {
+        "ciudades": [
+          {"nombre": "Quincy", "abreviatura": "QUI"},
+          {"nombre": "Chattahoochee", "abreviatura": "CHA"},
+          {"nombre": "Havana", "abreviatura": "HAV"},
+          {"nombre": "Midway", "abreviatura": "MID"}
+        ]
+      },
+      "Gilchrist": {
+        "ciudades": [
+          {"nombre": "Trenton", "abreviatura": "TRE"},
+          {"nombre": "Bell", "abreviatura": "BEL"}
+        ]
+      },
+      "Glades": {
+        "ciudades": [
+          {"nombre": "Moore Haven", "abreviatura": "MH"}
+        ]
+      },
+      "Gulf": {
+        "ciudades": [
+          {"nombre": "Port St. Joe", "abreviatura": "PSJ"},
+          {"nombre": "Wewahitchka", "abreviatura": "WEW"}
+        ]
+      },
+      "Hamilton": {
+        "ciudades": [
+          {"nombre": "Jasper", "abreviatura": "JAS"},
+          {"nombre": "Jennings", "abreviatura": "JEN"},
+          {"nombre": "White Springs", "abreviatura": "WS"}
+        ]
+      },
+      "Hardee": {
+        "ciudades": [
+          {"nombre": "Wauchula", "abreviatura": "WAU"},
+          {"nombre": "Bowling Green", "abreviatura": "BG"},
+          {"nombre": "Zolfo Springs", "abreviatura": "ZS"}
+        ]
+      },
+      "Hendry": {
+        "ciudades": [
+          {"nombre": "Clewiston", "abreviatura": "CLE"},
+          {"nombre": "LaBelle", "abreviatura": "LAB"}
+        ]
+      },
+      "Hernando": {
+        "ciudades": [
+          {"nombre": "Brooksville", "abreviatura": "BRO"},
+          {"nombre": "Spring Hill", "abreviatura": "SH"}
+        ]
+      },
+      "Highlands": {
+        "ciudades": [
+          {"nombre": "Sebring", "abreviatura": "SEB"},
+          {"nombre": "Avon Park", "abreviatura": "AP"},
+          {"nombre": "Lake Placid", "abreviatura": "LP"}
+        ]
+      },
+      "Hillsborough": {
+        "ciudades": [
+          {"nombre": "Tampa", "abreviatura": "TPA"},
+          {"nombre": "Plant City", "abreviatura": "PC"},
+          {"nombre": "Temple Terrace", "abreviatura": "TT"}
+        ]
+      },
+      "Holmes": {
+        "ciudades": [
+          {"nombre": "Bonifay", "abreviatura": "BON"},
+          {"nombre": "Esto", "abreviatura": "EST"},
+          {"nombre": "Noma", "abreviatura": "NOM"}
+        ]
+      },
+      "Indian River": {
+        "ciudades": [
+          {"nombre": "Vero Beach", "abreviatura": "VB"},
+          {"nombre": "Sebastian", "abreviatura": "SEB"},
+          {"nombre": "Fellsmere", "abreviatura": "FEL"}
+        ]
+      },
+      "Jackson": {
+        "ciudades": [
+          {"nombre": "Marianna", "abreviatura": "MAR"},
+          {"nombre": "Graceville", "abreviatura": "GRA"},
+          {"nombre": "Cottondale", "abreviatura": "COT"}
+        ]
+      },
+      "Jefferson": {
+        "ciudades": [
+          {"nombre": "Monticello", "abreviatura": "MON"}
+        ]
+      },
+      "Lafayette": {
+        "ciudades": [
+          {"nombre": "Mayo", "abreviatura": "MAY"}
+        ]
+      },
+      "Lake": {
+        "ciudades": [
+          {"nombre": "Clermont", "abreviatura": "CLE"},
+          {"nombre": "Leesburg", "abreviatura": "LEE"},
+          {"nombre": "Eustis", "abreviatura": "EUS"},
+          {"nombre": "Mount Dora", "abreviatura": "MD"},
+          {"nombre": "Tavares", "abreviatura": "TAV"}
+        ]
+      },
+      "Lee": {
+        "ciudades": [
+          {"nombre": "Fort Myers", "abreviatura": "FM"},
+          {"nombre": "Cape Coral", "abreviatura": "CC"},
+          {"nombre": "Bonita Springs", "abreviatura": "BS"},
+          {"nombre": "Sanibel", "abreviatura": "SAN"}
+        ]
+      },
+      "Leon": {
+        "ciudades": [
+          {"nombre": "Tallahassee", "abreviatura": "TLH"}
+        ]
+      },
+      "Levy": {
+        "ciudades": [
+          {"nombre": "Bronson", "abreviatura": "BRO"},
+          {"nombre": "Chiefland", "abreviatura": "CHI"},
+          {"nombre": "Williston", "abreviatura": "WIL"},
+          {"nombre": "Cedar Key", "abreviatura": "CK"}
+        ]
+      },
+      "Liberty": {
+        "ciudades": [
+          {"nombre": "Bristol", "abreviatura": "BRI"}
+        ]
+      },
+      "Madison": {
+        "ciudades": [
+          {"nombre": "Madison", "abreviatura": "MAD"},
+          {"nombre": "Greenville", "abreviatura": "GRE"}
+        ]
+      },
+      "Manatee": {
+        "ciudades": [
+          {"nombre": "Bradenton", "abreviatura": "BRD"},
+          {"nombre": "Palmetto", "abreviatura": "PAL"},
+          {"nombre": "Anna Maria", "abreviatura": "AM"}
+        ]
+      },
+      "Marion": {
+        "ciudades": [
+          {"nombre": "Ocala", "abreviatura": "OCA"},
+          {"nombre": "Belleview", "abreviatura": "BEL"},
+          {"nombre": "Dunnellon", "abreviatura": "DUN"}
+        ]
+      },
+      "Martin": {
+        "ciudades": [
+          {"nombre": "Stuart", "abreviatura": "STU"},
+          {"nombre": "Jensen Beach", "abreviatura": "JB"},
+          {"nombre": "Palm City", "abreviatura": "PC"}
+        ]
+      },
+      "Miami-Dade": {
+        "ciudades": [
+          {"nombre": "Miami", "abreviatura": "MIA"},
+          {"nombre": "Hialeah", "abreviatura": "HIA"},
+          {"nombre": "Miami Beach", "abreviatura": "MB"},
+          {"nombre": "Homestead", "abreviatura": "HOM"},
+          {"nombre": "Coral Gables", "abreviatura": "CG"}
+        ]
+      },
+      "Monroe": {
+        "ciudades": [
+          {"nombre": "Key West", "abreviatura": "KW"},
+          {"nombre": "Marathon", "abreviatura": "MAR"},
+          {"nombre": "Key Largo", "abreviatura": "KL"}
+        ]
+      },
+      "Nassau": {
+        "ciudades": [
+          {"nombre": "Fernandina Beach", "abreviatura": "FB"},
+          {"nombre": "Callahan", "abreviatura": "CAL"},
+          {"nombre": "Hilliard", "abreviatura": "HIL"}
+        ]
+      },
+      "Okaloosa": {
+        "ciudades": [
+          {"nombre": "Fort Walton Beach", "abreviatura": "FWB"},
+          {"nombre": "Crestview", "abreviatura": "CRE"},
+          {"nombre": "Niceville", "abreviatura": "NIC"}
+        ]
+      },
+      "Okeechobee": {
+        "ciudades": [
+          {"nombre": "Okeechobee", "abreviatura": "OKE"}
+        ]
+      },
+      "Orange": {
+        "ciudades": [
+          {"nombre": "Orlando", "abreviatura": "ORL"},
+          {"nombre": "Apopka", "abreviatura": "APO"},
+          {"nombre": "Winter Park", "abreviatura": "WP"},
+          {"nombre": "Ocoee", "abreviatura": "OCO"}
+        ]
+      },
+      "Osceola": {
+        "ciudades": [
+          {"nombre": "Kissimmee", "abreviatura": "KIS"},
+          {"nombre": "St. Cloud", "abreviatura": "SC"}
+        ]
+      },
+      "Palm Beach": {
+        "ciudades": [
+          {"nombre": "West Palm Beach", "abreviatura": "WPB"},
+          {"nombre": "Boca Raton", "abreviatura": "BOC"},
+          {"nombre": "Delray Beach", "abreviatura": "DRB"},
+          {"nombre": "Boynton Beach", "abreviatura": "BB"}
+        ]
+      },
+      "Pasco": {
+        "ciudades": [
+          {"nombre": "New Port Richey", "abreviatura": "NPR"},
+          {"nombre": "Dade City", "abreviatura": "DC"},
+          {"nombre": "Zephyrhills", "abreviatura": "ZEP"}
+        ]
+      },
+      "Pinellas": {
+        "ciudades": [
+          {"nombre": "St. Petersburg", "abreviatura": "STP"},
+          {"nombre": "Clearwater", "abreviatura": "CLW"},
+          {"nombre": "Largo", "abreviatura": "LAR"},
+          {"nombre": "Dunedin", "abreviatura": "DUN"}
+        ]
+      },
+      "Polk": {
+        "ciudades": [
+          {"nombre": "Lakeland", "abreviatura": "LAK"},
+          {"nombre": "Winter Haven", "abreviatura": "WH"},
+          {"nombre": "Bartow", "abreviatura": "BAR"},
+          {"nombre": "Haines City", "abreviatura": "HC"}
+        ]
+      },
+      "Putnam": {
+        "ciudades": [
+          {"nombre": "Palatka", "abreviatura": "PAL"},
+          {"nombre": "Crescent City", "abreviatura": "CC"},
+          {"nombre": "Interlachen", "abreviatura": "INT"}
+        ]
+      },
+      "St. Johns": {
+        "ciudades": [
+          {"nombre": "St. Augustine", "abreviatura": "STA"},
+          {"nombre": "St. Augustine Beach", "abreviatura": "SAB"},
+          {"nombre": "Ponte Vedra Beach", "abreviatura": "PVB"}
+        ]
+      },
+      "St. Lucie": {
+        "ciudades": [
+          {"nombre": "Port St. Lucie", "abreviatura": "PSL"},
+          {"nombre": "Fort Pierce", "abreviatura": "FP"}
+        ]
+      },
+      "Santa Rosa": {
+        "ciudades": [
+          {"nombre": "Milton", "abreviatura": "MIL"},
+          {"nombre": "Gulf Breeze", "abreviatura": "GB"},
+          {"nombre": "Jay", "abreviatura": "JAY"}
+        ]
+      },
+      "Sarasota": {
+        "ciudades": [
+          {"nombre": "Sarasota", "abreviatura": "SAR"},
+          {"nombre": "North Port", "abreviatura": "NP"},
+          {"nombre": "Venice", "abreviatura": "VEN"}
+        ]
+      },
+      "Seminole": {
+        "ciudades": [
+          {"nombre": "Sanford", "abreviatura": "SAN"},
+          {"nombre": "Altamonte Springs", "abreviatura": "ALT"},
+          {"nombre": "Oviedo", "abreviatura": "OVI"},
+          {"nombre": "Casselberry", "abreviatura": "CAS"}
+        ]
+      },
+      "Sumter": {
+        "ciudades": [
+          {"nombre": "Bushnell", "abreviatura": "BUS"},
+          {"nombre": "Wildwood", "abreviatura": "WILD"},
+          {"nombre": "The Villages", "abreviatura": "TV"}
+        ]
+      },
+      "Suwannee": {
+        "ciudades": [
+          {"nombre": "Live Oak", "abreviatura": "LO"},
+          {"nombre": "Branford", "abreviatura": "BRA"}
+        ]
+      },
+      "Taylor": {
+        "ciudades": [
+          {"nombre": "Perry", "abreviatura": "PER"}
+        ]
+      },
+      "Union": {
+        "ciudades": [
+          {"nombre": "Lake Butler", "abreviatura": "LB"}
+        ]
+      },
+      "Volusia": {
+        "ciudades": [
+          {"nombre": "Daytona Beach", "abreviatura": "DB"},
+          {"nombre": "Deltona", "abreviatura": "DEL"},
+          {"nombre": "DeLand", "abreviatura": "DL"},
+          {"nombre": "Ormond Beach", "abreviatura": "OB"}
+        ]
+      },
+      "Wakulla": {
+        "ciudades": [
+          {"nombre": "Crawfordville", "abreviatura": "CRA"},
+          {"nombre": "Sopchoppy", "abreviatura": "SOP"}
+        ]
+      },
+      "Walton": {
+        "ciudades": [
+          {"nombre": "DeFuniak Springs", "abreviatura": "DFS"},
+          {"nombre": "Freeport", "abreviatura": "FRE"},
+          {"nombre": "Santa Rosa Beach", "abreviatura": "SRB"}
+        ]
+      },
+      "Washington": {
+        "ciudades": [
+          {"nombre": "Chipley", "abreviatura": "CHI"},
+          {"nombre": "Vernon", "abreviatura": "VER"}
+        ]
+      }
+    }
+  }
+}

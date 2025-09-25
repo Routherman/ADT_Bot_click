@@ -1,0 +1,159 @@
+{
+  "site_url": "https://gohighsprings.com/",
+  "domain": "gohighsprings.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://gohighsprings.com/",
+    "https://gohighsprings.com/about",
+    "https://gohighsprings.com/contact",
+    "https://gohighsprings.com/menus",
+    "https://gohighsprings.com/lunch-menu",
+    "https://gohighsprings.com/dinner-menu",
+    "https://gohighsprings.com/bar-menu",
+    "https://gohighsprings.com/summer-cocktails--24",
+    "https://gohighsprings.com/private-parties"
+  ],
+  "candidates": [
+    "https://gohighsprings.com/contact",
+    "https://gohighsprings.com/about",
+    "https://gohighsprings.com/"
+  ],
+  "per_page": {
+    "https://gohighsprings.com/contact": {
+      "title": "Contact",
+      "band_hits": {},
+      "emails": [
+        "info@gohighsprings.com"
+      ],
+      "phones": [
+        "386-454-1288"
+      ],
+      "socials": [
+        "https://facebook.com//GreatOutdoorsRestaurant",
+        "https://instagram.com/greatoutdoorsrestaurant/"
+      ]
+    },
+    "https://gohighsprings.com/about": {
+      "title": "About Us",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gohighsprings.com/about"
+          ]
+        },
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gohighsprings.com/about"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gohighsprings.com/about"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://gohighsprings.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "bands@gohighsprings.com",
+        "info@gohighsprings.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com//GreatOutdoorsRestaurant",
+        "https://instagram.com/greatoutdoorsrestaurant/",
+        "https://www.facebook.com/GreatOutdoorsRestaurant/events/"
+      ]
+    },
+    "https://gohighsprings.com/": {
+      "title": "Home",
+      "band_hits": {},
+      "emails": [
+        "info@gohighsprings.com"
+      ],
+      "phones": [
+        "386-454-1288"
+      ],
+      "socials": [
+        "https://facebook.com//GreatOutdoorsRestaurant",
+        "https://instagram.com/greatoutdoorsrestaurant/"
+      ]
+    }
+  }
+}

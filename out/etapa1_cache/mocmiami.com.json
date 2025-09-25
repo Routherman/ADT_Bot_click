@@ -1,0 +1,879 @@
+{
+  "site_url": "https://mocmiami.com/",
+  "domain": "mocmiami.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://mocmiami.com/",
+    "https://mocmiami.com/events-calendar/",
+    "https://mocmiami.com/membership/",
+    "https://mocmiami.com",
+    "https://mocmiami.com/2023/07/10/senior-christmas/",
+    "https://mocmiami.com/2023/07/10/fundraising/",
+    "https://mocmiami.com/2023/07/10/seniors-thanksgiving/",
+    "https://mocmiami.com/2023/07/10/disability-gala/",
+    "https://mocmiami.com/2023/07/10/kids-fishing-tournament/",
+    "https://mocmiami.com/2023/07/10/baynanza/",
+    "https://mocmiami.com/2024/12/05/holiday-boat-parade-2024/",
+    "https://mocmiami.com/2023/08/07/bimini-trip-2023-august/",
+    "https://mocmiami.com/2023/07/10/new-years-eve/",
+    "https://mocmiami.com/2023/07/10/kids-christmas/",
+    "https://mocmiami.com/2023/07/10/adults-halloween/",
+    "https://mocmiami.com/2023/07/10/kids-halloween/",
+    "https://mocmiami.com/2023/07/10/boca-chita-outing/",
+    "https://mocmiami.com/2023/07/10/bimini-outing/",
+    "https://mocmiami.com/2023/07/10/dolphin-derby/",
+    "https://mocmiami.com/2023/07/10/tiki-bash/",
+    "https://mocmiami.com/2023/07/10/kids-easter/",
+    "https://mocmiami.com/2023/07/10/pig-roast-competition/",
+    "https://mocmiami.com/2023/07/10/installation-night/"
+  ],
+  "candidates": [
+    "https://mocmiami.com/events-calendar/",
+    "https://mocmiami.com/membership/",
+    "https://mocmiami.com",
+    "https://mocmiami.com/",
+    "https://mocmiami.com/contact",
+    "https://mocmiami.com/contact/",
+    "https://mocmiami.com/contact-us",
+    "https://mocmiami.com/contact-us/",
+    "https://mocmiami.com/contactus",
+    "https://mocmiami.com/contactus/",
+    "https://mocmiami.com/about",
+    "https://mocmiami.com/about/",
+    "https://mocmiami.com/about-us",
+    "https://mocmiami.com/about-us/",
+    "https://mocmiami.com/visit",
+    "https://mocmiami.com/visit/",
+    "https://mocmiami.com/location",
+    "https://mocmiami.com/location/",
+    "https://mocmiami.com/directions",
+    "https://mocmiami.com/directions/"
+  ],
+  "per_page": {
+    "https://mocmiami.com/events-calendar/": {
+      "title": "Events Calendar – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/events-calendar/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/events-calendar/"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/membership/": {
+      "title": "Membership – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/membership/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/membership/"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com": {
+      "title": "Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/": {
+      "title": "Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/contact": {
+      "title": "Contact – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/contact"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/contact/": {
+      "title": "Contact – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/contact-us": {
+      "title": "Page not found – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/contact-us/": {
+      "title": "Page not found – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/contactus": {
+      "title": "Page not found – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/contactus/": {
+      "title": "Page not found – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/about": {
+      "title": "Page not found – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/about"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/about/": {
+      "title": "Page not found – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/about/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/about-us": {
+      "title": "Page not found – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/about-us/": {
+      "title": "Page not found – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/visit": {
+      "title": "Page not found – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/visit"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/visit/": {
+      "title": "Page not found – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/location": {
+      "title": "Page not found – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/location"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/location/": {
+      "title": "Page not found – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/location/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/directions": {
+      "title": "Page not found – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/directions"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    },
+    "https://mocmiami.com/directions/": {
+      "title": "Page not found – Miami Outboard Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mocmiami.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "office@mocmiami.com"
+      ],
+      "phones": [
+        "(305) 379-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/MiamiOutboardClub",
+        "https://www.instagram.com/MiamiOutBoardClub"
+      ]
+    }
+  }
+}

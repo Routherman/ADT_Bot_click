@@ -1,0 +1,122 @@
+{
+  "timestamp": "2025-09-22T21:11:24.480396",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T21:11:20.250650",
+      "company": {
+        "name": null,
+        "domain": "goodwoodmuseum.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 5448790,
+          "description": "Goodwood Museum & Gardens is a wonderful place to visit, for locals and visitors alike! Come by for a tour of our 170 year old Main House or a stroll through our lovely gardens. We're also a great place to host your next event!\n\nGoodwood Museum & Gardens is situated on sixteen acres of sprawling lawns, gardens and centuries old live oaks. In addition to the Main House, there are thirteen outbuildings, a roller rink and reflecting pool.\n\nThe estate began in the 1830s as a cotton and corn plantation that ultimately encompassed 2,400 acres. The plantation’s agricultural emphasis declined after the Civil War and by the 1880s the remaining 160 acres, home, and garden served as an elegant private residence. In 1911, the house and garden underwent major renovation. The estate’s style and elegance was further enhanced by Goodwood’s owners in the late 1920s. Goodwood is currently restored to this turn-of-the-century Country Estate era, ever mindful of its rich 19th-century history.",
+          "domain": "goodwoodmuseum.org",
+          "employees": "11 - 50",
+          "fqdn": "www.goodwoodmuseum.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/7/4a/74aa21c0227ccd1ef7087695d34b3f6d",
+          "name": "Goodwood Museum & Gardens",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/goodwood-museum-%26-gardens"
+            }
+          },
+          "address": "North America United States US 1600 Miccosukee Rd; Tallahassee, Florida 32308-5166, US ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 1600 Miccosukee Rd; Tallahassee, Florida 32308-5166, US ",
+            "state": "",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1600 Miccosukee Rd; Tallahassee, Florida 32308-5166, US"
+          },
+          "website": "https://goodwoodmuseum.org",
+          "specialities": [
+            "collection management",
+            "events",
+            "historic homes",
+            "horticulture",
+            "learning programs",
+            "weddings"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T21:11:21.495155",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T21:11:24.475242",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

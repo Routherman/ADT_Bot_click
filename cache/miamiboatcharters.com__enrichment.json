@@ -1,0 +1,118 @@
+{
+  "timestamp": "2025-09-22T16:31:42.955600",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T16:31:38.952509",
+      "company": {
+        "name": null,
+        "domain": "miamiboatcharters.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 9189846,
+          "description": "Miami’s 5-Star Boutique Yacht Charter Operator Since 2000\n\nMiami Boat Charters Boutique Service is Always Open. Simply Call During Business Hours or Use Our Live Chat Website Feature 24/7/365.\n\nOur helpful staff are at your service day and night ready to delight from booking to boarding.\n\nMiami Boat Charters offers the largest and newest selection of fully crewed Boat Charters, Luxury Yacht Rentals and Part Boats in Miami Beach. We specialize in private, corporate and special occasion charters departing from select Miami Marinas. Most vessels accommodate groups of up to 12 guests on Day Charters, 10 guests for Term Charters and up to 320 guests on our Party Boats.",
+          "domain": "miamiboatcharters.com",
+          "employees": "1 - 10",
+          "founded": "2000",
+          "fqdn": "www.miamiboatcharters.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/5/93/5934b021b198970ef9b8ef779dc21ed9",
+          "name": "Miami Boat Charters",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Travel Arrangements",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/miami-boat-charters"
+            }
+          },
+          "address": "Miami Beach North America United States US 300 Alton Rd.; Miami Beach, FL 33139, US Florida FL -80.13005065917969,25.7906494140625 ",
+          "location": {
+            "city": "Miami Beach",
+            "country": "United States",
+            "fullLocation": "Miami Beach North America United States US 300 Alton Rd.; Miami Beach, FL 33139, US Florida FL -80.13005065917969,25.7906494140625 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "300 Alton Rd.; Miami Beach, FL 33139, US"
+          },
+          "website": "https://miamiboatcharters.com",
+          "specialities": [
+            "yacht charter"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T16:31:40.180606",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T16:31:42.949421",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

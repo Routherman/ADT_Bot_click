@@ -1,0 +1,65 @@
+{
+  "pages": [
+    {
+      "url": "http://sohobackyard.com/story",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "↓",
+      "emails": [
+        "bosbnp@gmail.com",
+        "user@domain.com"
+      ]
+    },
+    {
+      "url": "https://www.facebook.com/TheSoHoBackyard/",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "http://sohobackyard.com/visit",
+    "http://sohobackyard.com/home",
+    "http://sohobackyard.com/story",
+    "http://sohobackyard.com/drink",
+    "http://sohobackyard.com/drink-1",
+    "http://sohobackyard.com/",
+    "http://sohobackyard.com/specials",
+    "http://sohobackyard.com/taco-thursday",
+    "http://sohobackyard.com/eat-dinner",
+    "http://sohobackyard.com/drinkspecials",
+    "http://sohobackyard.com/cart"
+  ],
+  "candidate_links": [
+    "http://sohobackyard.com/story",
+    "https://www.facebook.com/TheSoHoBackyard/"
+  ],
+  "visited": [
+    "http://sohobackyard.com/",
+    "http://sohobackyard.com/about",
+    "http://sohobackyard.com/contact",
+    "http://sohobackyard.com/staff",
+    "http://sohobackyard.com/team",
+    "http://sohobackyard.com/board",
+    "http://sohobackyard.com/directory",
+    "http://sohobackyard.com/events",
+    "http://sohobackyard.com/sitemap.xml",
+    "http://sohobackyard.com/council",
+    "http://sohobackyard.com/leadership",
+    "http://sohobackyard.com/management",
+    "http://sohobackyard.com/producers",
+    "http://sohobackyard.com/support",
+    "http://sohobackyard.com/crew",
+    "http://sohobackyard.com/members",
+    "http://sohobackyard.com/bios",
+    "http://sohobackyard.com/people",
+    "http://sohobackyard.com/artists",
+    "http://sohobackyard.com/musicians",
+    "http://sohobackyard.com/faculty",
+    "http://sohobackyard.com/administration",
+    "http://sohobackyard.com/story",
+    "https://www.facebook.com/TheSoHoBackyard/"
+  ],
+  "base_url": "http://sohobackyard.com/"
+}

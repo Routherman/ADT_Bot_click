@@ -1,0 +1,135 @@
+{
+  "timestamp": "2025-09-19T22:43:23.694336",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T22:43:20.152560",
+      "company": {
+        "name": null,
+        "domain": "townoforangepark.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 2643714,
+          "description": "Orange Park is a Town of about 9200 residents located along the St. Johns River and Doctors Lake in northeast Florida. The Town provides police, fire, EMS, water & sewer service, streets, parks, special events, cemetery, building permitting, finance and billing services for our residents. The Town is governed by a council of 5 members elected from at-large registered voters. Day-to-day operations of the Town are under the direction of the Town Manager who works with the department heads to implement the policies set forth by the Council.",
+          "domain": "townoforangepark.com",
+          "employees": "51 - 200",
+          "founded": "1879",
+          "fqdn": "www.townoforangepark.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/2/01/2019c4f8115436910890fb17607c741c",
+          "name": "Town of Orange Park",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Government",
+          "subIndustry": "Government Administration",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/town-of-orange-park"
+            }
+          },
+          "address": "North America United States US 2042 Park Avenue; Orange Park, FL 32073, US Florida FL ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 2042 Park Avenue; Orange Park, FL 32073, US Florida FL ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "2042 Park Avenue; Orange Park, FL 32073, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 9111,
+                "description": "Executive offices"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 921110,
+                "description": "Executive Offices"
+              }
+            ]
+          },
+          "website": "https://townoforangepark.com",
+          "specialities": [
+            "economic development",
+            "parks",
+            "police and fire",
+            "public works"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T22:43:21.381528",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T22:43:23.687601",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

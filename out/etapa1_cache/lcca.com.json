@@ -1,0 +1,1281 @@
+{
+  "site_url": "https://lcca.com/",
+  "domain": "lcca.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://lcca.com/",
+    "https://lcca.com/about/",
+    "https://lcca.com/about/contact",
+    "https://lcca.com/resources/visiting-loved-ones",
+    "https://lcca.com/blog/",
+    "https://lcca.com/about/mission",
+    "https://lcca.com/about/mary-denton-story",
+    "https://lcca.com/about/contractors-and-agents",
+    "https://lcca.com/blog/media-gallery",
+    "https://lcca.com/blog/publications",
+    "https://lcca.com/blog/Timeless-Champions",
+    "https://lcca.com/blog/Inpatient-Therapy-Success",
+    "https://lcca.com/blog/Facility-Fun-September",
+    "https://lcca.com/blog/Care-Champions-2025",
+    "https://lcca.com/blog/Rehab-Success-2025",
+    "https://lcca.com/blog/WIT-Annual-2024",
+    "https://lcca.com/about/privacy-policy",
+    "https://lcca.com/about/privacy-practices",
+    "https://lcca.com/pay",
+    "https://lcca.com/locations/",
+    "https://lcca.com/services/",
+    "https://lcca.com/services/skilled-nursing",
+    "https://lcca.com/services/rehabilitation",
+    "https://lcca.com/services/alzheimers-dementia",
+    "https://lcca.com/services/senior-living",
+    "https://lcca.com/resources/",
+    "https://lcca.com/resources/selecting-care-center",
+    "https://lcca.com/resources/glossary",
+    "https://lcca.com/resources/helpful-links",
+    "https://lcca.com/locations/state",
+    "https://lcca.com/resources/visiting-loved-ones/",
+    "https://lcca.com/resources/visiting-loved-ones/basics",
+    "https://lcca.com/resources/visiting-loved-ones/celebrations",
+    "https://lcca.com/resources/visiting-loved-ones/outings",
+    "https://lcca.com/resources/visiting-loved-ones/children",
+    "https://lcca.com/blog/category/events",
+    "https://lcca.com/blog/category/residents",
+    "https://lcca.com/blog/category/success-stories",
+    "https://lcca.com/blog/Therapy-Common-Activities",
+    "https://lcca.com/blog/category/health-wellness",
+    "https://lcca.com/blog/Facility-Fun-August2025",
+    "https://lcca.com/blog/all-articles",
+    "https://lcca.com",
+    "https://lcca.com/locations/ma/leominster/",
+    "https://lcca.com/locations/ks/seneca/",
+    "https://lcca.com/locations/ky/parkview-ky/",
+    "https://lcca.com/locations/fl/punta-gorda/",
+    "https://lcca.com/locations/mi/plainwell/",
+    "https://lcca.com/locations/wy/casper/services",
+    "https://lcca.com/locations/oh/elyria/services",
+    "https://lcca.com/locations/sc/charleston/",
+    "https://lcca.com/locations/tx/alameda-oaks/",
+    "https://lcca.com/locations/tn/blount-county/",
+    "https://lcca.com/locations/fl/hilliard/",
+    "https://lcca.com/locations/ma/the-highlands/",
+    "https://lcca.com/locations/az/north-glendale/",
+    "https://lcca.com/locations/id/idaho-falls/",
+    "https://lcca.com/locations/nc/banner-elk/",
+    "https://lcca.com/locations/ma/auburn/",
+    "https://lcca.com/locations/oh/westlake/",
+    "https://lcca.com/locations/mo/sullivan/",
+    "https://lcca.com/locations/az/yuma/",
+    "https://lcca.com/locations/mo/brookfield/",
+    "https://lcca.com/locations/wa/skagit-valley/",
+    "https://lcca.com/locations/tn/lynchburg/",
+    "https://lcca.com/locations/wy/westview/",
+    "https://lcca.com/locations/ma/north-shore/",
+    "https://lcca.com/locations/fl/pensacola/",
+    "https://lcca.com/locations/tx/wooldridge-place/",
+    "https://lcca.com/locations/az/",
+    "https://lcca.com/locations/co/",
+    "https://lcca.com/locations/fl/",
+    "https://lcca.com/locations/ga/",
+    "https://lcca.com/locations/hi/",
+    "https://lcca.com/locations/id/",
+    "https://lcca.com/locations/in/",
+    "https://lcca.com/locations/ks/",
+    "https://lcca.com/locations/ky/",
+    "https://lcca.com/locations/ma/",
+    "https://lcca.com/locations/mi/",
+    "https://lcca.com/locations/mo/",
+    "https://lcca.com/locations/ne/",
+    "https://lcca.com/locations/nv/",
+    "https://lcca.com/locations/nm/",
+    "https://lcca.com/locations/nc/",
+    "https://lcca.com/locations/oh/",
+    "https://lcca.com/locations/or/",
+    "https://lcca.com/locations/pa/",
+    "https://lcca.com/locations/ri/",
+    "https://lcca.com/locations/sc/",
+    "https://lcca.com/locations/tn/",
+    "https://lcca.com/locations/tx/",
+    "https://lcca.com/locations/ut/",
+    "https://lcca.com/locations/va/",
+    "https://lcca.com/locations/wa/",
+    "https://lcca.com/locations/wy/",
+    "https://lcca.com/resources/selecting-care-center/"
+  ],
+  "candidates": [
+    "https://lcca.com/blog/category/events",
+    "https://lcca.com/about/contact",
+    "https://lcca.com/about/",
+    "https://lcca.com/about/contractors-and-agents",
+    "https://lcca.com/about/mary-denton-story",
+    "https://lcca.com/about/mission",
+    "https://lcca.com/about/privacy-policy",
+    "https://lcca.com/about/privacy-practices",
+    "https://lcca.com/blog/",
+    "https://lcca.com/blog/Care-Champions-2025",
+    "https://lcca.com/blog/Facility-Fun-August2025",
+    "https://lcca.com/blog/Facility-Fun-September",
+    "https://lcca.com/blog/Inpatient-Therapy-Success",
+    "https://lcca.com/blog/Rehab-Success-2025",
+    "https://lcca.com/blog/Therapy-Common-Activities",
+    "https://lcca.com/blog/Timeless-Champions",
+    "https://lcca.com/blog/WIT-Annual-2024",
+    "https://lcca.com/blog/all-articles",
+    "https://lcca.com/blog/category/health-wellness",
+    "https://lcca.com/blog/category/residents",
+    "https://lcca.com/blog/category/success-stories",
+    "https://lcca.com/blog/media-gallery",
+    "https://lcca.com/blog/publications",
+    "https://lcca.com/resources/visiting-loved-ones",
+    "https://lcca.com/resources/visiting-loved-ones/",
+    "https://lcca.com/resources/visiting-loved-ones/basics",
+    "https://lcca.com/resources/visiting-loved-ones/celebrations",
+    "https://lcca.com/resources/visiting-loved-ones/children",
+    "https://lcca.com/resources/visiting-loved-ones/outings",
+    "https://lcca.com",
+    "https://lcca.com/",
+    "https://lcca.com/contact",
+    "https://lcca.com/contact/",
+    "https://lcca.com/contact-us",
+    "https://lcca.com/contact-us/",
+    "https://lcca.com/contactus",
+    "https://lcca.com/contactus/",
+    "https://lcca.com/about",
+    "https://lcca.com/about-us",
+    "https://lcca.com/about-us/",
+    "https://lcca.com/visit",
+    "https://lcca.com/visit/",
+    "https://lcca.com/location",
+    "https://lcca.com/location/",
+    "https://lcca.com/directions",
+    "https://lcca.com/directions/"
+  ],
+  "per_page": {
+    "https://lcca.com/blog/category/events": {
+      "title": "Community Events | Life Care Centers of America",
+      "band_hits": {
+        "event": {
+          "total": 101,
+          "zones": {
+            "title": 1,
+            "body": 100,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/category/events"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/category/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/about/contact": {
+      "title": "Contact | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/about/": {
+      "title": "About Life Care | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/about/contractors-and-agents": {
+      "title": "Contractors & Agents | Life Care Centers of America",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/about/contractors-and-agents"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/about/mary-denton-story": {
+      "title": "Mary Denton Story | Life Care Centers of America",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/about/mary-denton-story"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/about/mission": {
+      "title": "Mission & Values | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/about/privacy-policy": {
+      "title": "Privacy Policy | Life Care Centers of America",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/about/privacy-policy"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/about/privacy-practices": {
+      "title": "Privacy Practices | Life Care Centers of America",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/about/privacy-practices"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/about/privacy-practices"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/blog/": {
+      "title": "Stories of Passion & Care | Life Care Centers of America",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/blog/Care-Champions-2025": {
+      "title": "Skilled Nursing Champions – WIT Winners July 2025",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/Care-Champions-2025"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/Care-Champions-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/blog/Facility-Fun-August2025": {
+      "title": "Facility Happenings – August 2025",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/Facility-Fun-August2025"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/Facility-Fun-August2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/blog/Facility-Fun-September": {
+      "title": "Life Care Facility Happenings - September 2025",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/Facility-Fun-September"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/Facility-Fun-September"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/Facility-Fun-September"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/388323657707172",
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/blog/Inpatient-Therapy-Success": {
+      "title": "Inpatient Therapy Works! Patient Success Stories for September 2025",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/Inpatient-Therapy-Success"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/Inpatient-Therapy-Success"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/blog/Rehab-Success-2025": {
+      "title": "Inpatient Therapy Works! Success Stories for Aug. 2025",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/Rehab-Success-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/blog/Therapy-Common-Activities": {
+      "title": "What Happens During Physical Therapy & Occupational Therapy?",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/Therapy-Common-Activities"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/Therapy-Common-Activities"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/blog/Timeless-Champions": {
+      "title": "Timeless Champions: Honoring Life Care's most long-tenured associates",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/Timeless-Champions"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/Timeless-Champions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/blog/WIT-Annual-2024": {
+      "title": "Introducing Our Whatever It Takes Winners 2024!",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/WIT-Annual-2024"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/WIT-Annual-2024"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/blog/all-articles": {
+      "title": "Stories of Passion & Care | Life Care Centers of America",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/all-articles"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/blog/category/health-wellness": {
+      "title": "Health & Wellness | Life Care Centers of America",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/category/health-wellness"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/category/health-wellness"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/category/health-wellness"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/blog/category/residents": {
+      "title": "Residents | Life Care Centers of America",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/blog/category/residents"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/blog/category/success-stories": {
+      "title": "Success Stories | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://lcca.com/blog/media-gallery": {
+      "title": "Media Gallery | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/blog/publications": {
+      "title": "Publications | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/resources/visiting-loved-ones": {
+      "title": "Visiting Loved Ones | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/resources/visiting-loved-ones/": {
+      "title": "Visiting Loved Ones | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/resources/visiting-loved-ones/basics": {
+      "title": "The Basics | Life Care Centers of America",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/resources/visiting-loved-ones/basics"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/resources/visiting-loved-ones/basics"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/resources/visiting-loved-ones/celebrations": {
+      "title": "Celebrations & Gifts | Life Care Centers of America",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/resources/visiting-loved-ones/celebrations"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/resources/visiting-loved-ones/celebrations"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/resources/visiting-loved-ones/celebrations"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/resources/visiting-loved-ones/celebrations"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/resources/visiting-loved-ones/children": {
+      "title": "Bringing Children | Life Care Centers of America",
+      "band_hits": {
+        "banda": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/resources/visiting-loved-ones/children"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/resources/visiting-loved-ones/outings": {
+      "title": "Outings | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com": {
+      "title": "Life Care Centers of America | Skilled Nursing and Rehabilitation",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/": {
+      "title": "Life Care Centers of America | Skilled Nursing and Rehabilitation",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lcca.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/contact": {
+      "title": "Thank You | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/contact/": {
+      "title": "Contact | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/contact-us": {
+      "title": "Thank You | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/contact-us/": {
+      "title": "Thank You | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/contactus": {
+      "title": "Thank You | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/contactus/": {
+      "title": "Thank You | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/about": {
+      "title": "About Life Care | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/about-us": {
+      "title": "Thank You | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/about-us/": {
+      "title": "Thank You | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/visit": {
+      "title": "Thank You | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/visit/": {
+      "title": "Thank You | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/location": {
+      "title": "Thank You | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/location/": {
+      "title": "Thank You | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    },
+    "https://lcca.com/directions": {
+      "title": "Thank You | Life Care Centers of America",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(423) 472-9585"
+      ],
+      "socials": [
+        "https://www.facebook.com/LifeCareCenters/",
+        "https://www.linkedin.com/company/life-care-centers-of-america/",
+        "https://www.youtube.com/channel/UCG68U6Pr0LD7sLsYO2QhKjw"
+      ]
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "timestamp": "2025-09-21T08:18:36.480702",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T08:18:32.502148",
+      "company": {
+        "name": null,
+        "domain": "wine41.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 25025157,
+          "description": "About Wine41: Elevating Wine Experiences\n\n- Wine41 is a pioneering boutique wine concierge service, crafted to meet the sophisticated needs of discerning corporate and private clients. We cater to a growing segment of wine enthusiasts with significant purchasing power and a burgeoning appreciation for fine wines.\n\n- Our Unique Offerings: A curated Boutique Portfolio. We showcase exceptional wines from small, artisanal producers, offering our clients access to rare and exclusive selections.\n\n- Bespoke Corporate Gifting: Our personalized corporate gift services go beyond the ordinary, creating lasting impressions with thoughtfully curated wine experiences.\n\n- Tailored Wine Bar Services: We bring the art of wine tasting to your events, offering expert-led experiences that educate and delight.",
+          "domain": "wine41.com",
+          "employees": "1 - 10",
+          "founded": "2015",
+          "fqdn": "www.wine41.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/2/63/2637cbf46400ef68ea8bd13b3bcad26e",
+          "name": "Wine41",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Retail",
+          "subIndustry": "Food & Beverage Retail",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/wine41"
+            }
+          },
+          "address": "Miami North America United States US 12401 sw 134 court; #4; Miami,, Florida 33186, US Florida FL -80.19365692138672,25.774269104003906 ",
+          "location": {
+            "city": "Miami",
+            "country": "United States",
+            "fullLocation": "Miami North America United States US 12401 sw 134 court; #4; Miami,, Florida 33186, US Florida FL -80.19365692138672,25.774269104003906 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "12401 sw 134 court; #4; Miami,, Florida 33186, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5999,
+                "description": "Miscellaneous retail stores, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 445298,
+                "description": "All Other Specialty Food Retailers"
+              }
+            ]
+          },
+          "website": "https://wine41.com",
+          "specialities": [
+            "alquiler de espacios",
+            "corporate events",
+            "free delivery",
+            "premium wines",
+            "private label",
+            "private wine tastings",
+            "special events",
+            "wine bar",
+            "wine rooms"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T08:18:33.649191",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T08:18:36.476576",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

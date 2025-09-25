@@ -1,0 +1,211 @@
+{
+  "timestamp": "2025-09-20T13:14:48.315668",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T13:14:43.907001",
+      "company": {
+        "name": null,
+        "domain": "honeybook.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 2527444,
+          "description": "HoneyBook is the leading AI-powered business management platform for small business owners. Designed to bring speed, clarity, and confidence to daily operations, the platform supports everything from capturing leads to managing client communication, contracts, and payments. With AI embedded throughout, members benefit from actionable insights and automation that streamline work and unlock growth. \n\nSince its founding in 2013, HoneyBook has powered over 25 million client relationships and processed more than $12 billion in transactions, helping independent businesses grow faster and smarter.\n\nIf you are looking for a values-driven, fast-paced, and intellectually charged environment, HoneyBook is the right place for you. Join us, we're hiring!",
+          "domain": "honeybook.com",
+          "employees": "51 - 200",
+          "founded": "2013",
+          "fqdn": "www.honeybook.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=30/j_lvlw12kn14hwjslbq7.cec7759c1d6d5198c9ea823711f04d91ca2b1752.file_lvlwzhgbzy2mly2lb.logo_cached.jpg",
+          "name": "HoneyBook",
+          "revenueRange": [
+            250000000,
+            500000000
+          ],
+          "mainIndustry": "Technology, Information & Media",
+          "subIndustry": "Software Development",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/honeybook"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/honeybook"
+            }
+          },
+          "address": "San Francisco North America United States US 539 Bryant Street, Suite 200; San Francisco, CA 94107, US California CA -122.41941833496094,37.77492904663086 ",
+          "location": {
+            "city": "San Francisco",
+            "country": "United States",
+            "fullLocation": "San Francisco North America United States US 539 Bryant Street, Suite 200; San Francisco, CA 94107, US California CA -122.41941833496094,37.77492904663086 ",
+            "state": "California",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "539 Bryant Street, Suite 200; San Francisco, CA 94107, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7371,
+                "description": "Custom computer programming services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 541511,
+                "description": "Custom Computer Programming Services"
+              }
+            ]
+          },
+          "website": "https://honeybook.com",
+          "specialities": [
+            "business management software",
+            "creative community",
+            "creative economy",
+            "creative entrepreneurship",
+            "customer relationship management",
+            "freelance",
+            "invoicing and billing",
+            "market network",
+            "small business",
+            "small business owners",
+            "software services",
+            "solopreneur"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "currency": "USD",
+                "roundAmount": 250000000,
+                "roundType": "Series E",
+                "roundDate": "Nov 3, 2021"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 155000000,
+                "roundType": "Series D",
+                "roundDate": "May 4, 2021"
+              },
+              {
+                "roundType": "Series C",
+                "roundDate": "Mar 15, 2021"
+              },
+              {
+                "roundType": "Secondary Market",
+                "roundDate": "Sep 1, 2020"
+              },
+              {
+                "roundType": "Funding Round",
+                "roundDate": "Aug 6, 2020"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 28000000,
+                "roundType": "Series C",
+                "roundDate": "Mar 21, 2019"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 7000000,
+                "roundType": "Venture Round",
+                "roundDate": "Jun 14, 2018"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 14000000,
+                "roundType": "Series C",
+                "roundDate": "Sep 8, 2016"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 12000000,
+                "roundType": "Series C",
+                "roundDate": "Jun 8, 2016"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 22000000,
+                "roundType": "Series B",
+                "roundDate": "Mar 5, 2015"
+              }
+            ],
+            "totalRounds": 11,
+            "totalRoundsAmount": 498000000,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundType": "Venture Round",
+            "lastRoundAmount": 7000000,
+            "lastRoundDate": "Jun 14, 2018"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T13:14:45.857994",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T13:14:48.307225",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "timestamp": "2025-09-20T13:03:09.833772",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T13:03:06.410951",
+      "company": {
+        "name": null,
+        "domain": "thecraftbarfl.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 35717015,
+          "description": "The Craft Bar is Northwest Florida's premier gastropub serving hand-crafted cocktails made with premium spirits, craft beer from near and afar, fine wine, and chef-prepared pub fare sourced locally. \n\nEach of our bars is also directly connected to a full-service package store, Wine World, with a vast inventory of fine wine, spirits, beer, artisan cheese, and accessories. \n\nThe Craft Bar is a proud venture of Wine World Companies, Inc. and sister-bar to The Wine Bar. \n\nWe are a growing employee-owned company with 4 locations and more on the way!",
+          "domain": "thecraftbarfl.com",
+          "employees": "51 - 200",
+          "founded": "2014",
+          "fqdn": "www.thecraftbarfl.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/f/c4/fc40b028d6fb886d8470dabdf9951f23",
+          "name": "The Craft Bar: A Florida Gastropub",
+          "revenueRange": [
+            1000000,
+            10000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/the-craft-bar-fl"
+            }
+          },
+          "address": "Destin North America United States US 4424 Commons Drive East; Destin, FL 32541, US Florida FL -86.49578094482422,30.393529891967773 ",
+          "location": {
+            "city": "Destin",
+            "country": "United States",
+            "fullLocation": "Destin North America United States US 4424 Commons Drive East; Destin, FL 32541, US Florida FL -86.49578094482422,30.393529891967773 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "4424 Commons Drive East; Destin, FL 32541, US"
+          },
+          "website": "https://thecraftbarfl.com",
+          "specialities": [
+            "alcohol",
+            "bartending",
+            "beer",
+            "burgers",
+            "cocktails",
+            "craft cocktails",
+            "draft beer",
+            "fried chicken",
+            "mixing",
+            "pub food",
+            "scotch whisky",
+            "southern food",
+            "specialty drinks",
+            "wine"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T13:03:07.346864",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T13:03:09.828000",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

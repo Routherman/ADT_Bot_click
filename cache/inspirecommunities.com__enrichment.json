@@ -1,0 +1,140 @@
+{
+  "timestamp": "2025-09-24T15:20:38.351575",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T15:20:35.548512",
+      "company": {
+        "name": null,
+        "domain": "inspirecommunities.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 3049164,
+          "description": "Our Mission is to Create Clean, Safe and Engaging Communities where people are happy to live and proud to call home. We have over 10 years experience managing and developing manufactured home communities and RV resorts across the country.  Our RV resorts are located in attractive vacation destinations for seasonal travelers. We also have RV sites located in our communities in the Midwest, Southwest and Southeast to support the traveling workforce and nomad RV'ers.   \n\nVISION\nBy the end of the decade, we will be widely recognized as the #1 Owner and Operator of Manufactured Home and RV communities in the United States. Our Company will be widely recognized for enhancing the lives of our residents and their communities.\n\nVALUES\nDo what is right\nDo your best\nTreat others as THEY want to be treated\nValue diversity\nEmbrace lifelong learning",
+          "domain": "inspirecommunities.com",
+          "employees": "201 - 500",
+          "founded": "2012",
+          "fqdn": "www.inspirecommunities.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/3/57/357a6670d68dfaeb2de309c593d6f90e",
+          "name": "Inspire Communities",
+          "revenueRange": [
+            50000000,
+            100000000
+          ],
+          "mainIndustry": "Real Estate",
+          "subIndustry": "Real Estate",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/inspire-communities"
+            }
+          },
+          "address": "Phoenix North America United States US 4742 N 24th St; Phoenix, Arizona 85016, US Arizona AZ -112.07404327392578,33.44837951660156 ",
+          "location": {
+            "city": "Phoenix",
+            "country": "United States",
+            "fullLocation": "Phoenix North America United States US 4742 N 24th St; Phoenix, Arizona 85016, US Arizona AZ -112.07404327392578,33.44837951660156 ",
+            "state": "Arizona",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "4742 N 24th St; Phoenix, Arizona 85016, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 6531,
+                "description": "Real estate agents and managers"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 531210,
+                "description": "Offices of Real Estate Agents and Brokers"
+              }
+            ]
+          },
+          "website": "https://inspirecommunities.com",
+          "specialities": [
+            "55+communities",
+            "acquistions",
+            "affordable housing",
+            "all age communities",
+            "hospitality",
+            "manufactured housing communities",
+            "operations",
+            "property management",
+            "real estate"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T15:20:36.155050",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T15:20:38.347364",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "site_url": "https://visitdesoto.com/",
+  "domain": "visitdesoto.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://visitdesoto.com/",
+    "https://visitdesoto.com/visit-explore/things-to-do/",
+    "https://visitdesoto.com/marker/agri-tourism/",
+    "https://visitdesoto.com/marker/antiques/",
+    "https://visitdesoto.com/marker/rodeo/",
+    "https://visitdesoto.com/marker/boutiques/",
+    "https://visitdesoto.com/marker/dining/",
+    "https://visitdesoto.com/marker/family-fun/",
+    "https://visitdesoto.com/marker/historic-district/",
+    "https://visitdesoto.com/places-to-stay/",
+    "https://visitdesoto.com/visit-explore/places-to-stay/",
+    "https://visitdesoto.com/?page_id=675",
+    "https://visitdesoto.com/visit-explore/weddings/",
+    "https://visitdesoto.com/plan-your-trip/",
+    "https://visitdesoto.com/visit-explore/plan-your-trip/",
+    "https://visitdesoto.com/live-here/",
+    "https://visitdesoto.com/work-here/",
+    "https://visitdesoto.com/education/",
+    "https://visitdesoto.com/events/",
+    "https://visitdesoto.com/events/submit/",
+    "https://visitdesoto.com/our-story/",
+    "https://visitdesoto.com/blog/",
+    "https://visitdesoto.com/staff-contact/",
+    "https://visitdesoto.com/gallery/",
+    "https://visitdesoto.com/press/",
+    "https://visitdesoto.com/film-ops/",
+    "https://visitdesoto.com/fox-4-news-report-feels-like-home-family-turning-arcadia-landmark-into-bed-and-breakfast/",
+    "https://visitdesoto.com/the-daily-sun-scene-column-gone-fishin-in-arcadia-seafood-eateries-thrive-in-unlikely-waters/",
+    "https://visitdesoto.com/fox-4-report-here-for-the-long-haul-massive-downtown-construction-slows-arcadia-small-business/",
+    "https://visitdesoto.com/gulfcoast-news-now-report-chalk-it-up-to-friendship-a-colorful-path-to-redemption/",
+    "https://visitdesoto.com/jungle-dorias-wildlife-park-honors-national-zookeepers-week/",
+    "https://visitdesoto.com/abc7-report-discovering-the-square-dancers-on-horseback-on-the-suncoast/",
+    "https://visitdesoto.com/fox-4-news-report-how-far-would-you-go-for-a-taco-pilots-fly-into-arcadia-for-taco-tuesday/",
+    "https://visitdesoto.com/about/blog/",
+    "https://visitdesoto.com/about/staff-contact/",
+    "https://visitdesoto.com/about/gallery/",
+    "https://visitdesoto.com/marker/outdoor-recreation/",
+    "https://visitdesoto.com/visit-and-explore-landing/",
+    "https://visitdesoto.com/marker/paddling/",
+    "https://visitdesoto.com/marker/markets/",
+    "https://visitdesoto.com/marker/desoto-after-dark/",
+    "https://visitdesoto.com/marker/racing/",
+    "https://visitdesoto.com/location/martins-country-market-of-florida-llc/",
+    "https://visitdesoto.com/location/smiths-ranch-garden/",
+    "https://visitdesoto.com/location/elis-western-wear-inc/",
+    "https://visitdesoto.com/location/joshua-citrus-inc/",
+    "https://visitdesoto.com/location/kjs-produce-and-farmers-market/",
+    "https://visitdesoto.com/location/arcadia-livestock-market/",
+    "https://visitdesoto.com/location/arcadia-stockyard/",
+    "https://visitdesoto.com/privacy-policy/",
+    "https://visitdesoto.com/location/antiques-more-arcadia-fl/",
+    "https://visitdesoto.com/location/timeless-treasures/",
+    "https://visitdesoto.com/location/time-merchant-antiques-collectibles/",
+    "https://visitdesoto.com/location/miss-pattys-consignments/",
+    "https://visitdesoto.com/location/the-vintage-dragonfly/",
+    "https://visitdesoto.com/location/mermaids-keep/",
+    "https://visitdesoto.com/location/oak-street-market-historic-downtown-arcadia/",
+    "https://visitdesoto.com/location/biggar-and-biggar-antique-mall/",
+    "https://visitdesoto.com/location/glass-antique-or-not-2/",
+    "https://visitdesoto.com/location/treasure-alley/",
+    "https://visitdesoto.com/location/vintage-garden-the/",
+    "https://visitdesoto.com/location/corys-antiques/",
+    "https://visitdesoto.com/marker/antiques/page/2/",
+    "https://visitdesoto.com/location/sweet-magnolia-creamery-confections/",
+    "https://visitdesoto.com/location/something-sweet-arcadia/",
+    "https://visitdesoto.com/location/lauras-good-vibe-tribe/",
+    "https://visitdesoto.com/location/keeping-us-in-stitches/",
+    "https://visitdesoto.com/location/blossoms-beauty-boutique/",
+    "https://visitdesoto.com/location/magnolias-bridal-boutique/",
+    "https://visitdesoto.com/location/blush-bashful-flower-company/",
+    "https://visitdesoto.com/location/the-valley-florist-downtown/",
+    "https://visitdesoto.com/location/persnickety-arcadia/",
+    "https://visitdesoto.com/location/dragons-den-books/",
+    "https://visitdesoto.com/location/arcadia-main-street-program/",
+    "https://visitdesoto.com/location/lolas-boba-tea/",
+    "https://visitdesoto.com/location/brothers-fish-house-arcadia/",
+    "https://visitdesoto.com/location/broken-spur-diner/",
+    "https://visitdesoto.com/location/three-trees-brewing-co/",
+    "https://visitdesoto.com/location/merlos-fruteria-llc/",
+    "https://visitdesoto.com/location/arcadia-american-legion-k-post-11/",
+    "https://visitdesoto.com/location/sunny-day-cafe/",
+    "https://visitdesoto.com/location/arcadia-street-seafood-grill/",
+    "https://visitdesoto.com/location/florida-farmhouse-coffee-shop/",
+    "https://visitdesoto.com/location/rose-cafe/",
+    "https://visitdesoto.com/marker/dining/page/2/",
+    "https://visitdesoto.com/location/jungle-dorias-wildlife-park/",
+    "https://visitdesoto.com/location/fossil-recovery-exploration-2/",
+    "https://visitdesoto.com/location/lions-tigers-bears-inc/",
+    "https://visitdesoto.com/location/john-morgan-ingraham-house-museum/",
+    "https://visitdesoto.com/location/nuggets-ranch-raceway/",
+    "https://visitdesoto.com/location/peace-river-charters-llc/",
+    "https://visitdesoto.com/marker/family-fun/page/2/",
+    "https://visitdesoto.com/location/john-lee-haus-inn/",
+    "https://visitdesoto.com/marker/historic-district/page/2/",
+    "https://visitdesoto.com/your-family-will-love-the-peace-river-campground/",
+    "https://visitdesoto.com/location/arcadia-bed-breakfast/",
+    "https://visitdesoto.com/location/economy-inn-2/",
+    "https://visitdesoto.com/location/holiday-inn-express-suites/",
+    "https://visitdesoto.com/location/horse-creek-retreat/",
+    "https://visitdesoto.com/location/knights-inn-2/"
+  ],
+  "candidates": [
+    "https://visitdesoto.com/about/blog/",
+    "https://visitdesoto.com/about/staff-contact/",
+    "https://visitdesoto.com/about/gallery/",
+    "https://visitdesoto.com/blog/",
+    "https://visitdesoto.com/events/",
+    "https://visitdesoto.com/events/submit/",
+    "https://visitdesoto.com/staff-contact/",
+    "https://visitdesoto.com/visit-explore/weddings/",
+    "https://visitdesoto.com/visit-and-explore-landing/",
+    "https://visitdesoto.com/visit-explore/places-to-stay/",
+    "https://visitdesoto.com/visit-explore/plan-your-trip/",
+    "https://visitdesoto.com/visit-explore/things-to-do/",
+    "https://visitdesoto.com/",
+    "https://visitdesoto.com/contact",
+    "https://visitdesoto.com/contact/",
+    "https://visitdesoto.com/contact-us",
+    "https://visitdesoto.com/contact-us/",
+    "https://visitdesoto.com/contactus",
+    "https://visitdesoto.com/contactus/",
+    "https://visitdesoto.com/about",
+    "https://visitdesoto.com/about/",
+    "https://visitdesoto.com/about-us",
+    "https://visitdesoto.com/about-us/",
+    "https://visitdesoto.com/visit",
+    "https://visitdesoto.com/visit/",
+    "https://visitdesoto.com/location",
+    "https://visitdesoto.com/location/",
+    "https://visitdesoto.com/directions",
+    "https://visitdesoto.com/directions/"
+  ],
+  "per_page": {
+    "https://visitdesoto.com/about/blog/": {
+      "title": "Helpful Info About the Peace River, Arcadia, and DeSoto County - Visit DeSoto",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/about/blog/"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/about/blog/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/about/blog/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/about/blog/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/VisitDesoto",
+        "https://www.instagram.com/visitdesotofl/",
+        "https://www.youtube.com/c/DiscoverDeSotoCountyFL"
+      ]
+    },
+    "https://visitdesoto.com/about/staff-contact/": {
+      "title": "Staff & Contact - Visit DeSoto",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/about/staff-contact/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/about/staff-contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(863) 993-4807",
+        "863-444-2396",
+        "863-444-7996",
+        "863-993-4807",
+        "863.993.4807"
+      ],
+      "socials": [
+        "https://www.facebook.com/VisitDesoto",
+        "https://www.instagram.com/visitdesotofl/",
+        "https://www.youtube.com/c/DiscoverDeSotoCountyFL"
+      ]
+    },
+    "https://visitdesoto.com/about/gallery/": {
+      "title": "Photo Gallery: Peace River Campground, Arcadia Rodeo, and More - Visit DeSoto",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/about/gallery/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/about/gallery/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/VisitDesoto",
+        "https://www.instagram.com/visitdesotofl/",
+        "https://www.youtube.com/c/DiscoverDeSotoCountyFL"
+      ]
+    },
+    "https://visitdesoto.com/blog/": {
+      "title": "Helpful Info About the Peace River, Arcadia, and DeSoto County - Visit DeSoto",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/blog/"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/blog/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/blog/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/blog/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/VisitDesoto",
+        "https://www.instagram.com/visitdesotofl/",
+        "https://www.youtube.com/c/DiscoverDeSotoCountyFL"
+      ]
+    },
+    "https://visitdesoto.com/events/": {
+      "title": "Explore Events: Florida Rodeo, DeSoto County Fair, and More - Visit DeSoto",
+      "band_hits": {
+        "event": {
+          "total": 22,
+          "zones": {
+            "title": 1,
+            "body": 21,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/events/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/events/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/VisitDesoto",
+        "https://www.youtube.com/c/DiscoverDeSotoCountyFL"
+      ]
+    },
+    "https://visitdesoto.com/events/submit/": {
+      "title": "Submit An Event - Visit DeSoto",
+      "band_hits": {
+        "event": {
+          "total": 26,
+          "zones": {
+            "title": 1,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/events/submit/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/events/submit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/VisitDesoto",
+        "https://www.instagram.com/visitdesotofl/",
+        "https://www.youtube.com/c/DiscoverDeSotoCountyFL"
+      ]
+    },
+    "https://visitdesoto.com/staff-contact/": {
+      "title": "Staff & Contact - Visit DeSoto",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/staff-contact/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/staff-contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(863) 993-4807",
+        "863-444-2396",
+        "863-444-7996",
+        "863-993-4807",
+        "863.993.4807"
+      ],
+      "socials": [
+        "https://www.facebook.com/VisitDesoto",
+        "https://www.instagram.com/visitdesotofl/",
+        "https://www.youtube.com/c/DiscoverDeSotoCountyFL"
+      ]
+    },
+    "https://visitdesoto.com/visit-explore/weddings/": {
+      "title": "Beautiful Event & Wedding Venues in Southwest Florida - Visit DeSoto",
+      "band_hits": {
+        "event": {
+          "total": 35,
+          "zones": {
+            "title": 1,
+            "body": 34,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/visit-explore/weddings/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/visit-explore/weddings/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/VisitDesoto",
+        "https://www.instagram.com/visitdesotofl/",
+        "https://www.youtube.com/c/DiscoverDeSotoCountyFL"
+      ]
+    },
+    "https://visitdesoto.com/visit-and-explore-landing/": {
+      "title": "Visit & Explore Landing - Visit DeSoto",
+      "band_hits": {
+        "event": {
+          "total": 16,
+          "zones": {
+            "title": 0,
+            "body": 16,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/visit-and-explore-landing/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/visit-and-explore-landing/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/visit-and-explore-landing/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitdesoto.com/visit-and-explore-landing/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/CanoeOutpostPeaceRiver/",
+        "https://www.facebook.com/OakStreetDeli/",
+        "https://www.facebook.com/VisitDesoto",
+        "https://www.facebook.com/magseafood",
+        "https://www.facebook.com/the.florida.farmhouse.coffee",
+        "https://www.instagram.com/visitdesotofl/",
+        "https://www.youtube.com/c/DiscoverDeSotoCountyFL"
+      ]
+    }
+  }
+}

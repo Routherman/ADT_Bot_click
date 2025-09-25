@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-21T04:57:26.411570",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T04:57:22.899539",
+      "company": {
+        "name": null,
+        "domain": "rosaliaskitchen.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 81895568,
+          "description": "Rosalia's Kitchen is a family-owned and operated full-service catering company serving the highest quality food to customers in Broward, Miami-Dade, and Palm Beach counties. We serve delicious dishes made with love and following time-tested recipes from our family and friends.",
+          "domain": "rosaliaskitchen.com",
+          "employees": "1 - 10",
+          "founded": "2018",
+          "fqdn": "www.rosaliaskitchen.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/6/07/6070192851bfba7ecc9e1f7be2cf0b26",
+          "name": "Rosalia's Kitchen",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Food & Beverage Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/rosaliaskitchen"
+            }
+          },
+          "address": "Miramar North America United States US Miramar, Florida 33027, US Florida FL -80.23226928710938,25.9873104095459 ",
+          "location": {
+            "city": "Miramar",
+            "country": "United States",
+            "fullLocation": "Miramar North America United States US Miramar, Florida 33027, US Florida FL -80.23226928710938,25.9873104095459 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Miramar, Florida 33027, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722320,
+                "description": "Caterers"
+              }
+            ]
+          },
+          "website": "https://rosaliaskitchen.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T04:57:24.101795",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T04:57:26.406708",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

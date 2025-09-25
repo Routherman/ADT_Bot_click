@@ -1,0 +1,136 @@
+{
+  "timestamp": "2025-09-23T01:59:35.317725",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T01:59:31.752578",
+      "company": {
+        "name": null,
+        "domain": "innonfifth.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 2687608,
+          "description": "The Inn on Fifth, a AAA Four-Diamond, Forbes Travel Guide Four-Star hotel, offers an exquisite setting for a luxurious stay in the heart of Old Naples. Along with its stylish ambiance and enviable Fifth Avenue location, the Inn’s amenities include a rooftop oasis pool, soothing Spa on Fifth, 24-hour fitness center, chaueffered car-service around downtown, and access to Florida’s most exclusive golf courses and legendary natural attractions. In addition, the Inn offers an outstanding selection of dining options, with both Truluck’s Seafood, Steak, and Crab House and Ocean Prime located on-site. The Club Level at Inn on Fifth, provides an enhanced guest experience, with personal concierge, secluded rooftop retreat, daily culinary delights and so much more -- all in the heart of Naples’ celebrated entertainment, shopping, and dining district, a short stroll to a sugar-white stretch of world famous beach. \n\n\nGROUP / BUSINESS MEETINGS\nWith its intimate size and elegant ambiance, The Inn on Fifth offers a classic Naples setting for small- to medium-sized groups. The Inn on Fifth is dedicated to outstanding personal service, and prides itself on its ability to create for business travelers a pleasant, professional and productive atmosphere. With its prime downtown location on Naples’ sophisticated and stylish Fifth Avenue South, the Inn allows meeting guests to stay connected among a wide selection of enticing cafes, bistros and restaurants, world-class galleries and upscale shopping. \n\nThe Inn offers 10,218 square feet of elegant, flexible space for a variety of meetings and events (3,118 air-conditioned, 7,100 open-air).\n\nTo book your next meeting at the Inn on Fifth, call toll-free (888) 403-8778, visit www.InnOnFifth.com or contact a travel professional.",
+          "domain": "innonfifth.com",
+          "employees": "51 - 200",
+          "fqdn": "www.innonfifth.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/f/17/f17d96b70c1492484e7dac41958aa19e",
+          "name": "Inn on Fifth",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/the-inn-on-fifth"
+            }
+          },
+          "address": "Naples North America United States US 699, 5th Avenue South; Naples, Florida 34102, US Florida FL -81.79595947265625,26.1423397064209 ",
+          "location": {
+            "city": "Naples",
+            "country": "United States",
+            "fullLocation": "Naples North America United States US 699, 5th Avenue South; Naples, Florida 34102, US Florida FL -81.79595947265625,26.1423397064209 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "699, 5th Avenue South; Naples, Florida 34102, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://innonfifth.com",
+          "specialities": [
+            "accomodation",
+            "business meetings",
+            "corporate groups",
+            "group meetings",
+            "incentive groups",
+            "weddings"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T01:59:32.866989",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T01:59:35.313096",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

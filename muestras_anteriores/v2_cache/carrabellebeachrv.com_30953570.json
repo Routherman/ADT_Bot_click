@@ -1,0 +1,55 @@
+{
+  "pages": [
+    {
+      "url": "https://www.carrabellebeachrv.com/ContactUs.asp",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "InstanceBeginEditable name=\"Menu_Main\"\nBEGIN HEADER NAVIGATION\nCALL TO RESERVE\n(850) 697-2638\nToggle navigation\nMenu\n<ul class=\"nav nav-pills nav-stacked\">\nACCOMMODATIONS\nAMENITIES\n<li class=\"dropdown\"> <a href=\"/PropertyInformation.asp\" class=\"dropdown-toggle\" data-toggle=\"dropdown\"><center>Property Information <b class=\"caret\"></b></center></a>\r\n              <ul class=\"dropdown-menu\">\r\n                <li><a href=\"/PropertyInformation.asp\">Property Information</a></li>\r\n                <li><a href=\"/PropertyInformation.asp#outside\">Outside</a></li>\r\n                <li><a href=\"/PropertyInformation.asp#inside\">Inside</a></li>\r\n                <li><a href=\"/PropertyInformation.asp#floorplan\">Floor Plan</a></li>\r\n                <li><a href=\"/PropertyInformation.asp#dolphin\">Dolphin In The Front Yard</a></li>\r\n                <li><a href=\"/PropertyInformation.asp#after\">After Your Stay</a></li>\r\n              </ul> \r\n            </li>\nAREA\nRESERVATIONS\nSITE MAP\nPRICING\nCONTACT\nOWNER PORTAL\nEND HEADER NAVIGATION\nInstanceEndEditable\nInstanceBeginEditable name=\"PageTitle\"\nInstanceEndEditable\nInstanceBeginEditable name=\"Body\"\nCONTACT US\n*\nName :\n*\nPhone:\n*\nE-mail:\n*\nSubject:\nPreferred Arrival and Departure Dates\n(Sunday to Sunday):\nto\nComments:\nEnter Security Code\nCarrabelle Beach RV Resort\n1843 Hwy 98 W\nCarrabelle, FL 32322\n(850) 697-2638\nOffice open 9-5 pm, 7 days a week\nOwnerRez Availability/Property Search widget\nInstanceEndEditable\nEND CONTAINER FROM TOP OF BODY\nInstanceBeginEditable name=\"Footer\"\nBegin Footer\nACCOMMODATIONS\n|\nAMENITIES\n|\nAREA\n|\nRESERVATIONS\n|\nSITE MAP\n|\nPRICING\n|\nCONTACT\n|\nOWNER PORTAL\n1843 Highway 98 West,\r\nCarrabelle, Florida 32322\n(850) 697-2638\nFax (850) 697-9854\nEmail\ninfo@carrabellebeachrv.com\nOffice open 9 am - 5 pm, 7 days a week\nGet Directions\nProudly Managed By\nEnd Footer\nInstanceEndEditable\nEND FOOTER CONTAINER\nInstanceBeginEditable name=\"Copyright\"\nBegin Copyright\nCopyright 2025 \r\n    © Carrabelle Beach RV Resort\nAll rights reserved.\nHosting & Production by\nBusinessMasters.Net\nEnd Copyright\nInstanceEndEditable",
+      "emails": [
+        "info@carrabellebeachrv.com"
+      ]
+    }
+  ],
+  "all_links": [
+    "https://www.carrabellebeachrv.com/Amenities.asp",
+    "https://www.carrabellebeachrv.com/SiteMap.asp",
+    "mailto:info@carrabellebeachrv.com",
+    "http://rentals.carrabellebeachrv.com",
+    "https://www.carrabellebeachrv.com/Accommodations.asp#rv-sites",
+    "https://www.carrabellebeachrv.com/LocalInformation.asp",
+    "https://www.carrabellebeachrv.com/Accommodations.asp",
+    "https://www.carrabellebeachrv.com/Index.asp",
+    "https://www.carrabellebeachrv.com/ContactUs.asp",
+    "https://www.carrabellebeachrv.com/index.asp",
+    "https://www.carrabellebeachrv.com/Pricing.asp"
+  ],
+  "candidate_links": [
+    "https://www.carrabellebeachrv.com/ContactUs.asp"
+  ],
+  "visited": [
+    "https://www.carrabellebeachrv.com/",
+    "https://www.carrabellebeachrv.com/about",
+    "https://www.carrabellebeachrv.com/contact",
+    "https://www.carrabellebeachrv.com/staff",
+    "https://www.carrabellebeachrv.com/team",
+    "https://www.carrabellebeachrv.com/board",
+    "https://www.carrabellebeachrv.com/directory",
+    "https://www.carrabellebeachrv.com/events",
+    "https://www.carrabellebeachrv.com/sitemap.xml",
+    "https://www.carrabellebeachrv.com/council",
+    "https://www.carrabellebeachrv.com/leadership",
+    "https://www.carrabellebeachrv.com/management",
+    "https://www.carrabellebeachrv.com/producers",
+    "https://www.carrabellebeachrv.com/support",
+    "https://www.carrabellebeachrv.com/crew",
+    "https://www.carrabellebeachrv.com/members",
+    "https://www.carrabellebeachrv.com/bios",
+    "https://www.carrabellebeachrv.com/people",
+    "https://www.carrabellebeachrv.com/artists",
+    "https://www.carrabellebeachrv.com/musicians",
+    "https://www.carrabellebeachrv.com/faculty",
+    "https://www.carrabellebeachrv.com/administration",
+    "https://www.carrabellebeachrv.com/ContactUs.asp"
+  ],
+  "base_url": "https://www.carrabellebeachrv.com/"
+}

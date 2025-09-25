@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-09-20T22:50:47.797349",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T22:50:43.896347",
+      "company": {
+        "name": null,
+        "domain": "cityofsebastian.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 4027663,
+          "description": "City Of Sebastian is a government administration based out of 1225 Main St, Sebastian, FL, United States.",
+          "domain": "cityofsebastian.org",
+          "employees": "11 - 50",
+          "fqdn": "www.cityofsebastian.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/5/19/519f322b4e5c0eaa9d98aeef1e5859ca",
+          "name": "City Of Sebastian",
+          "revenueRange": [],
+          "mainIndustry": "Government",
+          "subIndustry": "Government Administration",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/city-of-sebastian"
+            }
+          },
+          "address": "Sebastian North America United States US 1225 Main St; Sebastian, FL 32958, US Florida FL -80.47061157226562,27.816410064697266 ",
+          "location": {
+            "city": "Sebastian",
+            "country": "United States",
+            "fullLocation": "Sebastian North America United States US 1225 Main St; Sebastian, FL 32958, US Florida FL -80.47061157226562,27.816410064697266 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1225 Main St; Sebastian, FL 32958, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 9111,
+                "description": "Executive offices"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 921110,
+                "description": "Executive Offices"
+              }
+            ]
+          },
+          "website": "https://cityofsebastian.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T22:50:45.227080",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T22:50:47.791211",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

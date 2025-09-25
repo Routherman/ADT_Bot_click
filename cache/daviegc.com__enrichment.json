@@ -1,0 +1,132 @@
+{
+  "timestamp": "2025-09-23T17:47:34.029195",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T17:47:30.606482",
+      "company": {
+        "name": null,
+        "domain": "daviegc.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 17940750,
+          "description": "Davie Golf Club is a public 18-hole regulation golf course owned by the Town of Davie and managed by Greenway Golf Course Management. The facility also offers a practice facility with driving range and practice putting green and chipping area.  Davie Golf Club is open to the public year-round and one of the most highly-rated and affordable golf courses in the Fort Lauderdale, FL area. The club features a fully-stocked pro shop with golf apparel and supplies and golf instruction is available from our resident Pros. Davie Golf Club is located at 8201 Nova Drive, Davie, FL  33324  Ph: 954-797-4653  Find us online at www.daviegolf.net",
+          "domain": "daviegc.com",
+          "employees": "11 - 50",
+          "founded": "2011",
+          "fqdn": "www.daviegc.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/f3/bf3c13cacfb77c5479b00d2f6f3474f4",
+          "name": "Davie Golf Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Sports",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/daviegolfclub"
+            }
+          },
+          "address": "Davie North America United States US 8201 Nova Drive; Davie, Florida 33324, US Florida FL -80.23310089111328,26.062870025634766 ",
+          "location": {
+            "city": "Davie",
+            "country": "United States",
+            "fullLocation": "Davie North America United States US 8201 Nova Drive; Davie, Florida 33324, US Florida FL -80.23310089111328,26.062870025634766 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "8201 Nova Drive; Davie, Florida 33324, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7999,
+                "description": "Amusement and recreation, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 713990,
+                "description": "All Other Amusement and Recreation Industries"
+              }
+            ]
+          },
+          "website": "https://daviegc.com",
+          "specialities": [
+            "golf lessons"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T17:47:31.739420",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "not_found",
+      "last_check": "2025-09-23T17:47:34.025309",
+      "http_status": 400,
+      "raw_text": "{\"detail\":\"Not found.\"}"
+    }
+  }
+}

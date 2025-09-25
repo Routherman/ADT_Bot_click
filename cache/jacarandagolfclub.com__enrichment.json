@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-23T17:08:16.434209",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T17:08:12.668981",
+      "company": {
+        "name": null,
+        "domain": "jacarandagolfclub.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 11292114,
+          "description": "Representing a consolidation of the best traditions of the game combined with the latest in golf course design, Jacaranda Golf Club embodies the best of both worlds for today’s golf enthusiast. Located in the heart of Broward County, Florida and featuring 36 holes of championship golf, our courses present the golfer with impeccably manicured course conditions and picturesque landscaping that allows one to escape for a few hours and enjoy the game they love.\n\nRated 4 Stars by Golf Digest and host to many PGA, USGA, and FSGA Championship Events, the East and West courses set the scene for a relaxing round with friends or a challenging round at a competitive golf tournament. In addition to an outstanding, customer-focused staff, Jacaranda features all of the luxuries found in a private country club setting, and the public golfer is sure to be spoiled as they “Escape to Excellence” at South Florida’s premier semi-private golf facility. If you’re in Fort Lauderdale or Miami and want to play the finest golf courses in the area, please come visit our club. Looking for a golf vacation in South Florida?  Look no further, we are the course for you.  Whatever your golfing needs may be, Jacaranda can satisfy them entirely.  You will not be disappointed and we look forward to exceeding your expectations!",
+          "domain": "jacarandagolfclub.com",
+          "employees": "11 - 50",
+          "fqdn": "www.jacarandagolfclub.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/d/c6/dc6d22d83c3680e9733e45ef82241a89",
+          "name": "Jacaranda Golf Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Sports",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/jacaranda-golf-club-plantation"
+            }
+          },
+          "address": "Plantation North America United States US 9200 W Broward Blvd; Plantation, Florida 33324, US Florida FL -80.23184204101562,26.13421058654785 ",
+          "location": {
+            "city": "Plantation",
+            "country": "United States",
+            "fullLocation": "Plantation North America United States US 9200 W Broward Blvd; Plantation, Florida 33324, US Florida FL -80.23184204101562,26.13421058654785 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "9200 W Broward Blvd; Plantation, Florida 33324, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7999,
+                "description": "Amusement and recreation, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 713990,
+                "description": "All Other Amusement and Recreation Industries"
+              }
+            ]
+          },
+          "website": "https://jacarandagolfclub.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T17:08:13.782226",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T17:08:16.430091",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

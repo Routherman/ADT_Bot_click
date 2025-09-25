@@ -1,0 +1,137 @@
+{
+  "timestamp": "2025-09-23T02:40:30.582523",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T02:40:27.186577",
+      "company": {
+        "name": null,
+        "domain": "learn.els.edu",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 17311,
+          "description": "For more than 60 years, students have chosen ELS to achieve their English language goals. With 12 class levels, state-of-the-art language technology centers, multiple testing services and university admission assistance, ELS ensures success through our personalized approach and commitment to student achievement.\n\nOur quality of instruction is evident through our dedicated, professional teachers. Many of the most experienced teachers at ELS are members of TESOL (Teachers of English to Speakers of Other Languages), hold Master's degrees or TEFL Certificates, and have taught at ELS for 15+ years.\n\nELS.edu\nfacebook.com/ELS\nyoutube.com/ELSLanguageCenters",
+          "domain": "els.edu",
+          "employees": "1001 - 5000",
+          "fqdn": "www.els.edu",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/8/92/892fbfef923141bfb950e5cc597c89b4",
+          "name": "ELS Language Centers",
+          "revenueRange": [],
+          "mainIndustry": "Government",
+          "subIndustry": "Education Administration Programs",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/els-educational-services-inc"
+            }
+          },
+          "address": "Princeton North America United States US 7 Roszel Road; Princeton, NJ 08540, US New Jersey NJ -74.65904998779297,40.34872055053711 ",
+          "location": {
+            "city": "Princeton",
+            "country": "United States",
+            "fullLocation": "Princeton North America United States US 7 Roszel Road; Princeton, NJ 08540, US New Jersey NJ -74.65904998779297,40.34872055053711 ",
+            "state": "New Jersey",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "7 Roszel Road; Princeton, NJ 08540, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8299,
+                "description": "Schools and educational services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 611310,
+                "description": "Colleges, Universities, and Professional Schools"
+              }
+            ]
+          },
+          "website": "https://els.edu",
+          "specialities": [
+            "english courses",
+            "english language training",
+            "english school",
+            "esg",
+            "ielts preparation",
+            "international education",
+            "language school",
+            "student recruitment",
+            "study in usa",
+            "university"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T02:40:28.240954",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T02:40:30.578100",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

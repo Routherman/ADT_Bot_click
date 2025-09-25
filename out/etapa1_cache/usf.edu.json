@@ -1,0 +1,571 @@
+{
+  "site_url": "https://usf.edu/",
+  "domain": "usf.edu",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://usf.edu/",
+    "https://usf.edu/about-usf/index.aspx",
+    "https://usf.edu/about-usf/mission-vision.aspx",
+    "https://usf.edu/about-usf/history-traditions.aspx",
+    "https://usf.edu/about-usf/facts-statistics.aspx",
+    "https://usf.edu/about-usf/student-consumer-information.aspx",
+    "https://usf.edu/about-usf/leadership.aspx",
+    "https://usf.edu/about-usf/accreditation.aspx",
+    "https://usf.edu/about-usf/visit-usf.aspx",
+    "https://usf.edu/news/listing.aspx?category=Research%20and%20Innovation",
+    "https://www.usf.edu/about-usf/students.aspx",
+    "https://www.usf.edu/about-usf/faculty-staff.aspx",
+    "https://www.usf.edu/about-usf/alumni.aspx",
+    "https://www.usf.edu/about-usf/parents-family.aspx",
+    "https://www.usf.edu/about-usf/community.aspx",
+    "https://directory.usf.edu/",
+    "https://www.usf.edu/about-usf/visit-usf.aspx?utm_source=visit-usf&utm_medium=call-to-action&utm_campaign=usfhomepage",
+    "https://www.usf.edu/news/2025/usf-climbs-to-its-highest-position-ever-in-us-news-rankings.aspx?utm_source=homepage&utm_medium=web&utm_campaign=news",
+    "https://www.usf.edu/news/2025/usf-builds-national-security-talent-pipeline-through-rare-program.aspx",
+    "https://www.usf.edu/news/2025/usf-climbs-to-its-highest-position-ever-in-us-news-rankings.aspx",
+    "https://www.usf.edu/news/2025/dozens-of-usf-graduate-programs-stand-among-the-nations-best-in-new-us-news-and-world-report-rankings.aspx",
+    "https://www.usf.edu/research-innovation/news/2025/usf-ranks-among-top-20-public-universities-in-new-patents.aspx",
+    "https://www.usf.edu/about-usf/points-of-pride.aspx",
+    "https://usf.edu/news/2024/aau-membership-helping-accelerate-usfs-impact.aspx",
+    "https://www.usf.edu/news/?utm_source=usf-news-widget-headline&utm_medium=widget&utm_campaign=usfhomepage",
+    "https://www.stpetersburg.usf.edu/news/2025/a-year-after-helene-and-milton-usf-led-app-is-leading-the-way-in-flood-tracking-technology.aspx",
+    "https://www.usf.edu/news/2025/murals-by-bulls-for-bulls-usf-showcases-student-talent.aspx",
+    "https://www.usf.edu/calendar",
+    "https://www.usf.edu/calendar?utm_source=calendar-widget-more&amp;amp;amp;amp;utm_medium=widget&amp;amp;amp;amp;utm_campaign=usfhomepage"
+  ],
+  "candidates": [
+    "https://usf.edu/about-usf/facts-statistics.aspx",
+    "https://usf.edu/about-usf/accreditation.aspx",
+    "https://usf.edu/about-usf/history-traditions.aspx",
+    "https://usf.edu/about-usf/index.aspx",
+    "https://usf.edu/about-usf/leadership.aspx",
+    "https://usf.edu/about-usf/mission-vision.aspx",
+    "https://usf.edu/about-usf/student-consumer-information.aspx",
+    "https://usf.edu/about-usf/visit-usf.aspx",
+    "https://www.usf.edu/about-usf/alumni.aspx",
+    "https://www.usf.edu/about-usf/community.aspx",
+    "https://www.usf.edu/about-usf/faculty-staff.aspx",
+    "https://www.usf.edu/about-usf/parents-family.aspx",
+    "https://www.usf.edu/about-usf/points-of-pride.aspx",
+    "https://www.usf.edu/about-usf/students.aspx",
+    "https://www.usf.edu/about-usf/visit-usf.aspx?utm_source=visit-usf&utm_medium=call-to-action&utm_campaign=usfhomepage",
+    "https://www.usf.edu/calendar",
+    "https://www.usf.edu/calendar?utm_source=calendar-widget-more&amp;amp;amp;amp;utm_medium=widget&amp;amp;amp;amp;utm_campaign=usfhomepage",
+    "https://www.usf.edu/news/2025/murals-by-bulls-for-bulls-usf-showcases-student-talent.aspx",
+    "https://usf.edu/news/2024/aau-membership-helping-accelerate-usfs-impact.aspx",
+    "https://usf.edu/news/listing.aspx?category=Research%20and%20Innovation",
+    "https://www.stpetersburg.usf.edu/news/2025/a-year-after-helene-and-milton-usf-led-app-is-leading-the-way-in-flood-tracking-technology.aspx",
+    "https://www.usf.edu/news/2025/dozens-of-usf-graduate-programs-stand-among-the-nations-best-in-new-us-news-and-world-report-rankings.aspx",
+    "https://www.usf.edu/news/2025/usf-builds-national-security-talent-pipeline-through-rare-program.aspx",
+    "https://www.usf.edu/news/2025/usf-climbs-to-its-highest-position-ever-in-us-news-rankings.aspx",
+    "https://www.usf.edu/news/2025/usf-climbs-to-its-highest-position-ever-in-us-news-rankings.aspx?utm_source=homepage&utm_medium=web&utm_campaign=news",
+    "https://www.usf.edu/news/?utm_source=usf-news-widget-headline&utm_medium=widget&utm_campaign=usfhomepage",
+    "https://www.usf.edu/research-innovation/news/2025/usf-ranks-among-top-20-public-universities-in-new-patents.aspx",
+    "https://usf.edu/",
+    "https://usf.edu/contact",
+    "https://usf.edu/contact/",
+    "https://usf.edu/contact-us",
+    "https://usf.edu/contact-us/",
+    "https://usf.edu/contactus",
+    "https://usf.edu/contactus/",
+    "https://usf.edu/about",
+    "https://usf.edu/about/",
+    "https://usf.edu/about-us",
+    "https://usf.edu/about-us/",
+    "https://usf.edu/visit",
+    "https://usf.edu/visit/",
+    "https://usf.edu/location",
+    "https://usf.edu/location/",
+    "https://usf.edu/directions",
+    "https://usf.edu/directions/"
+  ],
+  "per_page": {
+    "https://usf.edu/about-usf/facts-statistics.aspx": {
+      "title": "Facts and Statistics | University of South Florida",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/facts-statistics.aspx"
+          ]
+        },
+        "acts": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/facts-statistics.aspx"
+          ]
+        }
+      },
+      "emails": [
+        "ucm@usf.edu"
+      ],
+      "phones": [
+        "813-974-2011"
+      ],
+      "socials": [
+        "https://facebook.com/USouthFlorida",
+        "https://www.instagram.com/usouthflorida",
+        "https://www.linkedin.com/school/usouthflorida/",
+        "https://www.youtube.com/usfchannel"
+      ]
+    },
+    "https://usf.edu/about-usf/accreditation.aspx": {
+      "title": "Accreditation | About USF | University of South Florida",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/accreditation.aspx"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/accreditation.aspx"
+          ]
+        }
+      },
+      "emails": [
+        "ucm@usf.edu"
+      ],
+      "phones": [
+        "(404) 679-4500",
+        "813-974-2011"
+      ],
+      "socials": [
+        "https://facebook.com/USouthFlorida",
+        "https://www.instagram.com/usouthflorida",
+        "https://www.linkedin.com/school/usouthflorida/",
+        "https://www.youtube.com/usfchannel"
+      ]
+    },
+    "https://usf.edu/about-usf/history-traditions.aspx": {
+      "title": "History and Traditions | University of South Florida",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/history-traditions.aspx"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/history-traditions.aspx"
+          ]
+        }
+      },
+      "emails": [
+        "ucm@usf.edu"
+      ],
+      "phones": [
+        "813-974-2011"
+      ],
+      "socials": [
+        "https://facebook.com/USouthFlorida",
+        "https://www.instagram.com/usouthflorida",
+        "https://www.linkedin.com/school/usouthflorida/",
+        "https://www.youtube.com/usfchannel"
+      ]
+    },
+    "https://usf.edu/about-usf/index.aspx": {
+      "title": "About USF | University of South Florida",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/index.aspx"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/index.aspx"
+          ]
+        },
+        "acts": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/index.aspx"
+          ]
+        }
+      },
+      "emails": [
+        "ucm@usf.edu"
+      ],
+      "phones": [
+        "813-974-2011"
+      ],
+      "socials": [
+        "https://facebook.com/USouthFlorida",
+        "https://www.instagram.com/usouthflorida",
+        "https://www.linkedin.com/school/usouthflorida/",
+        "https://www.youtube.com/usfchannel"
+      ]
+    },
+    "https://usf.edu/about-usf/leadership.aspx": {
+      "title": "Leadership | University of South Florida",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/leadership.aspx"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/leadership.aspx"
+          ]
+        }
+      },
+      "emails": [
+        "ucm@usf.edu"
+      ],
+      "phones": [
+        "813-974-2011"
+      ],
+      "socials": [
+        "https://facebook.com/USouthFlorida",
+        "https://www.instagram.com/usouthflorida",
+        "https://www.linkedin.com/school/usouthflorida/",
+        "https://www.youtube.com/usfchannel"
+      ]
+    },
+    "https://usf.edu/about-usf/mission-vision.aspx": {
+      "title": "Mission | University of South Florida",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/mission-vision.aspx"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/mission-vision.aspx"
+          ]
+        }
+      },
+      "emails": [
+        "ucm@usf.edu"
+      ],
+      "phones": [
+        "813-974-2011"
+      ],
+      "socials": [
+        "https://facebook.com/USouthFlorida",
+        "https://www.instagram.com/usouthflorida",
+        "https://www.linkedin.com/school/usouthflorida/",
+        "https://www.youtube.com/usfchannel"
+      ]
+    },
+    "https://usf.edu/about-usf/student-consumer-information.aspx": {
+      "title": "Student Consumer Information | University of South Florida",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/student-consumer-information.aspx"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/student-consumer-information.aspx"
+          ]
+        },
+        "acts": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/student-consumer-information.aspx"
+          ]
+        }
+      },
+      "emails": [
+        "ucm@usf.edu"
+      ],
+      "phones": [
+        "813-974-2011"
+      ],
+      "socials": [
+        "https://facebook.com/USouthFlorida",
+        "https://www.instagram.com/usouthflorida",
+        "https://www.linkedin.com/school/usouthflorida/",
+        "https://www.youtube.com/usfchannel"
+      ]
+    },
+    "https://usf.edu/about-usf/visit-usf.aspx": {
+      "title": "Visit USF | University of South Florida",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/visit-usf.aspx"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/visit-usf.aspx"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/visit-usf.aspx"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://usf.edu/about-usf/visit-usf.aspx"
+          ]
+        }
+      },
+      "emails": [
+        "ucm@usf.edu"
+      ],
+      "phones": [
+        "813-974-2011"
+      ],
+      "socials": [
+        "https://facebook.com/USouthFlorida",
+        "https://www.instagram.com/usouthflorida",
+        "https://www.linkedin.com/school/usouthflorida/",
+        "https://www.youtube.com/usfchannel"
+      ]
+    },
+    "https://www.usf.edu/about-usf/alumni.aspx": {
+      "title": "Alumni | About USF | University of South Florida",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usf.edu/about-usf/alumni.aspx"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usf.edu/about-usf/alumni.aspx"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usf.edu/about-usf/alumni.aspx"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.usf.edu/about-usf/alumni.aspx"
+          ]
+        }
+      },
+      "emails": [
+        "ucm@usf.edu"
+      ],
+      "phones": [
+        "813-974-2011"
+      ],
+      "socials": [
+        "https://facebook.com/USouthFlorida",
+        "https://www.instagram.com/usouthflorida",
+        "https://www.linkedin.com/school/usouthflorida/",
+        "https://www.youtube.com/usfchannel"
+      ]
+    }
+  }
+}

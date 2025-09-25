@@ -1,0 +1,385 @@
+{
+  "site_url": "https://lostcitybrewing.com/",
+  "domain": "lostcitybrewing.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://lostcitybrewing.com/",
+    "https://www.lostcitybrewing.com/about-us",
+    "https://www.lostcitybrewing.com/events",
+    "https://www.lostcitybrewing.com/venue",
+    "https://www.lostcitybrewing.com/home",
+    "https://www.lostcitybrewing.com/on-tap",
+    "https://www.lostcitybrewing.com/category/all-products",
+    "https://www.lostcitybrewing.com/not-21-years-old",
+    "https://www.lostcitybrewing.com/oleta-river-ipa",
+    "https://www.lostcitybrewing.com/holy-scribe-tripel",
+    "https://www.lostcitybrewing.com/golden-glades-blonde"
+  ],
+  "candidates": [
+    "https://www.lostcitybrewing.com/about-us",
+    "https://www.lostcitybrewing.com/events",
+    "https://www.lostcitybrewing.com/venue",
+    "https://lostcitybrewing.com/",
+    "https://lostcitybrewing.com/contact",
+    "https://lostcitybrewing.com/contact/",
+    "https://lostcitybrewing.com/contact-us",
+    "https://lostcitybrewing.com/contact-us/",
+    "https://lostcitybrewing.com/contactus",
+    "https://lostcitybrewing.com/contactus/",
+    "https://lostcitybrewing.com/about",
+    "https://lostcitybrewing.com/about/",
+    "https://lostcitybrewing.com/about-us",
+    "https://lostcitybrewing.com/about-us/",
+    "https://lostcitybrewing.com/visit",
+    "https://lostcitybrewing.com/visit/",
+    "https://lostcitybrewing.com/location",
+    "https://lostcitybrewing.com/location/",
+    "https://lostcitybrewing.com/directions",
+    "https://lostcitybrewing.com/directions/"
+  ],
+  "per_page": {
+    "https://www.lostcitybrewing.com/about-us": {
+      "title": "About Us | My Site",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lostcitybrewing.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@lostcitybrewing.com"
+      ],
+      "phones": [
+        "305.456.0318"
+      ],
+      "socials": [
+        "https://www.facebook.com/LostCityBrewing/",
+        "https://www.instagram.com/lostcitybrewing/",
+        "https://www.tiktok.com/@lostcitybrewing",
+        "https://www.youtube.com/@lostcitybrewing6114/featured"
+      ]
+    },
+    "https://www.lostcitybrewing.com/events": {
+      "title": "Events | My Site",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lostcitybrewing.com/events"
+          ]
+        },
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lostcitybrewing.com/events"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lostcitybrewing.com/events"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lostcitybrewing.com/events"
+          ]
+        },
+        "dj set": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lostcitybrewing.com/events"
+          ]
+        }
+      },
+      "emails": [
+        "info@lostcitybrewing.com"
+      ],
+      "phones": [
+        "305.456.0318"
+      ],
+      "socials": [
+        "https://www.facebook.com/LostCityBrewing/",
+        "https://www.instagram.com/lostcitybrewing/",
+        "https://www.tiktok.com/@lostcitybrewing",
+        "https://www.youtube.com/@lostcitybrewing6114/featured"
+      ]
+    },
+    "https://www.lostcitybrewing.com/venue": {
+      "title": "Venue | My Site",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://lostcitybrewing.com/": {
+      "title": "Landing Page | My Site",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lostcitybrewing.com/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lostcitybrewing.com"
+      ],
+      "phones": [
+        "305.456.0318"
+      ],
+      "socials": [
+        "https://www.facebook.com/LostCityBrewing/",
+        "https://www.instagram.com/lostcitybrewing/",
+        "https://www.tiktok.com/@lostcitybrewing",
+        "https://www.youtube.com/@lostcitybrewing6114/featured"
+      ]
+    },
+    "https://lostcitybrewing.com/contact": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://lostcitybrewing.com/contact/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://lostcitybrewing.com/contact-us": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://lostcitybrewing.com/contact-us/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://lostcitybrewing.com/contactus": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://lostcitybrewing.com/contactus/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://lostcitybrewing.com/about": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://lostcitybrewing.com/about/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://lostcitybrewing.com/about-us": {
+      "title": "About Us | My Site",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lostcitybrewing.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@lostcitybrewing.com"
+      ],
+      "phones": [
+        "305.456.0318"
+      ],
+      "socials": [
+        "https://www.facebook.com/LostCityBrewing/",
+        "https://www.instagram.com/lostcitybrewing/",
+        "https://www.tiktok.com/@lostcitybrewing",
+        "https://www.youtube.com/@lostcitybrewing6114/featured"
+      ]
+    },
+    "https://lostcitybrewing.com/about-us/": {
+      "title": "About Us | My Site",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lostcitybrewing.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lostcitybrewing.com"
+      ],
+      "phones": [
+        "305.456.0318"
+      ],
+      "socials": [
+        "https://www.facebook.com/LostCityBrewing/",
+        "https://www.instagram.com/lostcitybrewing/",
+        "https://www.tiktok.com/@lostcitybrewing",
+        "https://www.youtube.com/@lostcitybrewing6114/featured"
+      ]
+    },
+    "https://lostcitybrewing.com/visit": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://lostcitybrewing.com/visit/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://lostcitybrewing.com/location": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://lostcitybrewing.com/location/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://lostcitybrewing.com/directions": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://lostcitybrewing.com/directions/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

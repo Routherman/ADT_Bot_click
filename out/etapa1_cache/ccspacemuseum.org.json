@@ -1,0 +1,2032 @@
+{
+  "site_url": "https://ccspacemuseum.org/",
+  "domain": "ccspacemuseum.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://ccspacemuseum.org/",
+    "https://ccspacemuseum.org/about/",
+    "https://ccspacemuseum.org/visit-us/events/",
+    "https://ccspacemuseum.org/faqs/",
+    "https://ccspacemuseum.org/visit-us/",
+    "https://ccspacemuseum.org",
+    "https://ccspacemuseum.org/location-and-hours",
+    "https://ccspacemuseum.org/us-space-force/",
+    "https://ccspacemuseum.org/artifacts/history-center/",
+    "https://ccspacemuseum.org/sites/cape-canaveral-air-force-station/",
+    "https://ccspacemuseum.org/other-missile-test-sites/",
+    "https://ccspacemuseum.org/related-links-places/",
+    "https://ccspacemuseum.org/rupert-the-space-armadillo/",
+    "https://ccspacemuseum.org/exhibits/",
+    "https://ccspacemuseum.org/exhibits/museum-facilities/",
+    "https://ccspacemuseum.org/exhibits/missiles-rockets/",
+    "https://ccspacemuseum.org/exhibits/missile-components/",
+    "https://ccspacemuseum.org/exhibits/payload-reentry-vehicles/",
+    "https://ccspacemuseum.org/exhibits/support-hardware/",
+    "https://ccspacemuseum.org/exhibits/history-markers-displays/",
+    "https://ccspacemuseum.org/library/",
+    "https://ccspacemuseum.org/galleries/",
+    "https://ccspacemuseum.org/library/missileer/",
+    "https://ccspacemuseum.org/videos/",
+    "https://ccspacemuseum.org/sites/vandenberg-air-force-base/",
+    "https://ccspacemuseum.org/our-foundation/",
+    "https://ccspacemuseum.org/volunteer/",
+    "https://ccspacemuseum.org/donate/",
+    "https://ccspacemuseum.org/location-and-hours/",
+    "https://ccspacemuseum.org/launch-viewing/",
+    "https://ccspacemuseum.org/legacy-wall/",
+    "https://ccspacemuseum.org/gift-shop/",
+    "https://ccspacemuseum.org/memorial-brick-garden/",
+    "https://ccspacemuseum.org/upcoming-launches/",
+    "https://ccspacemuseum.org/facilities/launch-complex-26/",
+    "https://ccspacemuseum.org/volunteer",
+    "https://ccspacemuseum.org/sites/patrick-air-force-base-florida/",
+    "https://ccspacemuseum.org/artifacts/exhibit-hall/",
+    "https://ccspacemuseum.org/artifacts/launch-complex-26-blockhouse/",
+    "https://ccspacemuseum.org/artifacts/launch-complex-26-gantry/",
+    "https://ccspacemuseum.org/artifacts/launch-complex-26-launch-pads/",
+    "https://ccspacemuseum.org/artifacts/launch-complex-5-6-blockhouse/",
+    "https://ccspacemuseum.org/artifacts/launch-complex-5-6-launch-pads/",
+    "https://ccspacemuseum.org/artifacts/rocket-garden/",
+    "https://ccspacemuseum.org/artifacts/former-exhibits/",
+    "https://ccspacemuseum.org/facilities/launch-complex-5-6/",
+    "https://ccspacemuseum.org/newsletter-archive/",
+    "https://ccspacemuseum.org/cape-series-flyers/",
+    "https://ccspacemuseum.org/artifacts/hangar-c/",
+    "https://ccspacemuseum.org/history-center/",
+    "https://ccspacemuseum.org/facilities/organization-and-installation-name-history/",
+    "http://ccspacemuseum.org/sites/cape-canaveral-air-force-station/",
+    "https://ccspacemuseum.org/facilities/launch-complex-36/",
+    "https://ccspacemuseum.org/facilities/launch-complex-37/",
+    "https://ccspacemuseum.org/facilities/launch-complex-39/",
+    "https://ccspacemuseum.org/facilities/launch-complex-40/",
+    "https://ccspacemuseum.org/facilities/launch-complex-41/",
+    "https://ccspacemuseum.org/harry-s-sands-maj-gen-us-air-force/",
+    "https://ccspacemuseum.org/artifacts/atlas-booster-engine/",
+    "https://ccspacemuseum.org/artifacts/asset-vehicle/",
+    "https://ccspacemuseum.org/artifacts/heatsink-nose-cone/",
+    "https://ccspacemuseum.org/john-w-jay-raymond/",
+    "https://ccspacemuseum.org/artifacts/jupiter-nose-cone/",
+    "https://ccspacemuseum.org/artifacts/mercury-boilerplate-capsule/",
+    "https://ccspacemuseum.org/artifacts/pershing-i-nose-cone/",
+    "https://ccspacemuseum.org/artifacts/titan-i-second-stage-engine/",
+    "https://ccspacemuseum.org/npsapplication/",
+    "https://ccspacemuseum.org/artifacts/national-historic-landmark-monument/",
+    "https://ccspacemuseum.org/facilities/launch-complexes-a-b-c-d/",
+    "https://ccspacemuseum.org/facilities/launch-complexes-1-2/",
+    "https://ccspacemuseum.org/facilities/launch-complexes-3-4/",
+    "https://ccspacemuseum.org/facilities/launch-complexes-7-8/",
+    "https://ccspacemuseum.org/facilities/launch-complexes-9-10/",
+    "https://ccspacemuseum.org/facilities/launch-complex-11/",
+    "https://ccspacemuseum.org/facilities/launch-complex-12/",
+    "https://ccspacemuseum.org/facilities/launch-complex-13/",
+    "https://ccspacemuseum.org/facilities/launch-complex-14/",
+    "https://ccspacemuseum.org/facilities/launch-complex-15/",
+    "https://ccspacemuseum.org/facilities/launch-complex-16/",
+    "https://ccspacemuseum.org/facilities/launch-complex-17/",
+    "https://ccspacemuseum.org/facilities/launch-complex-18/",
+    "https://ccspacemuseum.org/facilities/launch-complex-19/",
+    "https://ccspacemuseum.org/facilities/launch-complex-20/",
+    "https://ccspacemuseum.org/facilities/launch-complexes-21-22/",
+    "https://ccspacemuseum.org/facilities/launch-complexes-23-24/",
+    "https://ccspacemuseum.org/facilities/launch-complex-25/",
+    "https://ccspacemuseum.org/facilities/launch-complex-27/",
+    "https://ccspacemuseum.org/facilities/launch-complex-28/",
+    "https://ccspacemuseum.org/facilities/launch-complex-29/",
+    "https://ccspacemuseum.org/facilities/launch-complex-30/",
+    "https://ccspacemuseum.org/facilities/launch-complexes-31-32/",
+    "https://ccspacemuseum.org/facilities/launch-complex-33/",
+    "https://ccspacemuseum.org/facilities/launch-complex-34/"
+  ],
+  "candidates": [
+    "https://ccspacemuseum.org/about/",
+    "https://ccspacemuseum.org/visit-us/events/",
+    "https://ccspacemuseum.org/faqs/",
+    "https://ccspacemuseum.org/visit-us/",
+    "https://ccspacemuseum.org",
+    "https://ccspacemuseum.org/",
+    "https://ccspacemuseum.org/artifacts/asset-vehicle/",
+    "https://ccspacemuseum.org/artifacts/atlas-booster-engine/",
+    "https://ccspacemuseum.org/artifacts/exhibit-hall/",
+    "https://ccspacemuseum.org/artifacts/former-exhibits/",
+    "https://ccspacemuseum.org/artifacts/hangar-c/",
+    "https://ccspacemuseum.org/artifacts/heatsink-nose-cone/",
+    "https://ccspacemuseum.org/artifacts/history-center/",
+    "https://ccspacemuseum.org/artifacts/jupiter-nose-cone/",
+    "https://ccspacemuseum.org/artifacts/launch-complex-26-blockhouse/",
+    "https://ccspacemuseum.org/artifacts/launch-complex-26-gantry/",
+    "https://ccspacemuseum.org/artifacts/launch-complex-26-launch-pads/",
+    "https://ccspacemuseum.org/artifacts/launch-complex-5-6-blockhouse/",
+    "https://ccspacemuseum.org/artifacts/launch-complex-5-6-launch-pads/",
+    "https://ccspacemuseum.org/artifacts/mercury-boilerplate-capsule/",
+    "https://ccspacemuseum.org/artifacts/national-historic-landmark-monument/",
+    "https://ccspacemuseum.org/artifacts/pershing-i-nose-cone/",
+    "https://ccspacemuseum.org/artifacts/rocket-garden/",
+    "https://ccspacemuseum.org/artifacts/titan-i-second-stage-engine/",
+    "https://ccspacemuseum.org/contact",
+    "https://ccspacemuseum.org/contact/",
+    "https://ccspacemuseum.org/contact-us",
+    "https://ccspacemuseum.org/contact-us/",
+    "https://ccspacemuseum.org/contactus",
+    "https://ccspacemuseum.org/contactus/",
+    "https://ccspacemuseum.org/about",
+    "https://ccspacemuseum.org/about-us",
+    "https://ccspacemuseum.org/about-us/",
+    "https://ccspacemuseum.org/visit",
+    "https://ccspacemuseum.org/visit/",
+    "https://ccspacemuseum.org/location",
+    "https://ccspacemuseum.org/location/",
+    "https://ccspacemuseum.org/directions",
+    "https://ccspacemuseum.org/directions/"
+  ],
+  "per_page": {
+    "https://ccspacemuseum.org/about/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/about/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/about/"
+          ]
+        },
+        "acts": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/about/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/visit-us/events/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/visit-us/events/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/visit-us/events/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/visit-us/events/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/visit-us/events/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/faqs/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/faqs/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/faqs/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/faqs/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/faqs/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/visit-us/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/visit-us/"
+          ]
+        },
+        "schedule": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/visit-us/"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/visit-us/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org"
+          ]
+        },
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org"
+          ]
+        },
+        "acts": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/"
+          ]
+        },
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/"
+          ]
+        },
+        "acts": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/asset-vehicle/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/asset-vehicle/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/asset-vehicle/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/atlas-booster-engine/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/atlas-booster-engine/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/atlas-booster-engine/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/exhibit-hall/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/exhibit-hall/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/exhibit-hall/"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/exhibit-hall/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/former-exhibits/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/former-exhibits/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/former-exhibits/"
+          ]
+        },
+        "acts": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/former-exhibits/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/hangar-c/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/hangar-c/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/hangar-c/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/hangar-c/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/heatsink-nose-cone/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/heatsink-nose-cone/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/heatsink-nose-cone/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/history-center/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/history-center/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/history-center/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/history-center/"
+          ]
+        },
+        "acts": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/history-center/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/jupiter-nose-cone/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/jupiter-nose-cone/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/jupiter-nose-cone/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/launch-complex-26-blockhouse/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/launch-complex-26-blockhouse/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/launch-complex-26-blockhouse/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/launch-complex-26-blockhouse/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/launch-complex-26-blockhouse/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/launch-complex-26-gantry/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/launch-complex-26-gantry/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/launch-complex-26-gantry/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/launch-complex-26-gantry/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/launch-complex-26-launch-pads/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/launch-complex-26-launch-pads/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/launch-complex-26-launch-pads/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/launch-complex-5-6-blockhouse/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/launch-complex-5-6-blockhouse/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/launch-complex-5-6-blockhouse/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/launch-complex-5-6-launch-pads/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/launch-complex-5-6-launch-pads/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/launch-complex-5-6-launch-pads/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/mercury-boilerplate-capsule/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/mercury-boilerplate-capsule/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/mercury-boilerplate-capsule/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/national-historic-landmark-monument/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/national-historic-landmark-monument/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/national-historic-landmark-monument/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/pershing-i-nose-cone/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/pershing-i-nose-cone/"
+          ]
+        },
+        "stage": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/pershing-i-nose-cone/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/pershing-i-nose-cone/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/rocket-garden/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/rocket-garden/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/rocket-garden/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/artifacts/titan-i-second-stage-engine/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/titan-i-second-stage-engine/"
+          ]
+        },
+        "stage": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/titan-i-second-stage-engine/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/artifacts/titan-i-second-stage-engine/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/contact": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/contact"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/contact/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/contact/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/contact-us": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/contact-us"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/contact-us/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/contact-us/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/contactus": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/contactus"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/contactus/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/contactus/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/about": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/about"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/about"
+          ]
+        },
+        "acts": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/about"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/about-us": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/about-us"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/about-us/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/about-us/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/visit": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/visit"
+          ]
+        },
+        "schedule": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/visit"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/visit"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/visit/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/visit/"
+          ]
+        },
+        "schedule": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/visit/"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/location": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/location"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/location"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/location"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171",
+        "321-336-8080",
+        "321-853-1919",
+        "321-853-3246",
+        "321-853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/location/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/location/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/location/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/location/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171",
+        "321-336-8080",
+        "321-853-1919",
+        "321-853-3246",
+        "321-853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/directions": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/directions"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/directions"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    },
+    "https://ccspacemuseum.org/directions/": {
+      "title": "Cape Canaveral Space Force Museum",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/directions/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ccspacemuseum.org/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "feedback@ccspacemuseum.org"
+      ],
+      "phones": [
+        "(321) 853-9171"
+      ],
+      "socials": [
+        "https://www.facebook.com/people/Cape-Canaveral-Space-Force-Museum/61571566877015/",
+        "https://www.instagram.com/ccspacemuseum/",
+        "https://www.youtube.com/user/afspacemuseum"
+      ]
+    }
+  }
+}

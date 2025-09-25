@@ -1,0 +1,114 @@
+{
+  "timestamp": "2025-09-25T04:00:21.258743",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T04:00:17.396842",
+      "company": {
+        "name": null,
+        "domain": "hotelsouthtampa.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 78361915,
+          "description": "The premier Hotel South Tampa & Suites Boutique is close to Tampa Bay Cruise Port, MacDill AFB. Visit hotelsouthtampa.com to Book Hotel in Tampa Bay Florida\nWe’re located just minutes from MacDill Airforce Base, the Port of Tampa, International Plaza and Westshore Mall, Tampa International Airport, downtown, Raymond James Stadium, Tampa General Hospital and the Tampa Bay Convention Center.\n\nWake up to our complimentary hot breakfast and stay connected with our free Wi-Fi internet access. Other amenities include our outdoor heated pool, fitness room and guest laundry. We also offer free parking for our overnight guests. Plus, Acaibar Enerjuicer is located at our hotel, and many other restaurants are within walking distance.\n\nWe look forward to welcoming you soon to Hotel South Tampa & Suites while looking for Hotel in Tampa Bay Florida!",
+          "domain": "hotelsouthtampa.com",
+          "employees": "51 - 200",
+          "fqdn": "www.hotelsouthtampa.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/7/e4/7e40de07b040f84aa25e9bf5d65bbe0c",
+          "name": "Hotel South Tampa & Suites",
+          "revenueRange": [
+            1000000,
+            10000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/hotel-south-tampa-suites"
+            }
+          },
+          "address": "Tampa North America United States US 3314 S Dale Mabry Hwy; Tampa, Florida 33629, US Florida FL -82.45842742919922,27.947519302368164 ",
+          "location": {
+            "city": "Tampa",
+            "country": "United States",
+            "fullLocation": "Tampa North America United States US 3314 S Dale Mabry Hwy; Tampa, Florida 33629, US Florida FL -82.45842742919922,27.947519302368164 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3314 S Dale Mabry Hwy; Tampa, Florida 33629, US"
+          },
+          "website": "https://hotelsouthtampa.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T04:00:18.516457",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T04:00:21.252884",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

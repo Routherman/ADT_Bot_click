@@ -1,0 +1,959 @@
+{
+  "site_url": "https://funkydogfl.com/",
+  "domain": "funkydogfl.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://funkydogfl.com/",
+    "https://funkydogfl.com/contact-funky-dog-improv",
+    "https://funkydogfl.com/cart",
+    "https://funkydogfl.com/live-comedy-melbourne-fl",
+    "https://funkydogfl.com/improv-classes-melbourne-fl",
+    "https://funkydogfl.com/private-improv-events-melbourne-fl",
+    "https://funkydogfl.com/improv-instructors-melbourne-fl",
+    "https://funkydogfl.com/improv-show-faqs",
+    "https://www.funkydogfl.com/recording-consent-policy",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/xw49x3f7dhg3gcp-rse36-mfyn5-zwteg-mm2lb-8y6nw-acyw3-w3et6-4k68f-2rkll-5m36e-af6tc-4g2lp-b9gsj-rsfdb-ckpj5-rbefk-9jxxh-efbel-hyp9r",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/dxjtxsyzdz4gkgk-tedxg-nfphs-nr7eg-s954t-s59jn-ene24-cs498-h664h-ml6hd-6hast-2rxgj-9324t-dde6x-88h5h-5czgz-kayw3-3stx2-pxr8l-9ndj4-jlzyz",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/xw49x3f7dhg3gcp-rse36-mfyn5-zwteg-mm2lb-8y6nw-acyw3-tyfzb-w9pge-hkb2c-pyy7b-ll9sl-c8xhs-ez24f-mp28m-afscs-4l2ax-a9g4h-sde64",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/t6ksc86hk3c92l3-7zc68-c32pf-xsezd-tfg6r-xx2c3-z768y-zlwg2-yk8p7-gb56s-grgfc-c79em-25739-k9z92-p9nl3-hat8a-472ml-9nbl4",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/cmtdpenh42hwcaf-yhlnr-lgwn5-psdwl-9a9y2-f4axe-3zlgf-hk3d3-7emyz-tm3xs",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/dxjtxsyzdz4gkgk-tedxg-nfphs-nr7eg-s954t-s59jn-ene24-cs498-h664h-ml6hd-6hast-2rxgj-9324t-dde6x-88h5h-5czgz-kayw3-3stx2-pxr8l-9ndj4-5x9kl",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/dxjtxsyzdz4gkgk-tedxg-nfphs-nr7eg-s954t-s59jn-ene24-cs498-h664h-ml6hd-6hast-2rxgj-9324t-dde6x-88h5h-5czgz-kayw3-3stx2-pxr8l-9ndj4",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/xw49x3f7dhg3gcp-rse36-mfyn5-zwteg-mm2lb-8y6nw-acyw3-w3et6-4k68f-2rkll-5m36e-af6tc-4g2lp-b9gsj-rsfdb-ckpj5-rbefk-9jxxh-efbel",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/x7xzm6alphszfes-5aen4-zl34g-j8psh-ky46x-rx5y5-2es6r-gn7xt-e8jee-d4l5f",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/cmtdpenh42hwcaf-yhlnr-lgwn5-psdwl-9a9y2-f4axe-3zlgf-hk3d3-7emyz",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/xw49x3f7dhg3gcp-rse36-mfyn5-zwteg-mm2lb-8y6nw-acyw3-tyfzb-w9pge-hkb2c-pyy7b-ll9sl-c8xhs-ez24f-mp28m-afscs-4l2ax-a9g4h",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/dxjtxsyzdz4gkgk-tedxg-nfphs-nr7eg-s954t-s59jn-ene24-cs498-h664h-ml6hd-6hast-2rxgj-9324t-dde6x-88h5h-5czgz-kayw3-3stx2-pxr8l",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/t6ksc86hk3c92l3-7zc68-c32pf-xsezd-tfg6r-xx2c3-z768y-zlwg2-yk8p7-gb56s-grgfc-c79em-25739-k9z92-p9nl3-hat8a-472ml",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/xw49x3f7dhg3gcp-rse36-mfyn5-zwteg-mm2lb-8y6nw-acyw3-w3et6-4k68f-2rkll-5m36e-af6tc-4g2lp-b9gsj-rsfdb-ckpj5-rbefk-9jxxh",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/x7xzm6alphszfes-5aen4-zl34g-j8psh-ky46x-rx5y5-2es6r-gn7xt-e8jee",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/cmtdpenh42hwcaf-yhlnr-lgwn5-psdwl-9a9y2-f4axe-3zlgf-hk3d3",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/xw49x3f7dhg3gcp-rse36-mfyn5-zwteg-mm2lb-8y6nw-acyw3-tyfzb-w9pge-hkb2c-pyy7b-ll9sl-c8xhs-ez24f-mp28m-afscs-4l2ax",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/cmtdpenh42hwcaf-yhlnr-lgwn5-psdwl-9a9y2-f4axe-3zlgf",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/x7xzm6alphszfes-5aen4-zl34g-j8psh-ky46x-rx5y5-2es6r-gn7xt",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/xw49x3f7dhg3gcp-rse36-mfyn5-zwteg-mm2lb-8y6nw-acyw3-w3et6-4k68f-2rkll-5m36e-af6tc-4g2lp-b9gsj-rsfdb-ckpj5-rbefk",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/t6ksc86hk3c92l3-7zc68-c32pf-xsezd-tfg6r-xx2c3-z768y-zlwg2-yk8p7-gb56s-grgfc-c79em-25739-k9z92-p9nl3-hat8a",
+    "https://funkydogfl.com/live-comedy-melbourne-fl/dxjtxsyzdz4gkgk-tedxg-nfphs-nr7eg-s954t-s59jn-ene24-cs498-h664h-ml6hd-6hast-2rxgj-9324t-dde6x-88h5h-5czgz-kayw3-3stx2",
+    "https://www.funkydogfl.com/contact-funky-dog-improv",
+    "https://www.funkydogfl.com/cart"
+  ],
+  "candidates": [
+    "https://funkydogfl.com/contact-funky-dog-improv",
+    "https://www.funkydogfl.com/contact-funky-dog-improv",
+    "https://funkydogfl.com/",
+    "https://funkydogfl.com/improv-show-faqs",
+    "https://funkydogfl.com/private-improv-events-melbourne-fl",
+    "https://funkydogfl.com/contact",
+    "https://funkydogfl.com/contact/",
+    "https://funkydogfl.com/contact-us",
+    "https://funkydogfl.com/contact-us/",
+    "https://funkydogfl.com/contactus",
+    "https://funkydogfl.com/contactus/",
+    "https://funkydogfl.com/about",
+    "https://funkydogfl.com/about/",
+    "https://funkydogfl.com/about-us",
+    "https://funkydogfl.com/about-us/",
+    "https://funkydogfl.com/visit",
+    "https://funkydogfl.com/visit/",
+    "https://funkydogfl.com/location",
+    "https://funkydogfl.com/location/",
+    "https://funkydogfl.com/directions",
+    "https://funkydogfl.com/directions/"
+  ],
+  "per_page": {
+    "https://funkydogfl.com/contact-funky-dog-improv": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/contact-funky-dog-improv"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/contact-funky-dog-improv"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://www.funkydogfl.com/contact-funky-dog-improv": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.funkydogfl.com/contact-funky-dog-improv"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.funkydogfl.com/contact-funky-dog-improv"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/": {
+      "title": "Funky Dog Improv | Live Improv Comedy & Classes in Melbourne, FL",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/"
+          ]
+        },
+        "show": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/improv-show-faqs": {
+      "title": "Frequently Asked Questions | Funky Dog Improv – Melbourne, FL — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/improv-show-faqs"
+          ]
+        },
+        "show": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/improv-show-faqs"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/improv-show-faqs"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/private-improv-events-melbourne-fl": {
+      "title": "Host a Private Improv Event or Fundraising Opportunity | Funky Dog Improv — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 1,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/private-improv-events-melbourne-fl"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/private-improv-events-melbourne-fl"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/private-improv-events-melbourne-fl"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/contact": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/contact"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/contact/": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/contact/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/contact-us": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/contact-us"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/contact-us/": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/contact-us/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/contactus": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/contactus"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/contactus/": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/contactus/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/about": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/about"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/about/": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/about/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/about-us": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/about-us"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/about-us/": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/about-us/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/visit": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/visit"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/visit/": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/visit/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/location": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/location"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/location/": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/location/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/directions": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/directions"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    },
+    "https://funkydogfl.com/directions/": {
+      "title": "Contact Funky Dog Improv | Melbourne, FL Comedy & Classes — Funky Dog Improv",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/directions/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://funkydogfl.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "funkydogfl@gmail.com"
+      ],
+      "phones": [
+        "321-345-6657"
+      ],
+      "socials": [
+        "https://www.facebook.com/FunkyDogImprov/",
+        "https://www.instagram.com/funkydogimprov/"
+      ]
+    }
+  }
+}

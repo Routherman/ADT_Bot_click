@@ -1,0 +1,131 @@
+{
+  "timestamp": "2025-09-22T10:22:36.265463",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T10:22:32.264991",
+      "company": {
+        "name": null,
+        "domain": "fisherislandclub.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 603684,
+          "description": "Deep in the throes of creating Miami Beach, real estate investor/developer, Carl Graham Fisher, turned his attention to a wedge of land with coconut palms and mangroves cast adrift in Biscayne Bay. Today, 81 years later, it has been restored to its former grandeur. And in the process it has become a world-class private island residential community and exclusive club where distinguished members enjoy the lovely Vanderbilt Mansion's main Club, its charming ocean side private Beach Club and other intimate restaurants, its superb Mediterranean-inspired Tennis Center, its lovely circa 1925 cottages and guest suites, its elaborate deep-sea water marinas, stunning championship golf course and spectacular Spa Internazionale.",
+          "domain": "fisherislandclub.com",
+          "employees": "201 - 500",
+          "fqdn": "www.fisherislandclub.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/1/3c/13cb1c97630939eb3551207b02bf8de4",
+          "name": "Fisher Island Club",
+          "revenueRange": [],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/fisher-island-club"
+            }
+          },
+          "address": "North America United States US 1 Fisher Island Dr.; Fisher Island, FL 33109, US Florida FL ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 1 Fisher Island Dr.; Fisher Island, FL 33109, US Florida FL ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1 Fisher Island Dr.; Fisher Island, FL 33109, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://fisherislandclub.com",
+          "specialities": [
+            "golf",
+            "hotel",
+            "spa",
+            "tennis"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T10:22:33.493496",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T10:22:36.259369",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

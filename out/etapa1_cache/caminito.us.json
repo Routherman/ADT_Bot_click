@@ -1,0 +1,652 @@
+{
+  "site_url": "https://caminito.us/",
+  "domain": "caminito.us",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://caminito.us/",
+    "https://caminito.us/contact/",
+    "https://caminito.us/events",
+    "https://caminito.us",
+    "https://caminito.us/menu-2/",
+    "https://caminito.us/menu"
+  ],
+  "candidates": [
+    "https://caminito.us/contact/",
+    "https://caminito.us/events",
+    "https://caminito.us",
+    "https://caminito.us/",
+    "https://caminito.us/contact",
+    "https://caminito.us/contact-us",
+    "https://caminito.us/contact-us/",
+    "https://caminito.us/contactus",
+    "https://caminito.us/contactus/",
+    "https://caminito.us/about",
+    "https://caminito.us/about/",
+    "https://caminito.us/about-us",
+    "https://caminito.us/about-us/",
+    "https://caminito.us/visit",
+    "https://caminito.us/visit/",
+    "https://caminito.us/location",
+    "https://caminito.us/location/",
+    "https://caminito.us/directions",
+    "https://caminito.us/directions/"
+  ],
+  "per_page": {
+    "https://caminito.us/contact/": {
+      "title": "Contact – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/events": {
+      "title": "Events – Caminito",
+      "band_hits": {
+        "live music": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/events"
+          ]
+        },
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/events"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/events"
+          ]
+        },
+        "música en vivo": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/events"
+          ]
+        },
+        "evento": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/events"
+          ]
+        },
+        "espectáculo": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us": {
+      "title": "Caminito – Weston, FL",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/": {
+      "title": "Caminito – Weston, FL",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/contact": {
+      "title": "Contact – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/contact"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/contact-us": {
+      "title": "No se encontró la página – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/contact-us/": {
+      "title": "No se encontró la página – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/contactus": {
+      "title": "No se encontró la página – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/contactus/": {
+      "title": "No se encontró la página – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/about": {
+      "title": "About – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/about"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/about/": {
+      "title": "About – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/about/"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/about-us": {
+      "title": "No se encontró la página – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/about-us/": {
+      "title": "No se encontró la página – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/visit": {
+      "title": "No se encontró la página – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/visit"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/visit/": {
+      "title": "No se encontró la página – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/location": {
+      "title": "No se encontró la página – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/location"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/location/": {
+      "title": "No se encontró la página – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/location/"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/directions": {
+      "title": "No se encontró la página – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/directions"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    },
+    "https://caminito.us/directions/": {
+      "title": "No se encontró la página – Caminito",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://caminito.us/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "caminito.diego@gmail.com"
+      ],
+      "phones": [
+        "(954)-743-7914"
+      ],
+      "socials": [
+        "https://www.facebook.com/104222592488411",
+        "https://www.instagram.com/caminitoweston"
+      ]
+    }
+  }
+}

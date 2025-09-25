@@ -1,0 +1,113 @@
+{
+  "timestamp": "2025-09-17T13:23:10.591583",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-17T13:23:06.970540",
+      "company": {
+        "name": null,
+        "domain": "chassahowitzkaflorida.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 59945845,
+          "description": "The Chassahowitzka River campground and RV Park has RV sites, cabins and tent camping. Use our boat ramp and kayaking launch on the Chassahowitzka River. We have Jon boats, canoe and kayak rentals on site for paddling, bird watching or fishing.",
+          "domain": "chassahowitzkaflorida.com",
+          "employees": "11 - 50",
+          "fqdn": "www.chassahowitzkaflorida.com",
+          "name": "Chassahowitzka River Campground",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Wellness & Fitness Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/chassahowitzka-river-campground"
+            }
+          },
+          "address": "North America United States US 8600 W MISS MAGGIE DR; Homosassa, Florida 34448, us Florida FL ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 8600 W MISS MAGGIE DR; Homosassa, Florida 34448, us Florida FL ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "8600 W MISS MAGGIE DR; Homosassa, Florida 34448, us"
+          },
+          "website": "https://chassahowitzkaflorida.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-17T13:23:08.138368",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-17T13:23:10.585769",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

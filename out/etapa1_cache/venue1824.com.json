@@ -1,0 +1,469 @@
+{
+  "site_url": "https://venue1824.com/",
+  "domain": "venue1824.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://venue1824.com/",
+    "https://www.venue1824.com/weddings",
+    "https://www.venue1824.com/events",
+    "https://www.venue1824.com/about-us",
+    "https://www.venue1824.com/contact",
+    "https://www.venue1824.com",
+    "https://www.venue1824.com/pricing"
+  ],
+  "candidates": [
+    "https://www.venue1824.com/contact",
+    "https://www.venue1824.com/about-us",
+    "https://www.venue1824.com/events",
+    "https://www.venue1824.com/weddings",
+    "https://venue1824.com/",
+    "https://venue1824.com/contact",
+    "https://venue1824.com/contact/",
+    "https://venue1824.com/contact-us",
+    "https://venue1824.com/contact-us/",
+    "https://venue1824.com/contactus",
+    "https://venue1824.com/contactus/",
+    "https://venue1824.com/about",
+    "https://venue1824.com/about/",
+    "https://venue1824.com/about-us",
+    "https://venue1824.com/about-us/",
+    "https://venue1824.com/visit",
+    "https://venue1824.com/visit/",
+    "https://venue1824.com/location",
+    "https://venue1824.com/location/",
+    "https://venue1824.com/directions",
+    "https://venue1824.com/directions/"
+  ],
+  "per_page": {
+    "https://www.venue1824.com/contact": {
+      "title": "Contact | Venue 1824",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.venue1824.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "events@venue1824.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.facebook.com/wix",
+        "https://www.instagram.com/venue1824/",
+        "https://www.instagram.com/wix"
+      ]
+    },
+    "https://www.venue1824.com/about-us": {
+      "title": "About Us | Venue 1824",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.venue1824.com/about-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.venue1824.com/about-us"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.venue1824.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "events@venue1824.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wix",
+        "https://www.instagram.com/wix"
+      ]
+    },
+    "https://www.venue1824.com/events": {
+      "title": "Events | Venue 1824",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.venue1824.com/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wix",
+        "https://www.instagram.com/wix"
+      ]
+    },
+    "https://www.venue1824.com/weddings": {
+      "title": "Weddings | Venue 1824",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.venue1824.com/weddings"
+          ]
+        }
+      },
+      "emails": [
+        "events@venue1824.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wix",
+        "https://www.instagram.com/wix"
+      ]
+    },
+    "https://venue1824.com/": {
+      "title": "Venue 1824 | wedding venue | 1824 South Harbor City Boulevard, Melbourne, FL, USA",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://venue1824.com/"
+          ]
+        }
+      },
+      "emails": [
+        "events@venue1824.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wix",
+        "https://www.instagram.com/wix"
+      ]
+    },
+    "https://venue1824.com/contact": {
+      "title": "Contact | Venue 1824",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://venue1824.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "events@venue1824.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.facebook.com/wix",
+        "https://www.instagram.com/venue1824/",
+        "https://www.instagram.com/wix"
+      ]
+    },
+    "https://venue1824.com/contact/": {
+      "title": "Contact | Venue 1824",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://venue1824.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "events@venue1824.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.facebook.com/wix",
+        "https://www.instagram.com/venue1824/",
+        "https://www.instagram.com/wix"
+      ]
+    },
+    "https://venue1824.com/contact-us": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://venue1824.com/contact-us/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://venue1824.com/contactus": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://venue1824.com/contactus/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://venue1824.com/about": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://venue1824.com/about/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://venue1824.com/about-us": {
+      "title": "About Us | Venue 1824",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://venue1824.com/about-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://venue1824.com/about-us"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://venue1824.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "events@venue1824.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wix",
+        "https://www.instagram.com/wix"
+      ]
+    },
+    "https://venue1824.com/about-us/": {
+      "title": "About Us | Venue 1824",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://venue1824.com/about-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://venue1824.com/about-us/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://venue1824.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "events@venue1824.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wix",
+        "https://www.instagram.com/wix"
+      ]
+    },
+    "https://venue1824.com/visit": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://venue1824.com/visit/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://venue1824.com/location": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://venue1824.com/location/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://venue1824.com/directions": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://venue1824.com/directions/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

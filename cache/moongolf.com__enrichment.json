@@ -1,0 +1,135 @@
+{
+  "timestamp": "2025-09-23T03:01:57.625511",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T03:01:53.877941",
+      "company": {
+        "name": null,
+        "domain": "moongolf.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 2621793,
+          "description": "We love the game of golf and want to share that passion with others. We want our customers that come into the store to experience the same passion that each of our employees have for the game. We also want to ensure that every customer that comes in has a positive experience by being spoken to honestly, being treated with respect, and being greeted with a positive attitude. \n\nOur Mission is to share our passion and love for the game of golf by providing world-class customer service, expert knowledge, and always having the best selection of golf products in stock.",
+          "domain": "moongolf.com",
+          "employees": "11 - 50",
+          "founded": "2015",
+          "fqdn": "www.moongolf.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/8/c0/8c073dee9e6bb5cafe48732c607674fc",
+          "name": "Moon Golf",
+          "revenueRange": [],
+          "mainIndustry": "Retail",
+          "subIndustry": "Retail Apparel & Fashion",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/polo-trace-golf-club-llc"
+            }
+          },
+          "address": "Palm Beach Gardens North America United States US 7100 Fairway Dr.; #62; Palm Beach Gardens, FL 33418, US Florida FL -80.1386489868164,26.823389053344727 ",
+          "location": {
+            "city": "Palm Beach Gardens",
+            "country": "United States",
+            "fullLocation": "Palm Beach Gardens North America United States US 7100 Fairway Dr.; #62; Palm Beach Gardens, FL 33418, US Florida FL -80.1386489868164,26.823389053344727 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "7100 Fairway Dr.; #62; Palm Beach Gardens, FL 33418, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5941,
+                "description": "Sporting goods and bicycle shops"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 458110,
+                "description": "Clothing and Clothing Accessories Retailers"
+              }
+            ]
+          },
+          "website": "https://moongolf.com",
+          "specialities": [
+            "accessories",
+            "apparel",
+            "club fitting",
+            "club repair",
+            "equipment",
+            "golf",
+            "trackman"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T03:01:54.956401",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T03:01:57.613908",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

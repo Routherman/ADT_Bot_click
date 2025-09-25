@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-23T12:05:17.485605",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T12:05:12.817112",
+      "company": {
+        "name": null,
+        "domain": "naplesbayresort.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 10104615,
+          "description": "The award winning, AAA Four-Diamond Naples Bay Resort is located in downtown Naples on 5th Avenue South, and is the only hotel in Southwest Florida with its own fully operational yacht club and marina with direct access to the Gulf of Mexico. The resort's amenities include The Spa and a fitness center; full-service tennis center; four swimming pools; a lagoon-style, lazy river; and private cabanas. The resort's 97-slip marina incorporates a yacht club, waterfront pool, ship's store, fuel dock and rental boats. Adding to the experience is a 33,000-square-foot retail promenade, featuring high-end specialty boutiques. For more information, please call 239-530-5400 or visit NaplesBayResort.com.",
+          "domain": "naplesbayresort.com",
+          "employees": "51 - 200",
+          "fqdn": "www.naplesbayresort.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/3/84/3843dd16ab5219d8ce91b85075e141dc",
+          "name": "Naples Bay Resort",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/naples-bay-resort-%26-marina"
+            }
+          },
+          "address": "Naples North America United States US 1500 Fifth Avenue South; Naples, Florida 34102, US Florida FL -81.79595947265625,26.1423397064209 ",
+          "location": {
+            "city": "Naples",
+            "country": "United States",
+            "fullLocation": "Naples North America United States US 1500 Fifth Avenue South; Naples, Florida 34102, US Florida FL -81.79595947265625,26.1423397064209 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1500 Fifth Avenue South; Naples, Florida 34102, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://naplesbayresort.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T12:05:14.269616",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T12:05:17.482539",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

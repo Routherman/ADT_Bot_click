@@ -1,0 +1,142 @@
+{
+  "timestamp": "2025-09-23T18:46:06.959870",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T18:46:02.674297",
+      "company": {
+        "name": null,
+        "domain": "yogacoastal.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 37014937,
+          "description": "YogaCo In-Office, part of the Yoga Coastal brand, is a leading provider of workplace wellness on a mission to create happy and healthy employees both in and out of the office. Our on-site yoga classes, mediation sessions, and wellness workshops are designed to increase productivity and connectivity, cultivate team morale, and encourage healthy habits. We offer a variety of packages tailored specifically to the needs of each company. We recognize that wellness is self-driven so our culture works in a way to educate and provide tools to employees in an interactive approach. Since time is a finite resource, and energy is not, our goal is to optimize energy output so employees and executives have the ability to operate at their highest potential. We do this while making it FUN!\n\nWe love working with progressive and modern-day office environments as well as corporate meetings and retreats. If you are ready to integrate a simple, fun, and results-driven wellness program or to complement your existing one, we’d love to work with you. Contact us directly at info@yogacoastal.com and check out our website here: www.yogacoastal.com.",
+          "domain": "yogacoastal.com",
+          "employees": "1 - 10",
+          "founded": "2019",
+          "fqdn": "www.yogacoastal.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/4/ed/4ed3bba4d1b1aca850a10b5c8560d27e",
+          "name": "Yoga Coastal",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Business Services",
+          "subIndustry": "Human Resources Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/yogacoastal"
+            }
+          },
+          "address": "Orlando North America United States US Orlando, FL, US Florida FL -81.37924194335938,28.538339614868164 ",
+          "location": {
+            "city": "Orlando",
+            "country": "United States",
+            "fullLocation": "Orlando North America United States US Orlando, FL, US Florida FL -81.37924194335938,28.538339614868164 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Orlando, FL, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8742,
+                "description": "Management consulting services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 541612,
+                "description": "Human Resources Consulting Services"
+              }
+            ]
+          },
+          "website": "https://yogacoastal.com",
+          "specialities": [
+            "company culture",
+            "corporate meditation",
+            "corporate wellness",
+            "employee wellbeing",
+            "goal management",
+            "nutrition",
+            "office yoga",
+            "stress reduction",
+            "team building",
+            "wellness",
+            "wellness workshops"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T18:46:03.989096",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T18:46:06.956219",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

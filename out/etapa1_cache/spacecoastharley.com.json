@@ -1,0 +1,4475 @@
+{
+  "site_url": "https://spacecoastharley.com/",
+  "domain": "spacecoastharley.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://spacecoastharley.com/",
+    "https://spacecoastharley.com/contact-us",
+    "https://spacecoastharley.com/about-space-coast-harley-davidson",
+    "https://spacecoastharley.com/events",
+    "https://spacecoastharley.com/event/41738/nopaymentsuntil2026",
+    "https://spacecoastharley.com/event/41742/beseenbeheardsept2025",
+    "https://spacecoastharley.com/event/41831/bikesandbeaches2025",
+    "https://spacecoastharley.com/new-inventory",
+    "https://spacecoastharley.com/pre-owned-inventory",
+    "https://spacecoastharley.com/showroom",
+    "https://spacecoastharley.com/space-coast-harley-davidson-finance-department",
+    "https://spacecoastharley.com/take-a-free-test-ride",
+    "https://spacecoastharley.com/l/the-icons-collection-2025",
+    "https://spacecoastharley.com/l/the-enthusiast-collection",
+    "https://spacecoastharley.com/l/120-years-of-harley-davidson",
+    "https://spacecoastharley.com/bikes-under-10k",
+    "https://spacecoastharley.com/space-coast-harley-davidson-service-department",
+    "https://spacecoastharley.com/space-coast-harley-davidson-parts-department",
+    "https://spacecoastharley.com/space-coast-harleydavidson-insurance-department",
+    "https://spacecoastharley.com/trade-in-value",
+    "https://spacecoastharley.com/dealer-specials",
+    "https://spacecoastharley.com/learn-to-ride",
+    "https://spacecoastharley.com/newsletter",
+    "https://spacecoastharley.com/join-the-space-coast-harley-team",
+    "https://spacecoastharley.com/blog",
+    "https://spacecoastharley.com/research-page",
+    "https://spacecoastharley.com/clicked/billboard/52095",
+    "https://spacecoastharley.com/clicked/billboard/52341",
+    "https://spacecoastharley.com/clicked/billboard/52066",
+    "https://spacecoastharley.com/clicked/billboard/52099",
+    "https://spacecoastharley.com/clicked/billboard/51564",
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55194/flhrxsroadkingspecial",
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55195/2025flhxstreetglide",
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55196/2025fltrxroadglide",
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55234/2025fltrxstsecvoroadglidest",
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55235/2025fltrxsecvoroadglide",
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55236/2024flhxsecvostreetglide",
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55247/2025flhxstreetglideultra",
+    "https://spacecoastharley.com/privacy-policy",
+    "https://spacecoastharley.com/cookie-policy",
+    "https://spacecoastharley.com/sitemap",
+    "https://spacecoastharley.com/register-for-updates",
+    "https://spacecoastharley.com/event/42053/rollingtexas2025",
+    "https://spacecoastharley.com/event/41678/endofsummerparty9-20-25",
+    "https://spacecoastharley.com/event/41501/hogride9-21-25",
+    "https://spacecoastharley.com/event/41515/saddleupsunday9-21-25",
+    "https://spacecoastharley.com/event/41502/hogride9-24-25",
+    "https://spacecoastharley.com/event/41503/hogride9-26-25",
+    "https://spacecoastharley.com/event/41679/bikenight9-26-25",
+    "https://spacecoastharley.com/event/41505/hogride9-27-25",
+    "https://spacecoastharley.com/event/41677/meetyourmatch",
+    "https://spacecoastharley.com/event/41673/fightagainstcancer9-28-25",
+    "https://spacecoastharley.com/event/42073/hog-customer-appreciation-10-4-25",
+    "https://spacecoastharley.com/event/42070/sunday-jam-with-silver-kings-10-5-25",
+    "https://spacecoastharley.com/event/41357/ride4robin10-11-25",
+    "https://spacecoastharley.com/event/42072/sunday-jam-with-soultime-10-12-25",
+    "https://spacecoastharley.com/event/41577/palmbayfair2025",
+    "https://spacecoastharley.com/event/41141/vampiresball10-24-25",
+    "https://spacecoastharley.com/event/41140/3rdannualhalloweennightmare",
+    "https://spacecoastharley.com/event/41843/backtothe80s10-25-25",
+    "https://spacecoastharley.com/event/41142/halloweenfestival10-25-25",
+    "https://spacecoastharley.com/event/41143/palmbayodditiesmarket10-26-25",
+    "https://spacecoastharley.com/event/41144/halloweenmarket10-26and10-27-25",
+    "https://spacecoastharley.com/event/41145/phantasmagoriadinnershow10-29-25",
+    "https://spacecoastharley.com/event/41146/halloweenparty10-30-25",
+    "https://spacecoastharley.com/event/41147/spacecoasttrunkotreat10-31-25",
+    "https://spacecoastharley.com/event/41148/diadelosmuertoscelebration11-1-25",
+    "https://spacecoastharley.com/event/41149/driveinmovie11-7-25",
+    "https://spacecoastharley.com/event/41151/frenchiesandbikers11-8-25",
+    "https://spacecoastharley.com/event/41152/foodtrucksaroundtheworld11-15-25",
+    "https://spacecoastharley.com/event/41573/fueltheneed11-15-25",
+    "https://spacecoastharley.com/event/41153/11thannualpolicemotorcyclechallenge",
+    "https://spacecoastharley.com/event/41155/3rdannualchristmaswonderland",
+    "https://spacecoastharley.com/event/41351/jollyrogerpokerrun1-31-2026",
+    "https://spacecoastharley.com/new-inventory?condition=new",
+    "https://spacecoastharley.com/new-inventory?condition=preowned",
+    "https://spacecoastharley.com/inventory/891496/breakout",
+    "https://spacecoastharley.com/inventory/891496/breakout?photo=11671435"
+  ],
+  "candidates": [
+    "https://spacecoastharley.com/contact-us",
+    "https://spacecoastharley.com/about-space-coast-harley-davidson",
+    "https://spacecoastharley.com/events",
+    "https://spacecoastharley.com/event/41140/3rdannualhalloweennightmare",
+    "https://spacecoastharley.com/event/41141/vampiresball10-24-25",
+    "https://spacecoastharley.com/event/41142/halloweenfestival10-25-25",
+    "https://spacecoastharley.com/event/41143/palmbayodditiesmarket10-26-25",
+    "https://spacecoastharley.com/event/41144/halloweenmarket10-26and10-27-25",
+    "https://spacecoastharley.com/event/41145/phantasmagoriadinnershow10-29-25",
+    "https://spacecoastharley.com/event/41146/halloweenparty10-30-25",
+    "https://spacecoastharley.com/event/41147/spacecoasttrunkotreat10-31-25",
+    "https://spacecoastharley.com/event/41148/diadelosmuertoscelebration11-1-25",
+    "https://spacecoastharley.com/event/41149/driveinmovie11-7-25",
+    "https://spacecoastharley.com/event/41151/frenchiesandbikers11-8-25",
+    "https://spacecoastharley.com/event/41152/foodtrucksaroundtheworld11-15-25",
+    "https://spacecoastharley.com/event/41153/11thannualpolicemotorcyclechallenge",
+    "https://spacecoastharley.com/event/41155/3rdannualchristmaswonderland",
+    "https://spacecoastharley.com/event/41351/jollyrogerpokerrun1-31-2026",
+    "https://spacecoastharley.com/event/41357/ride4robin10-11-25",
+    "https://spacecoastharley.com/event/41501/hogride9-21-25",
+    "https://spacecoastharley.com/event/41502/hogride9-24-25",
+    "https://spacecoastharley.com/event/41503/hogride9-26-25",
+    "https://spacecoastharley.com/event/41505/hogride9-27-25",
+    "https://spacecoastharley.com/event/41515/saddleupsunday9-21-25",
+    "https://spacecoastharley.com/event/41573/fueltheneed11-15-25",
+    "https://spacecoastharley.com/event/41577/palmbayfair2025",
+    "https://spacecoastharley.com/event/41673/fightagainstcancer9-28-25",
+    "https://spacecoastharley.com/event/41677/meetyourmatch",
+    "https://spacecoastharley.com/event/41678/endofsummerparty9-20-25",
+    "https://spacecoastharley.com/event/41679/bikenight9-26-25",
+    "https://spacecoastharley.com/event/41738/nopaymentsuntil2026",
+    "https://spacecoastharley.com/event/41742/beseenbeheardsept2025",
+    "https://spacecoastharley.com/event/41831/bikesandbeaches2025",
+    "https://spacecoastharley.com/event/41843/backtothe80s10-25-25",
+    "https://spacecoastharley.com/event/42053/rollingtexas2025",
+    "https://spacecoastharley.com/event/42070/sunday-jam-with-silver-kings-10-5-25",
+    "https://spacecoastharley.com/event/42072/sunday-jam-with-soultime-10-12-25",
+    "https://spacecoastharley.com/event/42073/hog-customer-appreciation-10-4-25",
+    "https://spacecoastharley.com/",
+    "https://spacecoastharley.com/showroom",
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55194/flhrxsroadkingspecial",
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55195/2025flhxstreetglide",
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55196/2025fltrxroadglide",
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55234/2025fltrxstsecvoroadglidest",
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55235/2025fltrxsecvoroadglide",
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55236/2024flhxsecvostreetglide",
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55247/2025flhxstreetglideultra",
+    "https://spacecoastharley.com/contact",
+    "https://spacecoastharley.com/contact/",
+    "https://spacecoastharley.com/contact-us/",
+    "https://spacecoastharley.com/contactus",
+    "https://spacecoastharley.com/contactus/",
+    "https://spacecoastharley.com/about",
+    "https://spacecoastharley.com/about/",
+    "https://spacecoastharley.com/about-us",
+    "https://spacecoastharley.com/about-us/",
+    "https://spacecoastharley.com/visit",
+    "https://spacecoastharley.com/visit/",
+    "https://spacecoastharley.com/location",
+    "https://spacecoastharley.com/location/",
+    "https://spacecoastharley.com/directions",
+    "https://spacecoastharley.com/directions/"
+  ],
+  "per_page": {
+    "https://spacecoastharley.com/contact-us": {
+      "title": "Contact Space Coast Harley Davidson | Palm Bay Florida | Space Coast Harley-Davidson",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/contact-us"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/contact-us"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/about-space-coast-harley-davidson": {
+      "title": "About Space Coast Harley Davidson | Palm Bay Florida | Space Coast Harley-Davidson",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/about-space-coast-harley-davidson"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/about-space-coast-harley-davidson"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/about-space-coast-harley-davidson"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/about-space-coast-harley-davidson"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 259-1311",
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/events": {
+      "title": "Events Space Coast Harley Davidson | Palm Bay Florida | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/events"
+          ]
+        },
+        "event": {
+          "total": 30,
+          "zones": {
+            "title": 1,
+            "body": 29,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/events"
+          ]
+        },
+        "show": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/events"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/events"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/events"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/events"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/events"
+          ]
+        },
+        "live performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/events"
+          ]
+        },
+        "bands": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/events"
+          ]
+        },
+        "tribute band": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41140/3rdannualhalloweennightmare": {
+      "title": "3rd Annual Space Coast Halloween Nightmare | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41140/3rdannualhalloweennightmare"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41140/3rdannualhalloweennightmare"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41140/3rdannualhalloweennightmare"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41140/3rdannualhalloweennightmare"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41140/3rdannualhalloweennightmare"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41140/3rdannualhalloweennightmare"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41141/vampiresball10-24-25": {
+      "title": "Halloween Parade & Vampire's Ball | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41141/vampiresball10-24-25"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41141/vampiresball10-24-25"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41141/vampiresball10-24-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41141/vampiresball10-24-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41141/vampiresball10-24-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41141/vampiresball10-24-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41142/halloweenfestival10-25-25": {
+      "title": "Halloween Festival | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41142/halloweenfestival10-25-25"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41142/halloweenfestival10-25-25"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41142/halloweenfestival10-25-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41142/halloweenfestival10-25-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41142/halloweenfestival10-25-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41142/halloweenfestival10-25-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41143/palmbayodditiesmarket10-26-25": {
+      "title": "Palm Bay Oddities Market | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41143/palmbayodditiesmarket10-26-25"
+          ]
+        },
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41143/palmbayodditiesmarket10-26-25"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41143/palmbayodditiesmarket10-26-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41143/palmbayodditiesmarket10-26-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41143/palmbayodditiesmarket10-26-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41143/palmbayodditiesmarket10-26-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41144/halloweenmarket10-26and10-27-25": {
+      "title": "Halloween Market | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41144/halloweenmarket10-26and10-27-25"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41144/halloweenmarket10-26and10-27-25"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41144/halloweenmarket10-26and10-27-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41144/halloweenmarket10-26and10-27-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41144/halloweenmarket10-26and10-27-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41144/halloweenmarket10-26and10-27-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41145/phantasmagoriadinnershow10-29-25": {
+      "title": "Phantasmagoria Dinner Show | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41145/phantasmagoriadinnershow10-29-25"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41145/phantasmagoriadinnershow10-29-25"
+          ]
+        },
+        "show": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41145/phantasmagoriadinnershow10-29-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41145/phantasmagoriadinnershow10-29-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41145/phantasmagoriadinnershow10-29-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41145/phantasmagoriadinnershow10-29-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41146/halloweenparty10-30-25": {
+      "title": "Halloween Party | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41146/halloweenparty10-30-25"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41146/halloweenparty10-30-25"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41146/halloweenparty10-30-25"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41146/halloweenparty10-30-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41146/halloweenparty10-30-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41146/halloweenparty10-30-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41146/halloweenparty10-30-25"
+          ]
+        },
+        "live performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41146/halloweenparty10-30-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41147/spacecoasttrunkotreat10-31-25": {
+      "title": "Space Coast Trunk-O-Treat | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41147/spacecoasttrunkotreat10-31-25"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41147/spacecoasttrunkotreat10-31-25"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41147/spacecoasttrunkotreat10-31-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41147/spacecoasttrunkotreat10-31-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41147/spacecoasttrunkotreat10-31-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41147/spacecoasttrunkotreat10-31-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41148/diadelosmuertoscelebration11-1-25": {
+      "title": "Dia De Los Muertos Celebration | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41148/diadelosmuertoscelebration11-1-25"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41148/diadelosmuertoscelebration11-1-25"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41148/diadelosmuertoscelebration11-1-25"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41148/diadelosmuertoscelebration11-1-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41148/diadelosmuertoscelebration11-1-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41148/diadelosmuertoscelebration11-1-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41148/diadelosmuertoscelebration11-1-25"
+          ]
+        },
+        "live performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41148/diadelosmuertoscelebration11-1-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41149/driveinmovie11-7-25": {
+      "title": "Drive-In Movie Family Fun Night | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41149/driveinmovie11-7-25"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41149/driveinmovie11-7-25"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41149/driveinmovie11-7-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41149/driveinmovie11-7-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41149/driveinmovie11-7-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41149/driveinmovie11-7-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41151/frenchiesandbikers11-8-25": {
+      "title": "Frenchies & Bikers | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41151/frenchiesandbikers11-8-25"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41151/frenchiesandbikers11-8-25"
+          ]
+        },
+        "show": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41151/frenchiesandbikers11-8-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41151/frenchiesandbikers11-8-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41151/frenchiesandbikers11-8-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41151/frenchiesandbikers11-8-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41152/foodtrucksaroundtheworld11-15-25": {
+      "title": "Food Trucks around the World | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41152/foodtrucksaroundtheworld11-15-25"
+          ]
+        },
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41152/foodtrucksaroundtheworld11-15-25"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41152/foodtrucksaroundtheworld11-15-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41152/foodtrucksaroundtheworld11-15-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41152/foodtrucksaroundtheworld11-15-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41152/foodtrucksaroundtheworld11-15-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41153/11thannualpolicemotorcyclechallenge": {
+      "title": "11th Annual Police Motorcycle Challenge | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41153/11thannualpolicemotorcyclechallenge"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41153/11thannualpolicemotorcyclechallenge"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41153/11thannualpolicemotorcyclechallenge"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41153/11thannualpolicemotorcyclechallenge"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41153/11thannualpolicemotorcyclechallenge"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41153/11thannualpolicemotorcyclechallenge"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41155/3rdannualchristmaswonderland": {
+      "title": "3rd Annual Christmas Wonderland | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41155/3rdannualchristmaswonderland"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41155/3rdannualchristmaswonderland"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41155/3rdannualchristmaswonderland"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41155/3rdannualchristmaswonderland"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41155/3rdannualchristmaswonderland"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41155/3rdannualchristmaswonderland"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41351/jollyrogerpokerrun1-31-2026": {
+      "title": "Jolly Roger Poker Run | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41351/jollyrogerpokerrun1-31-2026"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41351/jollyrogerpokerrun1-31-2026"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41351/jollyrogerpokerrun1-31-2026"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41351/jollyrogerpokerrun1-31-2026"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41351/jollyrogerpokerrun1-31-2026"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41351/jollyrogerpokerrun1-31-2026"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41357/ride4robin10-11-25": {
+      "title": "Ride 4 Robin | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41357/ride4robin10-11-25"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41357/ride4robin10-11-25"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41357/ride4robin10-11-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41357/ride4robin10-11-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41357/ride4robin10-11-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41357/ride4robin10-11-25"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41357/ride4robin10-11-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41501/hogride9-21-25": {
+      "title": "HOG Ride: The Space Bar | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41501/hogride9-21-25"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41501/hogride9-21-25"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41501/hogride9-21-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41501/hogride9-21-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41501/hogride9-21-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41501/hogride9-21-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41502/hogride9-24-25": {
+      "title": "HOG Ride: Flagler Tavern | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41502/hogride9-24-25"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41502/hogride9-24-25"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41502/hogride9-24-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41502/hogride9-24-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41502/hogride9-24-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41502/hogride9-24-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41503/hogride9-26-25": {
+      "title": "HOG Ride: Hibachi Buffet | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41503/hogride9-26-25"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41503/hogride9-26-25"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41503/hogride9-26-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41503/hogride9-26-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41503/hogride9-26-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41503/hogride9-26-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41505/hogride9-27-25": {
+      "title": "HOG Ride: Wild Turkey Tavern | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41505/hogride9-27-25"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41505/hogride9-27-25"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41505/hogride9-27-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41505/hogride9-27-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41505/hogride9-27-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41505/hogride9-27-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41515/saddleupsunday9-21-25": {
+      "title": "Saddle-Up Sunday | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41515/saddleupsunday9-21-25"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41515/saddleupsunday9-21-25"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41515/saddleupsunday9-21-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41515/saddleupsunday9-21-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41515/saddleupsunday9-21-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41515/saddleupsunday9-21-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41573/fueltheneed11-15-25": {
+      "title": "Fuel the Need 9 | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41573/fueltheneed11-15-25"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41573/fueltheneed11-15-25"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41573/fueltheneed11-15-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41573/fueltheneed11-15-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41573/fueltheneed11-15-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41573/fueltheneed11-15-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41577/palmbayfair2025": {
+      "title": "Palm Bay Fair 2025 | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41577/palmbayfair2025"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41577/palmbayfair2025"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41577/palmbayfair2025"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41577/palmbayfair2025"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41577/palmbayfair2025"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41577/palmbayfair2025"
+          ]
+        },
+        "bands": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41577/palmbayfair2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311",
+        "855-386-3836"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41673/fightagainstcancer9-28-25": {
+      "title": "LBBA Fight Against Cancer | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41673/fightagainstcancer9-28-25"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41673/fightagainstcancer9-28-25"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41673/fightagainstcancer9-28-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41673/fightagainstcancer9-28-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41673/fightagainstcancer9-28-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41673/fightagainstcancer9-28-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41677/meetyourmatch": {
+      "title": "Meet your Match Event | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41677/meetyourmatch"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 1,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41677/meetyourmatch"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41677/meetyourmatch"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41677/meetyourmatch"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41677/meetyourmatch"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41677/meetyourmatch"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41678/endofsummerparty9-20-25": {
+      "title": "End of Summer Party | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41678/endofsummerparty9-20-25"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41678/endofsummerparty9-20-25"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41678/endofsummerparty9-20-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41678/endofsummerparty9-20-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41678/endofsummerparty9-20-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41678/endofsummerparty9-20-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41679/bikenight9-26-25": {
+      "title": "Space Coast Bike Night | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41679/bikenight9-26-25"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41679/bikenight9-26-25"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41679/bikenight9-26-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41679/bikenight9-26-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41679/bikenight9-26-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41679/bikenight9-26-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41738/nopaymentsuntil2026": {
+      "title": "No Payments until 2026 | Space Coast Harley-Davidson",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41738/nopaymentsuntil2026"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41738/nopaymentsuntil2026"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41738/nopaymentsuntil2026"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41738/nopaymentsuntil2026"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321-259-1311",
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41742/beseenbeheardsept2025": {
+      "title": "Be Seen. Be Heard. | Space Coast Harley-Davidson",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41742/beseenbeheardsept2025"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41742/beseenbeheardsept2025"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41742/beseenbeheardsept2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41742/beseenbeheardsept2025"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41742/beseenbeheardsept2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321-259-1311",
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41831/bikesandbeaches2025": {
+      "title": "Bikes & Beaches 2025 | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41831/bikesandbeaches2025"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41831/bikesandbeaches2025"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41831/bikesandbeaches2025"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41831/bikesandbeaches2025"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41831/bikesandbeaches2025"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41831/bikesandbeaches2025"
+          ]
+        },
+        "lineup": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41831/bikesandbeaches2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/41843/backtothe80s10-25-25": {
+      "title": "Back to the 80s Party | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41843/backtothe80s10-25-25"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41843/backtothe80s10-25-25"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41843/backtothe80s10-25-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41843/backtothe80s10-25-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41843/backtothe80s10-25-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41843/backtothe80s10-25-25"
+          ]
+        },
+        "tribute band": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/41843/backtothe80s10-25-25"
+          ]
+        }
+      },
+      "emails": [
+        "more@www.spacecoastharley.com"
+      ],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/42053/rollingtexas2025": {
+      "title": "Rolling Texas | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42053/rollingtexas2025"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42053/rollingtexas2025"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42053/rollingtexas2025"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42053/rollingtexas2025"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42053/rollingtexas2025"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42053/rollingtexas2025"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42053/rollingtexas2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/42070/sunday-jam-with-silver-kings-10-5-25": {
+      "title": "Sunday Jam with Silver Kings | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42070/sunday-jam-with-silver-kings-10-5-25"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42070/sunday-jam-with-silver-kings-10-5-25"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42070/sunday-jam-with-silver-kings-10-5-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42070/sunday-jam-with-silver-kings-10-5-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42070/sunday-jam-with-silver-kings-10-5-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42070/sunday-jam-with-silver-kings-10-5-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/42072/sunday-jam-with-soultime-10-12-25": {
+      "title": "Sunday Jam with Soultime | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42072/sunday-jam-with-soultime-10-12-25"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42072/sunday-jam-with-soultime-10-12-25"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42072/sunday-jam-with-soultime-10-12-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42072/sunday-jam-with-soultime-10-12-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42072/sunday-jam-with-soultime-10-12-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42072/sunday-jam-with-soultime-10-12-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/event/42073/hog-customer-appreciation-10-4-25": {
+      "title": "HOG Customer Appreciation Party | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42073/hog-customer-appreciation-10-4-25"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42073/hog-customer-appreciation-10-4-25"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42073/hog-customer-appreciation-10-4-25"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42073/hog-customer-appreciation-10-4-25"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42073/hog-customer-appreciation-10-4-25"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/event/42073/hog-customer-appreciation-10-4-25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/": {
+      "title": "Space Coast Harley Davidson | Palm Bay Florida | Space Coast Harley-Davidson",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/"
+          ]
+        },
+        "lineup": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/showroom": {
+      "title": "2025 H-D® Motorcycles | Space Coast Harley-Davidson",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55194/flhrxsroadkingspecial": {
+      "title": "Road King® Special | Space Coast Harley-Davidson",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55194/flhrxsroadkingspecial"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55194/flhrxsroadkingspecial"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55194/flhrxsroadkingspecial"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55194/flhrxsroadkingspecial"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55194/flhrxsroadkingspecial"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55195/2025flhxstreetglide": {
+      "title": "Street Glide® | Space Coast Harley-Davidson",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55195/2025flhxstreetglide"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55195/2025flhxstreetglide"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55195/2025flhxstreetglide"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55195/2025flhxstreetglide"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55195/2025flhxstreetglide"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55195/2025flhxstreetglide"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55196/2025fltrxroadglide": {
+      "title": "Road Glide® | Space Coast Harley-Davidson",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55196/2025fltrxroadglide"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55196/2025fltrxroadglide"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55196/2025fltrxroadglide"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55196/2025fltrxroadglide"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55196/2025fltrxroadglide"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55234/2025fltrxstsecvoroadglidest": {
+      "title": "CVO™ Road Glide® ST | Space Coast Harley-Davidson",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55234/2025fltrxstsecvoroadglidest"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55234/2025fltrxstsecvoroadglidest"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55234/2025fltrxstsecvoroadglidest"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55234/2025fltrxstsecvoroadglidest"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55234/2025fltrxstsecvoroadglidest"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55235/2025fltrxsecvoroadglide": {
+      "title": "CVO™ Road Glide® | Space Coast Harley-Davidson",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55235/2025fltrxsecvoroadglide"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55235/2025fltrxsecvoroadglide"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55235/2025fltrxsecvoroadglide"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55235/2025fltrxsecvoroadglide"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55235/2025fltrxsecvoroadglide"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55235/2025fltrxsecvoroadglide"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55236/2024flhxsecvostreetglide": {
+      "title": "CVO™ Street Glide® | Space Coast Harley-Davidson",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55236/2024flhxsecvostreetglide"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55236/2024flhxsecvostreetglide"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55236/2024flhxsecvostreetglide"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55236/2024flhxsecvostreetglide"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55236/2024flhxsecvostreetglide"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55236/2024flhxsecvostreetglide"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55236/2024flhxsecvostreetglide"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55247/2025flhxstreetglideultra": {
+      "title": "Street Glide® Ultra | Space Coast Harley-Davidson",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55247/2025flhxstreetglideultra"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55247/2025flhxstreetglideultra"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55247/2025flhxstreetglideultra"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55247/2025flhxstreetglideultra"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/showroom/4/harley-davidson/3/motorcycles/9/55247/2025flhxstreetglideultra"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/contact": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://spacecoastharley.com/contact/": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://spacecoastharley.com/contact-us/": {
+      "title": "Contact Space Coast Harley Davidson | Palm Bay Florida | Space Coast Harley-Davidson",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/contact-us/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/contact-us/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://spacecoastharley.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.259.1311"
+      ],
+      "socials": [
+        "https://www.facebook.com/SpaceCoastHD",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/spacecoastharley",
+        "https://www.youtube.com/channel/UCCVKJBwX7k49cgkRXoVMkWA"
+      ]
+    },
+    "https://spacecoastharley.com/contactus": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://spacecoastharley.com/contactus/": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://spacecoastharley.com/about": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://spacecoastharley.com/about/": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://spacecoastharley.com/about-us": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://spacecoastharley.com/about-us/": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://spacecoastharley.com/visit": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://spacecoastharley.com/visit/": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://spacecoastharley.com/location": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://spacecoastharley.com/location/": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://spacecoastharley.com/directions": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://spacecoastharley.com/directions/": {
+      "title": "403 Forbidden",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

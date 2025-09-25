@@ -1,0 +1,11 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
+python-dateutil>=2.9.0
+selenium>=4.20.0
+streamlit>=1.36.0
+python-dotenv>=1.0.1
+pandas>=2.2.2
+
+# Para correr el enriquecedor:
+# streamlit run nav_Enriquecer.py

@@ -1,0 +1,672 @@
+{
+  "site_url": "https://stayingafloatpartyboat.com/",
+  "domain": "stayingafloatpartyboat.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://stayingafloatpartyboat.com/",
+    "https://www.stayingafloatpartyboat.com/about/",
+    "https://www.stayingafloatpartyboat.com/blog/",
+    "https://www.stayingafloatpartyboat.com/contact/",
+    "https://www.stayingafloatpartyboat.com/faq/",
+    "https://www.stayingafloatpartyboat.com/ft-lauderdale/",
+    "https://www.stayingafloatpartyboat.com/ft-lauderdale/private-party-boat/",
+    "https://www.stayingafloatpartyboat.com/ft-lauderdale/private-evening-cruise/",
+    "https://www.stayingafloatpartyboat.com/ft-lauderdale/ultimate-boat-tour/",
+    "https://www.stayingafloatpartyboat.com/tampa-bay/",
+    "https://www.stayingafloatpartyboat.com/tampa-bay/downtown-evening-cruise/",
+    "https://www.stayingafloatpartyboat.com/tampa-bay/private-party-boat-rentals/",
+    "https://www.stayingafloatpartyboat.com/groups-events/",
+    "https://www.stayingafloatpartyboat.com/bachelor-bachelorette-parties/",
+    "https://www.stayingafloatpartyboat.com/news-press/",
+    "https://www.stayingafloatpartyboat.com/gallery/",
+    "https://www.stayingafloatpartyboat.com/boat-rentals/",
+    "https://stayingafloatpartyboat.com/ft-lauderdale/ultimate-boat-tour/",
+    "https://stayingafloatpartyboat.com/ft-lauderdale/private-party-boat/",
+    "https://www.stayingafloatpartyboat.com/",
+    "https://stayingafloatpartyboat.com/privacy-policy/",
+    "https://www.stayingafloatpartyboat.com/privacy-policy/",
+    "https://www.stayingafloatpartyboat.com/blog/hosting-an-unforgettable-thanksgiving-party-on-a-party-boat-in-tampa/",
+    "https://www.stayingafloatpartyboat.com/blog/hosting-an-unforgettable-thanksgiving-party-on-a-party-boat-in-fort-lauderdale/",
+    "https://www.stayingafloatpartyboat.com/blog/how-to-throw-a-halloween-party-boat-bash-to-remember-in-tampa/",
+    "https://www.stayingafloatpartyboat.com/blog/how-to-throw-a-halloween-party-boat-bash-to-remember-in-fort-lauderdale/",
+    "https://www.stayingafloatpartyboat.com/blog/unleash-team-spirit-with-private-boats-for-your-corporate-event-in-fort-lauderdale/",
+    "https://www.stayingafloatpartyboat.com/blog/unleash-team-spirit-with-private-boats-for-your-corporate-event-in-tampa/",
+    "https://www.stayingafloatpartyboat.com/blog/celebrate-your-birthday-on-a-private-boat-in-st-petersburg/",
+    "https://www.stayingafloatpartyboat.com/blog/celebrate-your-birthday-on-a-private-boat-in-fort-lauderdale/",
+    "https://www.stayingafloatpartyboat.com/blog/why-you-should-be-having-your-bachelorette-party-on-a-boat-in-fort-lauderdale/",
+    "https://www.stayingafloatpartyboat.com/blog/why-you-should-be-celebrating-your-bachelorette-party-on-a-boat-in-st-petersburg/",
+    "https://www.stayingafloatpartyboat.com/blog/st-petersburg-spring-break-2023/",
+    "https://www.stayingafloatpartyboat.com/blog/fort-lauderdale-ultimate-party-boat-spring-break-experience-2023/",
+    "https://www.stayingafloatpartyboat.com/blog/page/2/",
+    "https://www.stayingafloatpartyboat.com/blog/category/bachelor-party/",
+    "https://www.stayingafloatpartyboat.com/blog/category/bachelorette-party/",
+    "https://www.stayingafloatpartyboat.com/blog/category/bachelorette-party-boat/",
+    "https://www.stayingafloatpartyboat.com/blog/category/evening-cruise-cat/",
+    "https://www.stayingafloatpartyboat.com/blog/category/family-boat-party/",
+    "https://www.stayingafloatpartyboat.com/blog/category/graduation/",
+    "https://www.stayingafloatpartyboat.com/blog/category/part-baot/",
+    "https://www.stayingafloatpartyboat.com/blog/category/party-boat/",
+    "https://www.stayingafloatpartyboat.com/blog/category/tampa/",
+    "https://www.stayingafloatpartyboat.com/blog/category/team-building/",
+    "https://www.stayingafloatpartyboat.com/blog/category/things-to-do-in-fort-lauderdale/",
+    "https://www.stayingafloatpartyboat.com/blog/category/things-to-do-in-tampa/",
+    "https://www.stayingafloatpartyboat.com/blog/category/weather/",
+    "https://www.stayingafloatpartyboat.com/13-26-passenger-private-boat/",
+    "https://www.stayingafloatpartyboat.com/13-45-passenger-private-boat/",
+    "https://www.stayingafloatpartyboat.com/gift-card/",
+    "https://stayingafloatpartyboat.com/ft-lauderdale/private-evening-cruise/",
+    "https://stayingafloatpartyboat.com/ft-lauderdale/",
+    "https://stayingafloatpartyboat.com/blog/hosting-an-unforgettable-thanksgiving-party-on-a-party-boat-in-tampa/",
+    "https://www.stayingafloatpartyboat.com",
+    "https://www.stayingafloatpartyboat.com/blog/tag/2023/",
+    "https://www.stayingafloatpartyboat.com/blog/tag/boat-party-ideas/",
+    "https://www.stayingafloatpartyboat.com/blog/tag/thanksgiving/",
+    "https://www.stayingafloatpartyboat.com/blog/tag/boat-party/",
+    "https://www.stayingafloatpartyboat.com/blog/tag/halloween/"
+  ],
+  "candidates": [
+    "https://www.stayingafloatpartyboat.com/blog/category/team-building/",
+    "https://www.stayingafloatpartyboat.com/contact/",
+    "https://www.stayingafloatpartyboat.com/about/",
+    "https://www.stayingafloatpartyboat.com/blog/unleash-team-spirit-with-private-boats-for-your-corporate-event-in-fort-lauderdale/",
+    "https://www.stayingafloatpartyboat.com/blog/unleash-team-spirit-with-private-boats-for-your-corporate-event-in-tampa/",
+    "https://stayingafloatpartyboat.com/blog/hosting-an-unforgettable-thanksgiving-party-on-a-party-boat-in-tampa/",
+    "https://www.stayingafloatpartyboat.com/blog/",
+    "https://www.stayingafloatpartyboat.com/blog/category/bachelor-party/",
+    "https://www.stayingafloatpartyboat.com/blog/category/bachelorette-party-boat/",
+    "https://www.stayingafloatpartyboat.com/blog/category/bachelorette-party/",
+    "https://www.stayingafloatpartyboat.com/blog/category/evening-cruise-cat/",
+    "https://www.stayingafloatpartyboat.com/blog/category/family-boat-party/",
+    "https://www.stayingafloatpartyboat.com/blog/category/graduation/",
+    "https://www.stayingafloatpartyboat.com/blog/category/part-baot/",
+    "https://www.stayingafloatpartyboat.com/blog/category/party-boat/",
+    "https://www.stayingafloatpartyboat.com/blog/category/tampa/",
+    "https://www.stayingafloatpartyboat.com/blog/category/things-to-do-in-fort-lauderdale/",
+    "https://www.stayingafloatpartyboat.com/blog/category/things-to-do-in-tampa/",
+    "https://www.stayingafloatpartyboat.com/blog/category/weather/",
+    "https://www.stayingafloatpartyboat.com/blog/celebrate-your-birthday-on-a-private-boat-in-fort-lauderdale/",
+    "https://www.stayingafloatpartyboat.com/blog/celebrate-your-birthday-on-a-private-boat-in-st-petersburg/",
+    "https://www.stayingafloatpartyboat.com/blog/fort-lauderdale-ultimate-party-boat-spring-break-experience-2023/",
+    "https://www.stayingafloatpartyboat.com/blog/hosting-an-unforgettable-thanksgiving-party-on-a-party-boat-in-fort-lauderdale/",
+    "https://www.stayingafloatpartyboat.com/blog/hosting-an-unforgettable-thanksgiving-party-on-a-party-boat-in-tampa/",
+    "https://www.stayingafloatpartyboat.com/blog/how-to-throw-a-halloween-party-boat-bash-to-remember-in-fort-lauderdale/",
+    "https://www.stayingafloatpartyboat.com/blog/how-to-throw-a-halloween-party-boat-bash-to-remember-in-tampa/",
+    "https://www.stayingafloatpartyboat.com/blog/page/2/",
+    "https://www.stayingafloatpartyboat.com/blog/st-petersburg-spring-break-2023/",
+    "https://www.stayingafloatpartyboat.com/blog/tag/2023/",
+    "https://www.stayingafloatpartyboat.com/blog/tag/boat-party-ideas/",
+    "https://www.stayingafloatpartyboat.com/blog/tag/boat-party/",
+    "https://www.stayingafloatpartyboat.com/blog/tag/halloween/",
+    "https://www.stayingafloatpartyboat.com/blog/tag/thanksgiving/",
+    "https://www.stayingafloatpartyboat.com/blog/why-you-should-be-celebrating-your-bachelorette-party-on-a-boat-in-st-petersburg/",
+    "https://www.stayingafloatpartyboat.com/blog/why-you-should-be-having-your-bachelorette-party-on-a-boat-in-fort-lauderdale/",
+    "https://www.stayingafloatpartyboat.com/faq/",
+    "https://stayingafloatpartyboat.com/",
+    "https://www.stayingafloatpartyboat.com/groups-events/",
+    "https://stayingafloatpartyboat.com/contact",
+    "https://stayingafloatpartyboat.com/contact/",
+    "https://stayingafloatpartyboat.com/contact-us",
+    "https://stayingafloatpartyboat.com/contact-us/",
+    "https://stayingafloatpartyboat.com/contactus",
+    "https://stayingafloatpartyboat.com/contactus/",
+    "https://stayingafloatpartyboat.com/about",
+    "https://stayingafloatpartyboat.com/about/",
+    "https://stayingafloatpartyboat.com/about-us",
+    "https://stayingafloatpartyboat.com/about-us/",
+    "https://stayingafloatpartyboat.com/visit",
+    "https://stayingafloatpartyboat.com/visit/",
+    "https://stayingafloatpartyboat.com/location",
+    "https://stayingafloatpartyboat.com/location/",
+    "https://stayingafloatpartyboat.com/directions",
+    "https://stayingafloatpartyboat.com/directions/"
+  ],
+  "per_page": {
+    "https://www.stayingafloatpartyboat.com/blog/category/team-building/": {
+      "title": "Team Building Party Blog Category | Staying Afloat Party Boat | Page 1 of 1",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/category/team-building/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/category/team-building/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "708-986-1926"
+      ],
+      "socials": [
+        "https://www.facebook.com/StayingAfloatPartyBoat/",
+        "https://www.instagram.com/stayingafloatpartyboat/",
+        "https://www.youtube.com/@stayingafloatpartyboat9943"
+      ]
+    },
+    "https://www.stayingafloatpartyboat.com/contact/": {
+      "title": "Contact Us | Staying Afloat Party Boat",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/contact/"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "contactsapb@gmail.com"
+      ],
+      "phones": [
+        "708-986-1926"
+      ],
+      "socials": [
+        "https://www.facebook.com/StayingAfloatPartyBoat/",
+        "https://www.instagram.com/stayingafloatpartyboat/",
+        "https://www.youtube.com/@stayingafloatpartyboat9943"
+      ]
+    },
+    "https://www.stayingafloatpartyboat.com/about/": {
+      "title": "About | Staying Afloat Party Boat",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/about/"
+          ]
+        },
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/about/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/about/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/about/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/about/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/about/"
+          ]
+        },
+        "live performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/about/"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "contactsapb@gmail.com"
+      ],
+      "phones": [
+        "708-986-1926"
+      ],
+      "socials": [
+        "https://www.facebook.com/StayingAfloatPartyBoat/",
+        "https://www.instagram.com/stayingafloatpartyboat/",
+        "https://www.youtube.com/@stayingafloatpartyboat9943"
+      ]
+    },
+    "https://www.stayingafloatpartyboat.com/blog/unleash-team-spirit-with-private-boats-for-your-corporate-event-in-fort-lauderdale/": {
+      "title": "Unleash Team Spirit with Private Boats for Your Corporate Event in Fort Lauderdale",
+      "band_hits": {
+        "event": {
+          "total": 18,
+          "zones": {
+            "title": 1,
+            "body": 17,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/unleash-team-spirit-with-private-boats-for-your-corporate-event-in-fort-lauderdale/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/unleash-team-spirit-with-private-boats-for-your-corporate-event-in-fort-lauderdale/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/unleash-team-spirit-with-private-boats-for-your-corporate-event-in-fort-lauderdale/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "708-986-1926"
+      ],
+      "socials": [
+        "https://www.facebook.com/StayingAfloatPartyBoat/",
+        "https://www.instagram.com/stayingafloatpartyboat/",
+        "https://www.youtube.com/@stayingafloatpartyboat9943"
+      ]
+    },
+    "https://www.stayingafloatpartyboat.com/blog/unleash-team-spirit-with-private-boats-for-your-corporate-event-in-tampa/": {
+      "title": "Unleash Team Spirit with Private Boats for Your Corporate Event in Tampa",
+      "band_hits": {
+        "event": {
+          "total": 22,
+          "zones": {
+            "title": 1,
+            "body": 21,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/unleash-team-spirit-with-private-boats-for-your-corporate-event-in-tampa/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/unleash-team-spirit-with-private-boats-for-your-corporate-event-in-tampa/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/unleash-team-spirit-with-private-boats-for-your-corporate-event-in-tampa/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/unleash-team-spirit-with-private-boats-for-your-corporate-event-in-tampa/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/unleash-team-spirit-with-private-boats-for-your-corporate-event-in-tampa/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "708-986-1926"
+      ],
+      "socials": [
+        "https://www.facebook.com/StayingAfloatPartyBoat/",
+        "https://www.instagram.com/stayingafloatpartyboat/",
+        "https://www.youtube.com/@stayingafloatpartyboat9943"
+      ]
+    },
+    "https://stayingafloatpartyboat.com/blog/hosting-an-unforgettable-thanksgiving-party-on-a-party-boat-in-tampa/": {
+      "title": "Hosting an Unforgettable Thanksgiving Party on a Party Boat in Tampa",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayingafloatpartyboat.com/blog/hosting-an-unforgettable-thanksgiving-party-on-a-party-boat-in-tampa/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayingafloatpartyboat.com/blog/hosting-an-unforgettable-thanksgiving-party-on-a-party-boat-in-tampa/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayingafloatpartyboat.com/blog/hosting-an-unforgettable-thanksgiving-party-on-a-party-boat-in-tampa/"
+          ]
+        },
+        "sound system": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayingafloatpartyboat.com/blog/hosting-an-unforgettable-thanksgiving-party-on-a-party-boat-in-tampa/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayingafloatpartyboat.com/blog/hosting-an-unforgettable-thanksgiving-party-on-a-party-boat-in-tampa/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "708-986-1926"
+      ],
+      "socials": [
+        "https://www.facebook.com/StayingAfloatPartyBoat/",
+        "https://www.instagram.com/stayingafloatpartyboat/",
+        "https://www.youtube.com/@stayingafloatpartyboat9943"
+      ]
+    },
+    "https://www.stayingafloatpartyboat.com/blog/": {
+      "title": "Party Blog | Staying Afloat Party Boat",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "708-986-1926"
+      ],
+      "socials": [
+        "https://www.facebook.com/StayingAfloatPartyBoat/",
+        "https://www.instagram.com/stayingafloatpartyboat/",
+        "https://www.youtube.com/@stayingafloatpartyboat9943"
+      ]
+    },
+    "https://www.stayingafloatpartyboat.com/blog/category/bachelor-party/": {
+      "title": "Bachelor Party Party Blog Category | Staying Afloat Party Boat | Page 1 of 1",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/category/bachelor-party/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/category/bachelor-party/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "708-986-1926"
+      ],
+      "socials": [
+        "https://www.facebook.com/StayingAfloatPartyBoat/",
+        "https://www.instagram.com/stayingafloatpartyboat/",
+        "https://www.youtube.com/@stayingafloatpartyboat9943"
+      ]
+    },
+    "https://www.stayingafloatpartyboat.com/blog/category/bachelorette-party-boat/": {
+      "title": "bachelorette party boat Party Blog Category | Staying Afloat Party Boat | Page 1 of 1",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/category/bachelorette-party-boat/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.stayingafloatpartyboat.com/blog/category/bachelorette-party-boat/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "708-986-1926"
+      ],
+      "socials": [
+        "https://www.facebook.com/StayingAfloatPartyBoat/",
+        "https://www.instagram.com/stayingafloatpartyboat/",
+        "https://www.youtube.com/@stayingafloatpartyboat9943"
+      ]
+    }
+  }
+}

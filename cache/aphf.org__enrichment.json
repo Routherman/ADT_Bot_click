@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-17T02:10:48.681648",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-17T02:10:44.819455",
+      "company": {
+        "name": null,
+        "domain": "aphf.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 53865742,
+          "description": "The American Police Hall of Fame and Museum was the lifelong dream of founder, Gerald Arenberg. In 1955, Chief Arenberg was struck and severely injured by a drunk driver while on-duty directing traffic in suburban Golf, Illinois. From that time on, he dedicated his life to honoring those peace officers who made the ultimate sacrifice. The American Police Hall of Fame and Museum first opened in Northport, Florida in October 1960. After 30 years, the museum was moved to Miami, Florida and then in 2003 to its current location in Titusville, Florida. Through its supporting organizations, the American Federation of Police and Concerned Citizens and the National Association of Chiefs of Police, the American Police Hall of Fame and Museum has continually been a focal point for American law enforcement. From recognition of outstanding law enforcement officers, to promoting personal safety for children, the American Police Hall of Fame and Museum has been there. In 1987, the National Association of Chiefs of Police began conducting a survey of national police commanders. The results of this survey have been instrumental in making the needs of the local department heard on a national level. It was also discovered in the course of conducting these surveys that many departments do not have adequate funding for many basic crime fighting tools. For this reason, the National Association of Chiefs of Police added two programs to directly aid police departments. The first, begun in 1999, is the “Vests For Life” program. Through donations of vests and money, the National Association of Chiefs of Police was able to provide body armor to departments who requested them. This program was discontinued in 2007 when funding for vests became more widely available to departments. The second, begun in 2001, is the “K-9 Matching Gift Program”. This is a resource that provides funding for police K-9s to police departments that could not otherwise afford them combining local community support with matching funds from NACOP. Through December 31, 2007 NACOP had provided $551,222 to 57 departments in 23 states. In addition to a commitment to crime prevention and professional law enforcement, the National Association of Chiefs of Police and the American Federation of Police and Concerned Citizens are committed to the families of law enforcement officers. In 1995, the American Federation of Police and Concerned Citizens began providing financial aid for grief counseling and emergency assistance to the families of officers killed in the line of duty. Because of the generous support of donors, this program has continued to grow. Similarly, the National Association of Chiefs of Police began a program in 1997 to provide college scholarships to children of officers seriously injured in the line of duty. The mission of the American Police Hall of Fame & Museum is to promote and support the law enforcement profession.",
+          "domain": "aphf.org",
+          "employees": "11 - 50",
+          "fqdn": "www.aphf.org",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2023/month=11/day=16/j_lp1hn88gss4tdfbcr.c47561338013c79da1881b269f320692a50392a5.file_lp1iti0h14v7fjdqe2.logo_cached.svg",
+          "name": "American Police Hall of Fame & Museum",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/american-police-hall-of-fame-%26-museum"
+            }
+          },
+          "address": "Titusville North America United States US 6350 HORIZON DR; Titusville, Florida 32780, us Florida FL -80.80754852294922,28.612220764160156 ",
+          "location": {
+            "city": "Titusville",
+            "country": "United States",
+            "fullLocation": "Titusville North America United States US 6350 HORIZON DR; Titusville, Florida 32780, us Florida FL -80.80754852294922,28.612220764160156 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "6350 HORIZON DR; Titusville, Florida 32780, us"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8412,
+                "description": "Museums and art galleries"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 712110,
+                "description": "Museums"
+              }
+            ]
+          },
+          "website": "https://aphf.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-17T02:10:46.011049",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-17T02:10:48.675781",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

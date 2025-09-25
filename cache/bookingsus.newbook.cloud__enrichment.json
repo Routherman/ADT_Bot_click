@@ -1,0 +1,150 @@
+{
+  "timestamp": "2025-09-22T02:46:44.820794",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T02:46:41.052011",
+      "company": {
+        "name": null,
+        "domain": "bookingsus.newbook.cloud",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 5034079,
+          "description": "Hi, We’re Newbook. We empower accommodation operators to find more freedom and take control of their operations with our connected property management software.\n\nPartnering to drive growth, streamline operations and provide memorable guest experiences is what we do – we’re the experts! Over 55,000 users around the globe trust us as their hospitality software partner and we're ready to help transform your business.",
+          "domain": "newbook.cloud",
+          "employees": "51 - 200",
+          "founded": "2010",
+          "fqdn": "www.newbook.cloud",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=30/j_lvlumwl2fo0gw52gp.e40e2319dc676e86a522609f6913c5c49a40082d.file_lvlunaf8fwlsuq2ah.logo_cached.jpg",
+          "name": "Newbook",
+          "revenueRange": [
+            50000000,
+            100000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/newbook-pms"
+            }
+          },
+          "address": "Surfers Paradise Oceania Australia AU 9 Ouyan St; Level 2; Surfers Paradise, Queensland 4217, AU Queensland QLD 153.42999267578125,-28.00274085998535 ",
+          "location": {
+            "city": "Surfers Paradise",
+            "country": "Australia",
+            "fullLocation": "Surfers Paradise Oceania Australia AU 9 Ouyan St; Level 2; Surfers Paradise, Queensland 4217, AU Queensland QLD 153.42999267578125,-28.00274085998535 ",
+            "state": "Queensland",
+            "stateCode": "AU",
+            "countryIso2": "AU",
+            "rawLocation": "9 Ouyan St; Level 2; Surfers Paradise, Queensland 4217, AU"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://newbook.cloud",
+          "specialities": [
+            "booking engine",
+            "booking software",
+            "camp management",
+            "central reservation system",
+            "channel manager",
+            "cloud computing",
+            "customer relationship management",
+            "hospitality management",
+            "hospitality technology",
+            "hotel technology",
+            "online booking",
+            "property management software",
+            "sales solutions",
+            "self service",
+            "short term rentals",
+            "software services",
+            "travel technology",
+            "vacation rentals",
+            "web design"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T02:46:42.178011",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T02:46:44.814799",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "timestamp": "2025-09-19T10:19:30.129127",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T10:19:26.027081",
+      "company": {
+        "name": null,
+        "domain": "capecabaret.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 52413795,
+          "description": "CAPE CABARET LLC is a restaurants company based out of 4725 VINCENNES BLVD, Cape Coral, Florida, United States.",
+          "domain": "capecabaret.com",
+          "employees": "11 - 50",
+          "founded": "2015",
+          "fqdn": "www.capecabaret.com",
+          "name": "CAPE CABARET LLC",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/cape-cabaret-llc"
+            }
+          },
+          "address": "Cape Coral North America United States US 4725 VINCENNES BLVD; Cape Coral, Florida 33904, us Florida FL -81.94953155517578,26.562850952148438 ",
+          "location": {
+            "city": "Cape Coral",
+            "country": "United States",
+            "fullLocation": "Cape Coral North America United States US 4725 VINCENNES BLVD; Cape Coral, Florida 33904, us Florida FL -81.94953155517578,26.562850952148438 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "4725 VINCENNES BLVD; Cape Coral, Florida 33904, us"
+          },
+          "website": "https://capecabaret.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T10:19:27.217913",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T10:19:30.125577",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

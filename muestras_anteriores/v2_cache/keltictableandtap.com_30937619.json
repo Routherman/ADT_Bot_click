@@ -1,0 +1,60 @@
+{
+  "pages": [
+    {
+      "url": "https://www.keltictableandtap.com/contact-us",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "========= Site Content =========\nView Hours >\n(860) 835-5179\n89 Enfield ST. Enfield, CT 06082\nHOME\nMENU\nBEER, DRINKS & MORE\nJOIN OUR TEAM\nLOCATIONS\nMURPHY'S PUB AGAWAM\nKELTIC TABLE & TAP\nCONTACT US\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nCONTACT US\n(860) 835-5179\n89 Enfield ST.\nEnfield, CT 06082\nCome Visit Us\nKeltic Table & Tap is located at 89 Enfield St. in Enfield, CT 06082.\nBusiness Hours\nMonday\n11:30 am\n-\n11:00 pm\nTuesday\n11:30 am\n-\n11:00 pm\nWednesday\n11:30 am\n-\n11:00 pm\nThursday\n11:30 am\n-\n12:00 am\nFriday\n11:30 am\n-\n1:00 am\nSaturday\n11:30 am\n-\n1:00 am\nSunday\n11:30 am\n-\n11:00 pm\nSend Us A Message\nName:\nEmail:\nPhone:\nMessage:\nThank you for contacting us.\nWe will get back to you as soon as possible.\nOops, there was an error sending your message.\nPlease try again later.\nOUR LOCATIONS\nButton\nButton\n(860) 835-5179\n89 Enfield ST.\nEnfield, CT 06082\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: 3f2571fe\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": []
+    },
+    {
+      "url": "https://www.keltictableandtap.com/join-our-team",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nView Hours >\n(860) 835-5179\n89 Enfield ST. Enfield, CT 06082\nHOME\nMENU\nBEER, DRINKS & MORE\nJOIN OUR TEAM\nLOCATIONS\nMURPHY'S PUB AGAWAM\nKELTIC TABLE & TAP\nCONTACT US\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nJOIN OUR TEAM\nJOIN OUR TEAM\nJoin the team at Keltic Table & Tap!\nThank you for your interest in working with us at Keltic Table & Tap. To apply, please complete the attached application and email us at\ninfo@murphyspubagawam.com\nDownload Application >\nOUR LOCATIONS\nButton\nButton\n(860) 835-5179\n89 Enfield ST.\nEnfield, CT 06082\nAdd full CSS and Javascript before the close tag of the body if needed\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: 3f2571fe\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": [
+        "info@murphyspubagawam.com"
+      ]
+    }
+  ],
+  "all_links": [
+    "https://www.keltictableandtap.com/beer-menu",
+    "http://www.keltictableandtap.com/",
+    "https://www.keltictableandtap.com/contact-us#HoursandLocation",
+    "https://www.keltictableandtap.com/contact-us",
+    "https://www.keltictableandtap.com/",
+    "https://www.keltictableandtap.com/menu",
+    "https://www.keltictableandtap.com/join-our-team"
+  ],
+  "candidate_links": [
+    "https://www.keltictableandtap.com/contact-us",
+    "https://www.keltictableandtap.com/join-our-team"
+  ],
+  "visited": [
+    "https://www.keltictableandtap.com/",
+    "https://www.keltictableandtap.com/about",
+    "https://www.keltictableandtap.com/contact",
+    "https://www.keltictableandtap.com/staff",
+    "https://www.keltictableandtap.com/team",
+    "https://www.keltictableandtap.com/board",
+    "https://www.keltictableandtap.com/directory",
+    "https://www.keltictableandtap.com/events",
+    "https://www.keltictableandtap.com/sitemap.xml",
+    "https://www.keltictableandtap.com/council",
+    "https://www.keltictableandtap.com/leadership",
+    "https://www.keltictableandtap.com/management",
+    "https://www.keltictableandtap.com/producers",
+    "https://www.keltictableandtap.com/support",
+    "https://www.keltictableandtap.com/crew",
+    "https://www.keltictableandtap.com/members",
+    "https://www.keltictableandtap.com/bios",
+    "https://www.keltictableandtap.com/people",
+    "https://www.keltictableandtap.com/artists",
+    "https://www.keltictableandtap.com/musicians",
+    "https://www.keltictableandtap.com/faculty",
+    "https://www.keltictableandtap.com/administration",
+    "https://www.keltictableandtap.com/contact-us",
+    "https://www.keltictableandtap.com/join-our-team"
+  ],
+  "base_url": "https://www.keltictableandtap.com/"
+}

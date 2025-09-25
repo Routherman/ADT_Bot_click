@@ -1,0 +1,115 @@
+{
+  "timestamp": "2025-09-20T20:37:14.526140",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T20:37:10.772413",
+      "company": {
+        "name": null,
+        "domain": "stabyc.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 15576784,
+          "description": "The St. Andrews Bay Yacht Club is located on beautiful St. Andrews Bay with a water frontage of over 400 feet on a cove in the bay located near Downtown Panama City, FL. It is bounded on the north by Bunkers Cove Road and is in Panama City's Historic Cove neighborhood.",
+          "domain": "stabyc.com",
+          "employees": "11 - 50",
+          "founded": "1933",
+          "fqdn": "www.stabyc.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/3/d1/3d1e75bc82144d1b19e63787be95dc83",
+          "name": "St. Andrews Bay Yacht Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/st-andrews-bay-yacht-club"
+            }
+          },
+          "address": "Panama City North America United States US 218 BUNKERS COVE RD; PANAMA CITY, Florida 32401, US Florida FL -85.65982818603516,30.159460067749023 ",
+          "location": {
+            "city": "Panama City",
+            "country": "United States",
+            "fullLocation": "Panama City North America United States US 218 BUNKERS COVE RD; PANAMA CITY, Florida 32401, US Florida FL -85.65982818603516,30.159460067749023 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "218 BUNKERS COVE RD; PANAMA CITY, Florida 32401, US"
+          },
+          "website": "https://stabyc.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T20:37:12.057508",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T20:37:14.521974",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

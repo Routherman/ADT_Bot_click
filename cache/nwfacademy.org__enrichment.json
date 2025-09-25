@@ -1,0 +1,127 @@
+{
+  "timestamp": "2025-09-22T19:37:38.335740",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T19:37:34.332957",
+      "company": {
+        "name": null,
+        "domain": "nwfacademy.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 81236737,
+          "description": "The Northwest Florida Academy offers something no other school in the area does, an integrated, therapeutic, structured literacy intervention model. Reading is a cognitive act, consisting of language and imagery. Instruction must align with a theory of cognition to make a difference for students. Each student's ability is taken into consideration when developing the individualized learning goals for our students.",
+          "domain": "nwfacademy.org",
+          "employees": "1 - 10",
+          "fqdn": "www.nwfacademy.org",
+          "name": "The Northwest Florida Academy",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Education",
+          "subIndustry": "Schools",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/the-northwest-florida-academy"
+            }
+          },
+          "address": "Lynn Haven North America United States US 303 W 26th St; Lynn Haven, Florida 32444, us Florida FL -85.64826202392578,30.245479583740234 ",
+          "location": {
+            "city": "Lynn Haven",
+            "country": "United States",
+            "fullLocation": "Lynn Haven North America United States US 303 W 26th St; Lynn Haven, Florida 32444, us Florida FL -85.64826202392578,30.245479583740234 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "303 W 26th St; Lynn Haven, Florida 32444, us"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8211,
+                "description": "Elementary and secondary schools"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 611110,
+                "description": "Elementary and Secondary Schools"
+              }
+            ]
+          },
+          "website": "https://nwfacademy.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T19:37:35.531020",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T19:37:38.296160",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

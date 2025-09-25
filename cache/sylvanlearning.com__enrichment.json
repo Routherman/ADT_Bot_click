@@ -1,0 +1,163 @@
+{
+  "timestamp": "2025-09-24T00:41:28.068415",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T00:41:24.438950",
+      "company": {
+        "name": null,
+        "domain": "sylvanlearning.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 531631,
+          "description": "With more than 45 years of experience, more than 710 points of presence and millions of families with results, Sylvan Learning is the leading provider of Personalized Learning for students in grades K-12. Sylvan is transforming how students learn, inspiring them to succeed in school and in life. Sylvan’s proven tutoring approach blends amazing teachers with SylvanSync™ technology on the iPad® for an engaging learning experience. Sylvan also leads the way with Sylvan EDGE — STEM and accelerated courses and Sylvan PREP — college and test prep courses. Sylvan supports families through every stage of the academic journey. For more information, visit www.SylvanLearning.com\n\nFranchise opportunities are available Nationwide with Sylvan Learning. For more information about our franchise opportunities, please visit our Franchise Development website at SylvanFranchise.com.\n\nSylvan Learning was founded in 1979 and is an Unleashed Brands Company.",
+          "domain": "sylvanlearning.com",
+          "employees": "201 - 500",
+          "founded": "1979",
+          "fqdn": "www.sylvanlearning.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=30/j_lvlvs1rj17lt86ekjs.18db1b216cd62283145c5744633f9945d29d743b.file_lvlwqjgwp5wwraefv.logo_cached.jpg",
+          "name": "Sylvan Learning",
+          "revenueRange": [
+            250000000,
+            500000000
+          ],
+          "mainIndustry": "Education",
+          "subIndustry": "Other",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/sylvan-learning"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/sylvan-learning"
+            }
+          },
+          "address": "Bedford North America United States US 2350 Airport Fwy; Suite 505; Bedford, Texas 76022, US Texas TX -97.14306640625,32.84402084350586 ",
+          "location": {
+            "city": "Bedford",
+            "country": "United States",
+            "fullLocation": "Bedford North America United States US 2350 Airport Fwy; Suite 505; Bedford, Texas 76022, US Texas TX -97.14306640625,32.84402084350586 ",
+            "state": "Texas",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "2350 Airport Fwy; Suite 505; Bedford, Texas 76022, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8299,
+                "description": "Schools and educational services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 611699,
+                "description": "All Other Miscellaneous Schools and Instruction"
+              }
+            ]
+          },
+          "website": "https://sylvanlearning.com",
+          "specialities": [
+            "coding",
+            "college prep",
+            "homework help",
+            "mathematics",
+            "reading",
+            "robotics",
+            "sat/act prep",
+            "state test prep",
+            "stem",
+            "study skills",
+            "summer camp",
+            "writing"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "currency": "USD",
+                "roundAmount": 450000,
+                "roundType": "Grant",
+                "roundDate": "Sep 13, 2024"
+              }
+            ],
+            "totalRounds": 1,
+            "totalRoundsAmount": 450000,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundType": "Grant",
+            "lastRoundAmount": 450000,
+            "lastRoundDate": "Sep 13, 2024"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T00:41:25.655987",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T00:41:28.064276",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

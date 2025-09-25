@@ -1,0 +1,927 @@
+{
+  "site_url": "https://pamm.org/",
+  "domain": "pamm.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://pamm.org/",
+    "https://pamm.org/en/visit/",
+    "https://pamm.org/en/events/",
+    "https://www.pamm.org/en/blog/",
+    "https://www.pamm.org/en/events/event/creative-aging-series-fall-sculpture-showcase-and-performance/",
+    "https://pamm.org/en/",
+    "https://pamm.org/en/support/",
+    "https://www.pamm.org/en/",
+    "https://www.pamm.org/es/",
+    "https://pamm.org/en/dining/",
+    "https://pamm.org/en/entertain/",
+    "https://pamm.org/en/exhibitions/",
+    "https://pamm.org/en/collection/",
+    "https://cci.pamm.org/",
+    "https://pamm.org/en/learn/",
+    "https://www.pamm.org/en/guides/",
+    "https://shop.pamm.org/",
+    "https://www.pamm.org/en/exhibition/elliot-and-erick-jimenez-el-monte/"
+  ],
+  "candidates": [
+    "https://pamm.org/en/events/",
+    "https://www.pamm.org/en/blog/",
+    "https://www.pamm.org/en/events/event/creative-aging-series-fall-sculpture-showcase-and-performance/",
+    "https://pamm.org/en/visit/",
+    "https://pamm.org/",
+    "https://pamm.org/contact",
+    "https://pamm.org/contact/",
+    "https://pamm.org/contact-us",
+    "https://pamm.org/contact-us/",
+    "https://pamm.org/contactus",
+    "https://pamm.org/contactus/",
+    "https://pamm.org/about",
+    "https://pamm.org/about/",
+    "https://pamm.org/about-us",
+    "https://pamm.org/about-us/",
+    "https://pamm.org/visit",
+    "https://pamm.org/visit/",
+    "https://pamm.org/location",
+    "https://pamm.org/location/",
+    "https://pamm.org/directions",
+    "https://pamm.org/directions/"
+  ],
+  "per_page": {
+    "https://pamm.org/en/events/": {
+      "title": "Events • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/en/events/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/en/events/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/en/events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.pamm.org/en/blog/": {
+      "title": "PAMM Blog • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.pamm.org/en/blog/"
+          ]
+        },
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.pamm.org/en/blog/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.pamm.org/en/events/event/creative-aging-series-fall-sculpture-showcase-and-performance/": {
+      "title": "Creative Aging Series: Fall Sculpture Showcase and Performance • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.pamm.org/en/events/event/creative-aging-series-fall-sculpture-showcase-and-performance/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.pamm.org/en/events/event/creative-aging-series-fall-sculpture-showcase-and-performance/"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.pamm.org/en/events/event/creative-aging-series-fall-sculpture-showcase-and-performance/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.pamm.org/en/events/event/creative-aging-series-fall-sculpture-showcase-and-performance/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/en/visit/": {
+      "title": "Visit • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/en/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/": {
+      "title": "Pérez Art Museum Miami • PAMM",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/"
+          ]
+        },
+        "artists": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://pamm.org/contact": {
+      "title": "Contact • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "comments@pamm.org",
+        "curatorial@pamm.org",
+        "development@pamm.org",
+        "education@pamm.org",
+        "entertain@pamm.org",
+        "hr@pamm.org",
+        "info@pamm.org",
+        "ip@pamm.org",
+        "marketing@pamm.org",
+        "membership@pamm.org",
+        "shop@pamm.org",
+        "vs@pamm.org"
+      ],
+      "phones": [
+        "+1 305 375 1725",
+        "+1 305 375 3000",
+        "+1 786 345 5612",
+        "+1 786-345-5615",
+        "+1 786-345-5616",
+        "+1 786-345-5643",
+        "+1 786-345-5646",
+        "+1 786-345-5650",
+        "+1 786-345-5665",
+        "+1 786-345-5694",
+        "+1 786-345-5699"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/contact/": {
+      "title": "Contact • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "comments@pamm.org",
+        "curatorial@pamm.org",
+        "development@pamm.org",
+        "education@pamm.org",
+        "entertain@pamm.org",
+        "hr@pamm.org",
+        "info@pamm.org",
+        "ip@pamm.org",
+        "marketing@pamm.org",
+        "membership@pamm.org",
+        "shop@pamm.org",
+        "vs@pamm.org"
+      ],
+      "phones": [
+        "+1 305 375 1725",
+        "+1 305 375 3000",
+        "+1 786 345 5612",
+        "+1 786-345-5615",
+        "+1 786-345-5616",
+        "+1 786-345-5643",
+        "+1 786-345-5646",
+        "+1 786-345-5650",
+        "+1 786-345-5665",
+        "+1 786-345-5694",
+        "+1 786-345-5699"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/contact-us": {
+      "title": "Page not found • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/contact-us/": {
+      "title": "Page not found • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/contact-us/"
+          ]
+        },
+        "artists": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/contactus": {
+      "title": "Page not found • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/contactus"
+          ]
+        },
+        "artists": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/contactus/": {
+      "title": "Page not found • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/contactus/"
+          ]
+        },
+        "artists": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/about": {
+      "title": "About • Pérez Art Museum Miami",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/about"
+          ]
+        },
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/about"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/about"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/about/": {
+      "title": "About • Pérez Art Museum Miami",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/about/"
+          ]
+        },
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/about/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/about/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/about-us": {
+      "title": "About Us • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/about-us/": {
+      "title": "About Us • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/visit": {
+      "title": "Visit • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/visit/": {
+      "title": "Visit • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/location": {
+      "title": "Page not found • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/location"
+          ]
+        },
+        "artists": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/location/": {
+      "title": "Page not found • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/location/"
+          ]
+        },
+        "artists": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/directions": {
+      "title": "Directions and parking • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    },
+    "https://pamm.org/directions/": {
+      "title": "Directions and parking • Pérez Art Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pamm.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 305 375 3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/perezartmuseummiami/",
+        "https://www.instagram.com/pamm/",
+        "https://www.tiktok.com/@perezartmuseummiami",
+        "https://www.youtube.com/channel/UCH90QEMASl9OxJT98u52vIQ"
+      ]
+    }
+  }
+}

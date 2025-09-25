@@ -1,0 +1,122 @@
+{
+  "timestamp": "2025-09-19T08:22:25.453956",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T08:22:21.852864",
+      "company": {
+        "name": null,
+        "domain": "shopthebusybee.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 6591146,
+          "description": "We offer a unique variety of gifts, gourmet foods, and other interesting products that you don't expect from a convenience store! We have the cleanest potties around! Buzz on in and visit us soon! Have a bee-utiful day!",
+          "domain": "shopthebusybee.com",
+          "employees": "201 - 500",
+          "fqdn": "www.shopthebusybee.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/1/da/1dae17bf59a60a4cdf620dc1d0f4f2eb",
+          "name": "Johnson & Johnson, Inc.",
+          "revenueRange": [],
+          "mainIndustry": "Retail",
+          "subIndustry": "Other",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/johnson-%26-johnson-inc."
+            }
+          },
+          "location": {
+            "city": "",
+            "country": "",
+            "fullLocation": "",
+            "state": "",
+            "stateCode": ""
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5999,
+                "description": "Miscellaneous retail stores, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 445298,
+                "description": "All Other Specialty Food Retailers"
+              }
+            ]
+          },
+          "website": "https://shopthebusybee.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T08:22:23.095414",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T08:22:25.450044",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

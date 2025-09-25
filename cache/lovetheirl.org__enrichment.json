@@ -1,0 +1,126 @@
+{
+  "timestamp": "2025-09-22T22:45:37.778835",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T22:45:33.955826",
+      "company": {
+        "name": null,
+        "domain": "lovetheirl.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 7066936,
+          "description": "Marine Resources Council (MRC) is a 501(c)(3) charitable nonprofit dedicated to protecting and restoring the Indian River Lagoon, one of our Earth’s rarest and most valuable natural treasures.\n\nBased in Palm Bay, Florida, MRC was founded in 1983. LagoonWatch, MRC's signature citizen science program, has been monitoring water quality in the Lagoon for 34 years. MRC is also home to one of Florida's largest state-licensed mangrove nurseries!\n\nLearn more at LoveTheIRL.org",
+          "domain": "lovetheirl.org",
+          "employees": "1 - 10",
+          "founded": "1990",
+          "fqdn": "www.lovetheirl.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/6/0c/60c7410aeed7589fcd8afac3f0754c92",
+          "name": "Marine Resources Council",
+          "revenueRange": [],
+          "mainIndustry": "Business Services",
+          "subIndustry": "Environmental Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/marine-resources-council"
+            }
+          },
+          "address": "Palm Bay North America United States US 3275 Dixie Hwy NE; Palm Bay, FL 32905, US Florida FL -80.58866119384766,28.034460067749023 ",
+          "location": {
+            "city": "Palm Bay",
+            "country": "United States",
+            "fullLocation": "Palm Bay North America United States US 3275 Dixie Hwy NE; Palm Bay, FL 32905, US Florida FL -80.58866119384766,28.034460067749023 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3275 Dixie Hwy NE; Palm Bay, FL 32905, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8999,
+                "description": "Services, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 541620,
+                "description": "Environmental Consulting Services"
+              }
+            ]
+          },
+          "website": "https://lovetheirl.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T22:45:35.172347",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T22:45:37.774920",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

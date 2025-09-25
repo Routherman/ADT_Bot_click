@@ -1,0 +1,2003 @@
+{
+  "site_url": "https://panamacity.gov/",
+  "domain": "panamacity.gov",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://panamacity.gov/",
+    "https://www.panamacity.gov/directory.aspx",
+    "https://panamacity.gov/calendar.aspx?CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=22&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=23&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=24&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=25&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=26&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=29&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=30&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=2&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=3&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=4&CID=22,23",
+    "https://panamacity.gov/Calendar.aspx?EID=5363",
+    "https://panamacity.gov/Calendar.aspx?EID=5416",
+    "https://panamacity.gov/Calendar.aspx?EID=5753",
+    "https://panamacity.gov/Calendar.aspx?EID=5873",
+    "https://panamacity.gov/Calendar.aspx?EID=4227",
+    "https://panamacity.gov/Calendar.aspx?EID=5258",
+    "https://panamacity.gov/Calendar.aspx?EID=5521",
+    "https://panamacity.gov/Calendar.aspx?EID=5364",
+    "https://panamacity.gov/Calendar.aspx?EID=5417",
+    "https://panamacity.gov/Calendar.aspx?EID=5888",
+    "https://panamacity.gov/directory.aspx",
+    "https://panamacity.gov/Faq.aspx?TID=15",
+    "https://panamacity.gov/Faq.aspx?QID=61",
+    "https://panamacity.gov/Faq.aspx?QID=63",
+    "https://panamacity.gov/Faq.aspx?QID=64",
+    "https://panamacity.gov/Faq.aspx?QID=65",
+    "https://panamacity.gov/Faq.aspx?QID=72",
+    "https://panamacity.gov/AlertCenter.aspx"
+  ],
+  "candidates": [
+    "https://panamacity.gov/Calendar.aspx?EID=4227",
+    "https://panamacity.gov/Calendar.aspx?EID=5258",
+    "https://panamacity.gov/Calendar.aspx?EID=5363",
+    "https://panamacity.gov/Calendar.aspx?EID=5364",
+    "https://panamacity.gov/Calendar.aspx?EID=5416",
+    "https://panamacity.gov/Calendar.aspx?EID=5417",
+    "https://panamacity.gov/Calendar.aspx?EID=5521",
+    "https://panamacity.gov/Calendar.aspx?EID=5753",
+    "https://panamacity.gov/Calendar.aspx?EID=5873",
+    "https://panamacity.gov/Calendar.aspx?EID=5888",
+    "https://panamacity.gov/calendar.aspx?CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=2&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=3&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=4&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=22&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=23&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=24&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=25&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=26&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=29&CID=22,23",
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=30&CID=22,23",
+    "https://panamacity.gov/Faq.aspx?QID=61",
+    "https://panamacity.gov/Faq.aspx?QID=63",
+    "https://panamacity.gov/Faq.aspx?QID=64",
+    "https://panamacity.gov/Faq.aspx?QID=65",
+    "https://panamacity.gov/Faq.aspx?QID=72",
+    "https://panamacity.gov/Faq.aspx?TID=15",
+    "https://panamacity.gov/directory.aspx",
+    "https://www.panamacity.gov/directory.aspx",
+    "https://panamacity.gov/",
+    "https://panamacity.gov/contact",
+    "https://panamacity.gov/contact/",
+    "https://panamacity.gov/contact-us",
+    "https://panamacity.gov/contact-us/",
+    "https://panamacity.gov/contactus",
+    "https://panamacity.gov/contactus/",
+    "https://panamacity.gov/about",
+    "https://panamacity.gov/about/",
+    "https://panamacity.gov/about-us",
+    "https://panamacity.gov/about-us/",
+    "https://panamacity.gov/visit",
+    "https://panamacity.gov/visit/",
+    "https://panamacity.gov/location",
+    "https://panamacity.gov/location/",
+    "https://panamacity.gov/directions",
+    "https://panamacity.gov/directions/"
+  ],
+  "per_page": {
+    "https://panamacity.gov/Calendar.aspx?EID=4227": {
+      "title": "Calendar • PC Senior Arts",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=4227"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=4227"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=4227"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity",
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://panamacity.gov/Calendar.aspx?EID=5258": {
+      "title": "Calendar • K. Play & Learn",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5258"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5258"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5258"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity",
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://panamacity.gov/Calendar.aspx?EID=5363": {
+      "title": "Calendar • Zumba",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5363"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5363"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5363"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity",
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://panamacity.gov/Calendar.aspx?EID=5364": {
+      "title": "Calendar • Zumba",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5364"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5364"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5364"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity",
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://panamacity.gov/Calendar.aspx?EID=5416": {
+      "title": "Calendar • Knifty Crafters",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5416"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5416"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5416"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity",
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://panamacity.gov/Calendar.aspx?EID=5417": {
+      "title": "Calendar • Knifty Crafters",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5417"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5417"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5417"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity",
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://panamacity.gov/Calendar.aspx?EID=5521": {
+      "title": "Calendar • Line Dancing",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5521"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5521"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5521"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity",
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://panamacity.gov/Calendar.aspx?EID=5753": {
+      "title": "Calendar • City Commission Meeting",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5753"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5753"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5753"
+          ]
+        }
+      },
+      "emails": [
+        "stream@www.panamacity.gov",
+        "website@www.panamacity.gov"
+      ],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity",
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://panamacity.gov/Calendar.aspx?EID=5873": {
+      "title": "Calendar • FY 2026 Budget Hearing #2/Final",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5873"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5873"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5873"
+          ]
+        }
+      },
+      "emails": [
+        "stream@www.panamacity.gov"
+      ],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.youtube.com/PanamaCity11"
+      ]
+    },
+    "https://panamacity.gov/Calendar.aspx?EID=5888": {
+      "title": "Calendar • CRA Plans Community Meeting",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5888"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5888"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Calendar.aspx?EID=5888"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity",
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://panamacity.gov/calendar.aspx?CID=22,23": {
+      "title": "Calendar • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?CID=22,23"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?CID=22,23"
+          ]
+        },
+        "calendar": {
+          "total": 19,
+          "zones": {
+            "title": 1,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?CID=22,23"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=2&CID=22,23": {
+      "title": "Calendar • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=2&CID=22,23"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=2&CID=22,23"
+          ]
+        },
+        "calendar": {
+          "total": 19,
+          "zones": {
+            "title": 1,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=2&CID=22,23"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=3&CID=22,23": {
+      "title": "Calendar • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=3&CID=22,23"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=3&CID=22,23"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=3&CID=22,23"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=4&CID=22,23": {
+      "title": "Calendar • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=4&CID=22,23"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=4&CID=22,23"
+          ]
+        },
+        "calendar": {
+          "total": 19,
+          "zones": {
+            "title": 1,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=10&day=4&CID=22,23"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=22&CID=22,23": {
+      "title": "Calendar • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=22&CID=22,23"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=22&CID=22,23"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=22&CID=22,23"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=23&CID=22,23": {
+      "title": "Calendar • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=23&CID=22,23"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=23&CID=22,23"
+          ]
+        },
+        "calendar": {
+          "total": 19,
+          "zones": {
+            "title": 1,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=23&CID=22,23"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=24&CID=22,23": {
+      "title": "Calendar • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=24&CID=22,23"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=24&CID=22,23"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=24&CID=22,23"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=25&CID=22,23": {
+      "title": "Calendar • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=25&CID=22,23"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=25&CID=22,23"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=25&CID=22,23"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=26&CID=22,23": {
+      "title": "Calendar • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=26&CID=22,23"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=26&CID=22,23"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=26&CID=22,23"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=29&CID=22,23": {
+      "title": "Calendar • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=29&CID=22,23"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=29&CID=22,23"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=29&CID=22,23"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=30&CID=22,23": {
+      "title": "Calendar • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=30&CID=22,23"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=30&CID=22,23"
+          ]
+        },
+        "calendar": {
+          "total": 19,
+          "zones": {
+            "title": 1,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/calendar.aspx?view=list&year=2025&month=9&day=30&CID=22,23"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/Faq.aspx?QID=61": {
+      "title": "FAQs • What are the City&#39s hours?",
+      "band_hits": {
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?QID=61"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?QID=61"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?QID=61"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/Faq.aspx?QID=63": {
+      "title": "FAQs • How can I contact the City of Panama City?",
+      "band_hits": {
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?QID=63"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?QID=63"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?QID=63"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/Faq.aspx?QID=64": {
+      "title": "FAQs • Are meeting documents available to the public?",
+      "band_hits": {
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?QID=64"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?QID=64"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?QID=64"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/Faq.aspx?QID=65": {
+      "title": "FAQs • Are board meetings open for public participation?",
+      "band_hits": {
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?QID=65"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?QID=65"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?QID=65"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/Faq.aspx?QID=72": {
+      "title": "FAQs • Where can I watch a Live Stream of the City Commissio",
+      "band_hits": {
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?QID=72"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?QID=72"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?QID=72"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/Faq.aspx?TID=15": {
+      "title": "FAQs • General Questions",
+      "band_hits": {
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?TID=15"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?TID=15"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/Faq.aspx?TID=15"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/directory.aspx": {
+      "title": "Staff Directory • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/directory.aspx"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 691-4553",
+        "(850) 691-4554",
+        "(850) 691-4593",
+        "(850) 691-4595",
+        "(850) 691-4603",
+        "(850) 691-4617",
+        "(850) 819-4548",
+        "(850) 872-3000",
+        "(850) 872-3004",
+        "(850) 872-3009",
+        "(850) 872-3010",
+        "(850) 872-3015",
+        "(850) 872-3021",
+        "(850) 872-3025",
+        "(850) 872-3055",
+        "(850) 872-3090",
+        "(850) 872-3095",
+        "(850) 872-3100",
+        "(850) 872-3112",
+        "(850) 872-3165",
+        "(850) 872-3166",
+        "(850) 872-3170",
+        "(850) 872-3172",
+        "(850) 872-3199",
+        "(850) 872-7202",
+        "(850) 872-7230",
+        "(850) 872-7240"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://www.panamacity.gov/directory.aspx": {
+      "title": "Staff Directory • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.panamacity.gov/directory.aspx"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 691-4553",
+        "(850) 691-4554",
+        "(850) 691-4593",
+        "(850) 691-4595",
+        "(850) 691-4603",
+        "(850) 691-4617",
+        "(850) 819-4548",
+        "(850) 872-3000",
+        "(850) 872-3004",
+        "(850) 872-3009",
+        "(850) 872-3010",
+        "(850) 872-3015",
+        "(850) 872-3021",
+        "(850) 872-3025",
+        "(850) 872-3055",
+        "(850) 872-3090",
+        "(850) 872-3095",
+        "(850) 872-3100",
+        "(850) 872-3112",
+        "(850) 872-3165",
+        "(850) 872-3166",
+        "(850) 872-3170",
+        "(850) 872-3172",
+        "(850) 872-3199",
+        "(850) 872-7202",
+        "(850) 872-7230",
+        "(850) 872-7240"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/": {
+      "title": "Panama City, FL - Official Website | Official Website",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/contact": {
+      "title": "Custom404 • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/contact/": {
+      "title": "Custom404 • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/contact-us": {
+      "title": "Custom404 • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/contact-us/": {
+      "title": "Custom404 • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/contactus": {
+      "title": "Staff Directory • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 691-4553",
+        "(850) 691-4554",
+        "(850) 691-4593",
+        "(850) 691-4595",
+        "(850) 691-4603",
+        "(850) 691-4617",
+        "(850) 819-4548",
+        "(850) 872-3000",
+        "(850) 872-3004",
+        "(850) 872-3009",
+        "(850) 872-3010",
+        "(850) 872-3015",
+        "(850) 872-3021",
+        "(850) 872-3025",
+        "(850) 872-3055",
+        "(850) 872-3090",
+        "(850) 872-3095",
+        "(850) 872-3100",
+        "(850) 872-3112",
+        "(850) 872-3165",
+        "(850) 872-3166",
+        "(850) 872-3170",
+        "(850) 872-3172",
+        "(850) 872-3199",
+        "(850) 872-7202",
+        "(850) 872-7230",
+        "(850) 872-7240"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/contactus/": {
+      "title": "Custom404 • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/about": {
+      "title": "Custom404 • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/about/": {
+      "title": "Custom404 • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/about-us": {
+      "title": "Custom404 • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/about-us/": {
+      "title": "Custom404 • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/visit": {
+      "title": "Custom404 • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/visit/": {
+      "title": "Custom404 • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/location": {
+      "title": "Custom404 • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/location/": {
+      "title": "Custom404 • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/directions": {
+      "title": "Custom404 • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    },
+    "https://panamacity.gov/directions/": {
+      "title": "Custom404 • Panama City, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://panamacity.gov/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 872-3000"
+      ],
+      "socials": [
+        "https://www.facebook.com/CityofPanamaCity"
+      ]
+    }
+  }
+}

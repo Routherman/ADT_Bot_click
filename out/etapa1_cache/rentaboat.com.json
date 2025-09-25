@@ -1,0 +1,793 @@
+{
+  "site_url": "https://rentaboat.com/",
+  "domain": "rentaboat.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://rentaboat.com/",
+    "https://rentaboat.com/about-us.aspx",
+    "https://rentaboat.com/contact_us.aspx",
+    "https://rentaboat.com/index.aspx",
+    "https://rentaboat.com/admin/facilities_mant.aspx",
+    "https://rentaboat.com/admin/FacilityCalendarView.aspx",
+    "https://rentaboat.com/admin/BoatList.aspx",
+    "https://rentaboat.com/how_to_rent_a_boat.aspx",
+    "https://rentaboat.com/renter_faqs.aspx",
+    "https://rentaboat.com/how-It-works.aspx",
+    "https://rentaboat.com/admin/BoatOwnerSignup.aspx",
+    "https://rentaboat.com/owners-faqs.aspx",
+    "https://rentaboat.com/marine-liability-insurance.aspx",
+    "https://rentaboat.com/how-It-works.html",
+    "https://rentaboat.com/renting-vs-owning.aspx",
+    "https://rentaboat.com/rental-tips.aspx",
+    "https://rentaboat.com/advancesearch.aspx",
+    "https://rentaboat.com/results.aspx?t=4&lat=26.712457610896504&lng=-80.06415002021156&miles=50&c=6",
+    "https://rentaboat.com/results.aspx?t=4&lat=25.684850188749582&lng=-79.984588623046885&miles=38",
+    "https://rentaboat.com/results.aspx?t=4&lat=40.094882122321195&lng=-72.86407470703125&miles=75",
+    "https://rentaboat.com/results.aspx?t=4&lat=26.712457610896504&lng= -80.06415002021156&miles=50",
+    "https://rentaboat.com/results.aspx?t=4&lat=33.68778175843939&lng=-118.5369873046875&miles=38",
+    "https://rentaboat.com/results.aspx?t=4&lat=22.749588557614043&lng=-121.21078491210938&miles=753",
+    "https://www.rentaboat.com/facility.aspx?id=5121",
+    "https://rentaboat.com/sitemap.html",
+    "https://rentaboat.com/forgotpassword.aspx",
+    "https://rentaboat.com/admin/about-us.aspx",
+    "https://rentaboat.com/admin/contact_us.aspx",
+    "https://rentaboat.com/admin/index.aspx",
+    "https://rentaboat.com/admin/admin/facilities_mant.aspx",
+    "https://rentaboat.com/admin/admin/FacilityCalendarView.aspx",
+    "https://rentaboat.com/admin/admin/BoatList.aspx",
+    "https://rentaboat.com/admin/how_to_rent_a_boat.aspx",
+    "https://rentaboat.com/admin/renter_faqs.aspx",
+    "https://rentaboat.com/admin/how-It-works.aspx",
+    "https://rentaboat.com/admin/admin/BoatOwnerSignup.aspx",
+    "https://rentaboat.com/admin/owners-faqs.aspx",
+    "https://rentaboat.com/admin/marine-liability-insurance.aspx",
+    "https://rentaboat.com/admin/how-It-works.html",
+    "https://rentaboat.com/admin/renting-vs-owning.aspx",
+    "https://rentaboat.com/admin/rental-tips.aspx",
+    "https://rentaboat.com/admin/advancesearch.aspx",
+    "https://rentaboat.com/admin/results.aspx?t=4&lat=26.712457610896504&lng=-80.06415002021156&miles=50&c=6",
+    "https://rentaboat.com/admin/results.aspx?t=4&lat=25.684850188749582&lng=-79.984588623046885&miles=38"
+  ],
+  "candidates": [
+    "https://rentaboat.com/admin/contact_us.aspx",
+    "https://rentaboat.com/contact_us.aspx",
+    "https://rentaboat.com/about-us.aspx",
+    "https://rentaboat.com/admin/about-us.aspx",
+    "https://rentaboat.com/",
+    "https://rentaboat.com/admin/FacilityCalendarView.aspx",
+    "https://rentaboat.com/admin/admin/FacilityCalendarView.aspx",
+    "https://rentaboat.com/contact",
+    "https://rentaboat.com/contact/",
+    "https://rentaboat.com/contact-us",
+    "https://rentaboat.com/contact-us/",
+    "https://rentaboat.com/contactus",
+    "https://rentaboat.com/contactus/",
+    "https://rentaboat.com/about",
+    "https://rentaboat.com/about/",
+    "https://rentaboat.com/about-us",
+    "https://rentaboat.com/about-us/",
+    "https://rentaboat.com/visit",
+    "https://rentaboat.com/visit/",
+    "https://rentaboat.com/location",
+    "https://rentaboat.com/location/",
+    "https://rentaboat.com/directions",
+    "https://rentaboat.com/directions/"
+  ],
+  "per_page": {
+    "https://rentaboat.com/admin/contact_us.aspx": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/admin/contact_us.aspx"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/contact_us.aspx": {
+      "title": "Contact Us | Rent A Boat",
+      "band_hits": {},
+      "emails": [
+        "info@rentaboat.com"
+      ],
+      "phones": [
+        "631-286-7137",
+        "631-286-7816",
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/about-us.aspx": {
+      "title": "About Our Premier Boat Rental Service | Rent A Boat",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/about-us.aspx"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/about-us.aspx"
+          ]
+        }
+      },
+      "emails": [
+        "chris@rentaboat.com",
+        "emma@rentaboat.com",
+        "info@rentaboat.com",
+        "kenny@rentaboat.com",
+        "mackenzie@rentaboat.com"
+      ],
+      "phones": [
+        "631-286-7816",
+        "631-559-5151"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/admin/about-us.aspx": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/admin/about-us.aspx"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/admin/FacilityCalendarView.aspx": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/admin/FacilityCalendarView.aspx"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/admin/admin/FacilityCalendarView.aspx": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/admin/admin/FacilityCalendarView.aspx"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/contact": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/contact/": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/contact-us": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/contact-us/": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/contactus": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/contactus/": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/about": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/about/": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/about-us": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/about-us/": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/visit": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/visit/": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/location": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/location/": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/directions": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    },
+    "https://rentaboat.com/directions/": {
+      "title": "Find Quality Boat Rentals and Yacht Charters near you | Rent A Boat",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rentaboat.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@rentaboat.com",
+        "us@rentaboat.com"
+      ],
+      "phones": [
+        "631-559-5151",
+        "888-610-2628"
+      ],
+      "socials": [
+        "https://m.facebook.com/RentaBoatcom-244505213935/",
+        "https://www.instagram.com/rentaboat_com/"
+      ]
+    }
+  }
+}

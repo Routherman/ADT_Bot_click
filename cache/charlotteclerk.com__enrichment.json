@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-24T04:18:21.216825",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T04:18:17.729926",
+      "company": {
+        "name": null,
+        "domain": "charlotteclerk.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 76724267,
+          "description": "The Clerk of the Circuit Court is an elected Constitutional Officer who records and maintains the Official Records of Charlotte County and serves both the County and Circuit Courts and as the custodian of the official court records.\n\nTo view current Career Opportunities, please click this link: https://www.governmentjobs.com/careers/charlotteclerk \n\nShould you have a question, please contact us at: Employee.Relations@CharlotteClerk.com",
+          "domain": "charlotteclerk.com",
+          "employees": "51 - 200",
+          "founded": "1928",
+          "fqdn": "www.charlotteclerk.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/45/b4521b2d3805a9207f15dac40d661826",
+          "name": "Charlotte County Clerk of Court Roger D. Eaton",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Government",
+          "subIndustry": "Government Administration",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/charlotte-county-clerk-of-the-circuit-court-county-comptroller"
+            }
+          },
+          "address": "Punta Gorda North America United States US 350 E Marion Ave; Punta Gorda, Florida 33950, US Florida FL -82.04537200927734,26.929779052734375 ",
+          "location": {
+            "city": "Punta Gorda",
+            "country": "United States",
+            "fullLocation": "Punta Gorda North America United States US 350 E Marion Ave; Punta Gorda, Florida 33950, US Florida FL -82.04537200927734,26.929779052734375 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "350 E Marion Ave; Punta Gorda, Florida 33950, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 9111,
+                "description": "Executive offices"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 921110,
+                "description": "Executive Offices"
+              }
+            ]
+          },
+          "website": "https://charlotteclerk.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T04:18:18.866934",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T04:18:21.211512",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "site_url": "https://avitaliantavern.com/",
+  "domain": "avitaliantavern.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://avitaliantavern.com/",
+    "https://avitaliantavern.com/events/",
+    "https://avitaliantavern.com/about-us/",
+    "https://avitaliantavern.com/contact/",
+    "https://avitaliantavern.com/event-directory/",
+    "https://avitaliantavern.com/lunch-menu/",
+    "https://avitaliantavern.com/dinner-menu/"
+  ],
+  "candidates": [
+    "https://avitaliantavern.com/contact/",
+    "https://avitaliantavern.com/about-us/",
+    "https://avitaliantavern.com/events/",
+    "https://avitaliantavern.com/event-directory/",
+    "https://avitaliantavern.com/",
+    "https://avitaliantavern.com/contact",
+    "https://avitaliantavern.com/contact-us",
+    "https://avitaliantavern.com/contact-us/",
+    "https://avitaliantavern.com/contactus",
+    "https://avitaliantavern.com/contactus/",
+    "https://avitaliantavern.com/about",
+    "https://avitaliantavern.com/about/",
+    "https://avitaliantavern.com/about-us",
+    "https://avitaliantavern.com/visit",
+    "https://avitaliantavern.com/visit/",
+    "https://avitaliantavern.com/location",
+    "https://avitaliantavern.com/location/",
+    "https://avitaliantavern.com/directions",
+    "https://avitaliantavern.com/directions/"
+  ],
+  "per_page": {
+    "https://avitaliantavern.com/contact/": {
+      "title": "Contact – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/about-us/": {
+      "title": "About us – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/events/": {
+      "title": "Events from December 24, 2024 – December 24, 2024 – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 1,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/event-directory/": {
+      "title": "Events – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/event-directory/"
+          ]
+        },
+        "evento": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/event-directory/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/": {
+      "title": "Antonio & Vittoria Italian Tavern – Best italian restaurant in Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/"
+          ]
+        },
+        "evento": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/contact": {
+      "title": "Contact – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/contact-us": {
+      "title": "Page not found – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/contact-us/": {
+      "title": "Page not found – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/contactus": {
+      "title": "Page not found – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/contactus/": {
+      "title": "Page not found – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/about": {
+      "title": "About us – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/about/": {
+      "title": "About us – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/about-us": {
+      "title": "About us – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/visit": {
+      "title": "Page not found – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/visit/": {
+      "title": "Page not found – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/location": {
+      "title": "Page not found – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/location/": {
+      "title": "Page not found – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/directions": {
+      "title": "Page not found – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    },
+    "https://avitaliantavern.com/directions/": {
+      "title": "Page not found – Antonio & Vittoria Italian Tavern",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://avitaliantavern.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "avitaliantavern@gmail.com"
+      ],
+      "phones": [
+        "(321) 978-2242"
+      ],
+      "socials": [
+        "https://facebook.com/yootheme",
+        "https://www.instagram.com"
+      ]
+    }
+  }
+}

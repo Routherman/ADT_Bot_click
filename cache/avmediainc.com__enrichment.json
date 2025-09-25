@@ -1,0 +1,145 @@
+{
+  "timestamp": "2025-09-20T16:46:00.227610",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T16:45:55.695911",
+      "company": {
+        "name": null,
+        "domain": "avmediainc.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 251665,
+          "description": "At AVmedia, we do things differently, making us a unique partner in the audiovisual marketplace. Our customers and their events are not “just another number” to us. We pride ourselves on merging artistic influences with event technology needs in order to build partnerships.\n\nAVmedia is a full-service creative event production company with an agency approach. We foster an environment of complete trust. The way we have built our company — our experience, our processes, our technology, our team, our approach — all enables us to offer seamless, single-source support and unparalleled value.\n\nWe distinguish ourselves through our dedication to service and in our spirited pursuit of our clients’ very best possibilities. Our promise is to do whatever it takes to delight the people we partner with, their audiences, and to exceed our customers’ expectations with each and every opportunity. We are committed to best-in-class service, creating lasting partnerships, competitive pricing and providing extra elements that never appear on a balance sheet.\n\nBy exploring our customers’ event challenges and opportunities, we formulate an overarching creative strategy exceed their expectations. Above all, it is our goal to say “yes” when others say “no.”\n\nWe are a privately held company headquartered in Orlando, Florida and Phoenix, Arizona. Our reach extends where necessary for our clients’ creative and production needs, as well as the hotels and resorts that we proudly partner with throughout the country. \n\nFor more information, please visit http://www.avmediainc.com.",
+          "domain": "avmediainc.com",
+          "employees": "51 - 200",
+          "founded": "2007",
+          "fqdn": "www.avmediainc.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/1/58/158e8cd0eee094c1d4975df4c59457d4",
+          "name": "AVmedia, Inc.",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Events Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/avmedia"
+            }
+          },
+          "address": "Orlando North America United States US 9401 Southridge Park Court; Suite 100; Orlando, FL 32819, US Florida FL -81.37924194335938,28.538339614868164 ",
+          "location": {
+            "city": "Orlando",
+            "country": "United States",
+            "fullLocation": "Orlando North America United States US 9401 Southridge Park Court; Suite 100; Orlando, FL 32819, US Florida FL -81.37924194335938,28.538339614868164 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "9401 Southridge Park Court; Suite 100; Orlando, FL 32819, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7389,
+                "description": "Business services, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 561920,
+                "description": "Convention and Trade Show Organizers"
+              }
+            ]
+          },
+          "website": "https://avmediainc.com",
+          "specialities": [
+            "branding",
+            "content creation",
+            "creative solutions",
+            "entertainment management",
+            "environmental design",
+            "event management",
+            "event production",
+            "message development",
+            "motion graphics",
+            "partnerships",
+            "social media",
+            "stage design",
+            "video production",
+            "virtual events"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T16:45:57.109335",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T16:46:00.220530",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

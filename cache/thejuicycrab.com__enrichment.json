@@ -1,0 +1,135 @@
+{
+  "timestamp": "2025-09-21T03:55:53.095811",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T03:55:49.352737",
+      "company": {
+        "name": null,
+        "domain": "thejuicycrab.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 20151345,
+          "description": "The Juicy Crab® story starts long before the opening of the Duluth, Georgia, first corporate restaurant in 2015. The Chen family's inspiration ultimately came from New Orleans and the world travels of Grandfather Chen. Grandfather Chen was a sailor who traveled the world learning many different styles and ways of cooking seafood. One of the main influences that every family member loved, was the New Orleans style of cooking seafood, and we want to share it with you.\n\nWe think you will agree that \"Juicy Never Tasted So Good”™. The style and special blend of seasonings will have you coming back for more! We welcome you to sit at our family table and will always treat you like a part of our family.",
+          "domain": "thejuicycrab.com",
+          "employees": "5001 - 10000",
+          "founded": "2015",
+          "fqdn": "www.thejuicycrab.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/8/36/8366cc7122beaea8fffca8039e6133c6",
+          "name": "The Juicy Crab",
+          "revenueRange": [
+            250000000,
+            500000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/the-juicy-crab-inc"
+            }
+          },
+          "address": "Duluth North America United States US PO BOX 956993; Duluth, GA 30095, US Georgia GA -84.14463806152344,34.00288009643555 ",
+          "location": {
+            "city": "Duluth",
+            "country": "United States",
+            "fullLocation": "Duluth North America United States US PO BOX 956993; Duluth, GA 30095, US Georgia GA -84.14463806152344,34.00288009643555 ",
+            "state": "Georgia",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "PO BOX 956993; Duluth, GA 30095, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://thejuicycrab.com",
+          "specialities": [
+            "full service",
+            "hire",
+            "restaurant",
+            "seafood"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T03:55:50.485106",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T03:55:53.091863",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "timestamp": "2025-09-19T20:43:02.666795",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T20:42:59.349005",
+      "company": {
+        "name": null,
+        "domain": "fl-hollywood2.civicplus.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 246768,
+          "description": "CivicPlus is the only government technology company exclusively committed to powering and empowering governments to efficiently operate, serve, and govern through the use of our innovative and integrated technology solutions purpose-built and supported by former municipal leaders and award-winning support teams. \n\nWhen many residents hear the word government, they think of federal and state leaders and agencies. However, in reality, residents interact more with the local leaders whose work and initiatives impact them directly where they live, work, play, and raise their families.\n\nAt CivicPlus®️, we believe that every interaction between residents and their local government should be exceptional and frictionless. It’s why we build technology solutions designed to foster positive and powerful civic experiences. \n\nWith more than 20 years of experience, CivicPlus has earned the trust of over 12,000 customers, their 100,000+ local government users, and their 340 million+ residents in the U.S. and Canada alone.",
+          "domain": "civicplus.com",
+          "employees": "1001 - 5000",
+          "founded": "2001",
+          "fqdn": "www.civicplus.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=30/j_lvlue2lz53cud1xmo.d03b54005277d5d000579c79904d1d439c0e2c6f.file_lvluhh2m1954tvus3f.logo_cached.jpg",
+          "name": "CivicPlus",
+          "revenueRange": [
+            250000000,
+            500000000
+          ],
+          "mainIndustry": "Government",
+          "subIndustry": "Government Administration",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/civic-plus"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/civicplus"
+            }
+          },
+          "address": "Manhattan North America United States US 302 South 4th Street, Suite 500; Manhattan, Kansas 66502, US Kansas KS -96.57167053222656,39.18360900878906 ",
+          "location": {
+            "city": "Manhattan",
+            "country": "United States",
+            "fullLocation": "Manhattan North America United States US 302 South 4th Street, Suite 500; Manhattan, Kansas 66502, US Kansas KS -96.57167053222656,39.18360900878906 ",
+            "state": "Kansas",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "302 South 4th Street, Suite 500; Manhattan, Kansas 66502, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 9199,
+                "description": "General government, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 921190,
+                "description": "Other General Government Support"
+              }
+            ]
+          },
+          "website": "https://civicplus.com",
+          "specialities": [
+            "citizen request management",
+            "code enforcement",
+            "digital community engagement",
+            "fire and life safety",
+            "government websites",
+            "licensing",
+            "mass notification",
+            "meeting management",
+            "permitting",
+            "planning",
+            "website design and hosting"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "currency": "USD",
+                "roundAmount": 350000,
+                "roundType": "Grant",
+                "roundDate": "Jun 20, 2023"
+              }
+            ],
+            "totalRounds": 1,
+            "totalRoundsAmount": 350000,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundType": "Grant",
+            "lastRoundAmount": 350000,
+            "lastRoundDate": "Jun 20, 2023"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T20:42:59.995186",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T20:43:02.662087",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "site_url": "https://genesiscenterlp.com/",
+  "domain": "genesiscenterlp.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://genesiscenterlp.com/",
+    "https://www.genesiscenterlp.com/about",
+    "https://www.genesiscenterlp.com/events",
+    "https://www.genesiscenterlp.com/contact",
+    "https://www.genesiscenterlp.com",
+    "https://www.genesiscenterlp.com/sports-calendar"
+  ],
+  "candidates": [
+    "https://www.genesiscenterlp.com/contact",
+    "https://www.genesiscenterlp.com/about",
+    "https://www.genesiscenterlp.com/events",
+    "https://genesiscenterlp.com/",
+    "https://www.genesiscenterlp.com/sports-calendar",
+    "https://genesiscenterlp.com/contact",
+    "https://genesiscenterlp.com/contact/",
+    "https://genesiscenterlp.com/contact-us",
+    "https://genesiscenterlp.com/contact-us/",
+    "https://genesiscenterlp.com/contactus",
+    "https://genesiscenterlp.com/contactus/",
+    "https://genesiscenterlp.com/about",
+    "https://genesiscenterlp.com/about/",
+    "https://genesiscenterlp.com/about-us",
+    "https://genesiscenterlp.com/about-us/",
+    "https://genesiscenterlp.com/visit",
+    "https://genesiscenterlp.com/visit/",
+    "https://genesiscenterlp.com/location",
+    "https://genesiscenterlp.com/location/",
+    "https://genesiscenterlp.com/directions",
+    "https://genesiscenterlp.com/directions/"
+  ],
+  "per_page": {
+    "https://www.genesiscenterlp.com/contact": {
+      "title": "Genesis Center | Contact | Lake Placid, Fl.",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.genesiscenterlp.com/contact"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.genesiscenterlp.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-699-1003"
+      ],
+      "socials": []
+    },
+    "https://www.genesiscenterlp.com/about": {
+      "title": "Genesis Center | About | Lake Placid, Fl.",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.genesiscenterlp.com/about"
+          ]
+        },
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.genesiscenterlp.com/about"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.genesiscenterlp.com/about"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.genesiscenterlp.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.genesiscenterlp.com/events": {
+      "title": "Genesis Center | Up Coming Events | Lake Placid, Fl.",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.genesiscenterlp.com/events"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.genesiscenterlp.com/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-699-1003"
+      ],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/": {
+      "title": "Genesis Center | Home | Lake Placid, Fl.",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://genesiscenterlp.com/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://genesiscenterlp.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-699-1003"
+      ],
+      "socials": []
+    },
+    "https://www.genesiscenterlp.com/sports-calendar": {
+      "title": "Genesis Center |  Sports Calendar | Lake Placid, Fl.",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.genesiscenterlp.com/sports-calendar"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.genesiscenterlp.com/sports-calendar"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.genesiscenterlp.com/sports-calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(561)313-1633",
+        "863-699-1003"
+      ],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/contact": {
+      "title": "Genesis Center | Contact | Lake Placid, Fl.",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://genesiscenterlp.com/contact"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://genesiscenterlp.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-699-1003"
+      ],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/contact/": {
+      "title": "Genesis Center | Contact | Lake Placid, Fl.",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://genesiscenterlp.com/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://genesiscenterlp.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-699-1003"
+      ],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/contact-us": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/contact-us/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/contactus": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/contactus/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/about": {
+      "title": "Genesis Center | About | Lake Placid, Fl.",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://genesiscenterlp.com/about"
+          ]
+        },
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://genesiscenterlp.com/about"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://genesiscenterlp.com/about"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://genesiscenterlp.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/about/": {
+      "title": "Genesis Center | About | Lake Placid, Fl.",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://genesiscenterlp.com/about/"
+          ]
+        },
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://genesiscenterlp.com/about/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://genesiscenterlp.com/about/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://genesiscenterlp.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/about-us": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/about-us/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/visit": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/visit/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/location": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/location/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/directions": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://genesiscenterlp.com/directions/": {
+      "title": "404 Error: Page Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "timestamp": "2025-09-20T23:34:32.289811",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T23:34:28.458296",
+      "company": {
+        "name": null,
+        "domain": "bluemartini.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 2945644,
+          "description": "Blue Martini Software was a software manufacturer and professional services provider based in San Mateo, California that sold and supported an e-commerce, contact center, relationship marketing, and clienteling applications to retailers and other consumer-facing companies. The company was privately held until July 2000, when it went public on the NASDAQ under the ticker BLUE.\n\nNow the legacy Blue Martini software applications are sold and supported by RedPrairie Corporation and are now known as the RedPrairie Commerce Suite.",
+          "domain": "bluemartini.com",
+          "employees": "201 - 500",
+          "founded": "1998",
+          "fqdn": "www.bluemartini.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/1/0e/10ecf3552d523c7e740849453e819a14",
+          "name": "Blue Martini Software",
+          "revenueRange": [],
+          "mainIndustry": "Technology, Information & Media",
+          "subIndustry": "Software Development",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/blue-martini-software"
+            }
+          },
+          "location": {
+            "city": "",
+            "country": "",
+            "fullLocation": "",
+            "state": "",
+            "stateCode": ""
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7371,
+                "description": "Custom computer programming services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 541511,
+                "description": "Custom Computer Programming Services"
+              }
+            ]
+          },
+          "website": "https://bluemartini.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T23:34:29.788573",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T23:34:32.285782",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

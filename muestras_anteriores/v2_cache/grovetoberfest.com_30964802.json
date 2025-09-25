@@ -1,0 +1,48 @@
+{
+  "pages": [
+    {
+      "url": "https://www.grovetoberfest.com/contact-us-2/",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "We’d love to hear from you!\nContact us with any questions and we’ll get back to you as soon as possible.\nngRepeat: page in Builder.FormElements track by $index\n1\nStep 1\nend ngRepeat: page in Builder.FormElements track by $index\nngRepeat: page in Builder.FormElements track by $index\nName\nyour full name\nEmail\na valid email\nemail\nInquiry\nMessage\nmore details\n0\n/\nSubmit Form\nend ngRepeat: page in Builder.FormElements track by $index\nkeyboard_arrow_left\nPrevious\nNext\nkeyboard_arrow_right\nFormCraft - WordPress form builder",
+      "emails": [
+        "info@swarminc.com"
+      ]
+    }
+  ],
+  "all_links": [
+    "https://www.grovetoberfest.com/",
+    "https://www.grovetoberfest.com/faq-2/",
+    "https://www.grovetoberfest.com/contact-us-2/",
+    "https://www.grovetoberfest.com/become-a-sponsor-2/"
+  ],
+  "candidate_links": [
+    "https://www.grovetoberfest.com/contact-us-2/"
+  ],
+  "visited": [
+    "http://grovetoberfest.com/",
+    "http://grovetoberfest.com/about",
+    "http://grovetoberfest.com/contact",
+    "http://grovetoberfest.com/staff",
+    "http://grovetoberfest.com/team",
+    "http://grovetoberfest.com/board",
+    "http://grovetoberfest.com/directory",
+    "http://grovetoberfest.com/events",
+    "http://grovetoberfest.com/sitemap.xml",
+    "http://grovetoberfest.com/council",
+    "http://grovetoberfest.com/leadership",
+    "http://grovetoberfest.com/management",
+    "http://grovetoberfest.com/producers",
+    "http://grovetoberfest.com/support",
+    "http://grovetoberfest.com/crew",
+    "http://grovetoberfest.com/members",
+    "http://grovetoberfest.com/bios",
+    "http://grovetoberfest.com/people",
+    "http://grovetoberfest.com/artists",
+    "http://grovetoberfest.com/musicians",
+    "http://grovetoberfest.com/faculty",
+    "http://grovetoberfest.com/administration",
+    "https://www.grovetoberfest.com/contact-us-2/"
+  ],
+  "base_url": "http://grovetoberfest.com/"
+}

@@ -1,0 +1,1337 @@
+{
+  "site_url": "https://mckeegarden.org/",
+  "domain": "mckeegarden.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://mckeegarden.org/",
+    "https://mckeegarden.org/visit-us/",
+    "https://mckeegarden.org/visit-us",
+    "https://mckeegarden.org/events/",
+    "https://mckeegarden.org/membership/",
+    "https://mckeegarden.org/about-us/",
+    "https://mckeegarden.org/contact-us/",
+    "https://mckeegarden.org/events/introduction-to-tai-chi-qi-gong-with-michelle-cooper/",
+    "https://mckeegarden.org/events/wonders-of-mckee-garden-tours/",
+    "https://mckeegarden.org/events/jungle-lights-2/",
+    "https://mckeegarden.org/leadership/",
+    "https://mckeegarden.org/education/",
+    "https://mckeegarden.org/education",
+    "https://mckeegarden.org/annual-fund/",
+    "https://mckeegarden.org/gatekeepers/",
+    "https://mckeegarden.org/stewards-of-the-garden/",
+    "https://mckeegarden.org/volunteer/",
+    "https://mckeegarden.org/legacy-society/",
+    "https://mckeegarden.org/mission-and-history/",
+    "https://mckeegarden.org/architectural-icons/",
+    "https://mckeegarden.org/the-garden-newsletter/",
+    "https://mckeegarden.org/media/",
+    "https://mckeegarden.org",
+    "https://mckeegarden.org/employment-opportunities/",
+    "https://mckeegarden.org/support/gatekeepers/",
+    "https://mckeegarden.org/support/volunteer/",
+    "https://mckeegarden.org/board-directors/",
+    "https://mckeegarden.org/childrens-garden/",
+    "https://mckeegarden.org/events/florigami-in-the-garden/",
+    "https://mckeegarden.org/events/acclaimed-landscape-photographer-ngoc-minh-ngo/",
+    "https://mckeegarden.org/events/mckee-road-trip-to-the-palm-beaches/",
+    "https://mckeegarden.org/events/the-language-of-scents-florida-vibrations-with-anastasia-sokolow/",
+    "https://mckeegarden.org/events/15th-annual-pirate-fairy-festival/",
+    "https://mckeegarden.org/events/21st-annual-waterlily-festival/",
+    "https://mckeegarden.org/events/introduction-to-tai-chi-qi-gong/",
+    "https://mckeegarden.org/events/tai-chi-qi-gong-the-basics/",
+    "https://mckeegarden.org/events/intermediate-tai-chi-qi-gong/"
+  ],
+  "candidates": [
+    "https://mckeegarden.org/contact-us/",
+    "https://mckeegarden.org/about-us/",
+    "https://mckeegarden.org/events/",
+    "https://mckeegarden.org/events/15th-annual-pirate-fairy-festival/",
+    "https://mckeegarden.org/events/21st-annual-waterlily-festival/",
+    "https://mckeegarden.org/events/acclaimed-landscape-photographer-ngoc-minh-ngo/",
+    "https://mckeegarden.org/events/florigami-in-the-garden/",
+    "https://mckeegarden.org/events/intermediate-tai-chi-qi-gong/",
+    "https://mckeegarden.org/events/introduction-to-tai-chi-qi-gong-with-michelle-cooper/",
+    "https://mckeegarden.org/events/introduction-to-tai-chi-qi-gong/",
+    "https://mckeegarden.org/events/jungle-lights-2/",
+    "https://mckeegarden.org/events/mckee-road-trip-to-the-palm-beaches/",
+    "https://mckeegarden.org/events/tai-chi-qi-gong-the-basics/",
+    "https://mckeegarden.org/events/the-language-of-scents-florida-vibrations-with-anastasia-sokolow/",
+    "https://mckeegarden.org/events/wonders-of-mckee-garden-tours/",
+    "https://mckeegarden.org/membership/",
+    "https://mckeegarden.org/leadership/",
+    "https://mckeegarden.org/visit-us",
+    "https://mckeegarden.org/visit-us/",
+    "https://mckeegarden.org",
+    "https://mckeegarden.org/",
+    "https://mckeegarden.org/contact",
+    "https://mckeegarden.org/contact/",
+    "https://mckeegarden.org/contact-us",
+    "https://mckeegarden.org/contactus",
+    "https://mckeegarden.org/contactus/",
+    "https://mckeegarden.org/about",
+    "https://mckeegarden.org/about/",
+    "https://mckeegarden.org/about-us",
+    "https://mckeegarden.org/visit",
+    "https://mckeegarden.org/visit/",
+    "https://mckeegarden.org/location",
+    "https://mckeegarden.org/location/",
+    "https://mckeegarden.org/directions",
+    "https://mckeegarden.org/directions/"
+  ],
+  "per_page": {
+    "https://mckeegarden.org/contact-us/": {
+      "title": "Contact Us - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "accounting@mckeegarden.org",
+        "ashoemaker@mckeegarden.org",
+        "daehnick@mckeegarden.org",
+        "drobaina@mckeegarden.org",
+        "executivedirector@mckeegarden.org",
+        "giftshop@mckeegarden.org",
+        "hr@mckeegarden.org",
+        "info@mckeegarden.org",
+        "jburger@mckeegarden.org",
+        "lsihombing@mckeegarden.org",
+        "mjacobs@mckeegarden.org",
+        "volunteer@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/about-us/": {
+      "title": "About Us - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/about-us/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/events/": {
+      "title": "Events - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/"
+          ]
+        },
+        "artists": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/events/15th-annual-pirate-fairy-festival/": {
+      "title": "15th Annual Pirate & Fairy Festival - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/15th-annual-pirate-fairy-festival/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/events/21st-annual-waterlily-festival/": {
+      "title": "21st Annual Waterlily Festival - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/21st-annual-waterlily-festival/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/21st-annual-waterlily-festival/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/events/acclaimed-landscape-photographer-ngoc-minh-ngo/": {
+      "title": "Acclaimed Landscape Photographer Ngoc Minh Ngo - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/acclaimed-landscape-photographer-ngoc-minh-ngo/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/events/florigami-in-the-garden/": {
+      "title": "Florigami in the Garden - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/florigami-in-the-garden/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/florigami-in-the-garden/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/florigami-in-the-garden/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/events/intermediate-tai-chi-qi-gong/": {
+      "title": "Intermediate Tai Chi & Qi Gong - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/intermediate-tai-chi-qi-gong/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/events/introduction-to-tai-chi-qi-gong-with-michelle-cooper/": {
+      "title": "Tai Chi & Qi Gong with Michelle Cooper - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/introduction-to-tai-chi-qi-gong-with-michelle-cooper/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/events/introduction-to-tai-chi-qi-gong/": {
+      "title": "Introduction to Tai Chi & Qi Gong - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/introduction-to-tai-chi-qi-gong/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/events/jungle-lights-2/": {
+      "title": "Jungle Lights - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/jungle-lights-2/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/events/mckee-road-trip-to-the-palm-beaches/": {
+      "title": "McKee Road Trip to the Palm Beaches - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/mckee-road-trip-to-the-palm-beaches/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/mckee-road-trip-to-the-palm-beaches/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/events/tai-chi-qi-gong-the-basics/": {
+      "title": "Tai Chi & Qi Gong The Basics - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/tai-chi-qi-gong-the-basics/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/events/the-language-of-scents-florida-vibrations-with-anastasia-sokolow/": {
+      "title": "The Language of Scents – Florida Vibrations with Anastasia Sokolow - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/the-language-of-scents-florida-vibrations-with-anastasia-sokolow/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/events/wonders-of-mckee-garden-tours/": {
+      "title": "Wonders of McKee Garden Tours - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/events/wonders-of-mckee-garden-tours/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/membership/": {
+      "title": "Membership - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/membership/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/leadership/": {
+      "title": "Staff Leadership - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/leadership/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/visit-us": {
+      "title": "Visit Us - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/visit-us"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/visit-us"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/visit-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601",
+        "772.794.0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/visit-us/": {
+      "title": "Visit Us - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/visit-us/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/visit-us/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/visit-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601",
+        "772.794.0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org": {
+      "title": "Home - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/": {
+      "title": "Home - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/contact": {
+      "title": "Contact Us - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "accounting@mckeegarden.org",
+        "ashoemaker@mckeegarden.org",
+        "daehnick@mckeegarden.org",
+        "drobaina@mckeegarden.org",
+        "executivedirector@mckeegarden.org",
+        "giftshop@mckeegarden.org",
+        "hr@mckeegarden.org",
+        "info@mckeegarden.org",
+        "jburger@mckeegarden.org",
+        "lsihombing@mckeegarden.org",
+        "mjacobs@mckeegarden.org",
+        "volunteer@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/contact/": {
+      "title": "Contact Us - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "accounting@mckeegarden.org",
+        "ashoemaker@mckeegarden.org",
+        "daehnick@mckeegarden.org",
+        "drobaina@mckeegarden.org",
+        "executivedirector@mckeegarden.org",
+        "giftshop@mckeegarden.org",
+        "hr@mckeegarden.org",
+        "info@mckeegarden.org",
+        "jburger@mckeegarden.org",
+        "lsihombing@mckeegarden.org",
+        "mjacobs@mckeegarden.org",
+        "volunteer@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/contact-us": {
+      "title": "Contact Us - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "accounting@mckeegarden.org",
+        "ashoemaker@mckeegarden.org",
+        "daehnick@mckeegarden.org",
+        "drobaina@mckeegarden.org",
+        "executivedirector@mckeegarden.org",
+        "giftshop@mckeegarden.org",
+        "hr@mckeegarden.org",
+        "info@mckeegarden.org",
+        "jburger@mckeegarden.org",
+        "lsihombing@mckeegarden.org",
+        "mjacobs@mckeegarden.org",
+        "volunteer@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/contactus": {
+      "title": "Page not found - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/contactus/": {
+      "title": "Page not found - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/about": {
+      "title": "About Us - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/about"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/about"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/about/": {
+      "title": "About Us - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/about/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/about/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/about-us": {
+      "title": "About Us - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/about-us"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/visit": {
+      "title": "Visit Us - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/visit"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/visit"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/visit"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601",
+        "772.794.0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/visit/": {
+      "title": "Visit Us - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/visit/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/visit/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601",
+        "772.794.0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/location": {
+      "title": "Page not found - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/location"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/location/": {
+      "title": "Page not found - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/location/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/directions": {
+      "title": "Page not found - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/directions"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    },
+    "https://mckeegarden.org/directions/": {
+      "title": "Page not found - Mckee Garden",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://mckeegarden.org/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@mckeegarden.org"
+      ],
+      "phones": [
+        "772-794-0601"
+      ],
+      "socials": [
+        "https://www.facebook.com/McKeeGarden",
+        "https://www.instagram.com/mckeebotanicalgarden/"
+      ]
+    }
+  }
+}

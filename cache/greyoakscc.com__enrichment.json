@@ -1,0 +1,148 @@
+{
+  "timestamp": "2025-09-24T07:46:54.634475",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T07:46:50.738492",
+      "company": {
+        "name": null,
+        "domain": "greyoakscc.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 1340489,
+          "description": "A premier golf, sports and wellness club in Naples, Florida, for active, healthy living. \n\n*Two-time designated Platinum Club of America by Club Leaders Forum\n*Designated a Distinguished Club by BoardRoom magazine\n*Honored as Florida Golf Course of the Year by the National Golf Course Association\n*Named a Top 100 Golf Community by Travel + Leisure magazine\n\nGrey Oaks Country Club proudly offers three championship golf courses, a 63,000-square foot clubhouse, 12,000-square-foot golf pro shop, golf performance center, 30,000-square-foot state-of-the-art wellness center, sports center, and tennis, pickleball and bocce. \n\nA one-of-a-kind indoor and outdoor dining room overlooks an expansive resort-style pool with wading entrance, waterfall and lap lanes. A separate 20,000-square-foot clubhouse with indoor and outdoor dining overlooks the golf course, and includes another golf pro shop and his-and-her locker and card rooms. \n\nClub dining venues are helmed by a world-renowned ACF Certified Master Chef working in tandem with the Club’s Executive Pastry Chef / Educator/ Certified Master Baker to create memorable culinary experiences for members and their guests. \n\nGrey Oaks Country Club’s 250+ professionals continuously commit themselves to providing unparalleled professional service to its members and their guests.",
+          "domain": "greyoakscc.com",
+          "employees": "201 - 500",
+          "founded": "1993",
+          "fqdn": "www.greyoakscc.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/d/26/d2604c4cc8997992a95e1a38f3853cd1",
+          "name": "Grey Oaks Country Club",
+          "revenueRange": [
+            50000000,
+            100000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Food & Beverage Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/grey-oaks-country-club"
+            }
+          },
+          "address": "Naples North America United States US 2400 Grey Oaks Dr N; Naples, Florida 34105, US Florida FL -81.79595947265625,26.1423397064209 ",
+          "location": {
+            "city": "Naples",
+            "country": "United States",
+            "fullLocation": "Naples North America United States US 2400 Grey Oaks Dr N; Naples, Florida 34105, US Florida FL -81.79595947265625,26.1423397064209 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "2400 Grey Oaks Dr N; Naples, Florida 34105, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://greyoakscc.com",
+          "specialities": [
+            "active lifestyle",
+            "community lifestyle",
+            "culture",
+            "family",
+            "fitness",
+            "food and beverage",
+            "fun",
+            "golf",
+            "healthy",
+            "lopd",
+            "membership",
+            "pickleball",
+            "private club",
+            "spa",
+            "special events",
+            "tennis",
+            "wellness"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T07:46:51.887328",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T07:46:54.628846",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

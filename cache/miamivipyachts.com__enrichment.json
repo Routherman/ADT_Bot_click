@@ -1,0 +1,139 @@
+{
+  "timestamp": "2025-09-22T16:13:47.527565",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T16:13:43.734500",
+      "company": {
+        "name": null,
+        "domain": "miamivipyachts.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 3961056,
+          "description": "leading Yacht Charter service provider of South Florida and all your favorite Miami destinations. Miami, Fort Lauderdale & Bahamas Yacht Charters are our specialty. For an unforgettable half-day, full day or a sunset cruise, let our captain and crew cater to your every desire.  When you are ready to plan the trip to your ultimate destination, let us be your guide. Simply contact us at (888) 484-5959 and we will do all of the work for you. \n\nOur goal is to treat you and your valued guests as royalty and to make sure you are treated to an experience only Miami 5 Star Yachts can provide. Our Captains are highly trained professionals who posses the charisma that clients come back for again and again.\n\nWe offer a large selection of Charters with each tailored to your desire. Whether you want to relax in the sun, explore Miami / Ft Lauderdale / Bahamas, discover beautiful islands, enjoy a fishing trip, or celebrate a special event in your life, we definitely have a charter for you!\n\nPlease follow us: https://www.facebook.com/Miami.Yacht.Charters.Rentals",
+          "domain": "miamivipyachts.com",
+          "employees": "11 - 50",
+          "founded": "2005",
+          "fqdn": "www.miamivipyachts.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/3/81/381978519dfc33cd2625c75d5213afd8",
+          "name": "Miami Yacht Charters & Rentals",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Transportation, Logistics, Supply Chain & Storage",
+          "subIndustry": "Maritime Transportation",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/miami-yacht-charters-%26-rentals"
+            }
+          },
+          "address": "Miami Beach North America United States US 1000 5th St; Miami Beach, Florida 33139, US Florida FL -80.13005065917969,25.7906494140625 ",
+          "location": {
+            "city": "Miami Beach",
+            "country": "United States",
+            "fullLocation": "Miami Beach North America United States US 1000 5th St; Miami Beach, Florida 33139, US Florida FL -80.13005065917969,25.7906494140625 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1000 5th St; Miami Beach, Florida 33139, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 4412,
+                "description": "Deep sea foreign transportation of freight"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 483112,
+                "description": "Deep Sea Passenger Transportation"
+              }
+            ]
+          },
+          "website": "https://miamivipyachts.com/miamiyachtcharters",
+          "specialities": [
+            "celebrations",
+            "corporate events",
+            "fishing trips",
+            "luxury yachts",
+            "miami",
+            "romance packages",
+            "snorkeling",
+            "sunset cruises"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T16:13:45.063581",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T16:13:47.523772",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

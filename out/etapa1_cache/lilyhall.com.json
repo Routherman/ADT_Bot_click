@@ -1,0 +1,681 @@
+{
+  "site_url": "https://lilyhall.com/",
+  "domain": "lilyhall.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://lilyhall.com/",
+    "https://lilyhall.com/private-events",
+    "https://lilyhall.com/contact",
+    "https://lilyhall.com/faqs",
+    "https://lilyhall.com/cart",
+    "https://lilyhall.com/our-rooms",
+    "https://lilyhall.com/eat-drink",
+    "https://lilyhall.com/conciergerequest",
+    "https://lilyhall.com/gift-a-stay",
+    "https://lilyhall.com/offers",
+    "https://lilyhall.com/hall-grounds",
+    "https://lilyhall.com/neighborhood",
+    "https://lilyhall.com/press",
+    "https://lilyhall.com/menu",
+    "https://www.lilyhall.com/the-pilar",
+    "https://www.lilyhall.com/the-mariana",
+    "https://www.lilyhall.com/the-santiago",
+    "https://www.lilyhall.com/la-rua",
+    "https://www.lilyhall.com/private-events",
+    "https://www.lilyhall.com/contact",
+    "https://www.lilyhall.com/faqs",
+    "https://www.lilyhall.com/cart",
+    "https://www.lilyhall.com/",
+    "https://www.lilyhall.com/our-rooms",
+    "https://www.lilyhall.com/eat-drink",
+    "https://www.lilyhall.com/conciergerequest",
+    "https://www.lilyhall.com/gift-a-stay",
+    "https://www.lilyhall.com/offers",
+    "https://www.lilyhall.com/hall-grounds",
+    "https://www.lilyhall.com/neighborhood",
+    "https://www.lilyhall.com/press",
+    "https://www.lilyhall.com/the-bernard",
+    "https://www.lilyhall.com/menu"
+  ],
+  "candidates": [
+    "https://lilyhall.com/contact",
+    "https://www.lilyhall.com/contact",
+    "https://lilyhall.com/private-events",
+    "https://www.lilyhall.com/private-events",
+    "https://lilyhall.com/faqs",
+    "https://www.lilyhall.com/faqs",
+    "https://lilyhall.com/",
+    "https://lilyhall.com/contact/",
+    "https://lilyhall.com/contact-us",
+    "https://lilyhall.com/contact-us/",
+    "https://lilyhall.com/contactus",
+    "https://lilyhall.com/contactus/",
+    "https://lilyhall.com/about",
+    "https://lilyhall.com/about/",
+    "https://lilyhall.com/about-us",
+    "https://lilyhall.com/about-us/",
+    "https://lilyhall.com/visit",
+    "https://lilyhall.com/visit/",
+    "https://lilyhall.com/location",
+    "https://lilyhall.com/location/",
+    "https://lilyhall.com/directions",
+    "https://lilyhall.com/directions/"
+  ],
+  "per_page": {
+    "https://lilyhall.com/contact": {
+      "title": "Contact | Reach Out Anytime — Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [
+        "850-304-7944",
+        "850-308-1441"
+      ],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://www.lilyhall.com/contact": {
+      "title": "Contact | Reach Out Anytime — Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lilyhall.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [
+        "850-304-7944",
+        "850-308-1441"
+      ],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/private-events": {
+      "title": "Private Events | Plan Your Perfect Gathering — Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/private-events"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://www.lilyhall.com/private-events": {
+      "title": "Private Events | Plan Your Perfect Gathering — Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lilyhall.com/private-events"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/faqs": {
+      "title": "FAQs | Find Quick Answers Now — Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/faqs"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/faqs"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://www.lilyhall.com/faqs": {
+      "title": "FAQs | Find Quick Answers Now — Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lilyhall.com/faqs"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lilyhall.com/faqs"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/": {
+      "title": "Lily Hall-A Boutique Hotel  | Experience Unique Luxury",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/contact/": {
+      "title": "Contact | Reach Out Anytime — Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [
+        "850-304-7944",
+        "850-308-1441"
+      ],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/contact-us": {
+      "title": "Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/contact-us/": {
+      "title": "Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/contactus": {
+      "title": "Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/about": {
+      "title": "Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/about/": {
+      "title": "Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/about-us": {
+      "title": "Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/about-us/": {
+      "title": "Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/visit": {
+      "title": "Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/visit/": {
+      "title": "Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/location": {
+      "title": "Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/location/": {
+      "title": "Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/directions": {
+      "title": "Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    },
+    "https://lilyhall.com/directions/": {
+      "title": "Lily Hall-A Boutique Hotel",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lilyhall.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "stay@lilyhall.com"
+      ],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/lilyhallpensacola",
+        "https://www.facebook.com/lilyhallpensacola/"
+      ]
+    }
+  }
+}

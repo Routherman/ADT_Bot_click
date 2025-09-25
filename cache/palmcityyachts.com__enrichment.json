@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-22T06:44:44.752509",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T06:44:41.065880",
+      "company": {
+        "name": null,
+        "domain": "palmcityyachts.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 56010872,
+          "description": "Palm City Yachts - Established in 2001, we are a 5-Star Marine Industry Certified dealer. Bulls Bay, NauticStar Boats, Pioneer Boats, Southport, Suzuki Marine, Suzuki Re-power Center and Zodiac",
+          "domain": "palmcityyachts.com",
+          "employees": "11 - 50",
+          "fqdn": "www.palmcityyachts.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2023/month=11/day=18/j_lp41ebnjyynl7afin.36b79f317fb73535ba3c285efbd018f17aacb0f1.file_lp42tnzz1an7dqdn3z.logo_cached.svg",
+          "name": "Palm City Yachts",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Retail",
+          "subIndustry": "Other",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/palm-city-yachts"
+            }
+          },
+          "address": "Stuart North America United States US 151 NW FLAGLER AVE; Stuart, Florida 34994, us Florida FL -80.2528305053711,27.19754981994629 ",
+          "location": {
+            "city": "Stuart",
+            "country": "United States",
+            "fullLocation": "Stuart North America United States US 151 NW FLAGLER AVE; Stuart, Florida 34994, us Florida FL -80.2528305053711,27.19754981994629 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "151 NW FLAGLER AVE; Stuart, Florida 34994, us"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5999,
+                "description": "Miscellaneous retail stores, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 441110,
+                "description": "New Car Dealers"
+              }
+            ]
+          },
+          "website": "https://palmcityyachts.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T06:44:42.290174",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T06:44:44.748308",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

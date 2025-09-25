@@ -1,0 +1,150 @@
+{
+  "timestamp": "2025-09-21T07:38:35.160708",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T07:38:31.362861",
+      "company": {
+        "name": null,
+        "domain": "redlobster.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 3863363,
+          "description": "With 58,000 employees and more than 700 restaurants in the United States and Canada, and a growing international presence, Red Lobster is the world’s largest seafood restaurant company. Our vision is to be where the world goes for seafood now and for generations.  \n\nRed Lobster is an innovative, values-based company that focuses on providing guests the ultimate seafood dining experience and continues to grow by focusing on Great Seafood, Great People and Great Results.\n\nGreat Seafood - Whether it’s delicious Maine lobster, wild-caught Snow and Bairdi crab, grilled salmon or craveable shrimp scampi, our focus is on delighting guests with freshly prepared, quality seafood every time they visit. \n\nGreat People - We hire team members and managers with the hospitality gene. Our people are dedicated and passionate about delivering our promise - ultimate seafood dining experience – to guests on every visit. In addition, we are a place where our teams receive the skills and training to pursue their professional dreams. \n\nGreat Results - At Red Lobster, we are focused on driving business momentum and sustainably growing sales. In addition, we emphasize innovation and quality to ensure we satisfy guests to grow their loyalty and motivate them to return today and in the future.  \n\nThere’s no better time than now to join the team at Red Lobster!",
+          "domain": "redlobster.com",
+          "employees": "10001 - 100000",
+          "founded": "1968",
+          "fqdn": "www.redlobster.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=30/j_lvlvj2vh1yv1ee0hye.8b1f4e8647f665e7ca8ad7206aa90fe78023d197.file_lvlwkatx266lqaroa2.logo_cached.jpg",
+          "name": "Red Lobster",
+          "revenueRange": [
+            1000000000,
+            10000000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/red-lobster"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/-red-lobster"
+            }
+          },
+          "address": "Orlando North America United States US 450 S Orange Ave; Orlando, Florida 32801, US Florida FL -81.37924194335938,28.538339614868164 ",
+          "location": {
+            "city": "Orlando",
+            "country": "United States",
+            "fullLocation": "Orlando North America United States US 450 S Orange Ave; Orlando, Florida 32801, US Florida FL -81.37924194335938,28.538339614868164 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "450 S Orange Ave; Orlando, Florida 32801, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://redlobster.com",
+          "specialities": [
+            "seafood and hospitality"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "currency": "USD",
+                "roundAmount": 575000001,
+                "roundType": "Funding Round",
+                "roundDate": "Oct 11, 2016"
+              }
+            ],
+            "totalRounds": 1,
+            "totalRoundsAmount": 575000001,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundDate": "Invalid Date"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T07:38:32.590940",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T07:38:35.156878",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

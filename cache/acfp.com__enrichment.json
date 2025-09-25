@@ -1,0 +1,134 @@
+{
+  "timestamp": "2025-09-21T07:13:45.713794",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T07:13:42.475011",
+      "company": {
+        "name": null,
+        "domain": "acfp.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 2612240,
+          "description": "Fresh ingredients are at the core of our menu, coal fired flavor is at the heart of who we are. We use only the highest quality ingredients, including hand-picked Italian tomatoes for our sauce, vine-ripened plum tomatoes for our salads, Pecorino Romano grated in house, fresh vegetables and herbs and homemade dough. Then everything served hot, including our signature pizzas, are cooked at 900 degrees in our coal fired oven for a distinct and delicious taste.\n\nFor more information, visit www.acfp.com. Or follow Anthony’s on Instagram at @anthonyscoalfiredpizza and on Facebook at www.facebook.com/AnthonysCoalFiredPizza",
+          "domain": "acfp.com",
+          "employees": "1001 - 5000",
+          "founded": "2002",
+          "fqdn": "www.acfp.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=30/j_lvlva1ajtw407h5tf.7e69177ab283aea866a2154109eb88bd3c67513e.file_lvlw69iaca19t9j6n.logo_cached.jpg",
+          "name": "Anthony's Coal Fired Pizza",
+          "revenueRange": [],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/anthony%27s-coal-fired-pizza"
+            }
+          },
+          "address": "Fort Lauderdale North America United States US Fort Lauderdale, FL 33309, US Florida FL -80.14337921142578,26.122310638427734 ",
+          "location": {
+            "city": "Fort Lauderdale",
+            "country": "United States",
+            "fullLocation": "Fort Lauderdale North America United States US Fort Lauderdale, FL 33309, US Florida FL -80.14337921142578,26.122310638427734 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Fort Lauderdale, FL 33309, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://acfp.com",
+          "specialities": [
+            "beer and wine",
+            "brick oven pizza",
+            "meatballs",
+            "pizza",
+            "restaurant",
+            "wings"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T07:13:43.698299",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T07:13:45.709205",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

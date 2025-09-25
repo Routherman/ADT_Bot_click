@@ -1,0 +1,119 @@
+{
+  "pages": [
+    {
+      "url": "https://miamiwatersports.com/about-us/",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "Google Tag Manager (noscript) snippet added by Site Kit\nEnd Google Tag Manager (noscript) snippet added by Site Kit\nSkip to content\n<div id=\"offer-container\" style=\"text-align:center;\">\n<strong>20% Off</strong> - Phone Special - <strong>Marina Only</strong><br><strong>(786) 713-8006</strong> -\nLimited Time: <span id=\"countdown\" style=\"font-weight:bold;color:red;display:inline;\"></span>\n</div>\n<script>\n(function(){\nvar shownBefore = localStorage.getItem('countdownShownOnce');\nvar container = document.getElementById('offer-container');\nvar countdownElem = document.getElementById('countdown');\nif(shownBefore) {\ncontainer.innerHTML = \" <strong>20% Off</strong> - Phone Special - <strong>Marina Only</strong><br><strong>(786) 713-8006</strong>\";\nreturn;\n}\nvar storedStart = localStorage.getItem('timerStart');\nvar now = Date.now();\nif(!storedStart) {\nlocalStorage.setItem('timerStart', now);\nstoredStart = now;\n} else {\nstoredStart = parseInt(storedStart, 10);\n}\nfunction updateCountdown() {\nvar now = Date.now();\nvar elapsed = now - storedStart;\nvar elapsedHours = elapsed / 3600000;\nif(elapsedHours >= 6) {\nstoredStart = now;\nlocalStorage.setItem('timerStart', now);\nelapsedHours = 0;\n}\nif(elapsedHours < 4) {\nvar remainingMs = (4 - elapsedHours) * 3600000;\nvar hours = Math.floor(remainingMs / 3600000);\nvar minutes = Math.floor((remainingMs % 3600000) / 60000);\nvar seconds = Math.floor((remainingMs % 60000) / 1000);\nhours = String(hours).padStart(2,'0');\nminutes = String(minutes).padStart(2,'0');\nseconds = String(seconds).padStart(2,'0');\ncountdownElem.textContent = hours + \":\" + minutes + \":\" + seconds;\ncountdownElem.style.color = \"red\";\n} else {\ncountdownElem.textContent = \"EXPIRED\";\ncountdownElem.style.color = \"red\";\nlocalStorage.setItem('countdownShownOnce', 'true');\nsetTimeout(function(){\ncontainer.innerHTML = \"Call Now for Discounts - <strong>786-713-8006</strong>\";\n}, 2000);\n}\n}\nupdateCountdown();\nsetInterval(updateCountdown, 1000);\n})();\n</script>\nDirections\nPre-Check\nBook Now\nstart Side Menu\nHome\nAll Activities\nContact Us\nLocations\nPolicies\nAbout Us\nBlog\nend Side Menu\nParasail\nJet Ski\nFlyboard\nSpeed Boat\nBoat Tour\nBanana Boat\nWho are we?\nWelcome to Miami Watersports, South Florida’s largest water sports rental center since 2007! We offer a wide range of water activities year-round with over 20 dedicated employees both online and in person. As a direct provider, we are committed to providing outstanding customer service and ensuring a seamless rental experience. We are here to exceed your expectations, where passion meets professionalism for an unforgettable water sports adventure.\nCustomer Reviews\naminata drame\n21/06/2025\n10/10 my sister and I went jet skiing and had a time! Ohio & Eric were amazing instructors and couldn’t make our experience any better. Worth the price !\nAlyssa Ferrer\n02/02/2025\nHIGHLY RECOMMEND!!! We had an amazing time. Starting off the with customer service, it was absolutely perfect from check in to check out, VERY personable. We booked through Groupon and did not read the description properly and the gentleman (wish...\nRead More »\nWNAH Radio\n24/06/2024\nMy experience with Miami Water Sports was nothing short of amazing, thanks to Alex and Pierre! From the moment we arrived, they were incredibly friendly and professional. Alex guided us through the safety instructions with clear expertise, making us feel...\nRead More »\n4.4\n1320\nMiami Watersports\n3400 Pan American Dr Pier 9\n,\nMiami\n,\nFL\n33133\n,\nUSA\nOPEN 7 DAYS - 10 AM to SUNSET\nGet In Touch\n(786) 713-8006\nGeneral Info\nWater Sports Blog\nOur Location\nAbout Us\nFAQs\nPolicies\nContact Us\nPromo/VIP Pass\nWater Sports Blog\nOur Location\nAbout Us\nFAQs\nPolicies\nContact Us\nPromo/VIP Pass\nMarina Location\nParasailing\nJet Ski\nFlyboard\nSpeed Boat\nBoat Tour\nBanana Boat\nParasailing\nJet Ski\nFlyboard\nSpeed Boat\nBoat Tour\nBanana Boat\nCompany Info\n(786) 713-8006\n[email protected]\nActivities\nLocations\nContact Us\nAbout Us\nBlog\n© 2025 All Rights Reserved.\nName\n*\nPhone\n*\nEmail Address\n*\nTravel Date\n*\nPreferred Time\n*\n10:30 AM\n10:30 AM\n12:00 PM\n1:30 PM\n3:00 PM\n4:00 PM\nParticipant(s)\n*\nHow many participants?\nRequests (optional)\nTotal Deposit\n$\nCredit / Debit Card\n*\nSubmit Booking\nCLOSE\nAll Water Activities\n3400 Pan American Drive\nPier 9 Slip 4-5\nMiami, FL 33123\nDRIVE HERE\nHobie Cats – Windsurf – Kayak & SUP\n(Exact Map Coordinates)\n25.745568, -80.192366\nDRIVE HERE\n×\n[vc_row bg_type=”color” bg_color=”#000000″][vc_column][grve_title title=”ALL ACTIVITIES” heading=”h1″ align=”center”][vc_column_text]\n[/vc_column_text][vc_raw_html]JTNDZGl2JTIwaWQlM0QlMjJib2t1bi13aWRnZXQlMjIlM0UlM0MlMkZkaXYlM0UlMEElMEElM0NzY3JpcHQlM0UlMEFqUXVlcnklMjhkb2N1bWVudCUyOS5yZWFkeSUyOGZ1bmN0aW9uJTI4JTI5JTIwJTdCJTBBJTIwJTIwalF1ZXJ5JTI4JTI3JTIzYm9rdW4td2lkZ2V0JTI3JTI5LmxvYWQlMjglMjdib2t1bi1jb250ZW50Lmh0bWwlMjclMjklM0IlMEElN0QlMjklM0IlMEElM0MlMkZzY3JpcHQlM0U=[/vc_raw_html][/vc_column][/vc_row]\n×\nUnlimited Elements 1.5.141 Scripts\n0\nSTART: Modal Header\nEND: Modal Header\nSTART: Modal Body\nSTART: Reward\nSTART: Cart Item\nEND: Cart Item\nEND: Reward\nEND: Modal Header\nSTART: Modal Footer\nSTART: Upsell style 1\nEND: Upsell style 1\nSTART: Upsell style 2\nEND: Upsell style 2\nSTART: Upsell Style 3\nEND: Upsell Style 3\nSTART: COUPON\nSTART: COUPON\nSTART: Order Summary\nEND: Order Summary\nSTART: Checkout Button\nEND: Checkout Button\nSTART: Modal Footer",
+      "emails": [
+        "john@doe.com"
+      ]
+    },
+    {
+      "url": "https://miamiwatersports.com/contact-us/",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "Talk to a Live Person\n786-713-8006\nCustomer Service:\n[email protected]\nMarketing:\n[email protected]\nComplaint:\n[email protected]\nWanna Join the Team?\nApply Here\nComplete your Waiver",
+      "emails": [
+        "booking@miamiwatersports.com",
+        "claim@miamiwatersports.com",
+        "john@doe.com",
+        "marketing@miamiwatersports.com"
+      ]
+    },
+    {
+      "url": "https://miamiwatersports.com/activity/flyboard/",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "How high can I fly on a flyboard?\nWith proper instruction and practice, participants can fly up to 20 feet above the water's surface on a flyboard. However, the height may vary depending on factors such as skill level.\nWhat should I wear for flyboarding?\nWe recommend wearing swimwear or athletic clothing that allows for freedom of movement. For women, we advise wearing a secure-fitting swimsuit to minimize the risk of it coming loose when propelled into the water.\nCan I bring my own equipment, such as a GoPro, to capture the experience?\nYes, you're welcome to bring your own equipment, such as a waterproof camera or GoPro, to capture the excitement of flyboarding. However, please ensure that all equipment is securely attached to you to prevent loss during the session.\nWhat if I fall off the flyboard?\nFalling off the flyboard is part of the learning process, and our instructors will be nearby to assist you if needed. You will be equipped with a life jacket, foam helmet, and the flyboard itself floats, providing additional safety measures in case of falls.\nCan I flyboard if I can't swim?\nWhile basic swimming skills are recommended, they are not mandatory. Your instructor will provide guidance and support throughout the session, and you will be equipped with a life jacket, foam helmet, and the flyboard itself floats, ensuring your safety in the water. Staying calm and following instructions will enhance your flyboarding experience.\nIs flyboarding physically demanding?\nWhile flyboarding requires some physical exertion, participants of all fitness levels can enjoy the experience. Our instructors will provide guidance on proper body positioning and technique to help you get the most out of your session.\nWhat if I have a fear of heights?\nIf you have a fear of heights, our instructors will work with you to ensure that you feel comfortable and confident during your flyboarding session. They will provide support and encouragement to help you overcome any fears and enjoy the experience safely.\nWhat is flyboarding?\nFlyboarding is a water sport where participants strap into a board connected to a watercraft's jet propulsion system, allowing them to hover above the water's surface and perform aerial maneuvers.\nDo I need prior experience to try flyboarding?\nNo prior experience is necessary! Our experienced instructors will provide comprehensive training and guidance before your session, ensuring that even beginners can enjoy the thrill of flyboarding.\nIs flyboarding safe?\nYes, flyboarding is generally considered safe when conducted under the supervision of trained professionals and following safety guidelines. Our instructors prioritize safety and will provide all necessary equipment and instructions to ensure a safe experience.\nHow high can I fly on a flyboard?\nWith proper instruction and practice, participants can fly up to 20 feet above the water's surface on a flyboard. However, the height may vary depending on factors such as skill level.\nWhat should I wear for flyboarding?\nWe recommend wearing swimwear or athletic clothing that allows for freedom of movement. For women, we advise wearing a secure-fitting swimsuit to minimize the risk of it coming loose when propelled into the water.\nCan I bring my own equipment, such as a GoPro, to capture the experience?\nYes, you're welcome to bring your own equipment, such as a waterproof camera or GoPro, to capture the excitement of flyboarding. However, please ensure that all equipment is securely attached to you to prevent loss during the session.\nWhat if I fall off the flyboard?\nFalling off the flyboard is part of the learning process, and our instructors will be nearby to assist you if needed. You will be equipped with a life jacket, foam helmet, and the flyboard itself floats, providing additional safety measures in case of falls.\nCan I flyboard if I can't swim?\nWhile basic swimming skills are recommended, they are not mandatory. Your instructor will provide guidance and support throughout the session, and you will be equipped with a life jacket, foam helmet, and the flyboard itself floats, ensuring your safety in the water. Staying calm and following instructions will enhance your flyboarding experience.\nIs flyboarding physically demanding?\nWhile flyboarding requires some physical exertion, participants of all fitness levels can enjoy the experience. Our instructors will provide guidance on proper body positioning and technique to help you get the most out of your session.\nWhat if I have a fear of heights?\nIf you have a fear of heights, our instructors will work with you to ensure that you feel comfortable and confident during your flyboarding session. They will provide support and encouragement to help you overcome any fears and enjoy the experience safely.\nWhat is flyboarding?\nFlyboarding is a water sport where participants strap into a board connected to a watercraft's jet propulsion system, allowing them to hover above the water's surface and perform aerial maneuvers.\nDo I need prior experience to try flyboarding?\nNo prior experience is necessary! Our experienced instructors will provide comprehensive training and guidance before your session, ensuring that even beginners can enjoy the thrill of flyboarding.\nIs flyboarding safe?\nYes, flyboarding is generally considered safe when conducted under the supervision of trained professionals and following safety guidelines. Our instructors prioritize safety and will provide all necessary equipment and instructions to ensure a safe experience.",
+      "emails": [
+        "john@doe.com"
+      ]
+    },
+    {
+      "url": "https://job.miamiwatersports.com/",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "APPLY\nHANDBOOK\nNOTICE\nIf you are applying for the first time make sure that you attach images of your:\nCaptain License\nCPR\nLivery\nIt is your responsibility to keep these documents up to date, using the button below, to remain employed.\nDOC UPLOAD",
+      "emails": []
+    },
+    {
+      "url": "https://miamiwatersports.com/contact-us",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "Talk to a Live Person\n786-713-8006\nCustomer Service:\n[email protected]\nMarketing:\n[email protected]\nComplaint:\n[email protected]\nWanna Join the Team?\nApply Here\nComplete your Waiver",
+      "emails": [
+        "booking@miamiwatersports.com",
+        "claim@miamiwatersports.com",
+        "john@doe.com",
+        "marketing@miamiwatersports.com"
+      ]
+    }
+  ],
+  "all_links": [
+    "https://miamiwatersports.com/policies",
+    "https://miamiwatersports.com/faqs",
+    "https://miamiwatersports.com/locations/",
+    "https://miamiwatersports.com/policies/",
+    "https://www.miamiwatersports.com/cdn-cgi/l/email-protection#f59894879e90819c9b92b5989c94989c829481908786859a878186db969a98",
+    "https://www.miamiwatersports.com/cdn-cgi/l/email-protection",
+    "https://miamiwatersports.com/about-us/",
+    "https://miamiwatersports.com/activity/parasail-miami/",
+    "https://miamiwatersports.com/contact-us/",
+    "https://staff.miamiwatersports.com/prospect-application/",
+    "https://miamiwatersports.com/activities/",
+    "https://miamiwatersports.com",
+    "https://miamiwatersports.com/activity/boat-tour/",
+    "https://www.miamiwatersports.com/cdn-cgi/l/email-protection#66050a070f0b260b0f070b0f11071203141516091412154805090b",
+    "https://miamiwatersports.com/activity/parasail-miami",
+    "https://miamiwatersports.com/activities",
+    "https://miamiwatersports.com/promo-pass/",
+    "https://miamiwatersports.com/activity/flyboard/",
+    "https://miamiwatersports.com/water-sports-in-miami/",
+    "https://www.miamiwatersports.com/cdn-cgi/l/email-protection#cba9a4a4a0a2a5ac8ba6a2aaa6a2bcaabfaeb9b8bba4b9bfb8e5a8a4a6",
+    "https://miamiwatersports.com/activity/speed-boat/",
+    "https://miamiwatersports.com/",
+    "https://miamiwatersports.com/activity/parasailing/",
+    "https://miamiwatersports.com/activity/banana-boat/",
+    "https://job.miamiwatersports.com/",
+    "https://miamiwatersports.com/activity/jet-ski/",
+    "https://miamiwatersports.com/contact-us"
+  ],
+  "candidate_links": [
+    "https://miamiwatersports.com/about-us/",
+    "https://miamiwatersports.com/contact-us/",
+    "https://miamiwatersports.com/activity/flyboard/",
+    "https://job.miamiwatersports.com/",
+    "https://miamiwatersports.com/contact-us"
+  ],
+  "visited": [
+    "https://www.miamiwatersports.com/",
+    "https://www.miamiwatersports.com/about",
+    "https://www.miamiwatersports.com/contact",
+    "https://www.miamiwatersports.com/staff",
+    "https://www.miamiwatersports.com/team",
+    "https://www.miamiwatersports.com/board",
+    "https://www.miamiwatersports.com/directory",
+    "https://www.miamiwatersports.com/events",
+    "https://www.miamiwatersports.com/sitemap.xml",
+    "https://www.miamiwatersports.com/council",
+    "https://www.miamiwatersports.com/leadership",
+    "https://www.miamiwatersports.com/management",
+    "https://www.miamiwatersports.com/producers",
+    "https://www.miamiwatersports.com/support",
+    "https://www.miamiwatersports.com/crew",
+    "https://www.miamiwatersports.com/members",
+    "https://www.miamiwatersports.com/bios",
+    "https://www.miamiwatersports.com/people",
+    "https://www.miamiwatersports.com/artists",
+    "https://www.miamiwatersports.com/musicians",
+    "https://www.miamiwatersports.com/faculty",
+    "https://www.miamiwatersports.com/administration",
+    "https://miamiwatersports.com/about-us/",
+    "https://miamiwatersports.com/contact-us/",
+    "https://miamiwatersports.com/activity/flyboard/",
+    "https://job.miamiwatersports.com/",
+    "https://miamiwatersports.com/contact-us"
+  ],
+  "base_url": "https://www.miamiwatersports.com/"
+}

@@ -1,0 +1,509 @@
+{
+  "site_url": "https://bashmentec.com/",
+  "domain": "bashmentec.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://bashmentec.com/",
+    "https://bashmentec.com/about",
+    "https://bashmentec.com/contact",
+    "https://bashmentec.com/partyrentals",
+    "https://bashmentec.com/gallery",
+    "https://bashmentec.com/terms-conditions"
+  ],
+  "candidates": [
+    "https://bashmentec.com/contact",
+    "https://bashmentec.com/about",
+    "https://bashmentec.com/",
+    "https://bashmentec.com/contact/",
+    "https://bashmentec.com/contact-us",
+    "https://bashmentec.com/contact-us/",
+    "https://bashmentec.com/contactus",
+    "https://bashmentec.com/contactus/",
+    "https://bashmentec.com/about/",
+    "https://bashmentec.com/about-us",
+    "https://bashmentec.com/about-us/",
+    "https://bashmentec.com/visit",
+    "https://bashmentec.com/visit/",
+    "https://bashmentec.com/location",
+    "https://bashmentec.com/location/",
+    "https://bashmentec.com/directions",
+    "https://bashmentec.com/directions/"
+  ],
+  "per_page": {
+    "https://bashmentec.com/contact": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [
+        "(941)-740-2127"
+      ],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/about": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/": {
+      "title": "Your Ultimate Event Destination | Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 2,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.facebook.com/Bashmentevents",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/contact/": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [
+        "(941)-740-2127"
+      ],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/contact-us": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/contact-us/": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/contactus": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/contactus/": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/about/": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/about-us": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/about-us/": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/visit": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/visit/": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/location": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/location/": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/directions": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    },
+    "https://bashmentec.com/directions/": {
+      "title": "Bashment Event Center",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bashmentec.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "bashmentec@gmail.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/Bashmentevents/",
+        "https://www.instagram.com/bashmentec/"
+      ]
+    }
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "site_url": "https://lacitacc.com/",
+  "domain": "lacitacc.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://lacitacc.com/",
+    "https://www.lacitacc.com/contact/",
+    "https://www.lacitacc.com/calendar/",
+    "https://www.lacitacc.com/weddings/",
+    "https://www.lacitacc.com/events/",
+    "https://www.lacitacc.com/",
+    "https://www.lacitacc.com",
+    "https://www.lacitacc.com/golf/",
+    "https://www.lacitacc.com/tee-times/",
+    "https://www.lacitacc.com/menu/",
+    "https://www.lacitacc.com/tennis/",
+    "https://www.lacitacc.com/health-fitness/",
+    "https://www.lacitacc.com/pool/",
+    "https://www.lacitacc.com/haciendas/",
+    "https://www.lacitacc.com/clubhouse/",
+    "https://www.lacitacc.com/photo-gallery/",
+    "https://www.lacitacc.com/catering/",
+    "https://www.lacitacc.com/join-the-club/"
+  ],
+  "candidates": [
+    "https://www.lacitacc.com/contact/",
+    "https://www.lacitacc.com/calendar/",
+    "https://www.lacitacc.com/events/",
+    "https://www.lacitacc.com/weddings/",
+    "https://lacitacc.com/"
+  ],
+  "per_page": {
+    "https://www.lacitacc.com/contact/": {
+      "title": "Contact - La Cita Country Club",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lacitacc.com/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lacitacc.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "events@lacitacc.com",
+        "info@lacitacc.com",
+        "memberships@lacitacc.com"
+      ],
+      "phones": [
+        "(321) 383-2582",
+        "(321) 383-5300",
+        "321-383-2582"
+      ],
+      "socials": [
+        "https://www.facebook.com/LaCitaCC/",
+        "https://www.instagram.com/lacita_countryclub/"
+      ]
+    },
+    "https://www.lacitacc.com/calendar/": {
+      "title": "Calendar - La Cita Country Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lacitacc.com/calendar/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lacitacc.com/calendar/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lacitacc.com"
+      ],
+      "phones": [
+        "(321) 383-2582"
+      ],
+      "socials": [
+        "https://www.facebook.com/LaCitaCC/",
+        "https://www.instagram.com/lacita_countryclub/"
+      ]
+    },
+    "https://www.lacitacc.com/events/": {
+      "title": "Social Events - La Cita Country Club",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lacitacc.com/events/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lacitacc.com/events/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lacitacc.com/events/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lacitacc.com"
+      ],
+      "phones": [
+        "(321) 383-2582"
+      ],
+      "socials": [
+        "https://www.facebook.com/LaCitaCC/",
+        "https://www.instagram.com/lacita_countryclub/"
+      ]
+    },
+    "https://www.lacitacc.com/weddings/": {
+      "title": "Inquire Below - La Cita Country Club",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lacitacc.com/weddings/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.lacitacc.com/weddings/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lacitacc.com"
+      ],
+      "phones": [
+        "(321) 383-2582"
+      ],
+      "socials": [
+        "https://www.facebook.com/LaCitaCC/",
+        "https://www.instagram.com/lacita_countryclub/"
+      ]
+    },
+    "https://lacitacc.com/": {
+      "title": "Homepage - La Cita Country Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lacitacc.com/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lacitacc.com/"
+          ]
+        }
+      },
+      "emails": [
+        "info@lacitacc.com"
+      ],
+      "phones": [
+        "(321) 383-2582"
+      ],
+      "socials": [
+        "https://www.facebook.com/LaCitaCC/",
+        "https://www.instagram.com/lacita_countryclub/"
+      ]
+    }
+  }
+}

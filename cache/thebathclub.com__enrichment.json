@@ -1,0 +1,136 @@
+{
+  "timestamp": "2025-09-22T09:20:52.087083",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T09:20:48.481593",
+      "company": {
+        "name": null,
+        "domain": "thebathclub.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 2374667,
+          "description": "The Bath Club brings the concept of Effortless Elegance to life through dedication to gracious, sophisticated, and personalized service. Members choose to join The Bath Club for its unparalleled location, amenities, and cuisine, and for its revival of a bygone era when personalized service was the norm. The Bath Club crafts experiences and memories that last a lifetime.\n\nThe Bath Club is dedicated to upholding its proud heritage and maintaining its fine tradition, providing members exclusive access to this one-of-a-kind oasis.",
+          "domain": "thebathclub.com",
+          "employees": "51 - 200",
+          "founded": "1926",
+          "fqdn": "www.thebathclub.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/c1/bc1eb10fb0adfc01234655af6c1fb303",
+          "name": "The Bath Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Events Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/the-bath-club"
+            }
+          },
+          "address": "Miami Beach North America United States US 5937 Collins Ave.; Miami Beach, Florida 33141, US Florida FL -80.13005065917969,25.7906494140625 ",
+          "location": {
+            "city": "Miami Beach",
+            "country": "United States",
+            "fullLocation": "Miami Beach North America United States US 5937 Collins Ave.; Miami Beach, Florida 33141, US Florida FL -80.13005065917969,25.7906494140625 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "5937 Collins Ave.; Miami Beach, Florida 33141, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7389,
+                "description": "Business services, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 561920,
+                "description": "Convention and Trade Show Organizers"
+              }
+            ]
+          },
+          "website": "https://thebathclub.com",
+          "specialities": [
+            "corporate events",
+            "members club",
+            "photoshoots",
+            "social events",
+            "weddings"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T09:20:49.710341",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T09:20:52.081153",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

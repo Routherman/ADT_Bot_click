@@ -1,0 +1,143 @@
+{
+  "site_url": "https://pointbreakarcade.com/",
+  "domain": "pointbreakarcade.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://pointbreakarcade.com/",
+    "https://pointbreakarcade.com/event",
+    "https://pointbreakarcade.com/our-games",
+    "https://pointbreakarcade.com/drinkmenu",
+    "https://pointbreakarcade.com/our-games-1",
+    "https://pointbreakarcade.com/cart"
+  ],
+  "candidates": [
+    "https://pointbreakarcade.com/event",
+    "https://pointbreakarcade.com/"
+  ],
+  "per_page": {
+    "https://pointbreakarcade.com/event": {
+      "title": "RSVP 2 — Point Break Arcade",
+      "band_hits": {
+        "event": {
+          "total": 16,
+          "zones": {
+            "title": 0,
+            "body": 16,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pointbreakarcade.com/event"
+          ]
+        },
+        "bands": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pointbreakarcade.com/event"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@pointbreakarcade.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PointBreakArcade",
+        "https://www.instagram.com/pointbreakarcade/",
+        "https://www.youtube.com/@pointbreakarcade"
+      ]
+    },
+    "https://pointbreakarcade.com/": {
+      "title": "Point Break Arcade",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://pointbreakarcade.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PointBreakArcade",
+        "https://www.instagram.com/p/C-GBov4uw3q/",
+        "https://www.instagram.com/p/C-IjKlwuGoh/",
+        "https://www.instagram.com/p/C-LHomGuT-L/",
+        "https://www.instagram.com/p/C-QJuFeOnFs/",
+        "https://www.instagram.com/p/C-Sr-PEuWC9/",
+        "https://www.instagram.com/p/C-VUAv9ugNX/",
+        "https://www.instagram.com/p/C-X5pp3ua0Z/",
+        "https://www.instagram.com/p/C-aq9BMuMmE/",
+        "https://www.instagram.com/p/C-f6WFmOuXE/",
+        "https://www.instagram.com/p/C9-QAn_uhqr/",
+        "https://www.instagram.com/p/C92IxWqO30Y/",
+        "https://www.instagram.com/p/C95G-7MOzKm/",
+        "https://www.instagram.com/p/C97XBLHuQl3/",
+        "https://www.instagram.com/p/C9pUhXMO6fc/",
+        "https://www.instagram.com/p/C9qho8nuxFH/",
+        "https://www.instagram.com/p/C9sDBBqOId8/",
+        "https://www.instagram.com/p/C9zyWqIOCeS/",
+        "https://www.instagram.com/pointbreakarcade/",
+        "https://www.youtube.com/@pointbreakarcade"
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "site_url": "https://celticray.net/",
+  "domain": "celticray.net",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://celticray.net/",
+    "https://celticray.net/pub-food/",
+    "https://celticray.net/drinks-menu/",
+    "https://celticray.net/our-events/",
+    "https://celticray.net/shop/",
+    "https://celticray.net/gallery/",
+    "https://celticray.net/location/"
+  ],
+  "candidates": [
+    "https://celticray.net/",
+    "https://celticray.net/our-events/"
+  ],
+  "per_page": {
+    "https://celticray.net/": {
+      "title": "Celtic Ray | Irish Pub",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(941) 916-9115"
+      ],
+      "socials": [
+        "https://www.facebook.com/celticraypublichouse/",
+        "https://www.instagram.com/thecelticray/"
+      ]
+    },
+    "https://celticray.net/our-events/": {
+      "title": "Our Events | Celtic Ray",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://celticray.net/our-events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

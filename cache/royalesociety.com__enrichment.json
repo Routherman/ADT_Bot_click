@@ -1,0 +1,148 @@
+{
+  "timestamp": "2025-09-22T11:30:00.335361",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T11:29:56.738655",
+      "company": {
+        "name": null,
+        "domain": "royalesociety.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 18869566,
+          "description": "Royale Society provides bespoke services and experiences utilizing an expansive network and relationships with industry leaders in hospitality, nightlife, entertainment, music, real estate and fashion! We are dedicated to creating memorable experiences and providing unmatched service for every member of our Royale Society community. We are the liaison between you and the who, what, when, where and how, curating unforgettable experiences that compliment your lifestyle!",
+          "domain": "royalesociety.com",
+          "employees": "11 - 50",
+          "founded": "2010",
+          "fqdn": "www.royalesociety.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/0/6f/06fc1027db40975b58d0ac7244869a3d",
+          "name": "Royale Society Hospitality",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/royalesociety"
+            }
+          },
+          "address": "Miami North America United States US 2 S Biscayne Blvd; Suite 3200; Miami, FL 33131, US Florida FL -80.19365692138672,25.774269104003906 ",
+          "location": {
+            "city": "Miami",
+            "country": "United States",
+            "fullLocation": "Miami North America United States US 2 S Biscayne Blvd; Suite 3200; Miami, FL 33131, US Florida FL -80.19365692138672,25.774269104003906 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "2 S Biscayne Blvd; Suite 3200; Miami, FL 33131, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://royalesociety.com",
+          "specialities": [
+            "business development",
+            "client services",
+            "concierge services",
+            "consulting",
+            "event hosting",
+            "event planning",
+            "event production",
+            "event promotion",
+            "hospitality",
+            "luxury services",
+            "nightclub",
+            "nightlife",
+            "social media",
+            "strategic marketing",
+            "talent booking",
+            "talent management",
+            "vip services"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T11:29:57.892009",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T11:30:00.331899",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

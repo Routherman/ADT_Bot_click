@@ -1,0 +1,589 @@
+{
+  "site_url": "https://wineandgarden.com/",
+  "domain": "wineandgarden.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://wineandgarden.com/",
+    "https://wineandgarden.com/reservations",
+    "https://wineandgarden.com/events-1",
+    "https://wineandgarden.com/events",
+    "https://wineandgarden.com/contact-1",
+    "https://wineandgarden.com/cart",
+    "https://wineandgarden.com/menu",
+    "https://wineandgarden.com/parking",
+    "https://wineandgarden.com/new-page-1"
+  ],
+  "candidates": [
+    "https://wineandgarden.com/contact-1",
+    "https://wineandgarden.com/events",
+    "https://wineandgarden.com/events-1",
+    "https://wineandgarden.com/reservations",
+    "https://wineandgarden.com/",
+    "https://wineandgarden.com/contact",
+    "https://wineandgarden.com/contact/",
+    "https://wineandgarden.com/contact-us",
+    "https://wineandgarden.com/contact-us/",
+    "https://wineandgarden.com/contactus",
+    "https://wineandgarden.com/contactus/",
+    "https://wineandgarden.com/about",
+    "https://wineandgarden.com/about/",
+    "https://wineandgarden.com/about-us",
+    "https://wineandgarden.com/about-us/",
+    "https://wineandgarden.com/visit",
+    "https://wineandgarden.com/visit/",
+    "https://wineandgarden.com/location",
+    "https://wineandgarden.com/location/",
+    "https://wineandgarden.com/directions",
+    "https://wineandgarden.com/directions/"
+  ],
+  "per_page": {
+    "https://wineandgarden.com/contact-1": {
+      "title": "Contact — Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/contact-1"
+          ]
+        }
+      },
+      "emails": [
+        "events@wineandgarden.com"
+      ],
+      "phones": [
+        "(954)-302-2922"
+      ],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/events": {
+      "title": "Weddings — Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/events"
+          ]
+        }
+      },
+      "emails": [
+        "events@wineandgarden.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/events-1": {
+      "title": "EVENTS — Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/events-1"
+          ]
+        }
+      },
+      "emails": [
+        "events@wineandgarden.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/reservations": {
+      "title": "Reservations — Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/reservations"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/contact": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/contact/": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/contact-us": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/contact-us/": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/contactus": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/contactus/": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/about": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/about/": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/about-us": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/about-us/": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/visit": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/visit/": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/location": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/location/": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/directions": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    },
+    "https://wineandgarden.com/directions/": {
+      "title": "Wine + Garden",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wineandgarden.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/wineandgarden/",
+        "https://www.instagram.com/winegardennbv/"
+      ]
+    }
+  }
+}

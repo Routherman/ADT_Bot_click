@@ -1,0 +1,134 @@
+{
+  "timestamp": "2025-09-19T03:51:02.636710",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T03:50:58.385554",
+      "company": {
+        "name": null,
+        "domain": "tap42.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 9241321,
+          "description": "Tap 42 Bar & Kitchen is a South Florida based Bar/Restaurant privately owned and operated by TapCo Restaurant Group. The first Tap 42 in Fort Lauderdale was opened in 2011 and has grown to become one of the hottest and most successful Bar/Restaurant's in South Florida. With two new locations opening in 2015 in Boca Raton and Coral Gables, Tap 42 is continuing to expand its imprint throughout the South Florida market, and beyond. \n\nTap 42’s menu is multi-faceted. Our approach is very unique as we have positioned ourselves as an American craft beer bar and maintained a very local and organic feel to our menus. Currently Tap 42 serves 42 American Craft beers on draft, solely focusing on the best offerings available in the country, and continuously rotating handles to keep the selections fresh and exciting. \n\nOur kitchen at Tap 42 focuses on a streamlined menu highlighting snacks, appetizers, salads, and craft burgers using local produce and high quality ingredients. We have been able to create a cult-like following since our inception due to our attention to detail and solid execution of the menus in place (lunch, dinner, and also brunch). The food is centered on offering uncompromising quality at prices that scream value.\n\nOur craft cocktail program is also very cutting edge. We combine fresh produce, herbs, and house-made spices and purees with artisan craft spirits to make delicious, well balanced cocktails. We have also pioneered a craft beer cocktail program which has put us in a small handful of concepts developing this niche idea. \n\nWe believe the difference between success and failure ultimately lies in the management of the organization. We emphasize systemic operations and controls of over our business by employing qualified professionals with great passion to exceed the guest's expectations.  We put our team first in every decision we make, and have fully realized that our team can do much more with our support, than without it.",
+          "domain": "tap42.com",
+          "employees": "51 - 200",
+          "founded": "2011",
+          "fqdn": "www.tap42.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/f/3e/f3ef443be09844a71b4aa1def433b1c5",
+          "name": "Tap 42",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Food & Beverage Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/tap-42"
+            }
+          },
+          "address": "Fort Lauderdale North America United States US 1411 S Andrews Ave.; Ft. Lauderdale, Florida 33316, US Florida FL -80.14337921142578,26.122310638427734 ",
+          "location": {
+            "city": "Fort Lauderdale",
+            "country": "United States",
+            "fullLocation": "Fort Lauderdale North America United States US 1411 S Andrews Ave.; Ft. Lauderdale, Florida 33316, US Florida FL -80.14337921142578,26.122310638427734 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1411 S Andrews Ave.; Ft. Lauderdale, Florida 33316, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://tap42.com",
+          "specialities": [
+            "bar food",
+            "beer",
+            "craft cocktails"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T03:50:59.605159",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T03:51:02.632173",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

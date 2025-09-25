@@ -1,0 +1,66 @@
+{
+  "pages": [
+    {
+      "url": "https://www.shltrip.com/contactus.html",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "$begin exclude$\n$end exclude$\nName: Sing H. Lin\nE-Mail Address: SINGHLIN (at) GMAIL (dot) COM\nYour comments are welcome. Please use the following\nform to send me your comments.\nThank you for visiting. Check back soon for new articles.\nClick here for\nHome\nPage to see\nList\nof\nAll\nMy Trips\nand\nT\nhree Methods\nto search\nmy Travelogue website for\nweb pages of interest to you\n$form formEmail=\"\" formConfirmPage=\"\" formErrorPage=\"\" defaultURL=\"http://[SITE_CODE].webhosting.luminate.com/forms?login=[MEMBER_NAME]&to=[EMAIL]&confirm=[PAGE]&error=[ERROR_PAGE]\"$\n$name Contact Us$\n$table$\nIE tablecell height workaround\n$begin exclude$\n$end exclude$\nYour name:\nYour email address:\n$required message=\"Please enter a value for the &quot;Your email address&quot; field\"$\nTitle of Web Page\nwhere you initiate\nthis comment\n$required message=\"Please enter a value for the &quot;Comments&quot; field\"$\nComments:\nThis space will expand as you type\nyour comments\nIE tablecell height workaround\n$begin exclude$\n$end exclude$\n讀萬卷書    行萬里路\n$img %ImageAssetImpl:/images/flamming_mountains_in_Arches_NP_2_crop.jpg$\nHome\nAbout Author\nContact Author\n$begin exclude$\n$end exclude$",
+      "emails": [
+        "singhlin@yahoo.com"
+      ]
+    },
+    {
+      "url": "https://www.shltrip.com/aboutus.html",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "$begin exclude$\n$end exclude$\nAuthor of this Travelogue Website is Dr. Sing H. Lin, 林星雄 博士\nThis website has been moved to a new location (using newer\nversion of website builder software) at:\nhttps://\nsites.google.com/view/shlbio/home\nClick here for\nHome\nPage to see\nList\nof\nAll\nMy Trips\nand\nT\nhree Methods\nto search\nmy Travelogue website for\nweb pages of interest to you\n讀萬卷書    行萬里路\n$img %ImageAssetImpl:/images/flamming_mountains_in_Arches_NP_2_crop.jpg$\nHome\nAbout Author\nContact Author\n$begin exclude$\n$end exclude$",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "https://www.shltrip.com/Florida_Paynes_Prairie.html",
+    "https://www.shltrip.com/Florida_Myakka.html",
+    "https://www.shltrip.com/Florida_Mayport.html",
+    "https://www.shltrip.com/Florida_Merritt_Island.html",
+    "https://www.shltrip.com/Sightseeing_in_Information_Age.html",
+    "https://www.shltrip.com/Florida_Blue_Spring.html",
+    "https://www.shltrip.com/More_on_Winter_Birding_Along_Gulf_Coast.html",
+    "https://www.shltrip.com/Florida_Everglades.html",
+    "https://www.shltrip.com/contactus.html",
+    "https://www.shltrip.com/index.html",
+    "https://www.shltrip.com/Florida_Gulf_Islands.html",
+    "https://www.shltrip.com/aboutus.html",
+    "https://www.shltrip.com/Florida_Homosassa.html"
+  ],
+  "candidate_links": [
+    "https://www.shltrip.com/contactus.html",
+    "https://www.shltrip.com/aboutus.html"
+  ],
+  "visited": [
+    "https://www.shltrip.com/Florida_Merritt_Island.html",
+    "https://www.shltrip.com/about",
+    "https://www.shltrip.com/contact",
+    "https://www.shltrip.com/staff",
+    "https://www.shltrip.com/team",
+    "https://www.shltrip.com/board",
+    "https://www.shltrip.com/directory",
+    "https://www.shltrip.com/events",
+    "https://www.shltrip.com/sitemap.xml",
+    "https://www.shltrip.com/council",
+    "https://www.shltrip.com/leadership",
+    "https://www.shltrip.com/management",
+    "https://www.shltrip.com/producers",
+    "https://www.shltrip.com/support",
+    "https://www.shltrip.com/crew",
+    "https://www.shltrip.com/members",
+    "https://www.shltrip.com/bios",
+    "https://www.shltrip.com/people",
+    "https://www.shltrip.com/artists",
+    "https://www.shltrip.com/musicians",
+    "https://www.shltrip.com/faculty",
+    "https://www.shltrip.com/administration",
+    "https://www.shltrip.com/contactus.html",
+    "https://www.shltrip.com/aboutus.html"
+  ],
+  "base_url": "https://www.shltrip.com/Florida_Merritt_Island.html"
+}

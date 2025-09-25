@@ -1,0 +1,140 @@
+{
+  "timestamp": "2025-09-20T09:01:06.049961",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T09:01:01.993743",
+      "company": {
+        "name": null,
+        "domain": "rw-brands.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 33183691,
+          "description": "If you’re looking for a group of talented ladies to assist you in planning your next event, you’ve come to the right place. RW Events is an innovative team of planners, stylist, and venue management enthusiasts. We pride ourselves in designing unique and breathtaking events.\n\nOur Brands | Cypress Grove Estate House :: Luxmore Grande Estate :: RW Style\n\nThe Estate House at Cypress Grove is a vintage 1925 estate, offering charming and stunning facilities for destination weddings, wedding receptions, cocktail parties, corporate events, and holiday celebrations. This colonial home sits on 80 acres of lush grounds with tree lined streets, aged oak and cypress trees, radiant seasonal flowers, and manicured lawns, all on the cusp of Lake Jessamine. The magnificent outlook from the estate creates infinite photo opportunities to capture those precious moments forever.\n\nLuxmore Grande Estate is a one of a kind facility nestled in the heart of Winter Springs, Florida. This picturesque lakefront property sits on 5 acres of land with gated access giving our clientele the privacy they deserve. Whether you’re planning a corporate luncheon, meeting, social gathering, rehearsal dinner, or wedding, the offer of a luxurious setting, impeccable cuisine, and stellar customer service is our promise to you!\n\nRW Style is a boutique rentals + design firm located in the heart of Central Florida. Our team has curated a collection of rentals inclusive of vintage finds, everyday rentals: chaivari chairs, banquet tables, and chargers, and lush soft seating collections. We strongly believe in transforming spaces so they become aesthetic experiences. All that we do, we do with intent and a detailed eye. Style is who we are, style is what we do. Every event, commercial project and styled shoot embraces the personality of the our client, natural elements of the space, and expert placement by our team.",
+          "domain": "rw-brands.com",
+          "employees": "11 - 50",
+          "fqdn": "www.rw-brands.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/2/2b/22bc5aae73b9e8e1da83712ae05a2a44",
+          "name": "RW Events",
+          "revenueRange": [],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Events Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/cypress-grove-estate-house"
+            }
+          },
+          "address": "Winter Springs North America United States US 1120 Orange Ave; Winter Springs, Florida 32708, US Florida FL -81.30812072753906,28.698890686035156 ",
+          "location": {
+            "city": "Winter Springs",
+            "country": "United States",
+            "fullLocation": "Winter Springs North America United States US 1120 Orange Ave; Winter Springs, Florida 32708, US Florida FL -81.30812072753906,28.698890686035156 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1120 Orange Ave; Winter Springs, Florida 32708, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7389,
+                "description": "Business services, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 561920,
+                "description": "Convention and Trade Show Organizers"
+              }
+            ]
+          },
+          "website": "https://rw-brands.com",
+          "specialities": [
+            "baby showers",
+            "birthday parties",
+            "bridal showers",
+            "corporate events",
+            "destination weddings",
+            "event designer",
+            "event rentals",
+            "event stylist",
+            "furniture rental",
+            "holiday parties",
+            "rehearsal dinners",
+            "rentals",
+            "weddings"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T09:01:03.625924",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T09:01:06.044337",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

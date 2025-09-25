@@ -1,0 +1,981 @@
+{
+  "site_url": "https://sweetwaterlifestyles.com/",
+  "domain": "sweetwaterlifestyles.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://sweetwaterlifestyles.com/",
+    "https://sweetwaterlifestyles.com/pages/faq",
+    "https://sweetwaterlifestyles.com/pages/membership",
+    "https://sweetwaterlifestyles.com/pages/contact",
+    "http://sweetwaterlifestyles.com/pages/contact",
+    "http://sweetwaterlifestyles.com/pages/membership",
+    "http://sweetwaterlifestyles.com/pages/faq",
+    "https://sweetwaterlifestyles.com/pages/boat-club",
+    "https://sweetwaterlifestyles.com/pages/our-fleet",
+    "https://sweetwaterlifestyles.com/pages/captains",
+    "https://sweetwaterlifestyles.com/pages/media",
+    "https://sweetwaterlifestyles.com/pages/location",
+    "http://sweetwaterlifestyles.com/pages/our-fleet",
+    "http://sweetwaterlifestyles.com/pages/location",
+    "http://sweetwaterlifestyles.com/pages/captains",
+    "http://sweetwaterlifestyles.com/pages/media",
+    "http://sweetwaterlifestyles.com/pages/data-sharing-opt-out",
+    "http://sweetwaterlifestyles.com/pages/accessibility-statement",
+    "http://sweetwaterlifestyles.com/pages/boat-club",
+    "http://sweetwaterlifestyles.com/",
+    "https://sweetwaterlifestyles.com/blogs/news/why-a-private-boat-club-beats-boat-ownership",
+    "https://sweetwaterlifestyles.com/blogs/news/top-boating-destinations-in-southwest-florida-for-members",
+    "https://sweetwaterlifestyles.com/blogs/news/the-luxury-of-effortless-boating-in-bonita-springs",
+    "http://sweetwaterlifestyles.com/blogs/news/why-a-private-boat-club-beats-boat-ownership",
+    "http://sweetwaterlifestyles.com/blogs/news/top-boating-destinations-in-southwest-florida-for-members",
+    "http://sweetwaterlifestyles.com/blogs/news/the-luxury-of-effortless-boating-in-bonita-springs",
+    "http://www.sweetwaterlifestyles.com/pages/media",
+    "http://www.sweetwaterlifestyles.com/pages/faq",
+    "http://www.sweetwaterlifestyles.com/pages/membership",
+    "http://www.sweetwaterlifestyles.com/pages/contact",
+    "http://www.sweetwaterlifestyles.com/blogs/news/why-a-private-boat-club-beats-boat-ownership",
+    "http://www.sweetwaterlifestyles.com/blogs/news/top-boating-destinations-in-southwest-florida-for-members",
+    "http://www.sweetwaterlifestyles.com/blogs/news/the-luxury-of-effortless-boating-in-bonita-springs",
+    "http://www.sweetwaterlifestyles.com/pages/boat-club",
+    "http://www.sweetwaterlifestyles.com/pages/our-fleet",
+    "http://www.sweetwaterlifestyles.com/pages/captains",
+    "http://www.sweetwaterlifestyles.com/pages/location",
+    "http://www.sweetwaterlifestyles.com/"
+  ],
+  "candidates": [
+    "http://sweetwaterlifestyles.com/pages/contact",
+    "http://www.sweetwaterlifestyles.com/pages/contact",
+    "https://sweetwaterlifestyles.com/pages/contact",
+    "http://sweetwaterlifestyles.com/pages/membership",
+    "http://www.sweetwaterlifestyles.com/pages/membership",
+    "https://sweetwaterlifestyles.com/pages/membership",
+    "http://sweetwaterlifestyles.com/pages/faq",
+    "http://www.sweetwaterlifestyles.com/pages/faq",
+    "https://sweetwaterlifestyles.com/pages/faq",
+    "http://sweetwaterlifestyles.com/blogs/news/the-luxury-of-effortless-boating-in-bonita-springs",
+    "http://sweetwaterlifestyles.com/blogs/news/top-boating-destinations-in-southwest-florida-for-members",
+    "http://sweetwaterlifestyles.com/blogs/news/why-a-private-boat-club-beats-boat-ownership",
+    "http://www.sweetwaterlifestyles.com/blogs/news/the-luxury-of-effortless-boating-in-bonita-springs",
+    "http://www.sweetwaterlifestyles.com/blogs/news/top-boating-destinations-in-southwest-florida-for-members",
+    "http://www.sweetwaterlifestyles.com/blogs/news/why-a-private-boat-club-beats-boat-ownership",
+    "https://sweetwaterlifestyles.com/blogs/news/the-luxury-of-effortless-boating-in-bonita-springs",
+    "https://sweetwaterlifestyles.com/blogs/news/top-boating-destinations-in-southwest-florida-for-members",
+    "https://sweetwaterlifestyles.com/blogs/news/why-a-private-boat-club-beats-boat-ownership",
+    "https://sweetwaterlifestyles.com/",
+    "https://sweetwaterlifestyles.com/contact",
+    "https://sweetwaterlifestyles.com/contact/",
+    "https://sweetwaterlifestyles.com/contact-us",
+    "https://sweetwaterlifestyles.com/contact-us/",
+    "https://sweetwaterlifestyles.com/contactus",
+    "https://sweetwaterlifestyles.com/contactus/",
+    "https://sweetwaterlifestyles.com/about",
+    "https://sweetwaterlifestyles.com/about/",
+    "https://sweetwaterlifestyles.com/about-us",
+    "https://sweetwaterlifestyles.com/about-us/",
+    "https://sweetwaterlifestyles.com/visit",
+    "https://sweetwaterlifestyles.com/visit/",
+    "https://sweetwaterlifestyles.com/location",
+    "https://sweetwaterlifestyles.com/location/",
+    "https://sweetwaterlifestyles.com/directions",
+    "https://sweetwaterlifestyles.com/directions/"
+  ],
+  "per_page": {
+    "http://sweetwaterlifestyles.com/pages/contact": {
+      "title": "Contact Sweetwater Lifestyles | Luxury Boat Club in Bonita Springs, FL",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://sweetwaterlifestyles.com/pages/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@sweetwaterlifestyles.com"
+      ],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "http://www.sweetwaterlifestyles.com/pages/contact": {
+      "title": "Contact Sweetwater Lifestyles | Luxury Boat Club in Bonita Springs, FL",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.sweetwaterlifestyles.com/pages/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@sweetwaterlifestyles.com"
+      ],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/pages/contact": {
+      "title": "Contact Sweetwater Lifestyles | Luxury Boat Club in Bonita Springs, FL",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/pages/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@sweetwaterlifestyles.com"
+      ],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "http://sweetwaterlifestyles.com/pages/membership": {
+      "title": "Sweetwater Lifestyles Memberships | Luxury Boat Club in Bonita Springs, FL",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://sweetwaterlifestyles.com/pages/membership"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://sweetwaterlifestyles.com/pages/membership"
+          ]
+        }
+      },
+      "emails": [
+        "info@sweetwaterlifestyles.com"
+      ],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "http://www.sweetwaterlifestyles.com/pages/membership": {
+      "title": "Sweetwater Lifestyles Memberships | Luxury Boat Club in Bonita Springs, FL",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.sweetwaterlifestyles.com/pages/membership"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.sweetwaterlifestyles.com/pages/membership"
+          ]
+        }
+      },
+      "emails": [
+        "info@sweetwaterlifestyles.com"
+      ],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/pages/membership": {
+      "title": "Sweetwater Lifestyles Memberships | Luxury Boat Club in Bonita Springs, FL",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/pages/membership"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/pages/membership"
+          ]
+        }
+      },
+      "emails": [
+        "info@sweetwaterlifestyles.com"
+      ],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "http://sweetwaterlifestyles.com/pages/faq": {
+      "title": "Frequently Asked Questions | Sweetwater Lifestyles Luxury Boat Club",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://sweetwaterlifestyles.com/pages/faq"
+          ]
+        }
+      },
+      "emails": [
+        "info@sweetwaterlifestyles.com"
+      ],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "http://www.sweetwaterlifestyles.com/pages/faq": {
+      "title": "Frequently Asked Questions | Sweetwater Lifestyles Luxury Boat Club",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.sweetwaterlifestyles.com/pages/faq"
+          ]
+        }
+      },
+      "emails": [
+        "info@sweetwaterlifestyles.com"
+      ],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/pages/faq": {
+      "title": "Frequently Asked Questions | Sweetwater Lifestyles Luxury Boat Club",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/pages/faq"
+          ]
+        }
+      },
+      "emails": [
+        "info@sweetwaterlifestyles.com"
+      ],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "http://sweetwaterlifestyles.com/blogs/news/the-luxury-of-effortless-boating-in-bonita-springs": {
+      "title": "The Luxury of Effortless Boating in Bonita Springs\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://sweetwaterlifestyles.com/blogs/news/the-luxury-of-effortless-boating-in-bonita-springs"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "http://sweetwaterlifestyles.com/blogs/news/top-boating-destinations-in-southwest-florida-for-members": {
+      "title": "Top Boating Destinations in Southwest Florida for Members\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://sweetwaterlifestyles.com/blogs/news/top-boating-destinations-in-southwest-florida-for-members"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "http://sweetwaterlifestyles.com/blogs/news/why-a-private-boat-club-beats-boat-ownership": {
+      "title": "Why a Private Boat Club Beats Boat Ownership\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://sweetwaterlifestyles.com/blogs/news/why-a-private-boat-club-beats-boat-ownership"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "http://www.sweetwaterlifestyles.com/blogs/news/the-luxury-of-effortless-boating-in-bonita-springs": {
+      "title": "The Luxury of Effortless Boating in Bonita Springs\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.sweetwaterlifestyles.com/blogs/news/the-luxury-of-effortless-boating-in-bonita-springs"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "http://www.sweetwaterlifestyles.com/blogs/news/top-boating-destinations-in-southwest-florida-for-members": {
+      "title": "Top Boating Destinations in Southwest Florida for Members\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.sweetwaterlifestyles.com/blogs/news/top-boating-destinations-in-southwest-florida-for-members"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "http://www.sweetwaterlifestyles.com/blogs/news/why-a-private-boat-club-beats-boat-ownership": {
+      "title": "Why a Private Boat Club Beats Boat Ownership\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.sweetwaterlifestyles.com/blogs/news/why-a-private-boat-club-beats-boat-ownership"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/blogs/news/the-luxury-of-effortless-boating-in-bonita-springs": {
+      "title": "The Luxury of Effortless Boating in Bonita Springs\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/blogs/news/the-luxury-of-effortless-boating-in-bonita-springs"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/blogs/news/top-boating-destinations-in-southwest-florida-for-members": {
+      "title": "Top Boating Destinations in Southwest Florida for Members\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/blogs/news/top-boating-destinations-in-southwest-florida-for-members"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/blogs/news/why-a-private-boat-club-beats-boat-ownership": {
+      "title": "Why a Private Boat Club Beats Boat Ownership\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/blogs/news/why-a-private-boat-club-beats-boat-ownership"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/": {
+      "title": "Sweetwater Lifestyles | Florida Boat Club",
+      "band_hits": {
+        "schedule": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/"
+          ]
+        }
+      },
+      "emails": [
+        "info@sweetwaterlifestyles.com"
+      ],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/contact": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://sweetwaterlifestyles.com/contact/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://sweetwaterlifestyles.com/contact-us": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://sweetwaterlifestyles.com/contact-us/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://sweetwaterlifestyles.com/contactus": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://sweetwaterlifestyles.com/contactus/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://sweetwaterlifestyles.com/about": {
+      "title": "404 Not Found\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/about/": {
+      "title": "404 Not Found\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/about-us": {
+      "title": "404 Not Found\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/about-us/": {
+      "title": "404 Not Found\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/visit": {
+      "title": "404 Not Found\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/visit/": {
+      "title": "404 Not Found\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/location": {
+      "title": "404 Not Found\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/location/": {
+      "title": "404 Not Found\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/directions": {
+      "title": "404 Not Found\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    },
+    "https://sweetwaterlifestyles.com/directions/": {
+      "title": "404 Not Found\n – Sweetwater Lifestyles",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sweetwaterlifestyles.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-405-7155"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/sweetwater_lifestyles/",
+        "https://www.youtube.com/channel/UCJUl4WIxCwgi8pl-lz7RBPQ"
+      ]
+    }
+  }
+}

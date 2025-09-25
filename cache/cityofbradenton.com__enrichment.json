@@ -1,0 +1,126 @@
+{
+  "timestamp": "2025-09-19T14:41:34.245935",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T14:41:30.129818",
+      "company": {
+        "name": null,
+        "domain": "cityofbradenton.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 28179329,
+          "description": "The City of Bradenton is a flagship in the heart of Manatee County. It's people, culture and proximity to beaches make it an ideal tourist destination. Known as the \"Friendly City\", we strive to make sure that all are welcome and have an unforgettable experience. \n\nTo learn more about us, please visit http://www.cityofbradenton.com/",
+          "domain": "cityofbradenton.com",
+          "employees": "501 - 1000",
+          "founded": "1903",
+          "fqdn": "www.cityofbradenton.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/5/95/5959478e98282d189014db796411c30b",
+          "name": "City of Bradenton",
+          "revenueRange": [],
+          "mainIndustry": "Government",
+          "subIndustry": "Government Administration",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/the-city-of-bradenton"
+            }
+          },
+          "address": "Bradenton North America United States US 101 12th St W; Bradenton, Florida, US Florida FL -82.57482147216797,27.498929977416992 ",
+          "location": {
+            "city": "Bradenton",
+            "country": "United States",
+            "fullLocation": "Bradenton North America United States US 101 12th St W; Bradenton, Florida, US Florida FL -82.57482147216797,27.498929977416992 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "101 12th St W; Bradenton, Florida, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 9111,
+                "description": "Executive offices"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 921110,
+                "description": "Executive Offices"
+              }
+            ]
+          },
+          "website": "https://cityofbradenton.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T14:41:31.374871",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T14:41:34.242205",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

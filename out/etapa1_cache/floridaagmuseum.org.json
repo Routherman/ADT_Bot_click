@@ -1,0 +1,938 @@
+{
+  "site_url": "https://floridaagmuseum.org/",
+  "domain": "floridaagmuseum.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://floridaagmuseum.org/",
+    "https://www.floridaagmuseum.org/about-the-museum/",
+    "https://www.floridaagmuseum.org/contact/",
+    "https://www.floridaagmuseum.org/membership/",
+    "https://www.floridaagmuseum.org/calendar-of-events/",
+    "https://www.floridaagmuseum.org/weddings/",
+    "https://www.floridaagmuseum.org/events/",
+    "https://www.floridaagmuseum.org/",
+    "https://www.floridaagmuseum.org",
+    "https://www.floridaagmuseum.org/corporate-sponsorship/",
+    "https://www.floridaagmuseum.org/gift-cards/",
+    "https://www.floridaagmuseum.org/gift-shop/",
+    "https://www.floridaagmuseum.org/employment/",
+    "https://www.floridaagmuseum.org/volunteers/",
+    "https://www.floridaagmuseum.org/tours/",
+    "https://www.floridaagmuseum.org/trails-lessons/",
+    "https://www.floridaagmuseum.org/horseback-lessons/",
+    "https://www.floridaagmuseum.org/2019-summer-horse-camps/",
+    "https://www.floridaagmuseum.org/group-tours/",
+    "https://www.floridaagmuseum.org/homeschool-experience/",
+    "https://www.floridaagmuseum.org/orienteering-course/"
+  ],
+  "candidates": [
+    "https://www.floridaagmuseum.org/contact/",
+    "https://www.floridaagmuseum.org/about-the-museum/",
+    "https://www.floridaagmuseum.org/calendar-of-events/",
+    "https://www.floridaagmuseum.org/events/",
+    "https://www.floridaagmuseum.org/membership/",
+    "https://www.floridaagmuseum.org/weddings/",
+    "https://floridaagmuseum.org/",
+    "https://floridaagmuseum.org/contact",
+    "https://floridaagmuseum.org/contact/",
+    "https://floridaagmuseum.org/contact-us",
+    "https://floridaagmuseum.org/contact-us/",
+    "https://floridaagmuseum.org/contactus",
+    "https://floridaagmuseum.org/contactus/",
+    "https://floridaagmuseum.org/about",
+    "https://floridaagmuseum.org/about/",
+    "https://floridaagmuseum.org/about-us",
+    "https://floridaagmuseum.org/about-us/",
+    "https://floridaagmuseum.org/visit",
+    "https://floridaagmuseum.org/visit/",
+    "https://floridaagmuseum.org/location",
+    "https://floridaagmuseum.org/location/",
+    "https://floridaagmuseum.org/directions",
+    "https://floridaagmuseum.org/directions/"
+  ],
+  "per_page": {
+    "https://www.floridaagmuseum.org/contact/": {
+      "title": "Contact – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridaagmuseum.org/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridaagmuseum.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [
+        "386-446-7630"
+      ],
+      "socials": []
+    },
+    "https://www.floridaagmuseum.org/about-the-museum/": {
+      "title": "About the Museum – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridaagmuseum.org/about-the-museum/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridaagmuseum.org/about-the-museum/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridaagmuseum.org/about-the-museum/"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.floridaagmuseum.org/calendar-of-events/": {
+      "title": "Calendar of Events – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridaagmuseum.org/calendar-of-events/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridaagmuseum.org/calendar-of-events/"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.floridaagmuseum.org/events/": {
+      "title": "Facility Rentals – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridaagmuseum.org/events/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridaagmuseum.org/events/"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.floridaagmuseum.org/membership/": {
+      "title": "Membership – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridaagmuseum.org/membership/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridaagmuseum.org/membership/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridaagmuseum.org/membership/"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.floridaagmuseum.org/weddings/": {
+      "title": "Weddings – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridaagmuseum.org/weddings/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.floridaagmuseum.org/weddings/"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [
+        "386-931-1417"
+      ],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/": {
+      "title": "Florida Agricultural Musem – Celebrateing the past, present, and future of agriculture in Florida.",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/contact": {
+      "title": "Contact – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/contact"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [
+        "386-446-7630"
+      ],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/contact/": {
+      "title": "Contact – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [
+        "386-446-7630"
+      ],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/contact-us": {
+      "title": "Page not found – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/contact-us/": {
+      "title": "Page not found – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/contactus": {
+      "title": "Page not found – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/contactus/": {
+      "title": "Page not found – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/about": {
+      "title": "About the Museum – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/about"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/about"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/about"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/about/": {
+      "title": "About the Museum – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/about/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/about/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/about/"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/about-us": {
+      "title": "Page not found – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/about-us/": {
+      "title": "Page not found – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/visit": {
+      "title": "Page not found – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/visit"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/visit"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/visit/": {
+      "title": "Page not found – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/location": {
+      "title": "Page not found – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/location"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/location"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/location/": {
+      "title": "Page not found – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/location/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/location/"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/directions": {
+      "title": "Page not found – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/directions"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/directions"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://floridaagmuseum.org/directions/": {
+      "title": "Page not found – Florida Agricultural Musem",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://floridaagmuseum.org/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@floridaagmuseum.org"
+      ],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

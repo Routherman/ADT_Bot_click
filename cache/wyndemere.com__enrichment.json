@@ -1,0 +1,136 @@
+{
+  "timestamp": "2025-09-24T07:34:46.958593",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T07:34:43.143437",
+      "company": {
+        "name": null,
+        "domain": "wyndemere.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 2092019,
+          "description": "Wyndemere is a private, well-established gated community in the heart of beautiful Naples on Florida’s fabulous gulf coast. It is member-owned and financially sound with all the amenities you have a right to expect from a premier country club.\n \n*27 hole championship golf course designed by Arthur Hills\n*Two driving ranges and putting greens\n*A short game practice facility\n*10 Har-Tru tennis courts with grandstand viewing\n*4 Pickleball Courts, 3 Bocce Courts, and a Croquet Lawn\n*Separate Golf & Racquet Sports Professional Shops\n*State of the art fitness, wellness, and spa facilities\n*Resort style pool with zero-beach entry\n*Recently renovated clubhouse with spectacular views\n*Casual and fine dining - as good as it gets!\n*Wi-Fi available throughout the Club Facilities\n\n634 private Wyndemere residences are snuggled among mature trees and beautiful landscaping - just minutes away from ocean beaches, downtown shopping and the Naples Philharmonic. Residences consist of single family homes, villas, townhouses and condominiums in a variety of price ranges. Indeed, there is something for everyone at Wyndemere, but the club’s greatest asset is its members who have cultivated a culture of genuine friendship and caring. We invite you to visit Wyndemere and experience a significant difference in country club living",
+          "domain": "wyndemere.com",
+          "employees": "51 - 200",
+          "founded": "1978",
+          "fqdn": "www.wyndemere.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/9/af/9afa0f83d7fc14e46b8525cc8015de8b",
+          "name": "Wyndemere Country Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Food & Beverage Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/wyndemere"
+            }
+          },
+          "address": "Naples North America United States US 700 Wyndemere Way; Naples, FL 34105, US Florida FL -81.79595947265625,26.1423397064209 ",
+          "location": {
+            "city": "Naples",
+            "country": "United States",
+            "fullLocation": "Naples North America United States US 700 Wyndemere Way; Naples, FL 34105, US Florida FL -81.79595947265625,26.1423397064209 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "700 Wyndemere Way; Naples, FL 34105, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://wyndemere.com",
+          "specialities": [
+            "18 hole golf course",
+            "fitness center",
+            "golf academy",
+            "outdoor bar",
+            "pickleball courts"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T07:34:44.280133",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T07:34:46.952800",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

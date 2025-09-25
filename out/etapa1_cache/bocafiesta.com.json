@@ -1,0 +1,99 @@
+{
+  "site_url": "https://bocafiesta.com/",
+  "domain": "bocafiesta.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://bocafiesta.com/",
+    "https://bocafiesta.com/reservations",
+    "https://bocafiesta.com/tequila-list",
+    "https://bocafiesta.com/dinein-menu",
+    "https://www.bocafiesta.com/dinein-menu",
+    "https://bocafiesta.com/cart",
+    "https://www.bocafiesta.com/reservations",
+    "https://www.bocafiesta.com/tequila-list",
+    "https://www.bocafiesta.com/",
+    "https://www.bocafiesta.com/cart"
+  ],
+  "candidates": [
+    "https://bocafiesta.com/reservations",
+    "https://www.bocafiesta.com/reservations",
+    "https://bocafiesta.com/"
+  ],
+  "per_page": {
+    "https://bocafiesta.com/reservations": {
+      "title": "RESERVATION POLICY — BOCA FIESTA",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/boca.fiesta/",
+        "https://www.instagram.com/bocafiesta/"
+      ]
+    },
+    "https://www.bocafiesta.com/reservations": {
+      "title": "RESERVATION POLICY — BOCA FIESTA",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/boca.fiesta/",
+        "https://www.instagram.com/bocafiesta/"
+      ]
+    },
+    "https://bocafiesta.com/": {
+      "title": "BOCA FIESTA",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/boca.fiesta/",
+        "https://www.instagram.com/bocafiesta/"
+      ]
+    }
+  }
+}

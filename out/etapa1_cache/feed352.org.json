@@ -1,0 +1,815 @@
+{
+  "site_url": "https://feed352.org/",
+  "domain": "feed352.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://feed352.org/",
+    "https://feed352.org/contact/",
+    "https://feed352.org/about/",
+    "https://feed352.org/news/",
+    "https://feed352.org/faq/",
+    "https://feed352.org/category/blog/",
+    "https://feed352.org/donate/",
+    "https://feed352.org/facts-about-hunger/",
+    "https://feed352.org/food-agencies/",
+    "https://feed352.org/planned-legacy/",
+    "https://feed352.org/trees/",
+    "https://feed352.org/hernando/",
+    "https://feed352.org/get-involved/",
+    "https://feed352.org/regional-distribution-organization/",
+    "https://feed352.org/you-dont-need-a-lot-of-money-to-have-a-sturgis-good-time/",
+    "https://feed352.org/sturgis-rally/",
+    "https://feed352.org/circle-of-life/",
+    "https://feed352.org/thanks-to-our-neighbors-in-walden-woods/",
+    "https://feed352.org/west-citrus-elks-club-offers-additional-support/",
+    "https://feed352.org/terms-and-conditions/",
+    "https://feed352.org/privacy-policy/",
+    "https://feed352.org/sitemap/",
+    "https://feed352.org/news/?avia-element-paging=2",
+    "https://feed352.org/news/?avia-element-paging=3",
+    "https://feed352.org/news/?avia-element-paging=12",
+    "https://feed352.org/neighbors-helping-neighbors/",
+    "https://feed352.org/trees-of-life-garden-announcement/",
+    "https://feed352.org/trees-of-life-garden-unveiling-march-24th/",
+    "https://feed352.org/community-foundation-of-tampa-bay-supports-long-term-hurricane-relief/",
+    "https://feed352.org/community-food-bank-thanks-supporters-for-another-record-year/",
+    "https://feed352.org/contact",
+    "https://feed352.org/food-agencies",
+    "https://feed352.org/volunteer/",
+    "https://feed352.org/category/blog/page/2/",
+    "https://feed352.org/category/blog/page/3/",
+    "https://feed352.org/category/blog/page/14/",
+    "https://feed352.org/donate-online/",
+    "https://feed352.org/spreading-christmas-blessings-and-cheer/",
+    "https://feed352.org/sugarmill-santas-present-5000/",
+    "https://feed352.org/west-citrus-elks-2693-donates-5000-to-feed-50000/",
+    "https://feed352.org/community-food-bank-unveils-holiday-gift-giving-program/",
+    "https://feed352.org/20000-grant-from-suncoast-credit-union/",
+    "https://feed352.org/homosassa-civic-club-inc-hurricane-relief-center/",
+    "https://feed352.org/eastside-elementary/",
+    "https://feed352.org/prime-hurricane-relief/",
+    "https://feed352.org/hurricane-helene-response-and-recovery/",
+    "https://feed352.org/these-ladies-are-on-a-roll/",
+    "https://feed352.org/big-hearts/",
+    "https://feed352.org/double-your-donation/",
+    "https://feed352.org/your-opinion-can-feed-1200/",
+    "https://feed352.org/community-food-bank-issues-matching-donation-challenge/",
+    "https://feed352.org/future-philanthropist/",
+    "https://feed352.org/sugarmill-wood-womens-club-donates-money/",
+    "https://feed352.org/usdas-new-summer-nutrition-initiative/",
+    "https://feed352.org/community-food-bank-trees-of-life/",
+    "https://feed352.org/community-food-bank-trees-of-life-program/",
+    "https://feed352.org/congratulations-mike-orlito/",
+    "https://feed352.org/hernando-chamber-breakfast/",
+    "https://feed352.org/community-food-bank-selected-for-target-circle-campaign/",
+    "https://feed352.org/grant-from-suncoast-credit-union/",
+    "https://feed352.org/raise-awareness-of-prevalence-of-hunger-among-senior-citizens/",
+    "https://feed352.org/us-family-foundation-inc-continues-to-fight-hunger/",
+    "https://feed352.org/drive-fore-food-postponement/",
+    "https://feed352.org/community-food-bank-offering-hurricane-idalia-relief/",
+    "https://feed352.org/handbags-for-a-hand-up/",
+    "https://feed352.org/ten-years-of-service-celebration/",
+    "https://feed352.org/10-years/",
+    "https://feed352.org/5k-to-fight-hunger/",
+    "https://feed352.org/citrus-county-hospital-board/",
+    "https://feed352.org/walmart-selects-cfb/",
+    "https://feed352.org/black-diamond-foundation/",
+    "https://feed352.org/sheriff-prendergast-presents-donation-in-memory-of-late-colleague/",
+    "https://feed352.org/fill-the-trucks-food-initiative/",
+    "https://feed352.org/recharging-lives/",
+    "https://feed352.org/2022-hunger-heroes/",
+    "https://feed352.org/grant-helps-community-food-bank-to-keep-on-truckin/",
+    "https://feed352.org/fight-hunger-as-you-shop/",
+    "https://feed352.org/how-your-help-helps/",
+    "https://feed352.org/giving-tuesday/",
+    "https://feed352.org/holiday-helpings/",
+    "https://feed352.org/no-one-goes-hungry/",
+    "https://feed352.org/publix-donates-15000/"
+  ],
+  "candidates": [
+    "https://feed352.org/contact",
+    "https://feed352.org/contact/",
+    "https://feed352.org/about/",
+    "https://feed352.org/category/blog/",
+    "https://feed352.org/category/blog/page/14/",
+    "https://feed352.org/category/blog/page/2/",
+    "https://feed352.org/category/blog/page/3/",
+    "https://feed352.org/faq/",
+    "https://feed352.org/news/",
+    "https://feed352.org/news/?avia-element-paging=12",
+    "https://feed352.org/news/?avia-element-paging=2",
+    "https://feed352.org/news/?avia-element-paging=3",
+    "https://feed352.org/",
+    "https://feed352.org/facts-about-hunger/",
+    "https://feed352.org/contact-us",
+    "https://feed352.org/contact-us/",
+    "https://feed352.org/contactus",
+    "https://feed352.org/contactus/",
+    "https://feed352.org/about",
+    "https://feed352.org/about-us",
+    "https://feed352.org/about-us/",
+    "https://feed352.org/visit",
+    "https://feed352.org/visit/",
+    "https://feed352.org/location",
+    "https://feed352.org/location/",
+    "https://feed352.org/directions",
+    "https://feed352.org/directions/"
+  ],
+  "per_page": {
+    "https://feed352.org/contact": {
+      "title": "Contact Us - Ending Hunger, Nourishing Hope - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/contact/": {
+      "title": "Contact Us - Ending Hunger, Nourishing Hope - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/about/": {
+      "title": "About Us - Ending Hunger, Nourishing Hope - Community Food Bank | Feed352",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/about/"
+          ]
+        }
+      },
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/category/blog/": {
+      "title": "News Category - Community Food Bank | Feed352",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/category/blog/"
+          ]
+        },
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/category/blog/"
+          ]
+        },
+        "bands": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/category/blog/"
+          ]
+        },
+        "local band": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/category/blog/"
+          ]
+        }
+      },
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-327-3863",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/category/blog/page/14/": {
+      "title": "News Category - Page 14 of 14 - Community Food Bank | Feed352",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/category/blog/page/14/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/category/blog/page/14/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/category/blog/page/14/"
+          ]
+        }
+      },
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/category/blog/page/2/": {
+      "title": "News Category - Page 2 of 14 - Community Food Bank | Feed352",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/category/blog/page/2/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/category/blog/page/2/"
+          ]
+        }
+      },
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/category/blog/page/3/": {
+      "title": "News Category - Page 3 of 14 - Community Food Bank | Feed352",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/category/blog/page/3/"
+          ]
+        }
+      },
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "1396938343",
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/faq/": {
+      "title": "FAQ - Ending Hunger, Nourishing Hope - Community Food Bank | Feed352",
+      "band_hits": {
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/faq/"
+          ]
+        }
+      },
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/news/": {
+      "title": "News - Ending Hunger, Nourishing Hope - Community Food Bank | Feed352",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/news/"
+          ]
+        }
+      },
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/news/?avia-element-paging=12": {
+      "title": "News - Ending Hunger, Nourishing Hope - Community Food Bank | Feed352",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/news/?avia-element-paging=12"
+          ]
+        }
+      },
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/news/?avia-element-paging=2": {
+      "title": "News - Ending Hunger, Nourishing Hope - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "1396938343",
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/news/?avia-element-paging=3": {
+      "title": "News - Ending Hunger, Nourishing Hope - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/": {
+      "title": "Community Food Bank | Feed352 | Citrus, Hernando, Sumter Counties",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC",
+        "https://www.youtube.com/watch"
+      ]
+    },
+    "https://feed352.org/facts-about-hunger/": {
+      "title": "Facts About Hunger - Ending Hunger, Nourishing Hope - Community Food Bank | Feed352",
+      "band_hits": {
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/facts-about-hunger/"
+          ]
+        },
+        "acts": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/facts-about-hunger/"
+          ]
+        }
+      },
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/contact-us": {
+      "title": "Page not found - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/contact-us/": {
+      "title": "Page not found - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/contactus": {
+      "title": "Page not found - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/contactus/": {
+      "title": "Page not found - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/about": {
+      "title": "About Us - Ending Hunger, Nourishing Hope - Community Food Bank | Feed352",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://feed352.org/about"
+          ]
+        }
+      },
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/about-us": {
+      "title": "Page not found - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/about-us/": {
+      "title": "Page not found - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/visit": {
+      "title": "Page not found - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/visit/": {
+      "title": "Page not found - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/location": {
+      "title": "Page not found - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/location/": {
+      "title": "Page not found - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/directions": {
+      "title": "Page not found - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    },
+    "https://feed352.org/directions/": {
+      "title": "Page not found - Community Food Bank | Feed352",
+      "band_hits": {},
+      "emails": [
+        "info@feed352.org"
+      ],
+      "phones": [
+        "352-280-3391",
+        "352-628-3663"
+      ],
+      "socials": [
+        "https://www.facebook.com/Feed352/",
+        "https://www.instagram.com/feed.352/",
+        "https://www.youtube.com/user/CommunityFoodBankCC"
+      ]
+    }
+  }
+}

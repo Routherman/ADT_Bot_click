@@ -1,0 +1,574 @@
+{
+  "site_url": "https://cityofpensacola.com/",
+  "domain": "cityofpensacola.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://cityofpensacola.com/",
+    "https://cityofpensacola.com/35/Visiting",
+    "https://www.cityofpensacola.com/calendar.aspx",
+    "https://cityofpensacola.com/calendar.aspx?CID=51,29,28,36,53,38,47,27,52,33,30,43",
+    "https://cityofpensacola.com/calendar.aspx?view=list&year=2025&month=9&day=25&CID=51,29,28,36,53,38,47,27,52,33,30,43",
+    "https://cityofpensacola.com/calendar.aspx?view=list&year=2025&month=9&day=26&CID=51,29,28,36,53,38,47,27,52,33,30,43",
+    "https://cityofpensacola.com/calendar.aspx?view=list&year=2025&month=9&day=28&CID=51,29,28,36,53,38,47,27,52,33,30,43",
+    "https://cityofpensacola.com/calendar.aspx?view=list&year=2025&month=9&day=29&CID=51,29,28,36,53,38,47,27,52,33,30,43",
+    "https://cityofpensacola.com/calendar.aspx?view=list&year=2025&month=9&day=30&CID=51,29,28,36,53,38,47,27,52,33,30,43",
+    "https://cityofpensacola.com/Calendar.aspx?EID=8031",
+    "https://cityofpensacola.com/Calendar.aspx?EID=7771",
+    "https://cityofpensacola.com/Calendar.aspx?EID=8064",
+    "https://cityofpensacola.com/Calendar.aspx?EID=7140",
+    "https://cityofpensacola.com/Calendar.aspx?EID=6931",
+    "https://cityofpensacola.com/Calendar.aspx?EID=7411",
+    "https://cityofpensacola.com/Calendar.aspx?EID=7837",
+    "https://cityofpensacola.com/Calendar.aspx?EID=8032",
+    "https://cityofpensacola.com/Calendar.aspx?EID=7706",
+    "https://cityofpensacola.com/directory.aspx",
+    "https://cityofpensacola.com/calendar.aspx",
+    "https://cityofpensacola.com/directory.aspx?EID=204",
+    "https://cityofpensacola.com/AlertCenter.aspx"
+  ],
+  "candidates": [
+    "https://cityofpensacola.com/Calendar.aspx?EID=6931",
+    "https://cityofpensacola.com/Calendar.aspx?EID=7140",
+    "https://cityofpensacola.com/Calendar.aspx?EID=7411",
+    "https://cityofpensacola.com/Calendar.aspx?EID=7706",
+    "https://cityofpensacola.com/Calendar.aspx?EID=7771",
+    "https://cityofpensacola.com/Calendar.aspx?EID=7837",
+    "https://cityofpensacola.com/Calendar.aspx?EID=8031",
+    "https://cityofpensacola.com/Calendar.aspx?EID=8032",
+    "https://cityofpensacola.com/Calendar.aspx?EID=8064",
+    "https://cityofpensacola.com/calendar.aspx",
+    "https://cityofpensacola.com/calendar.aspx?CID=51,29,28,36,53,38,47,27,52,33,30,43",
+    "https://cityofpensacola.com/calendar.aspx?view=list&year=2025&month=9&day=25&CID=51,29,28,36,53,38,47,27,52,33,30,43",
+    "https://cityofpensacola.com/calendar.aspx?view=list&year=2025&month=9&day=26&CID=51,29,28,36,53,38,47,27,52,33,30,43",
+    "https://cityofpensacola.com/calendar.aspx?view=list&year=2025&month=9&day=28&CID=51,29,28,36,53,38,47,27,52,33,30,43",
+    "https://cityofpensacola.com/calendar.aspx?view=list&year=2025&month=9&day=29&CID=51,29,28,36,53,38,47,27,52,33,30,43",
+    "https://cityofpensacola.com/calendar.aspx?view=list&year=2025&month=9&day=30&CID=51,29,28,36,53,38,47,27,52,33,30,43",
+    "https://www.cityofpensacola.com/calendar.aspx",
+    "https://cityofpensacola.com/35/Visiting",
+    "https://cityofpensacola.com/directory.aspx",
+    "https://cityofpensacola.com/directory.aspx?EID=204",
+    "https://cityofpensacola.com/",
+    "https://cityofpensacola.com/contact",
+    "https://cityofpensacola.com/contact/",
+    "https://cityofpensacola.com/contact-us",
+    "https://cityofpensacola.com/contact-us/",
+    "https://cityofpensacola.com/contactus",
+    "https://cityofpensacola.com/contactus/",
+    "https://cityofpensacola.com/about",
+    "https://cityofpensacola.com/about/",
+    "https://cityofpensacola.com/about-us",
+    "https://cityofpensacola.com/about-us/",
+    "https://cityofpensacola.com/visit",
+    "https://cityofpensacola.com/visit/",
+    "https://cityofpensacola.com/location",
+    "https://cityofpensacola.com/location/",
+    "https://cityofpensacola.com/directions",
+    "https://cityofpensacola.com/directions/"
+  ],
+  "per_page": {
+    "https://cityofpensacola.com/Calendar.aspx?EID=6931": {
+      "title": "Calendar • City Council Regular Meeting",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=6931"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=6931"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=6931"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-435-1603",
+        "850-435-1611",
+        "850-435-1666",
+        "850-436-5555"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://cityofpensacola.com/Calendar.aspx?EID=7140": {
+      "title": "Calendar • PENSACOLA SINGS",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=7140"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=7140"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=7140"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-435-1603",
+        "850-435-1611",
+        "850-435-1666",
+        "850-436-5555"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://cityofpensacola.com/Calendar.aspx?EID=7411": {
+      "title": "Calendar • TABLE TENNIS 18+",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=7411"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=7411"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=7411"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-435-1603",
+        "850-435-1611",
+        "850-435-1666",
+        "850-436-5555"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://cityofpensacola.com/Calendar.aspx?EID=7706": {
+      "title": "Calendar • CHAIR AEROBICS 18+",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=7706"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=7706"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=7706"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-435-1603",
+        "850-435-1611",
+        "850-435-1666",
+        "850-436-5555"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://cityofpensacola.com/Calendar.aspx?EID=7771": {
+      "title": "Calendar • TAI CHI WITH FRIENDS 18+",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=7771"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=7771"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=7771"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-435-1603",
+        "850-435-1611",
+        "850-435-1666",
+        "850-436-5555"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://cityofpensacola.com/Calendar.aspx?EID=7837": {
+      "title": "Calendar • SHOTOKAN KARATE",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=7837"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=7837"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=7837"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-435-1603",
+        "850-435-1611",
+        "850-435-1666",
+        "850-436-5555"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://cityofpensacola.com/Calendar.aspx?EID=8031": {
+      "title": "Calendar • OPEN GYM BASKETBALL",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=8031"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=8031"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=8031"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-435-1603",
+        "850-435-1611",
+        "850-435-1666",
+        "850-436-5555"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://cityofpensacola.com/Calendar.aspx?EID=8032": {
+      "title": "Calendar • OPEN GYM BASKETBALL",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=8032"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=8032"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=8032"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-435-1603",
+        "850-435-1611",
+        "850-435-1666",
+        "850-436-5555"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://cityofpensacola.com/Calendar.aspx?EID=8064": {
+      "title": "Calendar • City Council Special Meeting",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=8064"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=8064"
+          ]
+        },
+        "calendar": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofpensacola.com/Calendar.aspx?EID=8064"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-435-1603",
+        "850-435-1611",
+        "850-435-1666",
+        "850-436-5555"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    }
+  }
+}

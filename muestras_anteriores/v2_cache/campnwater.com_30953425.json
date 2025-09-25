@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "url": "http://www.campnwater.com/contact",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nHome\nPark Map\nArea Attractions\nRules & Regulations\nGallery\nBlog\nReservations\nCall Now\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nContact\nnavigation placeholders\nContact Us\nCONTACT US\nPhone:   (352) 628-2000\n(352\nEmail:   Manager@CampnWater.com\nAddress:\n11465 W Priest Ln, Homosassa, FL, 34448, United States\nHome\nPark Map\nArea Attractions\nRules & Regulations\nGallery\nBlog\nReservations\nOutdoor Resort\n© 2025\nAll Rights Reserved | Camp 'N' Water Outdoor Resort\nAdd full CSS and Javascript before the close tag of the body if needed\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: f0bac6b6\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": [
+        "campnwatermanager@gmail.com",
+        "manager@campnwater.com"
+      ]
+    }
+  ],
+  "all_links": [
+    "http://www.campnwater.com/contact",
+    "http://www.campnwater.com/cabins",
+    "http://www.campnwater.com/",
+    "http://www.campnwater.com/blog",
+    "http://www.campnwater.com/rules-regulations",
+    "http://www.campnwater.com/#WhatsNearby",
+    "http://www.campnwater.com/#ParkMap",
+    "http://www.campnwater.com/gallery"
+  ],
+  "candidate_links": [
+    "http://www.campnwater.com/contact"
+  ],
+  "visited": [
+    "http://www.campnwater.com/contact.html",
+    "http://www.campnwater.com/about",
+    "http://www.campnwater.com/contact",
+    "http://www.campnwater.com/staff",
+    "http://www.campnwater.com/team",
+    "http://www.campnwater.com/board",
+    "http://www.campnwater.com/directory",
+    "http://www.campnwater.com/events",
+    "http://www.campnwater.com/sitemap.xml",
+    "http://www.campnwater.com/council",
+    "http://www.campnwater.com/leadership",
+    "http://www.campnwater.com/management",
+    "http://www.campnwater.com/producers",
+    "http://www.campnwater.com/support",
+    "http://www.campnwater.com/crew",
+    "http://www.campnwater.com/members",
+    "http://www.campnwater.com/bios",
+    "http://www.campnwater.com/people",
+    "http://www.campnwater.com/artists",
+    "http://www.campnwater.com/musicians",
+    "http://www.campnwater.com/faculty",
+    "http://www.campnwater.com/administration",
+    "http://www.campnwater.com/contact"
+  ],
+  "base_url": "http://www.campnwater.com/contact.html"
+}

@@ -1,0 +1,140 @@
+{
+  "timestamp": "2025-09-17T03:45:49.856665",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-17T03:45:45.835149",
+      "company": {
+        "name": null,
+        "domain": "valiantaircommand.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 3929462,
+          "description": "Founded in the 1970's, The Valiant Air Command Warbird Museum has a continually growing collection of over 50+ historic warbirds from the beginnings of aviation to the present day. The VAC is a 501(3)c educational organization dedicated to the preservation of, education about and commemoration of Warbirds from all eras and the men and women who flew, maintained and fought in them.",
+          "domain": "valiantaircommand.com",
+          "employees": "11 - 50",
+          "founded": "1977",
+          "fqdn": "www.valiantaircommand.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/3/2e/32e91e2160bc4bd894614a00be054e15",
+          "name": "Valiant Air Command Warbird Museum",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/valiant-air-command"
+            }
+          },
+          "address": "North America United States US 6600 Tico Rd; Titusville, Florida 32780-8009, US ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 6600 Tico Rd; Titusville, Florida 32780-8009, US ",
+            "state": "",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "6600 Tico Rd; Titusville, Florida 32780-8009, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8412,
+                "description": "Museums and art galleries"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 712120,
+                "description": "Historical Sites"
+              }
+            ]
+          },
+          "website": "https://valiantaircommand.com",
+          "specialities": [
+            "air shows",
+            "aircraft",
+            "aviation",
+            "breakfast",
+            "history",
+            "museum",
+            "photography",
+            "restoration",
+            "videography"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-17T03:45:47.082494",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-17T03:45:49.850529",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

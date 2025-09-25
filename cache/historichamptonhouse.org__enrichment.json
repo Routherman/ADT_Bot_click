@@ -1,0 +1,144 @@
+{
+  "timestamp": "2025-09-22T21:25:57.830416",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T21:25:54.394349",
+      "company": {
+        "name": null,
+        "domain": "historichamptonhouse.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 27104303,
+          "description": "The Historic Hampton House Community Trust, Inc. is a 501c3 non-profit organization dedicated to preserving the unique history that is represented by the Historic Hampton House and providing a forum for educational, cultural, and historic activities for community residents and visitors to Greater Miami.",
+          "domain": "historichamptonhouse.org",
+          "employees": "1 - 10",
+          "founded": "2002",
+          "fqdn": "www.historichamptonhouse.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/3/b7/3b7ed57f42535f67095218f84c87e557",
+          "name": "The Historic Hampton House",
+          "revenueRange": [],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/historichamptonhouse"
+            }
+          },
+          "address": "Miami North America United States US 4240 NW 27th Avenue; Miami, Florida 33142, US Florida FL -80.19365692138672,25.774269104003906 ",
+          "location": {
+            "city": "Miami",
+            "country": "United States",
+            "fullLocation": "Miami North America United States US 4240 NW 27th Avenue; Miami, Florida 33142, US Florida FL -80.19365692138672,25.774269104003906 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "4240 NW 27th Avenue; Miami, Florida 33142, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8412,
+                "description": "Museums and art galleries"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 712120,
+                "description": "Historical Sites"
+              }
+            ]
+          },
+          "website": "https://historichamptonhouse.org",
+          "specialities": [
+            "activity centre",
+            "art",
+            "black history",
+            "cultural center",
+            "destination travel",
+            "historic hotel",
+            "history",
+            "landmark",
+            "legacy",
+            "luxury hotel",
+            "music",
+            "things to do",
+            "tourism",
+            "tourist",
+            "travel experiences",
+            "venue rental"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T21:25:55.487214",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T21:25:57.822378",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

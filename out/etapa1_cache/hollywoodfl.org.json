@@ -1,0 +1,710 @@
+{
+  "site_url": "https://hollywoodfl.org/",
+  "domain": "hollywoodfl.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://hollywoodfl.org/",
+    "https://hollywoodfl.org/9/Visit",
+    "https://hollywoodfl.org/directory.aspx",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=14&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=16&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=17&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=18&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=19&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=20&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=21&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=24&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=25&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=27&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=28&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=30&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=10&day=1&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=10&day=2&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=10&day=4&CID=27",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10884",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10497",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10885",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10654",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10886",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10887",
+    "https://hollywoodfl.org/Calendar.aspx?EID=11108",
+    "https://hollywoodfl.org/Calendar.aspx?EID=11118",
+    "https://hollywoodfl.org/calendar.aspx?CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=15&CID=28",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=17&CID=28",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=25&CID=28",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10715",
+    "https://hollywoodfl.org/Calendar.aspx?EID=11142",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10599",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10716",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10779",
+    "https://hollywoodfl.org/calendar.aspx?CID=28",
+    "https://hollywoodfl.org/directory"
+  ],
+  "candidates": [
+    "https://hollywoodfl.org/Calendar.aspx?EID=10497",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10599",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10654",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10715",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10716",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10779",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10884",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10885",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10886",
+    "https://hollywoodfl.org/Calendar.aspx?EID=10887",
+    "https://hollywoodfl.org/Calendar.aspx?EID=11108",
+    "https://hollywoodfl.org/Calendar.aspx?EID=11118",
+    "https://hollywoodfl.org/Calendar.aspx?EID=11142",
+    "https://hollywoodfl.org/calendar.aspx?CID=27",
+    "https://hollywoodfl.org/calendar.aspx?CID=28",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=10&day=1&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=10&day=2&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=10&day=3&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=10&day=4&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=14&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=15&CID=28",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=16&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=17&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=17&CID=28",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=18&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=19&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=20&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=21&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=24&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=25&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=25&CID=28",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=26&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=27&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=28&CID=27",
+    "https://hollywoodfl.org/calendar.aspx?view=list&year=2025&month=9&day=30&CID=27",
+    "https://hollywoodfl.org/9/Visit",
+    "https://hollywoodfl.org/directory",
+    "https://hollywoodfl.org/directory.aspx",
+    "https://hollywoodfl.org/"
+  ],
+  "per_page": {
+    "https://hollywoodfl.org/Calendar.aspx?EID=10497": {
+      "title": "Calendar • Community Court- Hollywood",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10497"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10497"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10497"
+          ]
+        }
+      },
+      "emails": [
+        "citizenservices@hollywoodfl.org"
+      ],
+      "phones": [
+        "954.764.4357",
+        "954.921.3046",
+        "954.967.4357"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://hollywoodfl.org/Calendar.aspx?EID=10599": {
+      "title": "Calendar • Regular City Commission Meeting",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10599"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10599"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10599"
+          ]
+        }
+      },
+      "emails": [
+        "citizenservices@hollywoodfl.org"
+      ],
+      "phones": [
+        "954.764.4357",
+        "954.921.3046",
+        "954.967.4357"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://hollywoodfl.org/Calendar.aspx?EID=10654": {
+      "title": "Calendar • Broward County Property Appraiser's Outreach",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10654"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10654"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10654"
+          ]
+        }
+      },
+      "emails": [
+        "citizenservices@hollywoodfl.org"
+      ],
+      "phones": [
+        "954.764.4357",
+        "954.921.3046",
+        "954.967.4357"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://hollywoodfl.org/Calendar.aspx?EID=10715": {
+      "title": "Calendar • FY 2026 First Public Budget Hearing",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10715"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10715"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10715"
+          ]
+        }
+      },
+      "emails": [
+        "citizenservices@hollywoodfl.org"
+      ],
+      "phones": [
+        "954.764.4357",
+        "954.921.3046",
+        "954.967.4357"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://hollywoodfl.org/Calendar.aspx?EID=10716": {
+      "title": "Calendar • FY 2026 Second Public Budget Hearing",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10716"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10716"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10716"
+          ]
+        }
+      },
+      "emails": [
+        "citizenservices@hollywoodfl.org"
+      ],
+      "phones": [
+        "954.764.4357",
+        "954.921.3046",
+        "954.967.4357"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://hollywoodfl.org/Calendar.aspx?EID=10779": {
+      "title": "Calendar • FY 2026 Special CRA Board Budget Hearing",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10779"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10779"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10779"
+          ]
+        }
+      },
+      "emails": [
+        "citizenservices@hollywoodfl.org"
+      ],
+      "phones": [
+        "954.764.4357",
+        "954.921.3046",
+        "954.967.4357"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://hollywoodfl.org/Calendar.aspx?EID=10884": {
+      "title": "Calendar • Live Music at Hollywood Beach Theatre",
+      "band_hits": {
+        "live music": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10884"
+          ]
+        },
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10884"
+          ]
+        },
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10884"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10884"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10884"
+          ]
+        },
+        "calendar": {
+          "total": 17,
+          "zones": {
+            "title": 1,
+            "body": 16,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10884"
+          ]
+        }
+      },
+      "emails": [
+        "citizenservices@hollywoodfl.org"
+      ],
+      "phones": [
+        "954.764.4357",
+        "954.921.3046",
+        "954.967.4357"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://hollywoodfl.org/Calendar.aspx?EID=10885": {
+      "title": "Calendar • Live Music at Hollywood Beach Theatre",
+      "band_hits": {
+        "live music": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10885"
+          ]
+        },
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10885"
+          ]
+        },
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10885"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10885"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10885"
+          ]
+        },
+        "calendar": {
+          "total": 17,
+          "zones": {
+            "title": 1,
+            "body": 16,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10885"
+          ]
+        }
+      },
+      "emails": [
+        "citizenservices@hollywoodfl.org"
+      ],
+      "phones": [
+        "954.764.4357",
+        "954.921.3046",
+        "954.967.4357"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://hollywoodfl.org/Calendar.aspx?EID=10886": {
+      "title": "Calendar • Live Music at Hollywood Beach Theatre",
+      "band_hits": {
+        "live music": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10886"
+          ]
+        },
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10886"
+          ]
+        },
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10886"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10886"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10886"
+          ]
+        },
+        "calendar": {
+          "total": 17,
+          "zones": {
+            "title": 1,
+            "body": 16,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hollywoodfl.org/Calendar.aspx?EID=10886"
+          ]
+        }
+      },
+      "emails": [
+        "citizenservices@hollywoodfl.org"
+      ],
+      "phones": [
+        "954.764.4357",
+        "954.921.3046",
+        "954.967.4357"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    }
+  }
+}

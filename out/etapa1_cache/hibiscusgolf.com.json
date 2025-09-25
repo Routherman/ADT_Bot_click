@@ -1,0 +1,792 @@
+{
+  "site_url": "https://hibiscusgolf.com/",
+  "domain": "hibiscusgolf.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://hibiscusgolf.com/",
+    "https://www.hibiscusgolf.com/about-us/",
+    "https://www.hibiscusgolf.com/golf/faq/",
+    "https://www.hibiscusgolf.com/events/",
+    "https://www.hibiscusgolf.com/events/upcoming-events/",
+    "https://www.hibiscusgolf.com/events/community-connection/",
+    "https://www.hibiscusgolf.com/contact-us/",
+    "https://www.hibiscusgolf.com/tee-times/",
+    "https://www.hibiscusgolf.com/",
+    "https://www.hibiscusgolf.com/golf/",
+    "https://www.hibiscusgolf.com/golf/summer-rates/",
+    "https://www.hibiscusgolf.com/golf/summer-season-packages/",
+    "https://www.hibiscusgolf.com/golf/photo-gallery/",
+    "https://www.hibiscusgolf.com/instruction/",
+    "https://www.hibiscusgolf.com/instruction/bio-for-dennis-meyer/",
+    "https://www.hibiscusgolf.com/facilities/",
+    "https://www.hibiscusgolf.com/facilities/driving-range/",
+    "https://www.hibiscusgolf.com/facilities/pitching-green/",
+    "https://www.hibiscusgolf.com/e-club/"
+  ],
+  "candidates": [
+    "https://www.hibiscusgolf.com/contact-us/",
+    "https://www.hibiscusgolf.com/about-us/",
+    "https://www.hibiscusgolf.com/events/",
+    "https://www.hibiscusgolf.com/events/community-connection/",
+    "https://www.hibiscusgolf.com/events/upcoming-events/",
+    "https://www.hibiscusgolf.com/golf/faq/",
+    "https://hibiscusgolf.com/",
+    "https://hibiscusgolf.com/contact",
+    "https://hibiscusgolf.com/contact/",
+    "https://hibiscusgolf.com/contact-us",
+    "https://hibiscusgolf.com/contact-us/",
+    "https://hibiscusgolf.com/contactus",
+    "https://hibiscusgolf.com/contactus/",
+    "https://hibiscusgolf.com/about",
+    "https://hibiscusgolf.com/about/",
+    "https://hibiscusgolf.com/about-us",
+    "https://hibiscusgolf.com/about-us/",
+    "https://hibiscusgolf.com/visit",
+    "https://hibiscusgolf.com/visit/",
+    "https://hibiscusgolf.com/location",
+    "https://hibiscusgolf.com/location/",
+    "https://hibiscusgolf.com/directions",
+    "https://hibiscusgolf.com/directions/"
+  ],
+  "per_page": {
+    "https://www.hibiscusgolf.com/contact-us/": {
+      "title": "Contact Us - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hibiscusgolf.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 325-2630",
+        "(239) 774-0088",
+        "(239) 774-3559"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://www.hibiscusgolf.com/about-us/": {
+      "title": "About Us - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hibiscusgolf.com/about-us/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hibiscusgolf.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://www.hibiscusgolf.com/events/": {
+      "title": "Events - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 1,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hibiscusgolf.com/events/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hibiscusgolf.com/events/"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://www.hibiscusgolf.com/events/community-connection/": {
+      "title": "Community Connection - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hibiscusgolf.com/events/community-connection/"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://www.hibiscusgolf.com/events/upcoming-events/": {
+      "title": "Upcoming Events - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hibiscusgolf.com/events/upcoming-events/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hibiscusgolf.com/events/upcoming-events/"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://www.hibiscusgolf.com/golf/faq/": {
+      "title": "FAQ - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hibiscusgolf.com/golf/faq/"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 565-5954",
+        "(239) 774-0088",
+        "239-325-2630"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/": {
+      "title": "Welcome to Hibiscus Golf! - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/contact": {
+      "title": "Contact Us - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 325-2630",
+        "(239) 774-0088",
+        "(239) 774-3559"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/contact/": {
+      "title": "Contact Us - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 325-2630",
+        "(239) 774-0088",
+        "(239) 774-3559"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/contact-us": {
+      "title": "Contact Us - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 325-2630",
+        "(239) 774-0088",
+        "(239) 774-3559"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/contact-us/": {
+      "title": "Contact Us - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 325-2630",
+        "(239) 774-0088",
+        "(239) 774-3559"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/contactus": {
+      "title": "Page not found - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/contactus/": {
+      "title": "Page not found - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/about": {
+      "title": "About Us - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/about"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/about/": {
+      "title": "About Us - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/about/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/about-us": {
+      "title": "About Us - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/about-us"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/about-us/": {
+      "title": "About Us - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/about-us/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/visit": {
+      "title": "Page not found - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/visit/": {
+      "title": "Page not found - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/location": {
+      "title": "Page not found - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/location/": {
+      "title": "Page not found - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/directions": {
+      "title": "Page not found - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    },
+    "https://hibiscusgolf.com/directions/": {
+      "title": "Page not found - Hibiscus Golf Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hibiscusgolf.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@hibiscusgolf.com"
+      ],
+      "phones": [
+        "(239) 774-0088"
+      ],
+      "socials": [
+        "https://www.facebook.com/HibiscusGolf/"
+      ]
+    }
+  }
+}

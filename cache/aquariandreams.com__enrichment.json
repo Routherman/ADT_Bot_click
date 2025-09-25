@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-09-23T02:24:30.872382",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T02:24:27.305738",
+      "company": {
+        "name": null,
+        "domain": "aquariandreams.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 4448115,
+          "description": "Aquarian Dreams is a positive lifestyle store with classes and community services for healing & Higher Consciousness, located in Indialantic (next to Melbourne, Florida) on the eastern coast. Please come visit us here the next time you are traveling through Florida.",
+          "domain": "aquariandreams.com",
+          "employees": "1 - 10",
+          "fqdn": "www.aquariandreams.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/3/f0/3f0a44f4b61421a540907c043375acd7",
+          "name": "Aquarian Dreams",
+          "revenueRange": [],
+          "mainIndustry": "Retail",
+          "subIndustry": "Other",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/aquarian-dreams"
+            }
+          },
+          "address": "North America United States US 414 N Miramar Ave; Indialantic, Florida 32903-3126, US ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 414 N Miramar Ave; Indialantic, Florida 32903-3126, US ",
+            "state": "",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "414 N Miramar Ave; Indialantic, Florida 32903-3126, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5999,
+                "description": "Miscellaneous retail stores, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 459999,
+                "description": "All Other Miscellaneous Retailers"
+              }
+            ]
+          },
+          "website": "https://aquariandreams.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T02:24:28.435408",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T02:24:30.869022",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

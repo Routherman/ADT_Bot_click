@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-19T10:31:47.776450",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T10:31:44.068748",
+      "company": {
+        "name": null,
+        "domain": "shop.frostscience.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 83801,
+          "description": "In 1949, The Junior League of Miami's \"Project Finding Committee\" determined that Dade County's children needed a science museum. The Junior Museum of Miami, a private non-profit organization, was established in 1950 in a house on the corner of Biscayne Boulevard and 26th Street. The Junior Museum expanded so quickly that in 1952 it was forced to move to the Miami Women's Club building on Bayshore Drive. It was then christened the Museum of Science and Natural History.\n\nThe institution, however, again began outgrowing its new space. By 1960, the first building of the community's new science museum opened its doors. The facility, located on three acres of the historic Vizcaya complex, was built and furnished rent-free by the County.\n\nLate 1966 saw the construction of a Space Transit Planetarium which soon became the leading facility of its kind in the world. Its activities now include international television programming.\n\nIn 1989, the Museum's lease agreement with the County for the Vizcaya site was extended for 99 years.\n\nDuring the last decade, the Museum has expanded to provide space for 4,000 member families, over 250,000 annual visitors, one of the largest summer science camps in the nation (ages 3 to 14) and countless additional exhibits, collections and activities. The yearly operating budget has grown to 2.5 million dollars.\n\nPresent science education needs in South Florida again require expansion of these facilities. Though the history of the institution can be charted by the growth of its facility, this story is ultimately one of people. For almost 50 years, the Miami Science Museum and Space Transit Planetarium has been nurtured by a legion of tireless volunteers and generous contributors. Their abundance of vision and dedication has rarely been equaled by any other civic group in the city's history. Here, the greatness of the accomplishment can be found.",
+          "domain": "frostscience.org",
+          "employees": "51 - 200",
+          "founded": "1949",
+          "fqdn": "www.frostscience.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/4/e8/4e82e41406033b3c39636efdaaa39fbb",
+          "name": "Phillip and Patricia Frost Museum of Science",
+          "revenueRange": [],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/miami-science-museum"
+            }
+          },
+          "address": "Miami North America United States US 1101 Biscayne Blvd.; Miami, FL 33132, US Florida FL -80.19365692138672,25.774269104003906 ",
+          "location": {
+            "city": "Miami",
+            "country": "United States",
+            "fullLocation": "Miami North America United States US 1101 Biscayne Blvd.; Miami, FL 33132, US Florida FL -80.19365692138672,25.774269104003906 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1101 Biscayne Blvd.; Miami, FL 33132, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8412,
+                "description": "Museums and art galleries"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 712120,
+                "description": "Historical Sites"
+              }
+            ]
+          },
+          "website": "https://frostscience.org",
+          "specialities": [
+            "informal science education"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T10:31:45.209493",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T10:31:47.771028",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

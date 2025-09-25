@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "url": "http://www.jaxxfl.com/palmetto-jaxx-sports-bar-and-grill-events",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "Events\nWe are updating our events\nPlease stay tuned\nEvents\nWe are updating our events\nPlease stay tuned",
+      "emails": [
+        "email@example.com"
+      ]
+    },
+    {
+      "url": "https://jaxxfl.com/-events?source=header&spot_id=170283&destination=events&promotion=kentucky_derby",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "Events\nWe are updating our events\nPlease stay tuned\nEvents\nWe are updating our events\nPlease stay tuned",
+      "emails": [
+        "email@example.com"
+      ]
+    },
+    {
+      "url": "https://jaxxfl.com/-events?source=header&spot_id=170283&destination=events&promotion=us_open",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "Events\nWe are updating our events\nPlease stay tuned\nEvents\nWe are updating our events\nPlease stay tuned",
+      "emails": [
+        "email@example.com"
+      ]
+    }
+  ],
+  "all_links": [
+    "http://www.jaxxfl.com/palmetto-jaxx-sports-bar-and-grill-drink-menu",
+    "http://www.jaxxfl.com/palmetto-jaxx-sports-bar-and-grill-catering",
+    "http://www.jaxxfl.com/palmetto-jaxx-sports-bar-and-grill-happy-hours-specials",
+    "http://www.jaxxfl.com/palmetto-jaxx-sports-bar-and-grill-events",
+    "https://jaxxfl.com/-events?source=header&spot_id=170283&destination=events&promotion=kentucky_derby",
+    "http://www.jaxxfl.com/",
+    "http://www.jaxxfl.com/palmetto-jaxx-sports-bar-and-grill-party",
+    "https://jaxxfl.com/-events?source=header&spot_id=170283&destination=events&promotion=us_open",
+    "http://www.jaxxfl.com/accessibility-page-01",
+    "http://www.jaxxfl.com/palmetto-jaxx-sports-bar-and-grill-food-menu"
+  ],
+  "candidate_links": [
+    "http://www.jaxxfl.com/palmetto-jaxx-sports-bar-and-grill-events",
+    "https://jaxxfl.com/-events?source=header&spot_id=170283&destination=events&promotion=kentucky_derby",
+    "https://jaxxfl.com/-events?source=header&spot_id=170283&destination=events&promotion=us_open"
+  ],
+  "visited": [
+    "http://www.jaxxfl.com/",
+    "http://www.jaxxfl.com/about",
+    "http://www.jaxxfl.com/contact",
+    "http://www.jaxxfl.com/staff",
+    "http://www.jaxxfl.com/team",
+    "http://www.jaxxfl.com/board",
+    "http://www.jaxxfl.com/directory",
+    "http://www.jaxxfl.com/events",
+    "http://www.jaxxfl.com/sitemap.xml",
+    "http://www.jaxxfl.com/council",
+    "http://www.jaxxfl.com/leadership",
+    "http://www.jaxxfl.com/management",
+    "http://www.jaxxfl.com/producers",
+    "http://www.jaxxfl.com/support",
+    "http://www.jaxxfl.com/crew",
+    "http://www.jaxxfl.com/members",
+    "http://www.jaxxfl.com/bios",
+    "http://www.jaxxfl.com/people",
+    "http://www.jaxxfl.com/artists",
+    "http://www.jaxxfl.com/musicians",
+    "http://www.jaxxfl.com/faculty",
+    "http://www.jaxxfl.com/administration",
+    "http://www.jaxxfl.com/palmetto-jaxx-sports-bar-and-grill-events",
+    "https://jaxxfl.com/-events?source=header&spot_id=170283&destination=events&promotion=kentucky_derby",
+    "https://jaxxfl.com/-events?source=header&spot_id=170283&destination=events&promotion=us_open"
+  ],
+  "base_url": "http://www.jaxxfl.com/"
+}

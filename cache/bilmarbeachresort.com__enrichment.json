@@ -1,0 +1,136 @@
+{
+  "timestamp": "2025-09-20T02:06:29.874021",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T02:06:25.979999",
+      "company": {
+        "name": null,
+        "domain": "bilmarbeachresort.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 3903341,
+          "description": "Perfectly positioned on the beautiful Gulf coastline in Treasure Island, Florida the Bilmar Beach Resort is the ideal location for both corporate and leisure guests. A spectacular renovation was completed in January 2018 with new rooms that feature a fresh “Beach Chic” décor, Studios with expanded bathroom areas with back-lit mirrors, and new options with walk-in showers.  Each guest room has been updated with a 55-inch Samsung HDTV and the suites and Penthouses now have 65-inch HDTVs. The meeting and event venues have been updated and refreshed too. The Bilmar Sales Team would be happy to schedule site tours Monday-Saturday. The exterior of the hotel also has a new look featuring dramatic vertical elements and cool Caribbean blues.  What has not changed is our commitment to hospitality by exceeding our guests experience on every level. For more information please call 727-360-5531.",
+          "domain": "bilmarbeachresort.com",
+          "employees": "11 - 50",
+          "founded": "1961",
+          "fqdn": "www.bilmarbeachresort.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/0/24/024cfd359927b2d82cd285eb9cc9024f",
+          "name": "Bilmar Beach Resort",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/bilmar-beach-resort"
+            }
+          },
+          "address": "North America United States US 10650 Gulf Blvd; Treasure Island, Florida 33706-4859, US ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 10650 Gulf Blvd; Treasure Island, Florida 33706-4859, US ",
+            "state": "",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "10650 Gulf Blvd; Treasure Island, Florida 33706-4859, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://bilmarbeachresort.com",
+          "specialities": [
+            "catering",
+            "executive",
+            "free parking",
+            "group discounts",
+            "state of the art fitness center"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T02:06:27.207030",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T02:06:29.870122",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

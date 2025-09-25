@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-18T08:51:27.035160",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-18T08:51:23.119031",
+      "company": {
+        "name": null,
+        "domain": "sangennarofeast.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 5998442,
+          "description": "San Gennaro Feast is a marketing and advertising company based out of 7270 Serrano Ter, Delray Beach, Florida, United States.",
+          "domain": "sangennarofeast.com",
+          "employees": "1 - 10",
+          "fqdn": "www.sangennarofeast.com",
+          "logoUrl": "https://logo.lusha.co/d/company_5998442_logo.svg",
+          "name": "San Gennaro Feast",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Business Services",
+          "subIndustry": "Advertising & Marketing Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/san-gennaro-feast"
+            }
+          },
+          "address": "North America United States US 7270 Serrano Ter; Delray Beach, Florida 33446-2200, US ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 7270 Serrano Ter; Delray Beach, Florida 33446-2200, US ",
+            "state": "",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "7270 Serrano Ter; Delray Beach, Florida 33446-2200, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7311,
+                "description": "Advertising agencies"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 541810,
+                "description": "Advertising Agencies"
+              }
+            ]
+          },
+          "website": "https://sangennarofeast.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-18T08:51:24.342479",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-18T08:51:27.031990",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-09-20T01:29:41.786662",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T01:29:38.091476",
+      "company": {
+        "name": null,
+        "domain": "sunoutdoors.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 6501395,
+          "description": "Sherkston Shores offers 560 acres of beautiful landscape, topped off with 2.5 miles of sandy beachfront. 90 minutes away from the Greater Toronto Area.",
+          "domain": "sunoutdoors.com",
+          "employees": "11 - 50",
+          "fqdn": "www.sunoutdoors.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2023/month=11/day=16/j_lp1hn88gss4tdfbcr.2a471a512ad9ff853a022df289a683828b32e961.file_lp1iuh181s5680ckvn.logo_cached.svg",
+          "name": "Sherkston Shores Beach Resort and Campground",
+          "revenueRange": [],
+          "mainIndustry": "Real Estate",
+          "subIndustry": "Real Estate",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/sherkston-shores-beach-resort-and-campground"
+            }
+          },
+          "address": "Port Colborne North America Canada CA 490 Empire Rd; Port Colborne, ON L0S 1R0, CA -79.23287963867188,42.90011978149414 ",
+          "location": {
+            "city": "Port Colborne",
+            "country": "Canada",
+            "fullLocation": "Port Colborne North America Canada CA 490 Empire Rd; Port Colborne, ON L0S 1R0, CA -79.23287963867188,42.90011978149414 ",
+            "state": "",
+            "stateCode": "CA",
+            "countryIso2": "CA",
+            "rawLocation": "490 Empire Rd; Port Colborne, ON L0S 1R0, CA"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 6531,
+                "description": "Real estate agents and managers"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 531210,
+                "description": "Offices of Real Estate Agents and Brokers"
+              }
+            ]
+          },
+          "website": "https://sunoutdoors.com/ontario/sun-retreats-sherkston-shores"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T01:29:39.320322",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T01:29:41.777966",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

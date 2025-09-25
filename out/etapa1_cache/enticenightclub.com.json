@@ -1,0 +1,200 @@
+{
+  "site_url": "https://enticenightclub.com/",
+  "domain": "enticenightclub.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://enticenightclub.com/",
+    "https://www.enticenightclub.com/venue-rental",
+    "https://www.enticenightclub.com/contact-8",
+    "https://www.enticenightclub.com/event-list",
+    "https://www.enticenightclub.com/reservations",
+    "https://www.enticenightclub.com",
+    "https://www.enticenightclub.com/general-information",
+    "https://www.enticenightclub.com/entertainment",
+    "https://www.enticenightclub.com/vip-service",
+    "https://www.enticenightclub.com/gallery"
+  ],
+  "candidates": [
+    "https://www.enticenightclub.com/contact-8",
+    "https://www.enticenightclub.com/event-list",
+    "https://www.enticenightclub.com/reservations",
+    "https://www.enticenightclub.com/venue-rental",
+    "https://enticenightclub.com/"
+  ],
+  "per_page": {
+    "https://www.enticenightclub.com/contact-8": {
+      "title": "Contact | Entice Nightclub",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.enticenightclub.com/event-list": {
+      "title": "Events | Entice Nightclub",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.enticenightclub.com/event-list"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.enticenightclub.com/reservations": {
+      "title": "Gallery | Entice Nightclub",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.enticenightclub.com/venue-rental": {
+      "title": "Venue Rental | Entice Nightclub",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.enticenightclub.com/venue-rental"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.enticenightclub.com/venue-rental"
+          ]
+        },
+        "sound system": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.enticenightclub.com/venue-rental"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.enticenightclub.com/venue-rental"
+          ]
+        },
+        "live performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.enticenightclub.com/venue-rental"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(863) 236-0333"
+      ],
+      "socials": []
+    },
+    "https://enticenightclub.com/": {
+      "title": "Entice Nightclub | Hard Rock | Hollywood",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://enticenightclub.com/"
+          ]
+        }
+      },
+      "emails": [
+        "garrett@enticenightclub.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Enticeultralounge",
+        "https://www.instagram.com/enticeultralounge/"
+      ]
+    }
+  }
+}

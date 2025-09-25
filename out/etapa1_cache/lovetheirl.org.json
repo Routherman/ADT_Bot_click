@@ -1,0 +1,956 @@
+{
+  "site_url": "https://lovetheirl.org/",
+  "domain": "lovetheirl.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://lovetheirl.org/",
+    "https://lovetheirl.org/about/",
+    "https://lovetheirl.org/faqs/",
+    "https://lovetheirl.org/about/board-of-directors/",
+    "https://lovetheirl.org/about/annual-members/",
+    "https://lovetheirl.org/about/lagoon-house/",
+    "https://lovetheirl.org/contact/",
+    "https://lovetheirl.org/events/lagoon-at-noon/",
+    "https://lovetheirl.org/events/",
+    "https://lovetheirl.org/science/mangrove-nursery/",
+    "https://lovetheirl.org/cart/",
+    "https://lovetheirl.org/low-impact-living/",
+    "https://lovetheirl.org/2024-report/",
+    "https://lovetheirl.org/science/",
+    "https://lovetheirl.org/science/lagoonwatch/",
+    "https://lovetheirl.org/science/action-assemblies/",
+    "https://lovetheirl.org/science/restoration/"
+  ],
+  "candidates": [
+    "https://lovetheirl.org/contact/",
+    "https://lovetheirl.org/about/",
+    "https://lovetheirl.org/about/annual-members/",
+    "https://lovetheirl.org/about/board-of-directors/",
+    "https://lovetheirl.org/about/lagoon-house/",
+    "https://lovetheirl.org/events/",
+    "https://lovetheirl.org/events/lagoon-at-noon/",
+    "https://lovetheirl.org/faqs/",
+    "https://lovetheirl.org/",
+    "https://lovetheirl.org/contact",
+    "https://lovetheirl.org/contact-us",
+    "https://lovetheirl.org/contact-us/",
+    "https://lovetheirl.org/contactus",
+    "https://lovetheirl.org/contactus/",
+    "https://lovetheirl.org/about",
+    "https://lovetheirl.org/about-us",
+    "https://lovetheirl.org/about-us/",
+    "https://lovetheirl.org/visit",
+    "https://lovetheirl.org/visit/",
+    "https://lovetheirl.org/location",
+    "https://lovetheirl.org/location/",
+    "https://lovetheirl.org/directions",
+    "https://lovetheirl.org/directions/"
+  ],
+  "per_page": {
+    "https://lovetheirl.org/contact/": {
+      "title": "Contact Us | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/contact/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321-725-7775"
+      ],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/about/": {
+      "title": "About | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/about/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/about/annual-members/": {
+      "title": "Annual Members | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/about/annual-members/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/about/annual-members/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/about/board-of-directors/": {
+      "title": "Board of Directors | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/about/board-of-directors/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/about/board-of-directors/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/about/lagoon-house/": {
+      "title": "Ted Moorhead Lagoon House | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/about/lagoon-house/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/about/lagoon-house/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321.725.7775"
+      ],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/events/": {
+      "title": "Events | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/events/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/events/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg",
+        "https://www.youtube.com/playlist"
+      ]
+    },
+    "https://lovetheirl.org/events/lagoon-at-noon/": {
+      "title": "Lagoon at Noon | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/events/lagoon-at-noon/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/events/lagoon-at-noon/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg",
+        "https://www.youtube.com/playlist"
+      ]
+    },
+    "https://lovetheirl.org/faqs/": {
+      "title": "FAQs | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/faqs/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/faqs/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 254-8843",
+        "(321) 725-7775",
+        "(888) 404-3922",
+        "407-897-4100",
+        "561-681-6600",
+        "800-636-0511",
+        "855-305-3903",
+        "866-300-9399",
+        "888-404-3922",
+        "888-979-4253"
+      ],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/": {
+      "title": "Homepage | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg",
+        "https://www.youtube.com/watch"
+      ]
+    },
+    "https://lovetheirl.org/contact": {
+      "title": "Contact Us | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/contact"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "321-725-7775"
+      ],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/contact-us": {
+      "title": "Page not found | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/contact-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/contact-us/": {
+      "title": "Page not found | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/contact-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/contactus": {
+      "title": "Page not found | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/contactus"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/contactus/": {
+      "title": "Page not found | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/contactus/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/about": {
+      "title": "About | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/about"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/about-us": {
+      "title": "Page not found | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/about-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/about-us/": {
+      "title": "Page not found | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/about-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/visit": {
+      "title": "Page not found | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/visit"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/visit/": {
+      "title": "Page not found | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/visit/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/location": {
+      "title": "Page not found | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/location"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/location/": {
+      "title": "Page not found | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/location/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/directions": {
+      "title": "Page not found | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/directions"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    },
+    "https://lovetheirl.org/directions/": {
+      "title": "Page not found | Marine Resources Council",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/directions/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://lovetheirl.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://instagram.com/marineresourcescouncil/",
+        "https://www.facebook.com/MarineResourcesCouncil",
+        "https://www.youtube.com/channel/UCcPQ8sGe0jMDI1ZDTczAUrg"
+      ]
+    }
+  }
+}

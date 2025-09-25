@@ -1,0 +1,132 @@
+{
+  "timestamp": "2025-09-25T03:47:43.881381",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T03:47:40.157168",
+      "company": {
+        "name": null,
+        "domain": "lanierislands.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 542122,
+          "description": "Situated along the shores of Lake Sidney Lanier, our resort features 1,500 scenic acres, beckoning to families and corporate groups alike. Encompassing immense natural beauty in an intimate setting, our luxury resort and hotel in Buford, GA is perfect for family vacations, romantic escapes, business conferences, weddings and more.",
+          "domain": "lanierislands.com",
+          "employees": "201 - 500",
+          "founded": "2005",
+          "fqdn": "www.lanierislands.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/8/17/8178fa5535a7538de42f2dab3cb1ab12",
+          "name": "Lanier Islands Resort",
+          "revenueRange": [
+            50000000,
+            100000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/lake-lanier-islands-resort"
+            }
+          },
+          "address": "Buford North America United States US 7000 Lanier Islands Parkway; Buford, GA 30518, US Georgia GA -84.00434875488281,34.12065887451172 ",
+          "location": {
+            "city": "Buford",
+            "country": "United States",
+            "fullLocation": "Buford North America United States US 7000 Lanier Islands Parkway; Buford, GA 30518, US Georgia GA -84.00434875488281,34.12065887451172 ",
+            "state": "Georgia",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "7000 Lanier Islands Parkway; Buford, GA 30518, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://lanierislands.com",
+          "specialities": [
+            "hospitality"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T03:47:41.391881",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T03:47:43.877024",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

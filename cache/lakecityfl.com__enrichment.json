@@ -1,0 +1,127 @@
+{
+  "timestamp": "2025-09-19T23:34:08.416983",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T23:34:04.597464",
+      "company": {
+        "name": null,
+        "domain": "lakecityfl.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 9415385,
+          "description": "Visit Lake City Florida, the Columbia County Tourist Development, showcases the region’s natural springs, historic treasures, and welcoming Southern charm. As Florida’s Gateway, it invites visitors to explore scenic trails, vibrant festivals, and authentic local culture, offering year-round adventures and memorable experiences in the heart of North Florida.",
+          "domain": "lakecityfl.com",
+          "employees": "1 - 10",
+          "founded": "1984",
+          "fqdn": "www.lakecityfl.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/5/56/5565e432c40cc04bcaeefba7b1ce8d97",
+          "name": "Visit Lake City, FL",
+          "revenueRange": [],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Travel Arrangements",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/columbia-county-tourist-development"
+            }
+          },
+          "address": "Lake City North America United States US 971 W Duval Stret; Suite 145; Lake City, Florida 32055, US Florida FL -82.63928985595703,30.189680099487305 ",
+          "location": {
+            "city": "Lake City",
+            "country": "United States",
+            "fullLocation": "Lake City North America United States US 971 W Duval Stret; Suite 145; Lake City, Florida 32055, US Florida FL -82.63928985595703,30.189680099487305 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "971 W Duval Stret; Suite 145; Lake City, Florida 32055, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "naics": [
+              {
+                "naics": 5615,
+                "description": "Travel Arrangement and Reservation Services"
+              }
+            ]
+          },
+          "website": "https://lakecityfl.com",
+          "specialities": [
+            "events",
+            "information",
+            "sports",
+            "tourism",
+            "travel"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T23:34:05.727217",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T23:34:08.413182",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

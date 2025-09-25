@@ -1,0 +1,973 @@
+{
+  "site_url": "https://ppycbsm.org/",
+  "domain": "ppycbsm.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://ppycbsm.org/",
+    "https://ppycbsm.org/content.aspx?page_id=31&club_id=227454&action=login",
+    "https://ppycbsm.org/content.aspx?page_id=4001&club_id=227454",
+    "https://ppycbsm.org/content.aspx?page_id=0&club_id=227454",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=459475",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=347594",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=673120",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=347595",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=352820",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=348047",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=351805",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=347612",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=347683",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=348048",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=386062",
+    "https://ppycbsm.org/content.aspx?page_id=4&club_id=227454",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=614503",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=386062&actr=4",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=386065",
+    "https://ppycbsm.org/content.aspx",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=347610",
+    "https://ppycbsm.org/content.aspx?page_id=22&club_id=227454&module_id=362236",
+    "https://ppycbsm.org/content.aspx?page_id=86&club_id=227454&item_id=179203",
+    "https://ppycbsm.org/content.aspx?page_id=86&club_id=227454&item_id=212685",
+    "https://ppycbsm.org/content.aspx?page_id=86&club_id=227454&item_id=79137",
+    "https://ppycbsm.org/content.aspx?page_id=86&club_id=227454&item_id=159954",
+    "https://ppycbsm.org/content.aspx?page_id=86&club_id=227454&item_id=78426",
+    "https://ppycbsm.org/content.aspx?page_id=15&club_id=227454",
+    "https://ppycbsm.org/content.aspx?page_id=134&club_id=227454&actr=3",
+    "https://ppycbsm.org/content.aspx?page_id=4&club_id=227454&actr=4",
+    "https://ppycbsm.org/content.aspx?page_id=70&club_id=227454",
+    "https://ppycbsm.org/content.aspx?page_id=26&club_id=227454&actr=3",
+    "https://ppycbsm.org/content.aspx?page_id=86&club_id=227454"
+  ],
+  "candidates": [
+    "https://ppycbsm.org/",
+    "https://ppycbsm.org/contact",
+    "https://ppycbsm.org/contact/",
+    "https://ppycbsm.org/contact-us",
+    "https://ppycbsm.org/contact-us/",
+    "https://ppycbsm.org/contactus",
+    "https://ppycbsm.org/contactus/",
+    "https://ppycbsm.org/about",
+    "https://ppycbsm.org/about/",
+    "https://ppycbsm.org/about-us",
+    "https://ppycbsm.org/about-us/",
+    "https://ppycbsm.org/visit",
+    "https://ppycbsm.org/visit/",
+    "https://ppycbsm.org/location",
+    "https://ppycbsm.org/location/",
+    "https://ppycbsm.org/directions",
+    "https://ppycbsm.org/directions/"
+  ],
+  "per_page": {
+    "https://ppycbsm.org/": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/contact": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contact"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contact"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/contact/": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contact/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/contact-us": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contact-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/contact-us/": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contact-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/contactus": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contactus"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/contactus/": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contactus/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/about": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/about"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/about"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/about"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/about/": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/about/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/about/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/about/"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/about-us": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/about-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/about-us/": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/about-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/visit": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/visit"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/visit"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/visit"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/visit/": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/visit/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/location": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/location"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/location"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/location"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/location/": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/location/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/location/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/location/"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/directions": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/directions"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/directions"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/directions"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    },
+    "https://ppycbsm.org/directions/": {
+      "title": "Home - Platinum Point Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/directions/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://ppycbsm.org/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "office@ppycbsm.org"
+      ],
+      "phones": [
+        "941-639-0433",
+        "941-639-0733"
+      ],
+      "socials": [
+        "https://www.facebook.com/Platinum-Point-Yacht-Club-100771528722897/"
+      ]
+    }
+  }
+}

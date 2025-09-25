@@ -1,0 +1,141 @@
+{
+  "site_url": "https://barlouie.com/",
+  "domain": "barlouie.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://barlouie.com/",
+    "https://barlouie.com/reservations",
+    "https://barlouie.com/about",
+    "https://barlouie.com/contact",
+    "https://www.barlouie.com/menu",
+    "https://barlouie.com/locations",
+    "https://barlouie.com/rewards",
+    "https://www.barlouie.com/jobs",
+    "https://barlouie.com/gift-cards",
+    "https://barlouie.com/menu",
+    "https://www.barlouie.com/louiescombo",
+    "https://www.barlouie.com/fundraising",
+    "https://www.barlouie.com/rewards?q=1",
+    "https://www.barlouie.com/locations?q=6",
+    "https://barlouie.com/jobs"
+  ],
+  "candidates": [
+    "https://barlouie.com/contact",
+    "https://barlouie.com/about",
+    "https://barlouie.com/reservations",
+    "https://barlouie.com/"
+  ],
+  "per_page": {
+    "https://barlouie.com/contact": {
+      "title": "Bar Louie | Contact Us",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://barlouie.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://www.facebook.com/barlouie",
+        "http://www.instagram.com/barlouie"
+      ]
+    },
+    "https://barlouie.com/about": {
+      "title": "Bar Louie | About Us",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://www.facebook.com/barlouie",
+        "http://www.instagram.com/barlouie"
+      ]
+    },
+    "https://barlouie.com/reservations": {
+      "title": "Reservations at Bar Louie",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://www.facebook.com/barlouie",
+        "http://www.instagram.com/barlouie"
+      ]
+    },
+    "https://barlouie.com/": {
+      "title": "Bar Louie | Kitchen & Cocktails",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://barlouie.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://www.facebook.com/barlouie",
+        "http://www.instagram.com/barlouie"
+      ]
+    }
+  }
+}

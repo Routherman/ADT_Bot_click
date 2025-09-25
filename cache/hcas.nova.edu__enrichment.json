@@ -1,0 +1,167 @@
+{
+  "timestamp": "2025-09-19T12:52:22.514264",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T12:52:18.576707",
+      "company": {
+        "name": null,
+        "domain": "hcas.nova.edu",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 165228,
+          "description": "Nova Southeastern U. is the largest private research university in Florida and home to more than 22,000 Sharks! 🦈\n\nShare your photos with #NSUSharks!",
+          "domain": "nova.edu",
+          "employees": "5001 - 10000",
+          "founded": "1964",
+          "fqdn": "www.nova.edu",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=30/j_lvlumwl2fo0gw52gp.04cf7b1c29254dd4b0c4dfec686d6b27c039e85c.file_lvluoet024y48cv3fh.logo_cached.jpg",
+          "name": "Nova Southeastern University",
+          "revenueRange": [],
+          "mainIndustry": "Education",
+          "subIndustry": "Higher Education",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/school/nova-southeastern-university"
+            }
+          },
+          "address": "North America United States US 3300 S. University Drive; Fort Lauderdale, FL 33328-2004, US ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 3300 S. University Drive; Fort Lauderdale, FL 33328-2004, US ",
+            "state": "",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3300 S. University Drive; Fort Lauderdale, FL 33328-2004, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8221,
+                "description": "Colleges and universities"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 611310,
+                "description": "Colleges, Universities, and Professional Schools"
+              }
+            ]
+          },
+          "website": "https://nova.edu",
+          "specialities": [
+            "bachelor",
+            "doctorate",
+            "higher education",
+            "master"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "currency": "USD",
+                "roundAmount": 1000000,
+                "roundType": "Grant",
+                "roundDate": "Feb 15, 2023"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 300000,
+                "roundType": "Grant",
+                "roundDate": "Feb 22, 2022"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 2000000,
+                "roundType": "Grant",
+                "roundDate": "Sep 12, 2014"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 1000000,
+                "roundType": "Grant",
+                "roundDate": "Nov 11, 2013"
+              }
+            ],
+            "totalRounds": 4,
+            "totalRoundsAmount": 4300000,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundType": "Grant",
+            "lastRoundAmount": 1000000,
+            "lastRoundDate": "Feb 15, 2023"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T12:52:19.800780",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T12:52:22.509208",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

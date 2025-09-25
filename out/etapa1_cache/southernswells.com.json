@@ -1,0 +1,823 @@
+{
+  "site_url": "https://southernswells.com/",
+  "domain": "southernswells.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://southernswells.com/",
+    "https://southernswells.com/visit",
+    "https://southernswells.com/faq",
+    "https://southernswells.com/events-releases",
+    "https://southernswells.com/cart",
+    "https://southernswells.com/beer",
+    "https://southernswells.com/host-a-private-event",
+    "https://southernswells.com/privacy-policy",
+    "https://southernswells.com/terms-conditions"
+  ],
+  "candidates": [
+    "https://southernswells.com/events-releases",
+    "https://southernswells.com/faq",
+    "https://southernswells.com/visit",
+    "https://southernswells.com/",
+    "https://southernswells.com/host-a-private-event",
+    "https://southernswells.com/contact",
+    "https://southernswells.com/contact/",
+    "https://southernswells.com/contact-us",
+    "https://southernswells.com/contact-us/",
+    "https://southernswells.com/contactus",
+    "https://southernswells.com/contactus/",
+    "https://southernswells.com/about",
+    "https://southernswells.com/about/",
+    "https://southernswells.com/about-us",
+    "https://southernswells.com/about-us/",
+    "https://southernswells.com/visit/",
+    "https://southernswells.com/location",
+    "https://southernswells.com/location/",
+    "https://southernswells.com/directions",
+    "https://southernswells.com/directions/"
+  ],
+  "per_page": {
+    "https://southernswells.com/events-releases": {
+      "title": "Calendar | Southern Swells",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/events-releases"
+          ]
+        },
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/events-releases"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/events-releases"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/faq": {
+      "title": "FAQ | Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/faq"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/faq"
+          ]
+        }
+      },
+      "emails": [
+        "info@southernswells.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/visit": {
+      "title": "Visit | Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/visit"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/": {
+      "title": "Southern Swells Brewing Co. | Jacksonville Beach Craft Brewery",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/"
+          ]
+        },
+        "lineup": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/host-a-private-event": {
+      "title": "Host a Private Event | Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 18,
+          "zones": {
+            "title": 1,
+            "body": 17,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/host-a-private-event"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/host-a-private-event"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/host-a-private-event"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/contact": {
+      "title": "Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/contact"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/contact/": {
+      "title": "Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/contact-us": {
+      "title": "Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/contact-us/": {
+      "title": "Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/contactus": {
+      "title": "Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/contactus/": {
+      "title": "Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/about": {
+      "title": "About 3 | Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/about"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/about/": {
+      "title": "About 3 | Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/about/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/about-us": {
+      "title": "Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/about-us/": {
+      "title": "Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/visit/": {
+      "title": "Visit | Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/location": {
+      "title": "Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/location"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/location/": {
+      "title": "Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/location/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/directions": {
+      "title": "Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/directions"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    },
+    "https://southernswells.com/directions/": {
+      "title": "Southern Swells",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southernswells.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Southernswells",
+        "https://www.instagram.com/southernswells/"
+      ]
+    }
+  }
+}

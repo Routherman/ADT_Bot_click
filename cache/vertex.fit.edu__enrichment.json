@@ -1,0 +1,167 @@
+{
+  "timestamp": "2025-09-23T12:43:49.191393",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T12:43:45.586432",
+      "company": {
+        "name": null,
+        "domain": "vertex.fit.edu",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 15369,
+          "description": "What we are is a private, coeducational, residential, research-intensive, doctoral granting university located in the beautiful City of Melbourne on Florida’s sunny “Space Coast.” But who we are is so much more. We are a community of researchers, scholars and learners hailing from all around the world. We are engineers, aviators, innovators, leaders, educators, athletes and astronauts. We have the brains of rocket scientists and the hearts of Panthers. We are Florida Tech. \n\nAt Florida Tech, we say “yes” to big ideas. We pursue outrageous dreams and embark on the endeavors most pivotal to the future. Founded to educate the pioneers of the U.S. space program, Florida Tech is deeply, historically rooted in this culture of relentless determination. Today, we carry on this legacy through the rigorous hands-on degree programs we offer in engineering, science, computing, aeronautics, business, psychology and the liberal arts.",
+          "domain": "fit.edu",
+          "employees": "201 - 500",
+          "founded": "1958",
+          "fqdn": "www.fit.edu",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/94/b9443865fbf5211b0d2801a0e3c11fd7",
+          "name": "Florida Institute of Technology",
+          "revenueRange": [],
+          "mainIndustry": "Education",
+          "subIndustry": "Higher Education",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/school/florida-institute-of-technology"
+            }
+          },
+          "address": "Melbourne North America United States US 150 University Blvd W; Melbourne, Florida 32901, US Florida FL -80.60810852050781,28.083629608154297 ",
+          "location": {
+            "city": "Melbourne",
+            "country": "United States",
+            "fullLocation": "Melbourne North America United States US 150 University Blvd W; Melbourne, Florida 32901, US Florida FL -80.60810852050781,28.083629608154297 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "150 University Blvd W; Melbourne, Florida 32901, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8221,
+                "description": "Colleges and universities"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 611310,
+                "description": "Colleges, Universities, and Professional Schools"
+              }
+            ]
+          },
+          "website": "https://fit.edu",
+          "specialities": [
+            "aviation",
+            "business",
+            "computing",
+            "cyber security",
+            "doctor of business administration",
+            "doctorate",
+            "engineering",
+            "flight training",
+            "hands-on",
+            "innovation",
+            "mars",
+            "master's degree",
+            "mba",
+            "online learning",
+            "psychology",
+            "science",
+            "space",
+            "stem",
+            "sustainability"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "roundType": "Grant",
+                "roundDate": "Sep 25, 2024"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 74980,
+                "roundType": "Grant",
+                "roundDate": "Jan 10, 2023"
+              }
+            ],
+            "totalRounds": 2,
+            "totalRoundsAmount": 74980,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundType": "Grant",
+            "lastRoundDate": "Sep 25, 2024"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T12:43:46.728961",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T12:43:49.186642",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

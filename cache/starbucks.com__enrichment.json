@@ -1,0 +1,166 @@
+{
+  "timestamp": "2025-09-20T11:09:45.326957",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T11:09:41.302309",
+      "company": {
+        "name": null,
+        "domain": "starbucks.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 2271,
+          "description": "At Starbucks, we like to say that we are not in the coffee business serving people, but in the people business serving coffee. Here, our employees - who we call partners – are the heart of the Starbucks experience, and being a partner means aspiring to become part of something bigger: inspiring positive change in the world and growing in your career and in your community. \n\nIt’s an opportunity to be your personal best.  Starbucks is an equal opportunity employer of all qualified individuals, including minorities, veterans and individuals with disabilities.\n\nIn everything we do, we are dedicated to our mission: To be the premier purveyor of the finest coffee in the world, inspiring and nurturing the human spirit — one person, one cup and one neighborhood at a time.\n\nJoin us. Inspire with every cup. Explore opportunities, benefits and more at careers.starbucks.com",
+          "domain": "starbucks.com",
+          "employees": "100001 - 10000000",
+          "founded": "1971",
+          "fqdn": "www.starbucks.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=05/day=02/j_lvoomfcy2ggq2nrya2.a8e98ff0329e2d00bb14220694f4f11e0289bf1f.file_lvoompjdvcjkpa6vy.logo_cached.jpg",
+          "name": "Starbucks",
+          "revenueRange": [
+            10000000000,
+            100000000000
+          ],
+          "mainIndustry": "Retail",
+          "subIndustry": "Food & Beverage Retail",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/starbucks"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/starbucks"
+            }
+          },
+          "address": "Seattle North America United States US 2401 Utah Ave S; Seattle, WA 98134, US Washington WA -122.33206939697266,47.60620880126953 ",
+          "location": {
+            "city": "Seattle",
+            "country": "United States",
+            "fullLocation": "Seattle North America United States US 2401 Utah Ave S; Seattle, WA 98134, US Washington WA -122.33206939697266,47.60620880126953 ",
+            "state": "Washington",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "2401 Utah Ave S; Seattle, WA 98134, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722513,
+                "description": "Limited-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://starbucks.com",
+          "specialities": [
+            "benefits",
+            "coffee",
+            "design",
+            "food",
+            "juices",
+            "retail",
+            "tea",
+            "technology"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "roundType": "Post-IPO Equity",
+                "roundDate": "Jul 19, 2024"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 900000000,
+                "roundType": "Post-IPO Equity",
+                "roundDate": "Oct 10, 2018"
+              },
+              {
+                "roundType": "Venture Round",
+                "roundDate": "Feb 1, 1991"
+              }
+            ],
+            "totalRounds": 3,
+            "totalRoundsAmount": 900000000,
+            "currency": "USD",
+            "isIpo": true,
+            "lastRoundType": "Post-IPO Equity",
+            "lastRoundDate": "Jul 19, 2024"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T11:09:42.540983",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T11:09:45.319797",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

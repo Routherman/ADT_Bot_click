@@ -1,0 +1,133 @@
+{
+  "timestamp": "2025-09-20T13:30:20.129479",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T13:30:15.929896",
+      "company": {
+        "name": null,
+        "domain": "casabruja.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 18986949,
+          "description": "Casa Bruja Brewing Co. nace por las ganas de crear una cerveza de calidad y a su vez divertida. Un producto con el cual te sientes a gusto. Una marca local que quieres compartir.",
+          "domain": "casabruja.com",
+          "employees": "11 - 50",
+          "founded": "2013",
+          "fqdn": "www.casabruja.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/4/7c/47c526e435cafca057e5009cb7ccf6cf",
+          "name": "Casa Bruja Brewing Co.",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Food & Beverage Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/casabruja"
+            }
+          },
+          "address": "Panamá North America Panama PA Parque Industrial de Costa del Este; Panama, Panama none, PA -79.51972961425781,8.993599891662598 ",
+          "location": {
+            "city": "Panamá",
+            "country": "Panama",
+            "fullLocation": "Panamá North America Panama PA Parque Industrial de Costa del Este; Panama, Panama none, PA -79.51972961425781,8.993599891662598 ",
+            "state": "",
+            "stateCode": "PA",
+            "countryIso2": "PA",
+            "rawLocation": "Parque Industrial de Costa del Este; Panama, Panama none, PA"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://casabruja.com",
+          "specialities": [
+            "beer",
+            "brewing"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T13:30:17.274744",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T13:30:20.123479",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

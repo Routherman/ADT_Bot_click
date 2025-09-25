@@ -1,0 +1,574 @@
+{
+  "site_url": "https://melbournevillage.org/",
+  "domain": "melbournevillage.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://melbournevillage.org/",
+    "https://melbournevillage.org/27/About",
+    "https://melbournevillage.org/196/Event-Space-Rental",
+    "https://melbournevillage.org/calendar.aspx?view=list&year=2025&month=9&day=16&CID=14",
+    "https://melbournevillage.org/calendar.aspx?view=list&year=2025&month=9&day=23&CID=14",
+    "https://melbournevillage.org/calendar.aspx?view=list&year=2025&month=9&day=30&CID=14",
+    "https://melbournevillage.org/Calendar.aspx?EID=288",
+    "https://melbournevillage.org/Calendar.aspx?EID=377",
+    "https://melbournevillage.org/Calendar.aspx?EID=306",
+    "https://melbournevillage.org/Calendar.aspx?EID=378",
+    "https://melbournevillage.org/calendar.aspx?CID=14",
+    "https://melbournevillage.org/directory.aspx",
+    "https://melbournevillage.org/31/Meetings",
+    "https://melbournevillage.org/35/Documents-Forms",
+    "https://melbournevillage.org/9/Storm-Center",
+    "https://melbournevillage.org/Search/Results",
+    "https://melbournevillage.org/211/Cardinal",
+    "https://melbournevillage.org/226/MARVIN-Reports",
+    "https://melbournevillage.org/204/Permits",
+    "https://melbournevillage.org/224/Trash-Recycling",
+    "https://melbournevillage.org/217/Election-Information",
+    "https://melbournevillage.org/206/Health-Links",
+    "https://melbournevillage.org/CivicAlerts.aspx?AID=12",
+    "https://melbournevillage.org/CivicAlerts.aspx?AID=11",
+    "https://melbournevillage.org/CivicAlerts.aspx?CID=1",
+    "https://melbournevillage.org/site/accessibility",
+    "https://melbournevillage.org/sitemap",
+    "https://melbournevillage.org/copyright",
+    "https://melbournevillage.org/225/Staff-Directory",
+    "https://melbournevillage.org/198/Town-Commission",
+    "https://melbournevillage.org/223/Boards-and-Committees",
+    "https://melbournevillage.org/200/Departments",
+    "https://melbournevillage.org/216/Employment",
+    "https://melbournevillage.org/218/Rental-Forms",
+    "https://melbournevillage.org/215/Photos",
+    "https://melbournevillage.org/Calendar.aspx?EID=306&month=9&year=2025&day=16&calType=0",
+    "https://melbournevillage.org/Calendar.aspx?EID=307&month=9&year=2025&day=16&calType=0",
+    "https://melbournevillage.org/Calendar.aspx?EID=339&month=9&year=2025&day=16&calType=0",
+    "https://melbournevillage.org/Calendar.aspx?EID=308&month=9&year=2025&day=16&calType=0",
+    "https://melbournevillage.org/Calendar.aspx?EID=309&month=9&year=2025&day=16&calType=0",
+    "https://melbournevillage.org/calendar.aspx?view=list&year=2025&month=9&day=1",
+    "https://melbournevillage.org/calendar.aspx?view=list&year=2025&month=9&day=5",
+    "https://melbournevillage.org/calendar.aspx?view=list&year=2025&month=9&day=8",
+    "https://melbournevillage.org/calendar.aspx?view=list&year=2025&month=9&day=11"
+  ],
+  "candidates": [
+    "https://melbournevillage.org/27/About",
+    "https://melbournevillage.org/Calendar.aspx?EID=288",
+    "https://melbournevillage.org/Calendar.aspx?EID=306",
+    "https://melbournevillage.org/Calendar.aspx?EID=306&month=9&year=2025&day=16&calType=0",
+    "https://melbournevillage.org/Calendar.aspx?EID=307&month=9&year=2025&day=16&calType=0",
+    "https://melbournevillage.org/Calendar.aspx?EID=308&month=9&year=2025&day=16&calType=0",
+    "https://melbournevillage.org/Calendar.aspx?EID=309&month=9&year=2025&day=16&calType=0",
+    "https://melbournevillage.org/Calendar.aspx?EID=339&month=9&year=2025&day=16&calType=0",
+    "https://melbournevillage.org/Calendar.aspx?EID=377",
+    "https://melbournevillage.org/Calendar.aspx?EID=378",
+    "https://melbournevillage.org/calendar.aspx?CID=14",
+    "https://melbournevillage.org/calendar.aspx?view=list&year=2025&month=9&day=1",
+    "https://melbournevillage.org/calendar.aspx?view=list&year=2025&month=9&day=11",
+    "https://melbournevillage.org/calendar.aspx?view=list&year=2025&month=9&day=16&CID=14",
+    "https://melbournevillage.org/calendar.aspx?view=list&year=2025&month=9&day=23&CID=14",
+    "https://melbournevillage.org/calendar.aspx?view=list&year=2025&month=9&day=30&CID=14",
+    "https://melbournevillage.org/calendar.aspx?view=list&year=2025&month=9&day=5",
+    "https://melbournevillage.org/calendar.aspx?view=list&year=2025&month=9&day=8",
+    "https://melbournevillage.org/225/Staff-Directory",
+    "https://melbournevillage.org/196/Event-Space-Rental",
+    "https://melbournevillage.org/directory.aspx",
+    "https://melbournevillage.org/",
+    "https://melbournevillage.org/contact",
+    "https://melbournevillage.org/contact/",
+    "https://melbournevillage.org/contact-us",
+    "https://melbournevillage.org/contact-us/",
+    "https://melbournevillage.org/contactus",
+    "https://melbournevillage.org/contactus/",
+    "https://melbournevillage.org/about",
+    "https://melbournevillage.org/about/",
+    "https://melbournevillage.org/about-us",
+    "https://melbournevillage.org/about-us/",
+    "https://melbournevillage.org/visit",
+    "https://melbournevillage.org/visit/",
+    "https://melbournevillage.org/location",
+    "https://melbournevillage.org/location/",
+    "https://melbournevillage.org/directions",
+    "https://melbournevillage.org/directions/"
+  ],
+  "per_page": {
+    "https://melbournevillage.org/27/About": {
+      "title": "About | Melbourne Village, FL",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/27/About"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/27/About"
+          ]
+        }
+      },
+      "emails": [
+        "deputyclerk@melbournevillage.org"
+      ],
+      "phones": [
+        "(321) 723-8300"
+      ],
+      "socials": []
+    },
+    "https://melbournevillage.org/Calendar.aspx?EID=288": {
+      "title": "Calendar • Beautification Committee",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=288"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=288"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=288"
+          ]
+        }
+      },
+      "emails": [
+        "deputyclerk@melbournevillage.org"
+      ],
+      "phones": [
+        "(321) 723-8300"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://melbournevillage.org/Calendar.aspx?EID=306": {
+      "title": "Calendar • Regular Commission Meeting",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=306"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=306"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=306"
+          ]
+        }
+      },
+      "emails": [
+        "deputyclerk@melbournevillage.org"
+      ],
+      "phones": [
+        "(321) 723-8300"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://melbournevillage.org/Calendar.aspx?EID=306&month=9&year=2025&day=16&calType=0": {
+      "title": "Calendar • Regular Commission Meeting",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=306&month=9&year=2025&day=16&calType=0"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=306&month=9&year=2025&day=16&calType=0"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=306&month=9&year=2025&day=16&calType=0"
+          ]
+        }
+      },
+      "emails": [
+        "deputyclerk@melbournevillage.org"
+      ],
+      "phones": [
+        "(321) 723-8300"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://melbournevillage.org/Calendar.aspx?EID=307&month=9&year=2025&day=16&calType=0": {
+      "title": "Calendar • Regular Commission Meeting",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=307&month=9&year=2025&day=16&calType=0"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=307&month=9&year=2025&day=16&calType=0"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=307&month=9&year=2025&day=16&calType=0"
+          ]
+        }
+      },
+      "emails": [
+        "deputyclerk@melbournevillage.org"
+      ],
+      "phones": [
+        "(321) 723-8300"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://melbournevillage.org/Calendar.aspx?EID=308&month=9&year=2025&day=16&calType=0": {
+      "title": "Calendar • Regular Commission Meeting",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=308&month=9&year=2025&day=16&calType=0"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=308&month=9&year=2025&day=16&calType=0"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=308&month=9&year=2025&day=16&calType=0"
+          ]
+        }
+      },
+      "emails": [
+        "deputyclerk@melbournevillage.org"
+      ],
+      "phones": [
+        "(321) 723-8300"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://melbournevillage.org/Calendar.aspx?EID=309&month=9&year=2025&day=16&calType=0": {
+      "title": "Calendar • Regular Commission Meeting",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=309&month=9&year=2025&day=16&calType=0"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=309&month=9&year=2025&day=16&calType=0"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=309&month=9&year=2025&day=16&calType=0"
+          ]
+        }
+      },
+      "emails": [
+        "deputyclerk@melbournevillage.org"
+      ],
+      "phones": [
+        "(321) 723-8300"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://melbournevillage.org/Calendar.aspx?EID=339&month=9&year=2025&day=16&calType=0": {
+      "title": "Calendar • Election Day",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=339&month=9&year=2025&day=16&calType=0"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=339&month=9&year=2025&day=16&calType=0"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=339&month=9&year=2025&day=16&calType=0"
+          ]
+        }
+      },
+      "emails": [
+        "deputyclerk@melbournevillage.org"
+      ],
+      "phones": [
+        "(321) 723-8300"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://melbournevillage.org/Calendar.aspx?EID=377": {
+      "title": "Calendar • 1st Budget Reading",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=377"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=377"
+          ]
+        },
+        "calendar": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://melbournevillage.org/Calendar.aspx?EID=377"
+          ]
+        }
+      },
+      "emails": [
+        "deputyclerk@melbournevillage.org"
+      ],
+      "phones": [
+        "(321) 723-8300"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    }
+  }
+}

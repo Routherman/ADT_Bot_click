@@ -1,0 +1,718 @@
+{
+  "highdivegainesville.com": {
+    "site_info": {
+      "name": "High Dive",
+      "location": "Gainesville",
+      "type": "Business"
+    },
+    "contacts": [
+      {
+        "email": "highdivegville@gmail.com",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://glorydayspresents.com/booking",
+                "context": "highdivegville@gmail.com",
+                "timestamp": "2025-09-16T09:02:21.466338"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      }
+    ],
+    "enrichment_sources": {
+      "lusha": {
+        "status": "not_found",
+        "last_check": "2025-09-16T01:43:29.611815"
+      },
+      "contactout": {
+        "status": "not_found",
+        "last_check": "2025-09-16T01:43:29.614954"
+      },
+      "rocketreach": {
+        "status": "not_found",
+        "last_check": "2025-09-16T01:43:29.617869"
+      }
+    },
+    "metadata": {
+      "last_updated": "2025-09-16T09:10:53.653168",
+      "confidence_scoring": {
+        "description": "0.0-1.0 scale where:\n0.9+ Direct website listing with role\n0.7-0.8 Indirect website mention with context\n0.5-0.6 External source or unclear context\n<0.5 Uncertain association"
+      }
+    }
+  },
+  "creekentertainment.com": {
+    "site_info": {
+      "name": "Creek Entertainment Gretna",
+      "location": "Gainesville",
+      "type": "Business"
+    },
+    "contacts": [],
+    "enrichment_sources": {
+      "lusha": {
+        "status": "not_found",
+        "last_check": "2025-09-16T06:36:47.355100"
+      },
+      "contactout": {
+        "status": "not_found",
+        "last_check": "2025-09-16T06:36:47.358366"
+      },
+      "rocketreach": {
+        "status": "not_found",
+        "last_check": "2025-09-16T06:36:47.361002"
+      }
+    },
+    "metadata": {
+      "last_updated": "2025-09-16T09:19:35.328149",
+      "confidence_scoring": {
+        "description": "0.0-1.0 scale where:\n0.9+ Direct website listing with role\n0.7-0.8 Indirect website mention with context\n0.5-0.6 External source or unclear context\n<0.5 Uncertain association"
+      }
+    }
+  },
+  "casino.hardrock.com": {
+    "site_info": {
+      "name": "Casino",
+      "location": "Unknown",
+      "type": "Business"
+    },
+    "contacts": [],
+    "enrichment_sources": {
+      "lusha": {
+        "status": "not_found",
+        "last_check": "2025-09-16T06:47:45.670200"
+      },
+      "contactout": {
+        "status": "not_found",
+        "last_check": "2025-09-16T06:47:45.674776"
+      },
+      "rocketreach": {
+        "status": "not_found",
+        "last_check": "2025-09-16T06:47:45.678381"
+      }
+    },
+    "metadata": {
+      "last_updated": "2025-09-16T09:26:16.931665",
+      "confidence_scoring": {
+        "description": "0.0-1.0 scale where:\n0.9+ Direct website listing with role\n0.7-0.8 Indirect website mention with context\n0.5-0.6 External source or unclear context\n<0.5 Uncertain association"
+      }
+    }
+  },
+  "mathersorlando.com": {
+    "site_info": {
+      "name": "Mathersorlando",
+      "location": "Unknown",
+      "type": "Business"
+    },
+    "contacts": [
+      {
+        "email": "info@mathersorlando.com",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://www.mathersorlando.com/",
+                "context": "Info@mathersorlando.com",
+                "timestamp": "2025-09-21T23:06:44.266930"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "experience@mathers.venue",
+        "name": "Venue Layout",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://www.mathersorlando.com/private-events",
+                "context": "ion.Choose to distinguish your social, corporate, or wedding-related event with the most remarkable experience@Mathers.Venue Layout | Style Bar & Lounge Speakeasy VIP / Semi-Private Space Reception Style Venue Capacity 150 G",
+                "timestamp": "2025-09-21T23:07:41.351230"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "info@thephoenixjazzclub.com",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://www.mathersorlando.com/tmg-venues",
+                "context": "info@thephoenixjazzclub.com?",
+                "timestamp": "2025-09-21T23:08:41.905123"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "6266e026cf4ad52390942aaa@squarespace.com",
+        "name": "Squarespace Inc",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://www.mathersorlando.com/events/mathers-5-year-anniversary?format=ical",
+                "context": "BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Squarespace Inc/Squarespace 6//v6//EN\r\nBEGIN:VEVENT\r\nUID:6266e026cf4ad52390942aaa@squarespace.com\r\nDTSTAMP:20220503T205647Z\r\nDTSTART:20220512T230000Z\r\nDTEND:20220513T060000Z\r\nSUMMARY:Mathers 5 Year",
+                "timestamp": "2025-09-21T23:10:39.981418"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      }
+    ],
+    "enrichment_sources": {
+      "lusha": {
+        "status": "ok",
+        "last_check": "2025-09-21T23:06:31.161749",
+        "company": {
+          "name": null,
+          "domain": "mathersorlando.com",
+          "website": null,
+          "linkedin_url": null,
+          "industry": null,
+          "size": null,
+          "country": null,
+          "headquarter": null,
+          "founded_at": null,
+          "revenue": null,
+          "logo_url": null,
+          "locations": null,
+          "type": null,
+          "specialties": null
+        },
+        "raw": {
+          "data": {
+            "id": 81201878,
+            "domain": "mathersorlando.com",
+            "employees": "1 - 10",
+            "fqdn": "www.mathersorlando.com",
+            "logoUrl": "https://logo.lusha.co/brightdata/year=2023/month=11/day=19/j_lp2uz0s72g5mq7ai2v.86d16ccbebcfdf245323a8d93f239f5072e2a7e7.file_lp2w0mrtmlb5az8f5.logo_cached.svg",
+            "name": "Mathers Social Gathering",
+            "revenueRange": [
+              10000000,
+              50000000
+            ],
+            "social": {
+              "linkedin": {
+                "url": "https://www.linkedin.com/company/mathers-social-gathering"
+              }
+            },
+            "address": "Orlando North America United States US 3 Phoenix Building 30 S Magnolia Ave; Orlando, Florida 32801, us Florida FL -81.37924194335938,28.538339614868164 ",
+            "location": {
+              "city": "Orlando",
+              "country": "United States",
+              "fullLocation": "Orlando North America United States US 3 Phoenix Building 30 S Magnolia Ave; Orlando, Florida 32801, us Florida FL -81.37924194335938,28.538339614868164 ",
+              "state": "Florida",
+              "stateCode": "US",
+              "countryIso2": "US",
+              "rawLocation": "3 Phoenix Building 30 S Magnolia Ave; Orlando, Florida 32801, us"
+            },
+            "website": "https://mathersorlando.com"
+          },
+          "meta": {}
+        }
+      },
+      "contactout": {
+        "status": "ok",
+        "last_check": "2025-09-21T23:06:32.273659",
+        "company": {
+          "name": "Test",
+          "domain": "test.com",
+          "website": "http://test.com",
+          "linkedin_url": "https://www.linkedin.com/company/test",
+          "industry": "Computer Software",
+          "size": 89,
+          "country": "United States",
+          "headquarter": "San Francisco, US",
+          "founded_at": 2015,
+          "revenue": "$5.4M",
+          "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+          "locations": [
+            "San Francisco, US"
+          ],
+          "type": "Privately Held",
+          "specialties": []
+        },
+        "raw": {
+          "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+          "status_code": 200,
+          "companies": [
+            {
+              "contactout.com": {
+                "li_vanity": "https://www.linkedin.com/company/test",
+                "name": "Test",
+                "domain": "test.com",
+                "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+                "website": "http://test.com",
+                "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+                "type": "Privately Held",
+                "headquarter": "San Francisco, US",
+                "country": "United States",
+                "size": 89,
+                "founded_at": 2015,
+                "locations": [
+                  "San Francisco, US"
+                ],
+                "industry": "Computer Software",
+                "specialties": [],
+                "revenue": "$5.4M"
+              }
+            }
+          ]
+        }
+      },
+      "rocketreach": {
+        "status": "unauthorized",
+        "last_check": "2025-09-21T23:06:34.578808",
+        "http_status": 403,
+        "message": "Clave inválida o plan sin acceso"
+      }
+    },
+    "metadata": {
+      "last_updated": "2025-09-21T23:18:23.151530",
+      "confidence_scoring": {
+        "description": "0.0-1.0 scale where:\n0.9+ Direct website listing with role\n0.7-0.8 Indirect website mention with context\n0.5-0.6 External source or unclear context\n<0.5 Uncertain association"
+      }
+    }
+  },
+  "coralspringsmuseum.org": {
+    "site_info": {
+      "name": "Coralspringsmuseum",
+      "location": "Unknown",
+      "type": "Business"
+    },
+    "contacts": [
+      {
+        "email": "jsimmons@coralsprings.gov",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://coralspringsmuseum.org/about/#about-news",
+                "context": "jsimmons@coralsprings.gov",
+                "timestamp": "2025-09-22T02:37:45.638781"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "scerra@coralsprings.gov",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://coralspringsmuseum.org/about/#about-news",
+                "context": "scerra@coralsprings.gov",
+                "timestamp": "2025-09-22T02:37:45.638854"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "nmetayerbowen@coralsprings.gov",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://coralspringsmuseum.org/about/#about-news",
+                "context": "nmetayerbowen@coralsprings.gov",
+                "timestamp": "2025-09-22T02:37:45.638906"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "sbrook@coralsprings.gov",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://coralspringsmuseum.org/about/#about-news",
+                "context": "sbrook@coralsprings.gov",
+                "timestamp": "2025-09-22T02:37:45.638951"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "jmchugh@coralsprings.gov",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://coralspringsmuseum.org/about/#about-news",
+                "context": "jmchugh@coralsprings.gov",
+                "timestamp": "2025-09-22T02:37:45.638995"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "jforero@coralsprings.org",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://coralspringsmuseum.org/about/#about-news",
+                "context": "jforero@coralsprings.org",
+                "timestamp": "2025-09-22T02:37:45.639044"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "dlistwan@coralsprings.org",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://coralspringsmuseum.org/about/#about-news",
+                "context": "dlistwan@coralsprings.org",
+                "timestamp": "2025-09-22T02:37:45.639084"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "jkentolall@coralsprings.org",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://coralspringsmuseum.org/about/#about-news",
+                "context": "jkentolall@coralsprings.org",
+                "timestamp": "2025-09-22T02:37:45.639125"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "psolares@coralsprings.org",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://coralspringsmuseum.org/about/#about-news",
+                "context": "psolares@coralsprings.org",
+                "timestamp": "2025-09-22T02:37:45.639165"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "rpringle@coralsprings.org",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://coralspringsmuseum.org/about/#about-news",
+                "context": "rpringle@coralsprings.org",
+                "timestamp": "2025-09-22T02:37:45.639216"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "emiccarelli@coralsprings.org",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://coralspringsmuseum.org/about/#about-news",
+                "context": "emiccarelli@coralsprings.org",
+                "timestamp": "2025-09-22T02:37:45.639263"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "nroque-rosario@coralsprings.org",
+        "name": "Nroque Rosario",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://coralspringsmuseum.org/about/#about-news",
+                "context": "nroque-rosario@coralsprings.org",
+                "timestamp": "2025-09-22T02:37:45.639309"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      },
+      {
+        "email": "museuminfo@coralsprings.org",
+        "name": "",
+        "roles": [
+          {
+            "title": "Staff Member",
+            "confidence": 0.9,
+            "sources": [
+              {
+                "type": "website",
+                "url": "https://coralspringsmuseum.org/about/#about-news",
+                "context": "museuminfo@coralsprings.org",
+                "timestamp": "2025-09-22T02:37:45.639379"
+              }
+            ]
+          }
+        ],
+        "department": "Unknown",
+        "description": "Found on website"
+      }
+    ],
+    "enrichment_sources": {
+      "lusha": {
+        "status": "ok",
+        "last_check": "2025-09-22T02:37:03.669212",
+        "company": {
+          "name": null,
+          "domain": "coralspringsmuseum.org",
+          "website": null,
+          "linkedin_url": null,
+          "industry": null,
+          "size": null,
+          "country": null,
+          "headquarter": null,
+          "founded_at": null,
+          "revenue": null,
+          "logo_url": null,
+          "locations": null,
+          "type": null,
+          "specialties": null
+        },
+        "raw": {
+          "data": {
+            "id": 7044654,
+            "description": "Coral Springs Museum of Art is a museums and institutions company based out of 2855 Coral Springs Drive Suite A, Coral Springs, Florida, United States. What began late in 1996 as a City project to build a comprehensive recreation and community center, soon turned into The Coral Springs Center for the Arts – a performance theater and art museum. Housed in the impressive 30,000 square foot center for the arts building is the equally impressive Coral Springs Museum of Art which was incorporated in January of 1997. \n\nOur mission is to engage and connect our diverse communities with dynamic exhibits, exceptional art education, stimulating specialty programs and inspired events to ignite cultural enrichment.",
+            "domain": "coralspringsmuseum.org",
+            "employees": "11 - 50",
+            "founded": "1997",
+            "fqdn": "www.coralspringsmuseum.org",
+            "logoUrl": "https://logo.lusha.co/coresignal/202405/a/08/a08299c9c7fb30a8632769b694e54463",
+            "name": "Coral Springs Museum of Art",
+            "revenueRange": [
+              10000000,
+              50000000
+            ],
+            "mainIndustry": "Entertainment",
+            "subIndustry": "Museums, Historical Sites, & Zoos",
+            "social": {
+              "linkedin": {
+                "url": "https://www.linkedin.com/company/coral-springs-museum-of-art"
+              }
+            },
+            "address": "Coral Springs North America United States US 2855 Coral Springs Drive Suite A; Coral Springs, Florida 33065, US Florida FL -80.27059936523438,26.271190643310547 ",
+            "location": {
+              "city": "Coral Springs",
+              "country": "United States",
+              "fullLocation": "Coral Springs North America United States US 2855 Coral Springs Drive Suite A; Coral Springs, Florida 33065, US Florida FL -80.27059936523438,26.271190643310547 ",
+              "state": "Florida",
+              "stateCode": "US",
+              "countryIso2": "US",
+              "rawLocation": "2855 Coral Springs Drive Suite A; Coral Springs, Florida 33065, US"
+            },
+            "industryPrimaryGroupDetails": {
+              "sics": [
+                {
+                  "sic": 8412,
+                  "description": "Museums and art galleries"
+                }
+              ],
+              "naics": [
+                {
+                  "naics": 712110,
+                  "description": "Museums"
+                }
+              ]
+            },
+            "website": "https://coralspringsmuseum.org",
+            "specialities": [
+              "arts and culture",
+              "community engagement",
+              "contemporary art",
+              "education",
+              "museum",
+              "visual arts"
+            ]
+          },
+          "meta": {}
+        }
+      },
+      "contactout": {
+        "status": "ok",
+        "last_check": "2025-09-22T02:37:04.822428",
+        "company": {
+          "name": "Test",
+          "domain": "test.com",
+          "website": "http://test.com",
+          "linkedin_url": "https://www.linkedin.com/company/test",
+          "industry": "Computer Software",
+          "size": 89,
+          "country": "United States",
+          "headquarter": "San Francisco, US",
+          "founded_at": 2015,
+          "revenue": "$5.4M",
+          "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+          "locations": [
+            "San Francisco, US"
+          ],
+          "type": "Privately Held",
+          "specialties": []
+        },
+        "raw": {
+          "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+          "status_code": 200,
+          "companies": [
+            {
+              "contactout.com": {
+                "li_vanity": "https://www.linkedin.com/company/test",
+                "name": "Test",
+                "domain": "test.com",
+                "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+                "website": "http://test.com",
+                "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+                "type": "Privately Held",
+                "headquarter": "San Francisco, US",
+                "country": "United States",
+                "size": 89,
+                "founded_at": 2015,
+                "locations": [
+                  "San Francisco, US"
+                ],
+                "industry": "Computer Software",
+                "specialties": [],
+                "revenue": "$5.4M"
+              }
+            }
+          ]
+        }
+      },
+      "rocketreach": {
+        "status": "unauthorized",
+        "last_check": "2025-09-22T02:37:07.222521",
+        "http_status": 403,
+        "message": "Clave inválida o plan sin acceso"
+      }
+    },
+    "metadata": {
+      "last_updated": "2025-09-22T02:46:26.575059",
+      "confidence_scoring": {
+        "description": "0.0-1.0 scale where:\n0.9+ Direct website listing with role\n0.7-0.8 Indirect website mention with context\n0.5-0.6 External source or unclear context\n<0.5 Uncertain association"
+      }
+    }
+  }
+}

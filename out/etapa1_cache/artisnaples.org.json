@@ -1,0 +1,3549 @@
+{
+  "site_url": "https://artisnaples.org/",
+  "domain": "artisnaples.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://artisnaples.org/",
+    "https://artisnaples.org/calendar",
+    "https://artisnaples.org/calendar/buy-tickets",
+    "https://artisnaples.org/calendar/music-and-museum",
+    "https://artisnaples.org/events/visual-arts-events/art-after-hours",
+    "https://artisnaples.org/calendar/season-brochure",
+    "https://artisnaples.org/events",
+    "https://artisnaples.org/events/visual-arts-events",
+    "https://artisnaples.org/events/igudesman-joo",
+    "https://artisnaples.org/calendar/auditions",
+    "https://artisnaples.org/about",
+    "https://artisnaples.org/visit",
+    "https://artisnaples.org/about/board-administration",
+    "https://artisnaples.org/contact",
+    "https://artisnaples.org/events/masterworks.2526.1",
+    "https://artisnaples.org/events/art-after-hours.2526.1",
+    "https://artisnaples.org/events/young-persons-concert-2526.2",
+    "https://artisnaples.org/events/wang.2526.1",
+    "https://artisnaples.org/events/museum-lecture.2425.0617",
+    "https://artisnaples.org/subscriptions/visiting-orchestras",
+    "https://artisnaples.org/baker-museum/admission/visitor-policy",
+    "https://artisnaples.org/visit/map-directions",
+    "https://artisnaples.org/visit/food-beverage",
+    "https://artisnaples.org/visit/security",
+    "https://artisnaples.org/visit/gift-certificates",
+    "https://artisnaples.org/visit/event-planning",
+    "https://artisnaples.org/visit/seating",
+    "https://artisnaples.org/visit/accessibility",
+    "https://artisnaples.org/visit/ticketing",
+    "https://artisnaples.org/visit/parking",
+    "https://artisnaples.org/visit/arrival",
+    "https://artisnaples.org/about/future-forward",
+    "https://artisnaples.org/about/employment",
+    "https://artisnaples.org/visit/faq",
+    "https://artisnaples.org/support/leadership-circle",
+    "https://artisnaples.org/support/leadership-circle/nextgen5833",
+    "https://artisnaples.org/support/leadership-circle/canadian-friends",
+    "https://artisnaples.org/about/privacy",
+    "https://artisnaples.org/about/terms",
+    "https://artisnaples.org/tnew/account",
+    "https://artisnaples.org/tnew/cart",
+    "https://artisnaples.org/search",
+    "https://artisnaples.org/baker-museum",
+    "https://artisnaples.org/naples-philharmonic",
+    "https://artisnaples.org/subscriptions",
+    "https://artisnaples.org/support",
+    "https://artisnaples.org/subscriptions/masterworks",
+    "https://artisnaples.org/baker-museum/admission",
+    "https://artisnaples.org/baker-museum/exhibitions",
+    "https://artisnaples.org/baker-museum/lectures",
+    "https://artisnaples.org/baker-museum/past-exhibitions",
+    "https://artisnaples.org/baker-museum/store",
+    "https://artisnaples.org/subscriptions/grand-piano-series",
+    "https://artisnaples.org/naples-international-film-festival",
+    "https://artisnaples.org/education/family",
+    "https://artisnaples.org/education",
+    "https://artisnaples.org/education/lifelong-learning"
+  ],
+  "candidates": [
+    "https://artisnaples.org/contact",
+    "https://artisnaples.org/about",
+    "https://artisnaples.org/about/board-administration",
+    "https://artisnaples.org/about/employment",
+    "https://artisnaples.org/about/future-forward",
+    "https://artisnaples.org/about/privacy",
+    "https://artisnaples.org/about/terms",
+    "https://artisnaples.org/calendar",
+    "https://artisnaples.org/calendar/auditions",
+    "https://artisnaples.org/calendar/buy-tickets",
+    "https://artisnaples.org/calendar/music-and-museum",
+    "https://artisnaples.org/calendar/season-brochure",
+    "https://artisnaples.org/events",
+    "https://artisnaples.org/events/art-after-hours.2526.1",
+    "https://artisnaples.org/events/igudesman-joo",
+    "https://artisnaples.org/events/masterworks.2526.1",
+    "https://artisnaples.org/events/museum-lecture.2425.0617",
+    "https://artisnaples.org/events/visual-arts-events",
+    "https://artisnaples.org/events/visual-arts-events/art-after-hours",
+    "https://artisnaples.org/events/wang.2526.1",
+    "https://artisnaples.org/events/young-persons-concert-2526.2",
+    "https://artisnaples.org/visit/event-planning",
+    "https://artisnaples.org/baker-museum/admission/visitor-policy",
+    "https://artisnaples.org/subscriptions/visiting-orchestras",
+    "https://artisnaples.org/support/leadership-circle",
+    "https://artisnaples.org/support/leadership-circle/canadian-friends",
+    "https://artisnaples.org/support/leadership-circle/nextgen5833",
+    "https://artisnaples.org/visit",
+    "https://artisnaples.org/visit/accessibility",
+    "https://artisnaples.org/visit/arrival",
+    "https://artisnaples.org/visit/faq",
+    "https://artisnaples.org/visit/food-beverage",
+    "https://artisnaples.org/visit/gift-certificates",
+    "https://artisnaples.org/visit/map-directions",
+    "https://artisnaples.org/visit/parking",
+    "https://artisnaples.org/visit/seating",
+    "https://artisnaples.org/visit/security",
+    "https://artisnaples.org/visit/ticketing",
+    "https://artisnaples.org/",
+    "https://artisnaples.org/contact/",
+    "https://artisnaples.org/contact-us",
+    "https://artisnaples.org/contact-us/",
+    "https://artisnaples.org/contactus",
+    "https://artisnaples.org/contactus/",
+    "https://artisnaples.org/about/",
+    "https://artisnaples.org/about-us",
+    "https://artisnaples.org/about-us/",
+    "https://artisnaples.org/visit/",
+    "https://artisnaples.org/location",
+    "https://artisnaples.org/location/",
+    "https://artisnaples.org/directions",
+    "https://artisnaples.org/directions/"
+  ],
+  "per_page": {
+    "https://artisnaples.org/contact": {
+      "title": "Contact / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contact"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contact"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "ahollot@artisnaples.org",
+        "ap@artisnaples.org",
+        "avanarsdale@artisnaples.org",
+        "cmcneil@artisnaples.org",
+        "daulenbach@artisnaples.org",
+        "eventservices@artisnaples.org",
+        "friends@artisnaples.org",
+        "ktrummel@artisnaples.org",
+        "mscofield@artisnaples.org",
+        "npchorus@artisnaples.org",
+        "patronservices@artisnaples.org",
+        "thausler@artisnaples.org",
+        "vip@artisnaples.org",
+        "youthchorus@artisnaples.org",
+        "youthjazzorchestra@artisnaples.org",
+        "youthorchestra@artisnaples.org",
+        "youthsymphonia@artisnaples.org"
+      ],
+      "phones": [
+        "239-254-2617",
+        "239-254-2618",
+        "239-254-2628",
+        "239-254-2643",
+        "239-254-2646",
+        "239-254-2650",
+        "239-254-2684",
+        "239-254-2703",
+        "239-254-2726",
+        "239-254-2778",
+        "239-597-1111",
+        "239-597-1900",
+        "239-597-2794",
+        "800-597-1900",
+        "800-955-8771"
+      ],
+      "socials": [
+        "http://facebook.com/artisnaples",
+        "http://instagram.com/artisnaples",
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/about": {
+      "title": "About Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about"
+          ]
+        },
+        "performance": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/about/board-administration": {
+      "title": "Board of Directors and Administration / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/board-administration"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/board-administration"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/board-administration"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/board-administration"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/about/employment": {
+      "title": "Employment / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/employment"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/employment"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/employment"
+          ]
+        }
+      },
+      "emails": [
+        "hr@artisnaples.org"
+      ],
+      "phones": [
+        "239-254-2655",
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/about/future-forward": {
+      "title": "Future—Forward Campaign for Cultural Excellence / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/future-forward"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/future-forward"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/future-forward"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/about/privacy": {
+      "title": "Privacy Policy / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/privacy"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/privacy"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/privacy"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/privacy"
+          ]
+        }
+      },
+      "emails": [
+        "friends@artisnaples.org",
+        "patronservices@artisnaples.org"
+      ],
+      "phones": [
+        "239-254-2719",
+        "239-597-1111",
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/about/terms": {
+      "title": "Terms of Use / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/terms"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/terms"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/terms"
+          ]
+        }
+      },
+      "emails": [
+        "patronservices@artisnaples.org"
+      ],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/calendar": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/calendar/auditions": {
+      "title": "Auditions / Naples Philharmonic Chorus and Youth  Ensembles / Artis—Naples",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/auditions"
+          ]
+        },
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/auditions"
+          ]
+        },
+        "performance": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/auditions"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/auditions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/calendar/buy-tickets": {
+      "title": "Buy Tickets / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 38,
+          "zones": {
+            "title": 0,
+            "body": 38,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/buy-tickets"
+          ]
+        },
+        "performance": {
+          "total": 29,
+          "zones": {
+            "title": 0,
+            "body": 29,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/buy-tickets"
+          ]
+        },
+        "calendar": {
+          "total": 31,
+          "zones": {
+            "title": 0,
+            "body": 31,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/buy-tickets"
+          ]
+        },
+        "schedule": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/buy-tickets"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/calendar/music-and-museum": {
+      "title": "Music and Museum / Artis—Naples",
+      "band_hits": {
+        "concert": {
+          "total": 21,
+          "zones": {
+            "title": 0,
+            "body": 21,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/music-and-museum"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/music-and-museum"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/music-and-museum"
+          ]
+        },
+        "performance": {
+          "total": 34,
+          "zones": {
+            "title": 0,
+            "body": 34,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/music-and-museum"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/music-and-museum"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/music-and-museum"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/music-and-museum"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/calendar/season-brochure": {
+      "title": "Season Brochure / Printable Brochure / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/season-brochure"
+          ]
+        },
+        "performance": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/season-brochure"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/season-brochure"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/calendar/season-brochure"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/events": {
+      "title": "Performances—Events / Artis—Naples",
+      "band_hits": {
+        "concert": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events"
+          ]
+        },
+        "event": {
+          "total": 18,
+          "zones": {
+            "title": 1,
+            "body": 17,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events"
+          ]
+        },
+        "performance": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/events/art-after-hours.2526.1": {
+      "title": "Art After Hours / The Baker Museum / Artis—Naples",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/art-after-hours.2526.1"
+          ]
+        },
+        "event": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/art-after-hours.2526.1"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/art-after-hours.2526.1"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/art-after-hours.2526.1"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/events/igudesman-joo": {
+      "title": "Igudesman & Joo: The Final Nightmare Music / Official Box Office / Artis—Naples",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/igudesman-joo"
+          ]
+        },
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/igudesman-joo"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/igudesman-joo"
+          ]
+        },
+        "performance": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/igudesman-joo"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/igudesman-joo"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/events/masterworks.2526.1": {
+      "title": "Montero Plays Rachmaninoff / Naples Philharmonic Masterworks / Official Box Office / Artis—Naples",
+      "band_hits": {
+        "concert": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/masterworks.2526.1"
+          ]
+        },
+        "event": {
+          "total": 19,
+          "zones": {
+            "title": 0,
+            "body": 19,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/masterworks.2526.1"
+          ]
+        },
+        "performance": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/masterworks.2526.1"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/masterworks.2526.1"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/masterworks.2526.1"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/masterworks.2526.1"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/masterworks.2526.1"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/events/museum-lecture.2425.0617": {
+      "title": "Entangled in the Mangroves: Meditation on Nature / The Baker Museum / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/museum-lecture.2425.0617"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/museum-lecture.2425.0617"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/museum-lecture.2425.0617"
+          ]
+        },
+        "artists": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/museum-lecture.2425.0617"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/events/visual-arts-events": {
+      "title": "Visual Arts Events / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 26,
+          "zones": {
+            "title": 1,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/visual-arts-events"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/visual-arts-events"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/visual-arts-events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/events/visual-arts-events/art-after-hours": {
+      "title": "Art After Hours / Artis—Naples",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/visual-arts-events/art-after-hours"
+          ]
+        },
+        "event": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/visual-arts-events/art-after-hours"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/visual-arts-events/art-after-hours"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/visual-arts-events/art-after-hours"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/events/wang.2526.1": {
+      "title": "Bernstein & Beyond / Wang Chamber Music / Official Box Office / Artis—Naples",
+      "band_hits": {
+        "concert": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/wang.2526.1"
+          ]
+        },
+        "event": {
+          "total": 17,
+          "zones": {
+            "title": 0,
+            "body": 17,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/wang.2526.1"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/wang.2526.1"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/wang.2526.1"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/events/young-persons-concert-2526.2": {
+      "title": "Young Persons Concert with the Naples Philharmonic / The Snow Queen / Artis—Naples",
+      "band_hits": {
+        "concert": {
+          "total": 14,
+          "zones": {
+            "title": 1,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/young-persons-concert-2526.2"
+          ]
+        },
+        "event": {
+          "total": 18,
+          "zones": {
+            "title": 0,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/young-persons-concert-2526.2"
+          ]
+        },
+        "performance": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/young-persons-concert-2526.2"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/young-persons-concert-2526.2"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/young-persons-concert-2526.2"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/young-persons-concert-2526.2"
+          ]
+        },
+        "live performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/events/young-persons-concert-2526.2"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/visit/event-planning": {
+      "title": "Event Planning / Artis—Naples",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/event-planning"
+          ]
+        },
+        "event": {
+          "total": 50,
+          "zones": {
+            "title": 1,
+            "body": 49,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/event-planning"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/event-planning"
+          ]
+        },
+        "performance": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/event-planning"
+          ]
+        },
+        "stage": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/event-planning"
+          ]
+        },
+        "sound system": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/event-planning"
+          ]
+        },
+        "lighting": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/event-planning"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/event-planning"
+          ]
+        }
+      },
+      "emails": [
+        "eventservices@artisnaples.org"
+      ],
+      "phones": [
+        "239-254-2738",
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/baker-museum/admission/visitor-policy": {
+      "title": "Visitor Policies / The Baker Muesum",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/baker-museum/admission/visitor-policy"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/baker-museum/admission/visitor-policy"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/baker-museum/admission/visitor-policy"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/subscriptions/visiting-orchestras": {
+      "title": "Visiting Orchestras Series / Artis—Naples",
+      "band_hits": {
+        "concert": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/subscriptions/visiting-orchestras"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/subscriptions/visiting-orchestras"
+          ]
+        },
+        "performance": {
+          "total": 17,
+          "zones": {
+            "title": 0,
+            "body": 17,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/subscriptions/visiting-orchestras"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/subscriptions/visiting-orchestras"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/subscriptions/visiting-orchestras"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/support/leadership-circle": {
+      "title": "Leadership Circle / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle"
+          ]
+        },
+        "performance": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle"
+          ]
+        }
+      },
+      "emails": [
+        "cdepue@artisnaples.org"
+      ],
+      "phones": [
+        "239-254-2615",
+        "239-254-2719",
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/support/leadership-circle/canadian-friends": {
+      "title": "Canadian Friends / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle/canadian-friends"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle/canadian-friends"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle/canadian-friends"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle/canadian-friends"
+          ]
+        }
+      },
+      "emails": [
+        "jlorusso@artisnaples.org"
+      ],
+      "phones": [
+        "239-254-2670",
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/support/leadership-circle/nextgen5833": {
+      "title": "NextGen 5833 / Artis—Naples",
+      "band_hits": {
+        "concert": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle/nextgen5833"
+          ]
+        },
+        "event": {
+          "total": 23,
+          "zones": {
+            "title": 0,
+            "body": 23,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle/nextgen5833"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle/nextgen5833"
+          ]
+        },
+        "performance": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle/nextgen5833"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle/nextgen5833"
+          ]
+        },
+        "artists": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/support/leadership-circle/nextgen5833"
+          ]
+        }
+      },
+      "emails": [
+        "nextgen5833@artisnaples.org"
+      ],
+      "phones": [
+        "239-254-2617",
+        "239-254-2719",
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/visit": {
+      "title": "Plan Your Visit / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/visit/accessibility": {
+      "title": "Accessibility / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/accessibility"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/accessibility"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/accessibility"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/visit/arrival": {
+      "title": "Your Arrival for Performances / Artis—Naples",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/arrival"
+          ]
+        },
+        "event": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/arrival"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/arrival"
+          ]
+        },
+        "performance": {
+          "total": 17,
+          "zones": {
+            "title": 1,
+            "body": 16,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/arrival"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/arrival"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/arrival"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/arrival"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/visit/faq": {
+      "title": "FAQ / Artis—Naples",
+      "band_hits": {
+        "concert": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/faq"
+          ]
+        },
+        "event": {
+          "total": 24,
+          "zones": {
+            "title": 0,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/faq"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/faq"
+          ]
+        },
+        "performance": {
+          "total": 30,
+          "zones": {
+            "title": 0,
+            "body": 30,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/faq"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/faq"
+          ]
+        },
+        "live performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/faq"
+          ]
+        },
+        "artists": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/faq"
+          ]
+        }
+      },
+      "emails": [
+        "friends@artisnaples.org"
+      ],
+      "phones": [
+        "239-254-2666",
+        "239-254-2719",
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/visit/food-beverage": {
+      "title": "Food—Beverage / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/food-beverage"
+          ]
+        },
+        "performance": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/food-beverage"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/food-beverage"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/visit/gift-certificates": {
+      "title": "Gift Certificates / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/gift-certificates"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/gift-certificates"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/gift-certificates"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/gift-certificates"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/visit/map-directions": {
+      "title": "Map and Directions / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 18,
+          "zones": {
+            "title": 0,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/map-directions"
+          ]
+        },
+        "performance": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/map-directions"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/map-directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/visit/parking": {
+      "title": "Parking / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/parking"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/parking"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/parking"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/visit/seating": {
+      "title": "Seating Charts / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/seating"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/seating"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/seating"
+          ]
+        },
+        "artists": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/seating"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/visit/security": {
+      "title": "Safety & Security / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/security"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/security"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/security"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/security"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/visit/ticketing": {
+      "title": "Ticket Policy / Artis—Naples",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/ticketing"
+          ]
+        },
+        "event": {
+          "total": 20,
+          "zones": {
+            "title": 0,
+            "body": 20,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/ticketing"
+          ]
+        },
+        "performance": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/ticketing"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/ticketing"
+          ]
+        }
+      },
+      "emails": [
+        "patronservices@artisnaples.org"
+      ],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/": {
+      "title": "Artis—Naples",
+      "band_hits": {
+        "concert": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/"
+          ]
+        },
+        "event": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/contact/": {
+      "title": "Contact / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contact/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "ahollot@artisnaples.org",
+        "ap@artisnaples.org",
+        "avanarsdale@artisnaples.org",
+        "cmcneil@artisnaples.org",
+        "daulenbach@artisnaples.org",
+        "eventservices@artisnaples.org",
+        "friends@artisnaples.org",
+        "ktrummel@artisnaples.org",
+        "mscofield@artisnaples.org",
+        "npchorus@artisnaples.org",
+        "patronservices@artisnaples.org",
+        "thausler@artisnaples.org",
+        "vip@artisnaples.org",
+        "youthchorus@artisnaples.org",
+        "youthjazzorchestra@artisnaples.org",
+        "youthorchestra@artisnaples.org",
+        "youthsymphonia@artisnaples.org"
+      ],
+      "phones": [
+        "239-254-2617",
+        "239-254-2618",
+        "239-254-2628",
+        "239-254-2643",
+        "239-254-2646",
+        "239-254-2650",
+        "239-254-2684",
+        "239-254-2703",
+        "239-254-2726",
+        "239-254-2778",
+        "239-597-1111",
+        "239-597-1900",
+        "239-597-2794",
+        "800-597-1900",
+        "800-955-8771"
+      ],
+      "socials": [
+        "http://facebook.com/artisnaples",
+        "http://instagram.com/artisnaples",
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/contact-us": {
+      "title": "404 / Not Found / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contact-us"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/contact-us/": {
+      "title": "404 / Not Found / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contact-us/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/contactus": {
+      "title": "404 / Not Found / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contactus"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/contactus/": {
+      "title": "404 / Not Found / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contactus/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/about/": {
+      "title": "About Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/"
+          ]
+        },
+        "performance": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/about-us": {
+      "title": "404 / Not Found / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about-us"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/about-us/": {
+      "title": "404 / Not Found / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about-us/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/visit/": {
+      "title": "Plan Your Visit / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/"
+          ]
+        },
+        "performance": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/location": {
+      "title": "404 / Not Found / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/location"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/location"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/location/": {
+      "title": "404 / Not Found / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/location/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/location/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/directions": {
+      "title": "404 / Not Found / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/directions"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/directions"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    },
+    "https://artisnaples.org/directions/": {
+      "title": "404 / Not Found / Artis—Naples",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/directions/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://artisnaples.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239-597-1900",
+        "800-597-1900"
+      ],
+      "socials": [
+        "https://facebook.com/artisnaples",
+        "https://instagram.com/artisnaples",
+        "https://youtube.com/artisnaples"
+      ]
+    }
+  }
+}

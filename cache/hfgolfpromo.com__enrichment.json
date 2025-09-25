@@ -1,0 +1,137 @@
+{
+  "timestamp": "2025-09-24T19:42:46.782277",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T19:42:43.129743",
+      "company": {
+        "name": null,
+        "domain": "hfgolfpromo.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 24767060,
+          "description": "HF Golf & Promo (formerly Here’s Fred Golf Company) has been operating in Jacksonville, Florida for over 40 years. We are a family owned business that is dedicated to providing its customers with the highest quality products and services at affordable prices.\nWe serve the golf industry and have been providing caddie bibs, coveralls, flags, and other golf accessories to the Championship Tour, PGA Tour, LPGA Tour, and Web.com Tour, as well as many golf clubs across the nation.",
+          "domain": "hfgolfpromo.com",
+          "employees": "11 - 50",
+          "founded": "1974",
+          "fqdn": "www.hfgolfpromo.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/0e/b0ee6f97d7adf9f5faf5d6facfbc08c7",
+          "name": "HF Golf & Promo",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Other",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/hf-golf-promo"
+            }
+          },
+          "address": "Jacksonville North America United States US 3027 Dawn Road; Jacksonville, Florida 32207, US Florida FL -81.65564727783203,30.33218002319336 ",
+          "location": {
+            "city": "Jacksonville",
+            "country": "United States",
+            "fullLocation": "Jacksonville North America United States US 3027 Dawn Road; Jacksonville, Florida 32207, US Florida FL -81.65564727783203,30.33218002319336 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3027 Dawn Road; Jacksonville, Florida 32207, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7389,
+                "description": "Business services, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 561499,
+                "description": "All Other Business Support Services"
+              }
+            ]
+          },
+          "website": "https://hfgolfpromo.com",
+          "specialities": [
+            "embroidery services",
+            "golf accessories",
+            "kenwood radios",
+            "paper printing",
+            "promotional products",
+            "screen printing"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T19:42:44.244877",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T19:42:46.777016",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

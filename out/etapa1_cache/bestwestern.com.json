@@ -1,0 +1,368 @@
+{
+  "site_url": "https://bestwestern.com/",
+  "domain": "bestwestern.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://bestwestern.com/",
+    "https://bestwestern.com/en_US/reservations/reservation-index.html",
+    "https://bestwestern.com/en_US/reservations/groups.html",
+    "https://bestwestern.com/en_US/rewards/book-free-night.html",
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Cape-Cod&propertyState=MA&propertyCountry=US",
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Williamsted&propertyCountry=Curacao",
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Seattle&propertyState=WA&propertyCountry=US",
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Virgin&propertyState=UT&propertyCountry=US",
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Mayaguez&propertyCountry=Puerto-Ricio",
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Orlando&propertyState=FL&propertyCountry=US",
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Portland&propertyState=OR&propertyCountry=US",
+    "https://bestwestern.com/en_US/popup/join-now.popups.html",
+    "https://bestwestern.com/en_US.html",
+    "https://bestwestern.com/en_US/rewards/member-dashboard.html",
+    "https://bestwestern.com/en_US/rewards/message-center.html",
+    "https://bestwestern.com/en_US/rewards/redeem-points.html",
+    "https://bestwestern.com/en_US/rewards/profile-and-preferences.html",
+    "https://bestwestern.com/en_US/rewards/rewards-activity.html",
+    "https://bestwestern.com/en_US/customer-service.html",
+    "https://bestwestern.com/en_US/offers/hotel-discounts/best-western-rewards-visa.html",
+    "https://bestwestern.com/en_US/best-western-rewards/travel-partners.html",
+    "https://bestwestern.com/en_US/best-western-rewards.html",
+    "https://bestwestern.com/en_US/offers/hotel-discounts.html",
+    "https://bestwestern.com/en_US/hotels/discover-best-western/brands.html",
+    "https://bestwestern.com/en_US/offers/hotel-discounts/special-offer/rewardsrush3.html",
+    "https://bestwestern.com/en_US/hotels/destinations/united-states/hotels-in-the-caribbean/aruba.html",
+    "https://bestwestern.com/en_US/rewards/join.html",
+    "https://bestwestern.com/en_US/hotels/discover-best-western/brands/worldhotels-luxury-collection.html",
+    "https://bestwestern.com/en_US/hotels/discover-best-western/brands/worldhotels-elite-collection.html",
+    "https://bestwestern.com/en_US/hotels/discover-best-western/brands/worldhotels-distinctive-collection.html",
+    "https://bestwestern.com/en_US/hotels/discover-best-western/brands/bw-premier-collection.html",
+    "https://bestwestern.com/en_US/hotels/discover-best-western/brands/bw-signature-collection.html",
+    "https://vib.bestwestern.com/",
+    "https://aiden.bestwestern.com/",
+    "https://bestwestern.com/en_US/hotels/discover-best-western/brands/best-western-premier.html",
+    "https://bestwestern.com/en_US/hotels/discover-best-western/brands/best-western-plus.html",
+    "https://bestwestern.com/en_US/hotels/discover-best-western/brands/best-western.html",
+    "https://glo.bestwestern.com/",
+    "https://bestwestern.com/en_US/hotels/discover-best-western/brands/sure-stay.html",
+    "https://bestwestern.com/en_US/hotels/discover-best-western/brands/sure-stay-plus.html",
+    "https://bestwestern.com/en_US/hotels/discover-best-western/brands/sure-stay-collection.html",
+    "https://bestwestern.com/en_US/hotels/discover-best-western/brands/executive-residency.html",
+    "https://bestwestern.com/en_US/hotels/discover-best-western/brands/surestay-studio.html",
+    "https://bestwestern.com/en_US/hotels/discover-best-western/brands/worldhotels-crafted-collection.html",
+    "https://bestwestern.com/en_US/hotels/destinations/united-states/anaheim-hotels.html",
+    "https://bestwestern.com/en_US/hotels/destinations/united-states/gulf-coast/hotels-texas/austin-hill-country/austin-hotels.html",
+    "https://bestwestern.com/en_US/hotels/destinations/united-states/boston-hotels.html",
+    "https://bestwestern.com/en_US/hotels/destinations/canada/hotels-in-calgary.html",
+    "https://bestwestern.com/en_US/hotels/destinations/united-states/chicago-hotels.html",
+    "https://bestwestern.com/en_US/hotels/destinations/united-states/gulf-coast/hotels-texas/metroplex/hotels-in-dallas.html",
+    "https://bestwestern.com/en_US/hotels/destinations/united-states/denver-hotels.html",
+    "https://bestwestern.com/en_US/hotels/destinations/united-states/key-west-hotels.html",
+    "https://bestwestern.com/en_US/hotels/destinations/united-states/gulf-coast/hotels-texas/greater-houston-area/houston-hotels.html",
+    "https://bestwestern.com/en_US/hotels/destinations/united-states/las-vegas-hotels.html",
+    "https://bestwestern.com/en_US/hotels/destinations/united-states/los-angeles-hotels.html",
+    "https://bestwestern.com/en_US/hotels/destinations/united-states/hotels-in-miami.html",
+    "https://bestwestern.com/en_US/hotels/destinations/united-states/monterey-hotels.html",
+    "https://bestwestern.com/en_US/hotels/destinations/canada/hotels-in-montreal.html",
+    "https://bestwestern.com/en_US/hotels/destinations/united-states/hotels-in-myrtle-beach.html"
+  ],
+  "candidates": [
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Cape-Cod&propertyState=MA&propertyCountry=US",
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Mayaguez&propertyCountry=Puerto-Ricio",
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Orlando&propertyState=FL&propertyCountry=US",
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Portland&propertyState=OR&propertyCountry=US",
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Seattle&propertyState=WA&propertyCountry=US",
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Virgin&propertyState=UT&propertyCountry=US",
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Williamsted&propertyCountry=Curacao",
+    "https://bestwestern.com/en_US/reservations/groups.html",
+    "https://bestwestern.com/en_US/reservations/reservation-index.html",
+    "https://bestwestern.com/en_US/rewards/book-free-night.html",
+    "https://bestwestern.com/"
+  ],
+  "per_page": {
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Cape-Cod&propertyState=MA&propertyCountry=US": {
+      "title": "Search Best Western Hotels & Resorts",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Cape-Cod&propertyState=MA&propertyCountry=US"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800) 237-8483",
+        "(800) 780-7234"
+      ],
+      "socials": []
+    },
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Mayaguez&propertyCountry=Puerto-Ricio": {
+      "title": "Search Best Western Hotels & Resorts",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Mayaguez&propertyCountry=Puerto-Ricio"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800) 237-8483",
+        "(800) 780-7234"
+      ],
+      "socials": []
+    },
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Orlando&propertyState=FL&propertyCountry=US": {
+      "title": "Search Best Western Hotels & Resorts",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Orlando&propertyState=FL&propertyCountry=US"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800) 237-8483",
+        "(800) 780-7234"
+      ],
+      "socials": []
+    },
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Portland&propertyState=OR&propertyCountry=US": {
+      "title": "Search Best Western Hotels & Resorts",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Portland&propertyState=OR&propertyCountry=US"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800) 237-8483",
+        "(800) 780-7234"
+      ],
+      "socials": []
+    },
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Seattle&propertyState=WA&propertyCountry=US": {
+      "title": "Search Best Western Hotels & Resorts",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Seattle&propertyState=WA&propertyCountry=US"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800) 237-8483",
+        "(800) 780-7234"
+      ],
+      "socials": []
+    },
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Virgin&propertyState=UT&propertyCountry=US": {
+      "title": "Search Best Western Hotels & Resorts",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Virgin&propertyState=UT&propertyCountry=US"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800) 237-8483",
+        "(800) 780-7234"
+      ],
+      "socials": []
+    },
+    "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Williamsted&propertyCountry=Curacao": {
+      "title": "Search Best Western Hotels & Resorts",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bestwestern.com/en_US/book/hotel-search.html?propertyCity=Williamsted&propertyCountry=Curacao"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800) 237-8483",
+        "(800) 780-7234"
+      ],
+      "socials": []
+    },
+    "https://bestwestern.com/en_US/reservations/groups.html": {
+      "title": "Group Reservations | Best Western Hotels & Resorts",
+      "band_hits": {
+        "event": {
+          "total": 21,
+          "zones": {
+            "title": 0,
+            "body": 21,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bestwestern.com/en_US/reservations/groups.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800) 237-8483",
+        "(800) 780-7234"
+      ],
+      "socials": [
+        "https://www.facebook.com/BestWestern/",
+        "https://www.instagram.com/bestwestern/",
+        "https://www.linkedin.com/company/best-western-hotels-&-resorts",
+        "https://www.youtube.com/user/bestwesterntv"
+      ]
+    },
+    "https://bestwestern.com/en_US/reservations/reservation-index.html": {
+      "title": "Reservation Index",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(800) 237-8483"
+      ],
+      "socials": [
+        "https://www.facebook.com/BestWestern/",
+        "https://www.instagram.com/bestwestern/",
+        "https://www.linkedin.com/company/best-western-hotels-&-resorts",
+        "https://www.youtube.com/user/bestwesterntv"
+      ]
+    },
+    "https://bestwestern.com/en_US/rewards/book-free-night.html": {
+      "title": "Book A Free Night - Best Western Hotels & Resorts",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(800) 237-8483",
+        "(800) 780-7234",
+        "(800) 894-4365"
+      ],
+      "socials": [
+        "https://www.facebook.com/BestWestern/",
+        "https://www.instagram.com/bestwestern/",
+        "https://www.linkedin.com/company/best-western-hotels-&-resorts",
+        "https://www.youtube.com/user/bestwesterntv"
+      ]
+    },
+    "https://bestwestern.com/": {
+      "title": "Best Western Hotels - Book Online For The Lowest Rate",
+      "band_hits": {
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bestwestern.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800) 237-8483",
+        "(800) 780-7234"
+      ],
+      "socials": []
+    }
+  }
+}

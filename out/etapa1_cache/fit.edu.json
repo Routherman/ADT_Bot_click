@@ -1,0 +1,681 @@
+{
+  "site_url": "https://fit.edu/",
+  "domain": "fit.edu",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://fit.edu/",
+    "https://www.fit.edu/admission/visiting/",
+    "https://www.fit.edu/admissions/visiting/",
+    "https://www.fit.edu/about/",
+    "https://event.fit.edu/homecoming/",
+    "https://give.fit.edu/event/2025-florida-tech-alumni-awards-gala/e715526",
+    "https://calendar.fit.edu/",
+    "https://www.fit.edu/contact/",
+    "https://www.fit.edu/financialaid/policies-and-disclosures/consumer-information-disclosures/",
+    "https://www.fit.edu/about/non-discrimination-and-accessibility/",
+    "https://www.fit.edu",
+    "https://www.fit.edu/students/",
+    "https://www.fit.edu/faculty-staff/",
+    "https://www.fit.edu/parents-families/",
+    "https://www.fit.edu/alumni-friends/",
+    "https://www.fit.edu/apply/",
+    "https://www.fit.edu/admission/request-information/",
+    "https://www.fit.edu/alumni-and-giving/give-now/",
+    "https://www.fit.edu/programs/",
+    "https://www.fit.edu/academics/colleges-schools-departments",
+    "https://www.fit.edu/academics/services-resources",
+    "https://www.fit.edu/academics/learning-experiences/",
+    "https://online.fit.edu/",
+    "https://www.fit.edu/aba-online/",
+    "https://www.fit.edu/education-centers/orlando-fl/",
+    "https://www.fit.edu/patricksfb/",
+    "https://www.fit.edu/education-centers/spaceport-titusville-fl/",
+    "https://www.fit.edu/levelup/",
+    "https://www.fit.edu/continuing-education/",
+    "https://www.fit.edu/burrell/",
+    "https://www.fit.edu/student-design/",
+    "https://research.fit.edu/",
+    "https://news.fit.edu/",
+    "https://vertex.fit.edu/",
+    "https://lib.fit.edu/",
+    "https://www.fit.edu/faculty-profiles/",
+    "https://www.fit.edu/research/",
+    "https://news.fit.edu/experts/",
+    "https://www.fit.edu/admissions/why-florida-tech/",
+    "https://www.fit.edu/admissions/applying/first-year/",
+    "https://www.fit.edu/admissions/applying/transfer/",
+    "https://www.fit.edu/admissions/applying/graduate/",
+    "https://www.fit.edu/admissions/applying/international/",
+    "https://www.fit.edu/admissions/scholarships--aid/",
+    "https://www.fit.edu/admissions/admitted-students/",
+    "https://www.fit.edu/admissions/applying/dual-enrollment/",
+    "https://www.fit.edu/admissions/applying/non-degree-seeking/",
+    "https://www.fit.edu/admissions/connect/",
+    "https://www.fit.edu/financialaid/",
+    "https://www.fit.edu/housing/",
+    "https://www.fit.edu/dining/",
+    "https://www.fit.edu/health/",
+    "https://www.fit.edu/clemente-center/",
+    "https://www.fit.edu/civic-engagement/",
+    "https://www.fit.edu/greeklife/",
+    "https://www.fit.edu/life-at-florida-tech/arts-culture",
+    "https://www.fit.edu/life-at-florida-tech/athletics-esports",
+    "https://admissions.fit.edu/register/info/"
+  ],
+  "candidates": [
+    "https://www.fit.edu/contact/",
+    "https://www.fit.edu/about/",
+    "https://www.fit.edu/about/non-discrimination-and-accessibility/",
+    "https://give.fit.edu/event/2025-florida-tech-alumni-awards-gala/e715526",
+    "https://www.fit.edu/admission/visiting/",
+    "https://www.fit.edu/admissions/visiting/",
+    "https://www.fit.edu/financialaid/policies-and-disclosures/consumer-information-disclosures/",
+    "https://fit.edu/",
+    "https://fit.edu/contact",
+    "https://fit.edu/contact/",
+    "https://fit.edu/contact-us",
+    "https://fit.edu/contact-us/",
+    "https://fit.edu/contactus",
+    "https://fit.edu/contactus/",
+    "https://fit.edu/about",
+    "https://fit.edu/about/",
+    "https://fit.edu/about-us",
+    "https://fit.edu/about-us/",
+    "https://fit.edu/visit",
+    "https://fit.edu/visit/",
+    "https://fit.edu/location",
+    "https://fit.edu/location/",
+    "https://fit.edu/directions",
+    "https://fit.edu/directions/"
+  ],
+  "per_page": {
+    "https://www.fit.edu/contact/": {
+      "title": "Contact | Florida Tech",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/contact/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "abareg@fit.edu",
+        "admission@fit.edu",
+        "finaid@fit.edu",
+        "grad-admission@fit.edu",
+        "transcripts@fit.edu",
+        "webservices@fit.edu"
+      ],
+      "phones": [
+        "(321) 674-8000"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaInstituteofTechnology",
+        "https://www.instagram.com/floridatech/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.tiktok.com/@floridatech",
+        "https://www.youtube.com/c/FloridaTechOfficial"
+      ]
+    },
+    "https://www.fit.edu/about/": {
+      "title": "About Florida Institute of Technology | Florida Tech",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/about/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/about/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/about/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 674-8000"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaInstituteofTechnology",
+        "https://www.instagram.com/floridatech/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.tiktok.com/@floridatech",
+        "https://www.youtube.com/c/FloridaTechOfficial"
+      ]
+    },
+    "https://www.fit.edu/about/non-discrimination-and-accessibility/": {
+      "title": "Non-Discrimination and Accessibility | Florida Tech",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/about/non-discrimination-and-accessibility/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/about/non-discrimination-and-accessibility/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/about/non-discrimination-and-accessibility/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/about/non-discrimination-and-accessibility/"
+          ]
+        }
+      },
+      "emails": [
+        "equalopp@fit.edu",
+        "webservices@fit.edu"
+      ],
+      "phones": [
+        "(321) 674-8000",
+        "+1 321-674-7153",
+        "+1 321-674-8285"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaInstituteofTechnology",
+        "https://www.instagram.com/floridatech/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.tiktok.com/@floridatech",
+        "https://www.youtube.com/c/FloridaTechOfficial"
+      ]
+    },
+    "https://give.fit.edu/event/2025-florida-tech-alumni-awards-gala/e715526": {
+      "title": "2025 Florida Tech Alumni Awards Gala",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.fit.edu/admission/visiting/": {
+      "title": "Visiting and Tours | Florida Tech",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/admission/visiting/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/admission/visiting/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/admission/visiting/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/admission/visiting/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 674-8000"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaInstituteofTechnology",
+        "https://www.instagram.com/floridatech/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.tiktok.com/@floridatech",
+        "https://www.youtube.com/c/FloridaTechOfficial"
+      ]
+    },
+    "https://www.fit.edu/admissions/visiting/": {
+      "title": "Visiting and Tours | Florida Tech",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/admissions/visiting/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/admissions/visiting/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/admissions/visiting/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/admissions/visiting/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 674-8000"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaInstituteofTechnology",
+        "https://www.instagram.com/floridatech/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.tiktok.com/@floridatech",
+        "https://www.youtube.com/c/FloridaTechOfficial"
+      ]
+    },
+    "https://www.fit.edu/financialaid/policies-and-disclosures/consumer-information-disclosures/": {
+      "title": "Consumer Information Disclosures | Florida Tech",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/financialaid/policies-and-disclosures/consumer-information-disclosures/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/financialaid/policies-and-disclosures/consumer-information-disclosures/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/financialaid/policies-and-disclosures/consumer-information-disclosures/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/financialaid/policies-and-disclosures/consumer-information-disclosures/"
+          ]
+        },
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.fit.edu/financialaid/policies-and-disclosures/consumer-information-disclosures/"
+          ]
+        }
+      },
+      "emails": [
+        "clind@fit.edu",
+        "edavis@fit.edu",
+        "ggamage@fit.edu"
+      ],
+      "phones": [
+        "(321) 674-8000",
+        "888-357-7332"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaInstituteofTechnology",
+        "https://www.instagram.com/floridatech/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.tiktok.com/@floridatech",
+        "https://www.youtube.com/c/FloridaTechOfficial"
+      ]
+    },
+    "https://fit.edu/": {
+      "title": "www.fit.edu | Florida Tech",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fit.edu/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fit.edu/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fit.edu/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fit.edu/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fit.edu/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 674-8000"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaInstituteofTechnology",
+        "https://www.instagram.com/floridatech/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.tiktok.com/@floridatech",
+        "https://www.youtube.com/c/FloridaTechOfficial"
+      ]
+    },
+    "https://fit.edu/contact": {
+      "title": "Contact | Florida Tech",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fit.edu/contact"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fit.edu/contact"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://fit.edu/contact"
+          ]
+        }
+      },
+      "emails": [
+        "abareg@fit.edu",
+        "admission@fit.edu",
+        "finaid@fit.edu",
+        "grad-admission@fit.edu",
+        "transcripts@fit.edu",
+        "webservices@fit.edu"
+      ],
+      "phones": [
+        "(321) 674-8000"
+      ],
+      "socials": [
+        "https://www.facebook.com/FloridaInstituteofTechnology",
+        "https://www.instagram.com/floridatech/",
+        "https://www.linkedin.com/edu/school",
+        "https://www.tiktok.com/@floridatech",
+        "https://www.youtube.com/c/FloridaTechOfficial"
+      ]
+    }
+  }
+}

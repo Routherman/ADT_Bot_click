@@ -1,0 +1,179 @@
+{
+  "site_url": "https://babyjsbar.com/",
+  "domain": "babyjsbar.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://babyjsbar.com/",
+    "https://www.babyjsbar.com/calendar",
+    "https://www.babyjsbar.com/booking",
+    "https://www.babyjsbar.com",
+    "https://www.babyjsbar.com/tickets",
+    "https://www.babyjsbar.com/menu"
+  ],
+  "candidates": [
+    "https://www.babyjsbar.com/calendar",
+    "https://www.babyjsbar.com/booking",
+    "https://babyjsbar.com/"
+  ],
+  "per_page": {
+    "https://www.babyjsbar.com/calendar": {
+      "title": "calendar | baby j's",
+      "band_hits": {
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.babyjsbar.com/calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.instagram.com/babyjsbar/"
+      ]
+    },
+    "https://www.babyjsbar.com/booking": {
+      "title": "booking | baby j's",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.babyjsbar.com/booking"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.babyjsbar.com/booking"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.instagram.com/babyjsbar/"
+      ]
+    },
+    "https://babyjsbar.com/": {
+      "title": "Baby J's, cocktail bar, live music, downtown Gainesville FL",
+      "band_hits": {
+        "live music": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://babyjsbar.com/"
+          ]
+        },
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://babyjsbar.com/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://babyjsbar.com/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://babyjsbar.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.instagram.com/babyjsbar/"
+      ]
+    }
+  }
+}

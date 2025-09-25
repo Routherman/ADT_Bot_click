@@ -1,0 +1,602 @@
+{
+  "site_url": "https://boyettsgrove.com/",
+  "domain": "boyettsgrove.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://boyettsgrove.com/",
+    "https://boyettsgrove.com/visit-the-attraction",
+    "https://boyettsgrove.com/visit-the-attraction/zoo",
+    "https://boyettsgrove.com/visit-the-attraction/dinosaur-cave",
+    "https://boyettsgrove.com/visit-the-attraction/aviary",
+    "https://boyettsgrove.com/visit-the-attraction/miners-pan-for-gold",
+    "https://boyettsgrove.com/about-us",
+    "https://boyettsgrove.com/visit-the-attraction/",
+    "https://boyettsgrove.com/visit-the-attraction/zoo/",
+    "https://boyettsgrove.com/visit-the-attraction/dinosaur-cave/",
+    "https://boyettsgrove.com/visit-the-attraction/aviary/",
+    "https://boyettsgrove.com/visit-the-attraction/miners-pan-for-gold/",
+    "https://boyettsgrove.com/contact-us",
+    "https://boyettsgrove.com/old-fashioned-floridana-gift-shop",
+    "https://boyettsgrove.com/get-your-own-citrus-trees",
+    "https://boyettsgrove.com/art-gallery-featuring-james-oleson",
+    "https://boyettsgrove.com/hand-dipped-ice-cream-parlor",
+    "https://boyettsgrove.com/gift-fruit-shipping",
+    "https://boyettsgrove.com/gift-fruit-shipping/tropical-fruit-club",
+    "https://boyettsgrove.com/gift-fruit-citrus-faqs",
+    "https://boyettsgrove.com/gift-fruit-shipping/gift-citrus-fruit-order-form",
+    "https://boyettsgrove.com/mini-golf",
+    "https://boyettsgrove.com/kayak-weeki-wachee",
+    "https://boyettsgrove.com/group-tours",
+    "https://boyettsgrove.com/mini-golf/",
+    "https://boyettsgrove.com/old-fashioned-floridana-gift-shop/",
+    "https://boyettsgrove.com/art-gallery-featuring-james-oleson/",
+    "https://boyettsgrove.com/hand-dipped-ice-cream-parlor/",
+    "https://boyettsgrove.com/gift-fruit-shipping/",
+    "https://boyettsgrove.com/?share=reddit",
+    "https://boyettsgrove.com/visit-the-attraction?share=reddit",
+    "https://boyettsgrove.com/visit-the-attraction/zoo?share=reddit",
+    "https://boyettsgrove.com/visit-the-attraction/dinosaur-cave?share=reddit",
+    "https://boyettsgrove.com/visit-the-attraction/aviary?share=reddit",
+    "https://boyettsgrove.com/visit-the-attraction/miners-pan-for-gold?share=reddit",
+    "https://boyettsgrove.com/about-us?share=reddit",
+    "https://boyettsgrove.com/old-fashioned-floridana-gift-shop?share=reddit",
+    "https://boyettsgrove.com/get-your-own-citrus-trees?share=reddit"
+  ],
+  "candidates": [
+    "https://boyettsgrove.com/contact-us",
+    "https://boyettsgrove.com/about-us",
+    "https://boyettsgrove.com/about-us?share=reddit",
+    "https://boyettsgrove.com/visit-the-attraction",
+    "https://boyettsgrove.com/visit-the-attraction/",
+    "https://boyettsgrove.com/visit-the-attraction/aviary",
+    "https://boyettsgrove.com/visit-the-attraction/aviary/",
+    "https://boyettsgrove.com/visit-the-attraction/aviary?share=reddit",
+    "https://boyettsgrove.com/visit-the-attraction/dinosaur-cave",
+    "https://boyettsgrove.com/visit-the-attraction/dinosaur-cave/",
+    "https://boyettsgrove.com/visit-the-attraction/dinosaur-cave?share=reddit",
+    "https://boyettsgrove.com/visit-the-attraction/miners-pan-for-gold",
+    "https://boyettsgrove.com/visit-the-attraction/miners-pan-for-gold/",
+    "https://boyettsgrove.com/visit-the-attraction/miners-pan-for-gold?share=reddit",
+    "https://boyettsgrove.com/visit-the-attraction/zoo",
+    "https://boyettsgrove.com/visit-the-attraction/zoo/",
+    "https://boyettsgrove.com/visit-the-attraction/zoo?share=reddit",
+    "https://boyettsgrove.com/visit-the-attraction?share=reddit",
+    "https://boyettsgrove.com/",
+    "https://boyettsgrove.com/contact",
+    "https://boyettsgrove.com/contact/",
+    "https://boyettsgrove.com/contact-us/",
+    "https://boyettsgrove.com/contactus",
+    "https://boyettsgrove.com/contactus/",
+    "https://boyettsgrove.com/about",
+    "https://boyettsgrove.com/about/",
+    "https://boyettsgrove.com/about-us/",
+    "https://boyettsgrove.com/visit",
+    "https://boyettsgrove.com/visit/",
+    "https://boyettsgrove.com/location",
+    "https://boyettsgrove.com/location/",
+    "https://boyettsgrove.com/directions",
+    "https://boyettsgrove.com/directions/"
+  ],
+  "per_page": {
+    "https://boyettsgrove.com/contact-us": {
+      "title": "Contact Us - Boyett's Grove & Citrus Attraction",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "352-556-8447",
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/about-us": {
+      "title": "About Us - Boyett's Grove & Citrus Attraction",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/about-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/about-us?share=reddit": {
+      "title": "Reddit - The heart of the internet",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit-the-attraction": {
+      "title": "Visit the Attraction - Boyett's Grove & Citrus Attraction",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit-the-attraction/": {
+      "title": "Visit the Attraction - Boyett's Grove & Citrus Attraction",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit-the-attraction/aviary": {
+      "title": "Enjoy the Birds of Our Aviary - Boyett's Grove & Citrus Attraction",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/visit-the-attraction/aviary"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit-the-attraction/aviary/": {
+      "title": "Enjoy the Birds of Our Aviary - Boyett's Grove & Citrus Attraction",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/visit-the-attraction/aviary/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit-the-attraction/aviary?share=reddit": {
+      "title": "Reddit - The heart of the internet",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit-the-attraction/dinosaur-cave": {
+      "title": "Dinosaur Cave - Boyett's Grove & Citrus Attraction",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit-the-attraction/dinosaur-cave/": {
+      "title": "Dinosaur Cave - Boyett's Grove & Citrus Attraction",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit-the-attraction/dinosaur-cave?share=reddit": {
+      "title": "Reddit - The heart of the internet",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit-the-attraction/miners-pan-for-gold": {
+      "title": "DinoMight Gold Mine - Boyett's Grove & Citrus Attraction",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit-the-attraction/miners-pan-for-gold/": {
+      "title": "DinoMight Gold Mine - Boyett's Grove & Citrus Attraction",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit-the-attraction/miners-pan-for-gold?share=reddit": {
+      "title": "Reddit - The heart of the internet",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit-the-attraction/zoo": {
+      "title": "Welcome to the Wildlife Park - Boyett's Grove & Citrus Attraction",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/visit-the-attraction/zoo"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit-the-attraction/zoo/": {
+      "title": "Welcome to the Wildlife Park - Boyett's Grove & Citrus Attraction",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/visit-the-attraction/zoo/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit-the-attraction/zoo?share=reddit": {
+      "title": "Reddit - The heart of the internet",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit-the-attraction?share=reddit": {
+      "title": "Reddit - The heart of the internet",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://boyettsgrove.com/": {
+      "title": "Boyetts Grove Citrus and Attraction",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/contact": {
+      "title": "Contact Us - Boyett's Grove & Citrus Attraction",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "352-556-8447",
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/contact/": {
+      "title": "Contact Us - Boyett's Grove & Citrus Attraction",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "352-556-8447",
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/contact-us/": {
+      "title": "Contact Us - Boyett's Grove & Citrus Attraction",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "352-556-8447",
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/contactus/": {
+      "title": "Page not found - Boyett's Grove & Citrus Attraction",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/about": {
+      "title": "About Us - Boyett's Grove & Citrus Attraction",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/about"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/about/": {
+      "title": "About Us - Boyett's Grove & Citrus Attraction",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/about/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/about-us/": {
+      "title": "About Us - Boyett's Grove & Citrus Attraction",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/about-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit": {
+      "title": "Visit the Attraction - Boyett's Grove & Citrus Attraction",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/visit/": {
+      "title": "Visit the Attraction - Boyett's Grove & Citrus Attraction",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/location/": {
+      "title": "Page not found - Boyett's Grove & Citrus Attraction",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/directions": {
+      "title": "Page not found - Boyett's Grove & Citrus Attraction",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    },
+    "https://boyettsgrove.com/directions/": {
+      "title": "Page not found - Boyett's Grove & Citrus Attraction",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://boyettsgrove.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-796-2289"
+      ],
+      "socials": []
+    }
+  }
+}

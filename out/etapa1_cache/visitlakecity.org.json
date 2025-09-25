@@ -1,0 +1,589 @@
+{
+  "site_url": "https://visitlakecity.org/",
+  "domain": "visitlakecity.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://visitlakecity.org/",
+    "https://www.visitlakecity.org/events-and-festivals/",
+    "https://www.visitlakecity.org/contact/",
+    "https://www.visitlakecity.org/weddings-events/",
+    "https://www.visitlakecity.org",
+    "https://www.visitlakecity.org/where-to-dine/",
+    "https://www.visitlakecity.org/lodging/",
+    "https://www.visitlakecity.org/shopping/",
+    "https://www.visitlakecity.org/what-to-do/",
+    "https://www.visitlakecity.org/arts-entertainment/",
+    "https://www.visitlakecity.org/fitness-spas-salons/",
+    "https://www.visitlakecity.org/golfing/",
+    "https://www.visitlakecity.org/lake-pepin/",
+    "https://www.visitlakecity.org/on-the-water/",
+    "https://www.visitlakecity.org/outdoors/",
+    "https://www.visitlakecity.org/parks/",
+    "https://www.visitlakecity.org/plan-your-adventure/",
+    "https://www.visitlakecity.org/seasonal-fun/",
+    "https://www.visitlakecity.org/take-a-look/",
+    "https://www.visitlakecity.org/request-travel-information/",
+    "https://www.visitlakecity.org/water-ski-days/",
+    "https://www.visitlakecity.org/the-birthplace-of-water-skiing/",
+    "https://www.visitlakecity.org/event/ron-bublitz-live/",
+    "https://www.visitlakecity.org/event/mary-cutrufello-and-dan-lowinger-live/",
+    "https://www.visitlakecity.org/event/fall-fest-fun-zone/",
+    "https://www.visitlakecity.org/event/johnny-appleseed-lake-city/",
+    "https://www.visitlakecity.org/event/johnny-appleseed-beer-and-cider-fest/",
+    "https://www.visitlakecity.org/event/touch-a-truck/",
+    "https://www.visitlakecity.org/event/beer-wine-and-spirits-tasting/",
+    "https://www.visitlakecity.org/event/zombie-run/",
+    "https://www.visitlakecity.org/event/wild-wings-plaza-halloween-party/",
+    "https://www.visitlakecity.org/event/beats-bats-and-booze/",
+    "https://www.visitlakecity.org/annual-water-ski-days/",
+    "https://www.visitlakecity.org/y-knot-tri-lake-citys-triathlon/",
+    "https://www.visitlakecity.org/chamber-of-commerce-annual-golf-tournament/",
+    "https://www.visitlakecity.org/100-mile-garage-sale/",
+    "https://www.visitlakecity.org/tour-de-pepin/",
+    "https://www.visitlakecity.org/the-firemans-dance/",
+    "https://www.visitlakecity.org/float-a-palooza/",
+    "https://www.visitlakecity.org/fall-fest/",
+    "https://www.visitlakecity.org/johnny-appleseed-days/",
+    "https://www.visitlakecity.org/july-4th-fireworks-over-lake-pepin/",
+    "https://www.visitlakecity.org/lake-city-sportsmans-club-annual-ice-fishing-contest/",
+    "https://www.visitlakecity.org/sail-for-leukemia/",
+    "https://www.visitlakecity.org/port-104/",
+    "https://www.visitlakecity.org/hello-world/",
+    "https://www.visitlakecity.org/off-the-rails-bistro/",
+    "https://www.visitlakecity.org/papa-tronios/",
+    "https://www.visitlakecity.org/b-wells/",
+    "https://www.visitlakecity.org/bluffside-grill/",
+    "https://www.visitlakecity.org/big-bear-pizzeria-and-deli/",
+    "https://www.visitlakecity.org/lake-city-fresh-market/",
+    "https://www.visitlakecity.org/wild-wings-plaza/",
+    "https://www.visitlakecity.org/burger-king/",
+    "https://www.visitlakecity.org/tjs-lakeshore-pub/",
+    "https://www.visitlakecity.org/whistle-stop-cafe/",
+    "https://www.visitlakecity.org/the-sportsmans-club/",
+    "https://www.visitlakecity.org/reads-landing-brewery/",
+    "https://www.visitlakecity.org/john-the-baptist-beverage-company/",
+    "https://www.visitlakecity.org/chickadee-cottage-cafe/",
+    "https://www.visitlakecity.org/vfw-post-8729/",
+    "https://www.visitlakecity.org/market-by-the-lake/",
+    "https://www.visitlakecity.org/chuengs-garden/"
+  ],
+  "candidates": [
+    "https://www.visitlakecity.org/contact/",
+    "https://www.visitlakecity.org/events-and-festivals/",
+    "https://www.visitlakecity.org/weddings-events/",
+    "https://www.visitlakecity.org/event/beats-bats-and-booze/",
+    "https://www.visitlakecity.org/event/beer-wine-and-spirits-tasting/",
+    "https://www.visitlakecity.org/event/fall-fest-fun-zone/",
+    "https://www.visitlakecity.org/event/johnny-appleseed-beer-and-cider-fest/",
+    "https://www.visitlakecity.org/event/johnny-appleseed-lake-city/",
+    "https://www.visitlakecity.org/event/mary-cutrufello-and-dan-lowinger-live/",
+    "https://www.visitlakecity.org/event/ron-bublitz-live/",
+    "https://www.visitlakecity.org/event/touch-a-truck/",
+    "https://www.visitlakecity.org/event/wild-wings-plaza-halloween-party/",
+    "https://www.visitlakecity.org/event/zombie-run/",
+    "https://visitlakecity.org/",
+    "https://visitlakecity.org/contact",
+    "https://visitlakecity.org/contact/",
+    "https://visitlakecity.org/contact-us",
+    "https://visitlakecity.org/contact-us/",
+    "https://visitlakecity.org/contactus",
+    "https://visitlakecity.org/contactus/",
+    "https://visitlakecity.org/about",
+    "https://visitlakecity.org/about/",
+    "https://visitlakecity.org/about-us",
+    "https://visitlakecity.org/about-us/",
+    "https://visitlakecity.org/visit",
+    "https://visitlakecity.org/visit/",
+    "https://visitlakecity.org/location",
+    "https://visitlakecity.org/location/",
+    "https://visitlakecity.org/directions",
+    "https://visitlakecity.org/directions/"
+  ],
+  "per_page": {
+    "https://www.visitlakecity.org/contact/": {
+      "title": "Contact - Visit Lake City MN",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "877-525-3248"
+      ],
+      "socials": [
+        "https://www.facebook.com/visitlakecitymn",
+        "https://www.instagram.com/visitlakecity/"
+      ]
+    },
+    "https://www.visitlakecity.org/events-and-festivals/": {
+      "title": "Events and Festivals - Visit Lake City MN",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/events-and-festivals/"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 1,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/events-and-festivals/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/events-and-festivals/"
+          ]
+        },
+        "artists": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/events-and-festivals/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "877-525-3248"
+      ],
+      "socials": [
+        "https://www.facebook.com/visitlakecitymn",
+        "https://www.instagram.com/visitlakecity/"
+      ]
+    },
+    "https://www.visitlakecity.org/weddings-events/": {
+      "title": "Weddings & Events - Visit Lake City MN",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/weddings-events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "877-525-3248"
+      ],
+      "socials": [
+        "https://www.facebook.com/visitlakecitymn",
+        "https://www.instagram.com/visitlakecity/"
+      ]
+    },
+    "https://www.visitlakecity.org/event/beats-bats-and-booze/": {
+      "title": "Beats, Bats, and Booze: a Halloween Party at Wild Wings Plaza for Adults - Visit Lake City MN",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/beats-bats-and-booze/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/beats-bats-and-booze/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(651) 448-6865",
+        "877-525-3248"
+      ],
+      "socials": [
+        "https://www.facebook.com/visitlakecitymn",
+        "https://www.instagram.com/visitlakecity/"
+      ]
+    },
+    "https://www.visitlakecity.org/event/beer-wine-and-spirits-tasting/": {
+      "title": "Rotary Beer, Wine, and Spirits Tasting - Visit Lake City MN",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/beer-wine-and-spirits-tasting/"
+          ]
+        },
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/beer-wine-and-spirits-tasting/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/beer-wine-and-spirits-tasting/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(651) 345-2324",
+        "877-525-3248"
+      ],
+      "socials": [
+        "https://www.facebook.com/visitlakecitymn",
+        "https://www.instagram.com/visitlakecity/"
+      ]
+    },
+    "https://www.visitlakecity.org/event/fall-fest-fun-zone/": {
+      "title": "Fall Fest Fun Zone! - Visit Lake City MN",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/fall-fest-fun-zone/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/fall-fest-fun-zone/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "6513454123",
+        "7349498006",
+        "877-525-3248"
+      ],
+      "socials": [
+        "https://www.facebook.com/events/824067349498006/",
+        "https://www.facebook.com/visitlakecitymn",
+        "https://www.instagram.com/visitlakecity/"
+      ]
+    },
+    "https://www.visitlakecity.org/event/johnny-appleseed-beer-and-cider-fest/": {
+      "title": "Johnny Appleseed Beer and Cider Fest - Visit Lake City MN",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/johnny-appleseed-beer-and-cider-fest/"
+          ]
+        },
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/johnny-appleseed-beer-and-cider-fest/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/johnny-appleseed-beer-and-cider-fest/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(651) 345-4123",
+        "6513454123",
+        "877-525-3248"
+      ],
+      "socials": [
+        "https://www.facebook.com/visitlakecitymn",
+        "https://www.instagram.com/visitlakecity/"
+      ]
+    },
+    "https://www.visitlakecity.org/event/johnny-appleseed-lake-city/": {
+      "title": "Johnny Appleseed 2025 - Visit Lake City MN",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/johnny-appleseed-lake-city/"
+          ]
+        },
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/johnny-appleseed-lake-city/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/johnny-appleseed-lake-city/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/johnny-appleseed-lake-city/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/johnny-appleseed-lake-city/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(651) 345-4123",
+        "651-345-4123",
+        "6513454123",
+        "877-525-3248"
+      ],
+      "socials": [
+        "https://www.facebook.com/visitlakecitymn",
+        "https://www.instagram.com/visitlakecity/"
+      ]
+    },
+    "https://www.visitlakecity.org/event/mary-cutrufello-and-dan-lowinger-live/": {
+      "title": "Mary Cutrufello and Dan Lowinger Live! - Visit Lake City MN",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/mary-cutrufello-and-dan-lowinger-live/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/mary-cutrufello-and-dan-lowinger-live/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/mary-cutrufello-and-dan-lowinger-live/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/mary-cutrufello-and-dan-lowinger-live/"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visitlakecity.org/event/mary-cutrufello-and-dan-lowinger-live/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "616-260-4924",
+        "877-525-3248"
+      ],
+      "socials": [
+        "https://www.facebook.com/visitlakecitymn",
+        "https://www.instagram.com/visitlakecity/"
+      ]
+    }
+  }
+}

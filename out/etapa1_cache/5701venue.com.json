@@ -1,0 +1,158 @@
+{
+  "site_url": "https://5701venue.com/",
+  "domain": "5701venue.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://5701venue.com/",
+    "https://5701venue.com/contact-us/",
+    "https://5701venue.com/spaces/",
+    "https://5701venue.com/pricing-estimate/",
+    "https://5701venue.com/gallery/",
+    "https://5701venue.com/?page_id=67"
+  ],
+  "candidates": [
+    "https://5701venue.com/contact-us/",
+    "https://5701venue.com/"
+  ],
+  "per_page": {
+    "https://5701venue.com/contact-us/": {
+      "title": "Contact Us | 5701 Venue",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://5701venue.com/contact-us/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://5701venue.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/5701venue/",
+        "https://www.instagram.com/5701venue/"
+      ]
+    },
+    "https://5701venue.com/": {
+      "title": "5701 Venue | Gainesville's Best Wedding & Event Space",
+      "band_hits": {
+        "event": {
+          "total": 16,
+          "zones": {
+            "title": 1,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://5701venue.com/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://5701venue.com/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://5701venue.com/"
+          ]
+        },
+        "sound system": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://5701venue.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/5701venue/",
+        "https://www.instagram.com/5701venue/"
+      ]
+    }
+  }
+}

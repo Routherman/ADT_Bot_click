@@ -1,0 +1,989 @@
+{
+  "site_url": "https://brokenstringsbrewery.com/",
+  "domain": "brokenstringsbrewery.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://brokenstringsbrewery.com/",
+    "https://www.brokenstringsbrewery.com/about-us/",
+    "https://www.brokenstringsbrewery.com/events/",
+    "https://www.brokenstringsbrewery.com/news/",
+    "https://www.brokenstringsbrewery.com/contact-us/",
+    "https://brokenstringsbrewery.com/events/",
+    "https://www.brokenstringsbrewery.com/",
+    "https://www.brokenstringsbrewery.com/tours/",
+    "https://www.brokenstringsbrewery.com/on-tap/",
+    "https://www.brokenstringsbrewery.com",
+    "https://brokenstringsbrewery.com/on-tap/",
+    "https://brokenstringsbrewery.com/home/",
+    "https://www.brokenstringsbrewery.com/home/",
+    "https://www.brokenstringsbrewery.com/%f0%9f%8c%9erise-and-shine%f0%9f%8c%9e-%f0%9f%9a%a810-minute-warning%f0%9f%9a%a8-mr-brunchside-blantons-barrel-aged-impe/",
+    "https://www.brokenstringsbrewery.com/had-a-fun-day-brewing-a-collaboration-brew-with-our-new-friends-at-yeasty-brews/",
+    "https://www.brokenstringsbrewery.com/broken-strings-brewery-news-42/",
+    "https://www.brokenstringsbrewery.com/clemsonfb-and-iastatefb-fans-are-in-the-house-for-the-cheezitbowl/",
+    "https://www.brokenstringsbrewery.com/were-open-2-7pm-today-for-your-last-minute-stocking-stuffers%f0%9f%a7%a6-we-will-be-closed/",
+    "https://www.brokenstringsbrewery.com/broken-strings-brewery-news-40/",
+    "https://www.brokenstringsbrewery.com/2022/01/15/",
+    "https://www.brokenstringsbrewery.com/2022/01/13/",
+    "https://www.brokenstringsbrewery.com/2021/12/29/",
+    "https://www.brokenstringsbrewery.com/2021/12/24/",
+    "https://www.brokenstringsbrewery.com/category/uncategorized/",
+    "https://www.brokenstringsbrewery.com/author/jason_c02lq5ar/",
+    "https://www.brokenstringsbrewery.com/broken-strings-brewery-news-41/",
+    "https://www.brokenstringsbrewery.com/%f0%9f%8d%8110-minute-warning%f0%9f%8d%81-blantons-bourbon-barrel-aged-maple-syrup-online-pre-sale-be/",
+    "https://www.brokenstringsbrewery.com/%f0%9f%93%a210-minute-warning%f0%9f%93%a2-%f0%9f%8e%84mele-kalikimaka-blue-raspberry-sour-4-pack-16oz-cans-18/",
+    "https://www.brokenstringsbrewery.com/stand-up-comedy-showcase-this-friday-night-with-host-djsantanafunnyman/",
+    "https://www.brokenstringsbrewery.com/category/uncategorized/page/2/",
+    "https://www.brokenstringsbrewery.com/category/uncategorized/page/73/",
+    "https://www.brokenstringsbrewery.com/author/jason_c02lq5ar/page/2/",
+    "https://www.brokenstringsbrewery.com/author/jason_c02lq5ar/page/73/"
+  ],
+  "candidates": [
+    "https://www.brokenstringsbrewery.com/contact-us/",
+    "https://www.brokenstringsbrewery.com/about-us/",
+    "https://brokenstringsbrewery.com/events/",
+    "https://www.brokenstringsbrewery.com/events/",
+    "https://www.brokenstringsbrewery.com/news/",
+    "https://brokenstringsbrewery.com/",
+    "https://www.brokenstringsbrewery.com/stand-up-comedy-showcase-this-friday-night-with-host-djsantanafunnyman/",
+    "https://brokenstringsbrewery.com/contact",
+    "https://brokenstringsbrewery.com/contact/",
+    "https://brokenstringsbrewery.com/contact-us",
+    "https://brokenstringsbrewery.com/contact-us/",
+    "https://brokenstringsbrewery.com/contactus",
+    "https://brokenstringsbrewery.com/contactus/",
+    "https://brokenstringsbrewery.com/about",
+    "https://brokenstringsbrewery.com/about/",
+    "https://brokenstringsbrewery.com/about-us",
+    "https://brokenstringsbrewery.com/about-us/",
+    "https://brokenstringsbrewery.com/visit",
+    "https://brokenstringsbrewery.com/visit/",
+    "https://brokenstringsbrewery.com/location",
+    "https://brokenstringsbrewery.com/location/",
+    "https://brokenstringsbrewery.com/directions",
+    "https://brokenstringsbrewery.com/directions/"
+  ],
+  "per_page": {
+    "https://www.brokenstringsbrewery.com/contact-us/": {
+      "title": "Contact Us - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.brokenstringsbrewery.com/contact-us/"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.brokenstringsbrewery.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://www.brokenstringsbrewery.com/about-us/": {
+      "title": "About Us - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.brokenstringsbrewery.com/about-us/"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.brokenstringsbrewery.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/events/": {
+      "title": "Events - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/events/"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://www.brokenstringsbrewery.com/events/": {
+      "title": "Events - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.brokenstringsbrewery.com/events/"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.brokenstringsbrewery.com/events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://www.brokenstringsbrewery.com/news/": {
+      "title": "News - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.brokenstringsbrewery.com/news/"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.brokenstringsbrewery.com/news/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/": {
+      "title": "Home - Broken Strings Brewery",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/"
+          ]
+        },
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://www.brokenstringsbrewery.com/stand-up-comedy-showcase-this-friday-night-with-host-djsantanafunnyman/": {
+      "title": "Stand Up Comedy Showcase this Friday night with host @djsantanafunnyman - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.brokenstringsbrewery.com/stand-up-comedy-showcase-this-friday-night-with-host-djsantanafunnyman/"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.brokenstringsbrewery.com/stand-up-comedy-showcase-this-friday-night-with-host-djsantanafunnyman/"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.brokenstringsbrewery.com/stand-up-comedy-showcase-this-friday-night-with-host-djsantanafunnyman/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://facebook.com/story.php",
+        "https://lm.facebook.com/l.php",
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/contact": {
+      "title": "Contact Us - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/contact"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/contact/": {
+      "title": "Contact Us - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/contact/"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/contact-us": {
+      "title": "Contact Us - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/contact-us"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/contact-us/": {
+      "title": "Contact Us - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/contact-us/"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/contactus": {
+      "title": "Page not found - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/contactus"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/contactus/": {
+      "title": "Page not found - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/contactus/"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/about": {
+      "title": "About Us - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/about"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/about/": {
+      "title": "About Us - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/about/"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/about-us": {
+      "title": "About Us - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/about-us"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/about-us/": {
+      "title": "About Us - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/about-us/"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/visit": {
+      "title": "Page not found - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/visit"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/visit/": {
+      "title": "Page not found - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/visit/"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/location": {
+      "title": "Page not found - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/location"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/location/": {
+      "title": "Page not found - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/location/"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/directions": {
+      "title": "Page not found - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/directions"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    },
+    "https://brokenstringsbrewery.com/directions/": {
+      "title": "Page not found - Broken Strings Brewery",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/directions/"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brokenstringsbrewery.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(407) 250-5798"
+      ],
+      "socials": [
+        "https://www.facebook.com/brokenstringsbrewery/",
+        "https://www.instagram.com/brokenstringsbrewery/"
+      ]
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "version": 3,
+  "sites": [
+    {
+      "site_url": "https://vineyardscountryclubnaples.com/",
+      "domain": "vineyardscountryclubnaples.com",
+      "florida_ok": true,
+      "band": {
+        "score": 62,
+        "unique_keywords": 4,
+        "weighted_hits": 19,
+        "per_keyword": {
+          "event": {
+            "total": 8,
+            "zones": { "title": 1, "body": 7, "menu": 0, "footer": 0 },
+            "pages": [
+              "https://vineyardscountryclubnaples.com/events-venue/",
+              "https://vineyardscountryclubnaples.com/events-venue/corporate-golf-outing/",
+              "https://vineyardscountryclubnaples.com/blog/wedding-reception-trends-a-complete-guide/"
+            ]
+          },
+          "wedding": {
+            "total": 6,
+            "zones": { "title": 2, "body": 4, "menu": 0, "footer": 0 },
+            "pages": [
+              "https://vineyardscountryclubnaples.com/events-venue/",
+              "https://vineyardscountryclubnaples.com/events-venue/corporate-golf-outing/",
+              "https://vineyardscountryclubnaples.com/blog/wedding-reception-trends-a-complete-guide/"
+            ]
+          },
+          "corporate event": {
+            "total": 3,
+            "zones": { "title": 1, "body": 2, "menu": 0, "footer": 0 },
+            "pages": [
+              "https://vineyardscountryclubnaples.com/events-venue/corporate-golf-outing/",
+              "https://vineyardscountryclubnaples.com/events-venue/"
+            ]
+          },
+          "booking": {
+            "total": 2,
+            "zones": { "title": 0, "body": 2, "menu": 0, "footer": 0 },
+            "pages": [
+              "https://vineyardscountryclubnaples.com/events-venue/corporate-golf-outing/"
+            ]
+          }
+        }
+      },
+      "emails": [
+        {
+          "value": "info@vineyardscountryclubnaples.com",
+          "pages": [
+            "https://vineyardscountryclubnaples.com/",
+            "https://vineyardscountryclubnaples.com/contact/",
+            "https://vineyardscountryclubnaples.com/membership/",
+            "https://vineyardscountryclubnaples.com/about/our-team/"
+          ]
+        },
+        {
+          "value": "pmalonson@vineyardscountryclubnaples.com",
+          "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"]
+        },
+        {
+          "value": "jiravani@vineyardscountryclubnaples.com",
+          "pages": [
+            "https://vineyardscountryclubnaples.com/membership/",
+            "https://vineyardscountryclubnaples.com/membership-information-form/",
+            "https://vineyardscountryclubnaples.com/about/our-team/"
+          ]
+        },
+        {
+          "value": "zbouchard@vineyardscountryclubnaples.com",
+          "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"]
+        },
+        {
+          "value": "dmunar@vineyardscountryclubnaples.com",
+          "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"]
+        },
+        {
+          "value": "jinman@vineyardscountryclubnaples.com",
+          "pages": [
+            "https://vineyardscountryclubnaples.com/about/our-team/",
+            "https://vineyardscountryclubnaples.com/storage/2025/04/vineyards-newsletter-march-april-2025-final.pdf"
+          ]
+        },
+        {
+          "value": "tmetzger@vineyardscountryclubnaples.com",
+          "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"]
+        },
+        {
+          "value": "tennis@vineyardscountryclubnaples.com",
+          "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"]
+        },
+        {
+          "value": "vineyardshomeowners@vineyardscountryclubnaples.com",
+          "pages": ["https://vineyardscountryclubnaples.com/golf-course-renovation/"]
+        }
+      ],
+      "phones": [
+        { "value": "(239) 353-1500", "pages": ["https://vineyardscountryclubnaples.com/contact/", "https://vineyardscountryclubnaples.com/"] },
+        { "value": "(239) 353-6101", "pages": ["https://vineyardscountryclubnaples.com/contact/", "https://vineyardscountryclubnaples.com/membership/"] },
+        { "value": "(239) 353-1105", "pages": ["https://vineyardscountryclubnaples.com/contact/"] },
+        { "value": "(239) 353-9317", "pages": ["https://vineyardscountryclubnaples.com/contact/"] },
+        { "value": "(239) 353-6161", "pages": ["https://vineyardscountryclubnaples.com/contact/"] },
+        { "value": "239-291-0770", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/", "https://vineyardscountryclubnaples.com/"] },
+        { "value": "239-291-0740", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/", "https://vineyardscountryclubnaples.com/"] }
+      ],
+      "addresses": [
+        {
+          "value": "400 Vineyards Blvd., Naples, FL 34119",
+          "city": "Naples",
+          "state": "FL",
+          "zip": "34119",
+          "pages": [
+            "https://vineyardscountryclubnaples.com/contact/",
+            "https://vineyardscountryclubnaples.com/about/our-team/",
+            "https://vineyardscountryclubnaples.com/"
+          ]
+        }
+      ],
+      "socials": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/VineyardsCC/",
+          "pages": [
+            "https://vineyardscountryclubnaples.com/about/our-team/"
+          ]
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/vineyardscc/",
+          "pages": [
+            "https://vineyardscountryclubnaples.com/about/our-team/"
+          ]
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/vineyards-country-club-naples/",
+          "pages": [
+            "https://vineyardscountryclubnaples.com/about/our-team/"
+          ]
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/channel/UCp74FaKZE95Ey914AieqHAw/featured",
+          "pages": [
+            "https://vineyardscountryclubnaples.com/about/our-team/"
+          ]
+        }
+      ],
+      "people": [
+        { "name": "Paul Malonson", "role": "Chief Executive Officer and General Manager", "email": "pmalonson@vineyardscountryclubnaples.com", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Julie Inman", "role": "Senior Director of Activities & Member Experience", "email": "jinman@vineyardscountryclubnaples.com", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Jeff Lesek", "role": "Human Resources Director", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Deana Tremayne", "role": "Controller", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Tera Quinn", "role": "Assistant Controller", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Amanda Saunders", "role": "Office Manager", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+
+        { "name": "Julie Iravani", "role": "Membership Director", "email": "jiravani@vineyardscountryclubnaples.com", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/", "https://vineyardscountryclubnaples.com/membership/"] },
+        { "name": "Zach Bouchard", "role": "Marketing Director", "email": "zbouchard@vineyardscountryclubnaples.com", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Demi Munar", "role": "Sales Director of Catering and Events", "email": "dmunar@vineyardscountryclubnaples.com", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+
+        { "name": "Tom Metzger", "role": "Director of Golf", "email": "tmetzger@vineyardscountryclubnaples.com", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Billy Huskins", "role": "Director of Agronomy", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "J.P Leland", "role": "Head Golf Professional", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Joy Frederick", "role": "Racquet Center Director", "email": "tennis@vineyardscountryclubnaples.com", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Sandy McClain", "role": "Merchandising Manager", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Sean O’Donnell", "role": "Lead Assistant Golf Professional", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+
+        { "name": "Dawn Flynn", "role": "Food & Beverage Director", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Mike Whooley", "role": "Executive Chef", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Chris Olson", "role": "Executive Chef", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Romario Latibeaudiere", "role": "Executive Sous Chef", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Ryan McDade", "role": "Chef", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Claudia Oliver", "role": "Banquet Director", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Rebecca Dewald", "role": "Food & Beverage Manager", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+
+        { "name": "Francesca Scerbo", "role": "Fitness Manager", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] },
+        { "name": "Amy Banks", "role": "Spa Manager", "email": "", "source": "page", "pages": ["https://vineyardscountryclubnaples.com/about/our-team/"] }
+      ],
+      "pages_scanned": 9,
+      "last_updated": "2025-09-13T00:00:00-03:00"
+    }
+  ]
+}

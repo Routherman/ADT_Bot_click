@@ -1,0 +1,328 @@
+{
+  "site_url": "https://cruisecocoa.com/",
+  "domain": "cruisecocoa.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://cruisecocoa.com/",
+    "https://cruisecocoa.com/about/",
+    "https://cruisecocoa.com/about/cruise-cocoa-blog/",
+    "https://cruisecocoa.com/contact-us/",
+    "https://cruisecocoa.com/contact/",
+    "https://cruisecocoa.com/our-locations/",
+    "https://cruisecocoa.com/our-tour-vessels/",
+    "https://cruisecocoa.com/dolphin-sightseeing-tours/",
+    "https://cruisecocoa.com/bioluminescence-tours/"
+  ],
+  "candidates": [
+    "https://cruisecocoa.com/contact-us/",
+    "https://cruisecocoa.com/contact/",
+    "https://cruisecocoa.com/about/",
+    "https://cruisecocoa.com/about/cruise-cocoa-blog/",
+    "https://cruisecocoa.com/",
+    "https://cruisecocoa.com/contact",
+    "https://cruisecocoa.com/contact-us",
+    "https://cruisecocoa.com/contactus",
+    "https://cruisecocoa.com/contactus/",
+    "https://cruisecocoa.com/about",
+    "https://cruisecocoa.com/about-us",
+    "https://cruisecocoa.com/about-us/",
+    "https://cruisecocoa.com/visit",
+    "https://cruisecocoa.com/visit/",
+    "https://cruisecocoa.com/location",
+    "https://cruisecocoa.com/location/",
+    "https://cruisecocoa.com/directions",
+    "https://cruisecocoa.com/directions/"
+  ],
+  "per_page": {
+    "https://cruisecocoa.com/contact-us/": {
+      "title": "Contact Us - Cruise Cocoa",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cruisecocoa.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321)209-2339"
+      ],
+      "socials": [
+        "https://www.facebook.com/CruiseCocoaLLC/",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.linkedin.com/sharing/share-offsite/"
+      ]
+    },
+    "https://cruisecocoa.com/contact/": {
+      "title": "Contact Us - Cruise Cocoa",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cruisecocoa.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321)209-2339"
+      ],
+      "socials": [
+        "https://www.facebook.com/CruiseCocoaLLC/",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.linkedin.com/sharing/share-offsite/"
+      ]
+    },
+    "https://cruisecocoa.com/about/": {
+      "title": "About - Cruise Cocoa",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cruisecocoa.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "info@cruisecocoa.com"
+      ],
+      "phones": [
+        "(321) 209-2339"
+      ],
+      "socials": [
+        "https://www.facebook.com/CruiseCocoaLLC",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cruisecocoa/",
+        "https://www.linkedin.com/sharing/share-offsite/"
+      ]
+    },
+    "https://cruisecocoa.com/about/cruise-cocoa-blog/": {
+      "title": "Cruise Cocoa Blog - Cruise Cocoa",
+      "band_hits": {
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cruisecocoa.com/about/cruise-cocoa-blog/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/https://www.instagram.com/cruisecocoa/",
+        "https://www.linkedin.com/sharing/share-offsite/"
+      ]
+    },
+    "https://cruisecocoa.com/": {
+      "title": "Home - Cruise Cocoa",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cruisecocoa.com/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cruisecocoa.com/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cruisecocoa.com/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cruisecocoa.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.linkedin.com/sharing/share-offsite/"
+      ]
+    },
+    "https://cruisecocoa.com/contact": {
+      "title": "Contact Us - Cruise Cocoa",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cruisecocoa.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321)209-2339"
+      ],
+      "socials": [
+        "https://www.facebook.com/CruiseCocoaLLC/",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.linkedin.com/sharing/share-offsite/"
+      ]
+    },
+    "https://cruisecocoa.com/contact-us": {
+      "title": "Contact Us - Cruise Cocoa",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cruisecocoa.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321)209-2339"
+      ],
+      "socials": [
+        "https://www.facebook.com/CruiseCocoaLLC/",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.linkedin.com/sharing/share-offsite/"
+      ]
+    },
+    "https://cruisecocoa.com/about": {
+      "title": "About - Cruise Cocoa",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cruisecocoa.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "info@cruisecocoa.com"
+      ],
+      "phones": [
+        "(321) 209-2339"
+      ],
+      "socials": [
+        "https://www.facebook.com/CruiseCocoaLLC",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.instagram.com/cruisecocoa/",
+        "https://www.linkedin.com/sharing/share-offsite/"
+      ]
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-24T07:00:08.461885",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T07:00:00.754343",
+      "company": {
+        "name": null,
+        "domain": "humblegroundsbjj.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 98025212,
+          "description": "HumbleGrounds is more than just a martial arts academy; we're a community bound by the values of respect, resilience, and unity. Based in the heart of Citrus County, FL, we offer instruction in Brazilian Jiu-Jitsu (BJJ) for all levels, from beginner to advanced, kids to adults.\n\nOur academy thrives on the spirit of camaraderie, focusing on both individual growth and collective success. We believe that the discipline, patience, and tenacity developed on the mat translate to personal growth off the mat. Whether you're seeking self-defense, fitness, competition training, or simply a new challenge, our inclusive environment is designed to help you achieve your goals.\n\nAt Unity Jiu-Jitsu, you'll find an experienced and passionate team dedicated to your development. Our instructors are highly trained, offering personalized guidance that caters to your unique strengths, weaknesses, and goals. Our comprehensive curriculum covers all aspects of BJJ, including fundamental techniques, advanced strategies, and self-defense applications.\n\nOur commitment extends beyond martial arts training. We strive to empower our students, encouraging them to embrace the values that make Jiu-Jitsu not just a sport, but a lifestyle. As a member of the Unity Jiu-Jitsu family, you'll join a supportive network that promotes physical health, mental strength, and personal fulfillment.\n\nJoin us today and experience the Unity Jiu-Jitsu difference: where individuals grow stronger, and a community grows together.",
+          "domain": "humblegroundsbjj.com",
+          "employees": "1 - 10",
+          "founded": "2023",
+          "fqdn": "www.humblegroundsbjj.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/4/8b/48b585330c015ac5ebc533edc0692448",
+          "name": "HumbleGrounds Jiu Jitsu Academy",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Wellness & Fitness Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/unity-jiu-jitsu-of-citrus-county"
+            }
+          },
+          "address": "North America United States US 2780 N Florida Ave; HERNANDO, FL 34442, US Florida FL ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 2780 N Florida Ave; HERNANDO, FL 34442, US Florida FL ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "2780 N Florida Ave; HERNANDO, FL 34442, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7991,
+                "description": "Physical fitness facilities"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 713940,
+                "description": "Fitness and Recreational Sports Centers"
+              }
+            ]
+          },
+          "website": "https://humblegroundsbjj.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T07:00:02.094415",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T07:00:08.454737",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,1568 @@
+{
+  "site_url": "https://historicdesoto.org/",
+  "domain": "historicdesoto.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://historicdesoto.org/",
+    "https://historicdesoto.org/about-dchs/",
+    "https://historicdesoto.org/contact/",
+    "https://historicdesoto.org/events/",
+    "https://historicdesoto.org/event/florida-cracker-meal/",
+    "https://historicdesoto.org/history-of-desoto-county/",
+    "https://historicdesoto.org/newsletters/",
+    "https://historicdesoto.org/museum/",
+    "https://historicdesoto.org/museum-shop/",
+    "https://historicdesoto.org/support/",
+    "https://historicdesoto.org/scholarships/",
+    "https://historicdesoto.org/history-gallery/",
+    "https://historicdesoto.org/pioneer-day/",
+    "https://historicdesoto.org/author/sanctuaryofarcadia/",
+    "https://historicdesoto.org/events/list/",
+    "https://historicdesoto.org/events/month/",
+    "https://historicdesoto.org/events/today/",
+    "https://historicdesoto.org/events/list/?eventDisplay=past",
+    "https://historicdesoto.org/event/hop-on-hop-off-i-spy-desoto-bus-2/",
+    "https://historicdesoto.org/events/category/desoto-historical-society/annual-cracker-meal/",
+    "https://historicdesoto.org/events/category/desoto-historical-society/",
+    "https://historicdesoto.org/author/dchsweb2/",
+    "https://historicdesoto.org/our-2024-march-newsletter/",
+    "https://historicdesoto.org/author/desotoweb1/",
+    "https://historicdesoto.org/category/newsletter/",
+    "https://historicdesoto.org/our-2023-may-newsletter/",
+    "https://historicdesoto.org/our-2023-april-newsletter/",
+    "https://historicdesoto.org/our-january-2023-newsletter/",
+    "https://historicdesoto.org/our-december-2022-newsletter/",
+    "https://historicdesoto.org/our-november-2022-newsletter/",
+    "https://historicdesoto.org/newsletter-march-2021/",
+    "https://historicdesoto.org/newsletter-february-2921/",
+    "https://historicdesoto.org/newsletter-january-2021/",
+    "https://historicdesoto.org/events/month/2025-08/",
+    "https://historicdesoto.org/events/month/2025-10/",
+    "https://historicdesoto.org/events/2025-10-04/",
+    "https://historicdesoto.org/events/2025-09-23/",
+    "https://historicdesoto.org/events/2025-09-25/",
+    "https://historicdesoto.org/events/list/page/2/?eventDisplay=past",
+    "https://historicdesoto.org/event/june-member-meeting-field-trip/",
+    "https://historicdesoto.org/event/july-member-meeting/",
+    "https://historicdesoto.org/event/20th-anniversity-of-hurricane-charley-exhibit/",
+    "https://historicdesoto.org/event/4th-annual-florida-cracker-meal/",
+    "https://historicdesoto.org/event/november-member-meeting-2/",
+    "https://historicdesoto.org/event/december-member-meeting/",
+    "https://historicdesoto.org/event/martin-luther-king-jr-annual-parade/",
+    "https://historicdesoto.org/event/january-member-meeting-2/",
+    "https://historicdesoto.org/event/hop-on-hop-off-i-spy-desoto-bus/",
+    "https://historicdesoto.org/event/krissy-constantino-the-historic-heard-opera-house/"
+  ],
+  "candidates": [
+    "https://historicdesoto.org/contact/",
+    "https://historicdesoto.org/about-dchs/",
+    "https://historicdesoto.org/events/",
+    "https://historicdesoto.org/events/2025-09-23/",
+    "https://historicdesoto.org/events/2025-09-25/",
+    "https://historicdesoto.org/events/2025-10-04/",
+    "https://historicdesoto.org/events/category/desoto-historical-society/",
+    "https://historicdesoto.org/events/category/desoto-historical-society/annual-cracker-meal/",
+    "https://historicdesoto.org/events/list/",
+    "https://historicdesoto.org/events/list/?eventDisplay=past",
+    "https://historicdesoto.org/events/list/page/2/?eventDisplay=past",
+    "https://historicdesoto.org/events/month/",
+    "https://historicdesoto.org/events/month/2025-08/",
+    "https://historicdesoto.org/events/month/2025-10/",
+    "https://historicdesoto.org/events/today/",
+    "https://historicdesoto.org/event/20th-anniversity-of-hurricane-charley-exhibit/",
+    "https://historicdesoto.org/event/4th-annual-florida-cracker-meal/",
+    "https://historicdesoto.org/event/december-member-meeting/",
+    "https://historicdesoto.org/event/florida-cracker-meal/",
+    "https://historicdesoto.org/event/hop-on-hop-off-i-spy-desoto-bus-2/",
+    "https://historicdesoto.org/event/hop-on-hop-off-i-spy-desoto-bus/",
+    "https://historicdesoto.org/event/january-member-meeting-2/",
+    "https://historicdesoto.org/event/july-member-meeting/",
+    "https://historicdesoto.org/event/june-member-meeting-field-trip/",
+    "https://historicdesoto.org/event/krissy-constantino-the-historic-heard-opera-house/",
+    "https://historicdesoto.org/event/martin-luther-king-jr-annual-parade/",
+    "https://historicdesoto.org/event/november-member-meeting-2/",
+    "https://historicdesoto.org/",
+    "https://historicdesoto.org/contact",
+    "https://historicdesoto.org/contact-us",
+    "https://historicdesoto.org/contact-us/",
+    "https://historicdesoto.org/contactus",
+    "https://historicdesoto.org/contactus/",
+    "https://historicdesoto.org/about",
+    "https://historicdesoto.org/about/",
+    "https://historicdesoto.org/about-us",
+    "https://historicdesoto.org/about-us/",
+    "https://historicdesoto.org/visit",
+    "https://historicdesoto.org/visit/",
+    "https://historicdesoto.org/location",
+    "https://historicdesoto.org/location/",
+    "https://historicdesoto.org/directions",
+    "https://historicdesoto.org/directions/"
+  ],
+  "per_page": {
+    "https://historicdesoto.org/contact/": {
+      "title": "Contact – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(863) 266-5774"
+      ],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/about-dchs/": {
+      "title": "About DCHS – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/about-dchs/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/about-dchs/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/about-dchs/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/events/": {
+      "title": "Events from Thursday, March 10, 2022 – Saturday, December 10, 2022 – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 1,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/events/2025-09-23/": {
+      "title": "Events for Tuesday, September 23, 2025 – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/2025-09-23/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/2025-09-23/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/2025-09-23/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/events/2025-09-25/": {
+      "title": "Events for Thursday, September 25, 2025 – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/2025-09-25/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/2025-09-25/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/2025-09-25/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/events/2025-10-04/": {
+      "title": "Events for Saturday, October 4, 2025 – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/2025-10-04/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/2025-10-04/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/events/category/desoto-historical-society/": {
+      "title": "Events from Thursday, March 10, 2022 – Saturday, December 10, 2022 › DeSoto Historical Society ›  – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 14,
+          "zones": {
+            "title": 1,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/category/desoto-historical-society/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/category/desoto-historical-society/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/events/category/desoto-historical-society/annual-cracker-meal/": {
+      "title": "Events from Thursday, March 10, 2022 – Saturday, December 10, 2022 › DeSoto Historical Society › Annual Cracker Meal ›  – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 14,
+          "zones": {
+            "title": 1,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/category/desoto-historical-society/annual-cracker-meal/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/category/desoto-historical-society/annual-cracker-meal/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/events/list/": {
+      "title": "Events from Thursday, March 10, 2022 – Saturday, December 10, 2022 – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 1,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/list/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/list/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/events/list/?eventDisplay=past": {
+      "title": "Past Events from Saturday, December 10, 2022 – Thursday, March 10, 2022 – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/list/?eventDisplay=past"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/list/?eventDisplay=past"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-266-5774"
+      ],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/events/list/page/2/?eventDisplay=past": {
+      "title": "Past Events from Saturday, December 10, 2022 – Thursday, March 10, 2022 – Page 2 – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 14,
+          "zones": {
+            "title": 1,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/list/page/2/?eventDisplay=past"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/list/page/2/?eventDisplay=past"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/events/month/": {
+      "title": "Events for September 2025 – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 116,
+          "zones": {
+            "title": 1,
+            "body": 115,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/month/"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/month/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/events/month/2025-08/": {
+      "title": "Events for August 2025 – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 120,
+          "zones": {
+            "title": 1,
+            "body": 119,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/month/2025-08/"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/month/2025-08/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/events/month/2025-10/": {
+      "title": "Events for October 2025 – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 115,
+          "zones": {
+            "title": 1,
+            "body": 114,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/month/2025-10/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/month/2025-10/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/events/today/": {
+      "title": "Events for Wednesday, September 24, 2025 – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/today/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/today/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/events/today/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/event/20th-anniversity-of-hurricane-charley-exhibit/": {
+      "title": "20th Anniversity of Hurricane Charley Exhibit – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/20th-anniversity-of-hurricane-charley-exhibit/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/20th-anniversity-of-hurricane-charley-exhibit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-266-5774",
+        "863-993-4851"
+      ],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/event/4th-annual-florida-cracker-meal/": {
+      "title": "4th Annual Florida Cracker Meal – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/4th-annual-florida-cracker-meal/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/4th-annual-florida-cracker-meal/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-266-5774"
+      ],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/event/december-member-meeting/": {
+      "title": "December Member Meeting – Desoto County Historical Society",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/december-member-meeting/"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/december-member-meeting/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/december-member-meeting/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/december-member-meeting/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-266-5774"
+      ],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/event/florida-cracker-meal/": {
+      "title": "Florida Cracker Meal – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/florida-cracker-meal/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/florida-cracker-meal/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-266-5774"
+      ],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/event/hop-on-hop-off-i-spy-desoto-bus-2/": {
+      "title": "Hop on, Hop off! I Spy Desoto Bus – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/hop-on-hop-off-i-spy-desoto-bus-2/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/hop-on-hop-off-i-spy-desoto-bus-2/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-266-5774"
+      ],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/event/hop-on-hop-off-i-spy-desoto-bus/": {
+      "title": "Hop on, Hop off! I Spy Desoto Bus – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/hop-on-hop-off-i-spy-desoto-bus/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/hop-on-hop-off-i-spy-desoto-bus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-266-5774"
+      ],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/event/january-member-meeting-2/": {
+      "title": "January Member Meeting – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/january-member-meeting-2/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/january-member-meeting-2/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-266-5774"
+      ],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/event/july-member-meeting/": {
+      "title": "July Member Meeting – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/july-member-meeting/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/july-member-meeting/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-266-5774"
+      ],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/event/june-member-meeting-field-trip/": {
+      "title": "June Member Meeting Field Trip – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/june-member-meeting-field-trip/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/june-member-meeting-field-trip/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(863) 473-5076",
+        "863-266-5774"
+      ],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/event/krissy-constantino-the-historic-heard-opera-house/": {
+      "title": "Krissy Constantino – The Historic Heard Opera House – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/krissy-constantino-the-historic-heard-opera-house/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/krissy-constantino-the-historic-heard-opera-house/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-266-5774"
+      ],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/event/martin-luther-king-jr-annual-parade/": {
+      "title": "Martin Luther King Jr. Annual Parade – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/martin-luther-king-jr-annual-parade/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/martin-luther-king-jr-annual-parade/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/event/november-member-meeting-2/": {
+      "title": "November Member Meeting – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/november-member-meeting-2/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/event/november-member-meeting-2/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-266-5774"
+      ],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/": {
+      "title": "Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/contact": {
+      "title": "Contact – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(863) 266-5774"
+      ],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/contact-us": {
+      "title": "Page not found – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/contact-us/": {
+      "title": "Page not found – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/contactus": {
+      "title": "Page not found – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/contactus/": {
+      "title": "Page not found – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/about": {
+      "title": "About DCHS – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/about"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/about"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/about/": {
+      "title": "About DCHS – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/about/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/about/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/about-us": {
+      "title": "Page not found – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/about-us/": {
+      "title": "Page not found – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/visit": {
+      "title": "Page not found – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/visit/": {
+      "title": "Page not found – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/location": {
+      "title": "Page not found – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/location/": {
+      "title": "Page not found – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/directions": {
+      "title": "Page not found – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    },
+    "https://historicdesoto.org/directions/": {
+      "title": "Page not found – Desoto County Historical Society",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://historicdesoto.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Desotocountyhistoricalsociety/"
+      ]
+    }
+  }
+}

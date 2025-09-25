@@ -1,0 +1,62 @@
+{
+  "pages": [
+    {
+      "url": "http://www.flipflopsandsunsets.com/contact",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nHome\nAbout Us\nPhotos\nBook\nContact\nPolicies\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nContact\nthis template has changed in 26/6/14\nContact Us\nLOCATION\nText 336-266-9927\n222 S Neptune Street Port Saint Joe, FL 32456\nFind Us\nSay hello\nName:\nEmail:\nPhone:\nMessage:\nThank you for contacting us.\nWe will get back to you as soon as possible\nOops, there was an error sending your message.\nPlease try again\nF\n﻿\nollow Us\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-new\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: 58e1fd24\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": [
+        "coastalsoulretreat@gmail.com"
+      ]
+    },
+    {
+      "url": "http://www.flipflopsandsunsets.com/about",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nHome\nAbout Us\nPhotos\nBook\nContact\nPolicies\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nAbout Us\nTHE FORGOTTEN COAST'S NEWEST RV RETREAT\nSteps away from the sugar white sand beach, immerse yourself in tranquility at Coastal Soul RV Beach Retreat. Located in sunny Port Saint Joe along the Indian Pass, this private RV site makes for the perfect destination that is your next vacation getaway. Catering to all RVers of discerning taste.\n﻿\nRates & Booking\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nTHE SITE\nOur private, oversized site was designed for our Motor Coach with a convenient pull-in. It offers peace & quiet to all\nRVers\n, as it is nestled among a handful of vacation homes but still 300 ft from the sugary sands of the secluded beach and down the street from the beautiful bay.\nOur  layout is designed as a Pull-In Site for Motorcoaches.\nHook-ups are on the left side.\nIf you are in a 5th Wheel/Travel Trailer, you may need extra sewage hose, water line, and electric.\nThis generous size allows for your motor coach to spread out while leaving ample room for your favorite activities. It is also equipped with\nfull hook-ups, wifi\n, sunning deck with chaise loungers, umbrella, outdoor shower, weekly trash service and a fire pit ready for late-night s'mores, stargazing, and ghost stories.\nTHE FOUR-LEGGED PERK\nWe know you love your four-legged family members, and Coastal Soul does too. All dogs are welcome! The dog-friendly beach is Fido's dream location to catch a frisbee and snooze in the sun.\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nTHE BEACH\nSpend your vacation exploring the waters of the forgotten coast without the crowds of tourists. The shoreline is steps away from Coastal Soul and as it faces west it delivers spectacular sunsets.\nHunt for sand dollars, take a peaceful stroll along the dunes or enjoy an old fashion beach bonfire at midnight while searching for the milky way.\nBring your fishing poles, because world-class fishermen boast their biggest catches in this secret spot. Located near the Indian Pass Boat Ramp, you'll enjoy easy access to Saint Vincent Sound and the Gulf of Mexico. Don't forget your paddle boards and kayaks, too- it's the nature enthusiast's dream!\nTHE BAY\nSome people swear walking into the clear saltwater is like wading into your own private aquarium. Sound intriguing? St. Joseph Bay is filled with turtles, dolphin, fish, seahorses and more. With her soft, grass flats and clear shallow water, she is a kayaker’s and snorkeler’s dream. Even in the deeper water, the current is calm and perfect for paddleboarding or an eco tour. Have a few adventures you’d like to check off your list? Come be wowed by trees, wildlife and our beautiful Bay.\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nSlide title\nWrite your caption here\nButton\nTHE TOWN\nReminiscent of Old Florida, downtown Port Saint Joe is a 20-minute cruise up the road. Find local farmers' markets, antique shops, and fresh seafood and live entertainment at the World Famous Indian Pass Raw Bar.\nF\n﻿\nollow Us\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-new\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: 58e1fd24\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": [
+        "coastalsoulretreat@gmail.com"
+      ]
+    }
+  ],
+  "all_links": [
+    "http://www.flipflopsandsunsets.com/contact",
+    "http://www.flipflopsandsunsets.com/about",
+    "http://www.flipflopsandsunsets.com/gallery",
+    "http://www.flipflopsandsunsets.com/",
+    "http://www.flipflopsandsunsets.com/policies",
+    "http://www.flipflopsandsunsets.com/newpage",
+    "http://www.flipflopsandsunsets.com/book"
+  ],
+  "candidate_links": [
+    "http://www.flipflopsandsunsets.com/contact",
+    "http://www.flipflopsandsunsets.com/about"
+  ],
+  "visited": [
+    "http://www.flipflopsandsunsets.com/",
+    "http://www.flipflopsandsunsets.com/about",
+    "http://www.flipflopsandsunsets.com/contact",
+    "http://www.flipflopsandsunsets.com/staff",
+    "http://www.flipflopsandsunsets.com/team",
+    "http://www.flipflopsandsunsets.com/board",
+    "http://www.flipflopsandsunsets.com/directory",
+    "http://www.flipflopsandsunsets.com/events",
+    "http://www.flipflopsandsunsets.com/sitemap.xml",
+    "http://www.flipflopsandsunsets.com/council",
+    "http://www.flipflopsandsunsets.com/leadership",
+    "http://www.flipflopsandsunsets.com/management",
+    "http://www.flipflopsandsunsets.com/producers",
+    "http://www.flipflopsandsunsets.com/support",
+    "http://www.flipflopsandsunsets.com/crew",
+    "http://www.flipflopsandsunsets.com/members",
+    "http://www.flipflopsandsunsets.com/bios",
+    "http://www.flipflopsandsunsets.com/people",
+    "http://www.flipflopsandsunsets.com/artists",
+    "http://www.flipflopsandsunsets.com/musicians",
+    "http://www.flipflopsandsunsets.com/faculty",
+    "http://www.flipflopsandsunsets.com/administration",
+    "http://www.flipflopsandsunsets.com/contact",
+    "http://www.flipflopsandsunsets.com/about"
+  ],
+  "base_url": "http://www.flipflopsandsunsets.com/"
+}

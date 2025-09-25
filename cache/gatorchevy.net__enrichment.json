@@ -1,0 +1,124 @@
+{
+  "timestamp": "2025-09-19T02:52:26.094169",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T02:52:22.095557",
+      "company": {
+        "name": null,
+        "domain": "gatorchevy.net",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 81195292,
+          "description": "1. Must be a current Firefighter, Police, EMT/Paramedic, or 911 Dispatcher or Healthcare Professional (as defined by U.S. Bureau of Labor Statistics). First Responders employed by federal, state or municipal governments may be subject to restrictions that limit their ability to accept this offer. Accordingly, this offer is void unless permitted by applicable federal, state and municipal laws, regulations, rules, ordinances, policies, codes of conduct, and other directives or standards regarding ethics and gift acceptance by the applicable federal, state or municipal employees. By accepting this offer, you verify that doing so complies with all laws, regulations, policies or other restrictions regarding ethics or gift acceptance that apply to you. Not available on select base trims or with some other offers. At participating dealers. Take new retail delivery by 3/1/2021.",
+          "domain": "gatorchevy.net",
+          "employees": "1 - 10",
+          "fqdn": "www.gatorchevy.net",
+          "name": "Gator Chevrolet",
+          "revenueRange": [],
+          "mainIndustry": "Retail",
+          "subIndustry": "Other",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/gator-chevrolet"
+            }
+          },
+          "address": "Jasper North America United States US 208 Hatley St W; Jasper, Florida 32052, us Florida FL -82.94818878173828,30.51827049255371 ",
+          "location": {
+            "city": "Jasper",
+            "country": "United States",
+            "fullLocation": "Jasper North America United States US 208 Hatley St W; Jasper, Florida 32052, us Florida FL -82.94818878173828,30.51827049255371 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "208 Hatley St W; Jasper, Florida 32052, us"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5999,
+                "description": "Miscellaneous retail stores, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 441110,
+                "description": "New Car Dealers"
+              }
+            ]
+          },
+          "website": "https://gatorchevy.net"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T02:52:23.426273",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T02:52:26.090495",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,688 @@
+{
+  "site_url": "https://satellitebeach.gov/",
+  "domain": "satellitebeach.gov",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://satellitebeach.gov/",
+    "https://satellitebeach.gov/departments/fire_department/contact_us.php",
+    "https://satellitebeach.gov/departments/police_department/faqs___links/index.php",
+    "https://satellitebeach.gov/departments/police_department/contact_us.php",
+    "https://satellitebeach.gov/departments/public_works/staff_teams.php",
+    "https://satellitebeach.gov/visitors/beachcasters.php",
+    "https://satellitebeach.gov/residents/faqs.php",
+    "https://satellitebeach.gov/visitors/index.php",
+    "https://satellitebeach.gov/visitors/city_history/index.php",
+    "https://satellitebeach.gov/visitors/city_history/first_50_years.php",
+    "https://satellitebeach.gov/visitors/city_history/through_the_decades/index.php",
+    "https://satellitebeach.gov/visitors/city_history/softball_capital_of_the_world/index.php",
+    "https://satellitebeach.gov/departments/police_department/faqs___links/city_of_satellite_beach_contact_information.php",
+    "https://satellitebeach.gov/calendar.php",
+    "https://satellitebeach.gov/government/index.php",
+    "https://satellitebeach.gov/government/agendas___minutes.php",
+    "https://satellitebeach.gov/government/city_council/index.php",
+    "https://satellitebeach.gov/government/city_council_election/index.php",
+    "https://satellitebeach.gov/government/city_council/city_values_statements.php",
+    "https://satellitebeach.gov/government/city_council/council_agendas___minutes.php",
+    "https://satellitebeach.gov/government/city_council/meeting_videos.php",
+    "https://satellitebeach.gov/government/city_manager.php",
+    "https://satellitebeach.gov/government/city_boards/index.php",
+    "https://satellitebeach.gov/government/city_boards/board_of_adjustment/index.php",
+    "https://satellitebeach.gov/government/city_boards/firefighters___police_pension_plan_board_of_trustees/index.php",
+    "https://satellitebeach.gov/government/city_boards/general_employee_pension_plan_board_of_trustees/index.php",
+    "https://satellitebeach.gov/government/city_boards/library_board/index.php",
+    "https://satellitebeach.gov/government/city_boards/planning_advisory_board/index.php",
+    "https://satellitebeach.gov/government/city_boards/recreation_board/index.php",
+    "https://satellitebeach.gov/government/city_boards/sustainability_board/index.php",
+    "https://satellitebeach.gov/government/city_boards/beautification_board/index.php",
+    "https://satellitebeach.gov/government/city_boards/youth_council/index.php",
+    "https://satellitebeach.gov/government/special_magistrate/index.php",
+    "https://satellitebeach.gov/government/special_magistrate/agendas___minutes.php",
+    "https://satellitebeach.gov/departments/city_clerk/city_documents.php",
+    "https://satellitebeach.gov/departments/index.php",
+    "https://satellitebeach.gov/departments/city_clerk/index.php",
+    "https://satellitebeach.gov/departments/community_development_department/departments_community_development_index.php",
+    "https://satellitebeach.gov/departments/community_development_department/business_tax_receipts/index.php",
+    "https://satellitebeach.gov/departments/community_development_department/disaster_preparedness.php",
+    "https://satellitebeach.gov/departments/community_development_department/flood_insurance_update.php",
+    "https://satellitebeach.gov/departments/city_clerk/forms.php",
+    "https://satellitebeach.gov/departments/community_development_department/permit_information.php",
+    "https://satellitebeach.gov/departments/community_development_department/quick_links.php",
+    "https://satellitebeach.gov/departments/fire_department/index.php",
+    "https://satellitebeach.gov/departments/recreation_department/beach_bonfires.php",
+    "https://satellitebeach.gov/departments/fire_department/community_paramedics.php",
+    "https://satellitebeach.gov/departments/fire_department/customer_service.php",
+    "https://satellitebeach.gov/departments/fire_department/emergency_management/index.php",
+    "https://satellitebeach.gov/departments/fire_department/fall_prevention/index.php",
+    "https://satellitebeach.gov/departments/fire_department/history.php",
+    "https://satellitebeach.gov/departments/fire_department/join_our_crew.php",
+    "https://satellitebeach.gov/departments/fire_department/mobile_integrated_health/index.php",
+    "https://satellitebeach.gov/departments/fire_department/spotlight_on_safety.php",
+    "https://satellitebeach.gov/departments/police_department/index.php",
+    "https://satellitebeach.gov/departments/police_department/administration/index.php",
+    "https://satellitebeach.gov/departments/police_department/operations/index.php",
+    "https://satellitebeach.gov/departments/police_department/public_services/index.php",
+    "https://satellitebeach.gov/departments/police_department/volunteers.php",
+    "https://satellitebeach.gov/departments/police_department/memorial_page.php",
+    "https://satellitebeach.gov/departments/public_works/index.php",
+    "https://satellitebeach.gov/departments/public_works/roads_and_drainage.php",
+    "https://satellitebeach.gov/departments/public_works/grounds.php",
+    "https://satellitebeach.gov/departments/public_works/stormwater/index.php",
+    "https://satellitebeach.gov/departments/public_works/hurricanes.php",
+    "https://satellitebeach.gov/departments/public_works/photo_gallery.php",
+    "https://satellitebeach.gov/residents/current_city_projects.php",
+    "https://satellitebeach.gov/departments/recreation_department/index.php",
+    "https://satellitebeach.gov/departments/recreation_department/department_information.php",
+    "https://satellitebeach.gov/departments/recreation_department/activity_brochure.php",
+    "https://satellitebeach.gov/departments/recreation_department/forms.php",
+    "https://satellitebeach.gov/departments/recreation_department/rhythm_in_motion_dance.php",
+    "https://satellitebeach.gov/departments/recreation_department/meet_our_staff.php",
+    "https://satellitebeach.gov/departments/recreation_department/recreation_facilities/index.php",
+    "https://satellitebeach.gov/departments/recreation_department/rental_facilities/index.php",
+    "https://satellitebeach.gov/departments/recreation_department/special_events.php",
+    "https://satellitebeach.gov/departments/recreation_department/volunteer_opportunities.php",
+    "https://satellitebeach.gov/departments/recreation_department/recycling_opportunities.php",
+    "https://satellitebeach.gov/departments/recreation_department/other_related_links.php",
+    "https://satellitebeach.gov/departments/support_services/index.php",
+    "https://satellitebeach.gov/departments/support_services/annual_budget___financial_audits.php",
+    "https://satellitebeach.gov/departments/support_services/job_opportunities.php",
+    "https://satellitebeach.gov/residents/sustainable_satellite/index.php",
+    "https://satellitebeach.gov/residents/index.php",
+    "https://satellitebeach.gov/residents/beach_surf_cams.php",
+    "https://satellitebeach.gov/residents/citizen_of_the_year.php",
+    "https://satellitebeach.gov/residents/city_forms___documents/index.php",
+    "https://satellitebeach.gov/residents/city_news.php",
+    "https://satellitebeach.gov/departments/recreation_department/community_involvement.php",
+    "https://satellitebeach.gov/enotify/index.php",
+    "https://satellitebeach.gov/departments/police_department/public_services/golf_cart__low_speed_vehicle_(lsv)_registration.php",
+    "https://satellitebeach.gov/residents/online_permitting.php",
+    "https://satellitebeach.gov/departments/recreation_department/recreation_facilities/beach_parks_and_accesses/index.php",
+    "https://satellitebeach.gov/residents/sustainable_satellite/living___working_sustainably/index.php",
+    "https://satellitebeach.gov/residents/waste_management_info/index.php",
+    "https://satellitebeach.gov/businesses/business_index.php",
+    "https://satellitebeach.gov/businesses/bids_-_rfp_rfq.php",
+    "https://satellitebeach.gov/residents/eco_-_resource_links/index.php",
+    "https://satellitebeach.gov/how_do_i_/index.php",
+    "https://satellitebeach.gov/how_do_i_/apply_for__obtain/index.php"
+  ],
+  "candidates": [
+    "https://satellitebeach.gov/departments/fire_department/contact_us.php",
+    "https://satellitebeach.gov/departments/police_department/contact_us.php",
+    "https://satellitebeach.gov/calendar.php",
+    "https://satellitebeach.gov/departments/public_works/staff_teams.php",
+    "https://satellitebeach.gov/departments/police_department/faqs___links/city_of_satellite_beach_contact_information.php",
+    "https://satellitebeach.gov/departments/police_department/faqs___links/index.php",
+    "https://satellitebeach.gov/residents/faqs.php",
+    "https://satellitebeach.gov/visitors/beachcasters.php",
+    "https://satellitebeach.gov/visitors/city_history/first_50_years.php",
+    "https://satellitebeach.gov/visitors/city_history/index.php",
+    "https://satellitebeach.gov/visitors/city_history/softball_capital_of_the_world/index.php",
+    "https://satellitebeach.gov/visitors/city_history/through_the_decades/index.php",
+    "https://satellitebeach.gov/visitors/index.php",
+    "https://satellitebeach.gov/",
+    "https://satellitebeach.gov/departments/fire_department/fall_prevention/index.php",
+    "https://satellitebeach.gov/departments/recreation_department/special_events.php"
+  ],
+  "per_page": {
+    "https://satellitebeach.gov/departments/fire_department/contact_us.php": {
+      "title": "Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/departments/fire_department/contact_us.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 773-4407",
+        "321-773-4405",
+        "321-773-8199"
+      ],
+      "socials": [
+        "https://www.facebook.com/SatBchCM",
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://satellitebeach.gov/departments/police_department/contact_us.php": {
+      "title": "Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/departments/police_department/contact_us.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 773-4400",
+        "(321) 773-4407",
+        "(321) 773-5414"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://satellitebeach.gov/calendar.php": {
+      "title": "Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/calendar.php"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/calendar.php"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/calendar.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 773-4407"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://satellitebeach.gov/departments/public_works/staff_teams.php": {
+      "title": "Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/departments/public_works/staff_teams.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 773-4407"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://satellitebeach.gov/departments/police_department/faqs___links/city_of_satellite_beach_contact_information.php": {
+      "title": "Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/departments/police_department/faqs___links/city_of_satellite_beach_contact_information.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 364-2252",
+        "(321) 773-4400",
+        "(321) 773-4405",
+        "(321) 773-4407",
+        "(321) 773-4409",
+        "(321) 773-5414",
+        "(321) 773-6458",
+        "(321) 773-8199",
+        "(321) 777-2241",
+        "(321) 777-2309",
+        "(321) 777-5207",
+        "(321) 777-6619",
+        "(321) 779-1388"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://satellitebeach.gov/departments/police_department/faqs___links/index.php": {
+      "title": "Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/departments/police_department/faqs___links/index.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 264-7800",
+        "(321) 264-7865",
+        "(321) 409-2200",
+        "(321) 409-2290",
+        "(321) 428-2546",
+        "(321) 637-6352",
+        "(321) 639-7620",
+        "(321) 690-3988",
+        "(321) 690-3993",
+        "(321) 723-4343",
+        "(321) 723-7788",
+        "(321) 723-9673",
+        "(321) 725-3253",
+        "(321) 725-7224",
+        "(321) 773-3030",
+        "(321) 773-4400",
+        "(321) 773-4405",
+        "(321) 773-4407",
+        "(321) 773-4409",
+        "(321) 773-6458",
+        "(321) 777-2309",
+        "(321) 777-4359",
+        "(321) 868-3251",
+        "(321) 868-3373",
+        "(321) 872-0001",
+        "(321) 952-2857",
+        "(321) 952-3409",
+        "(321) 952-3456",
+        "(321) 952-6371",
+        "(321)264-5360",
+        "(321)773-5414",
+        "(321)773-8199",
+        "(321)777-2241",
+        "(321)777-5207",
+        "(321)779-1388",
+        "(321)951-8224",
+        "(800) 342-0820",
+        "(877) 718-2772",
+        "(888) 404-3922"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://satellitebeach.gov/residents/faqs.php": {
+      "title": "Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/residents/faqs.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 773-4407",
+        "321-773-4407",
+        "321-773-6458"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://satellitebeach.gov/visitors/beachcasters.php": {
+      "title": "Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/visitors/beachcasters.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 773-4407"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://satellitebeach.gov/visitors/city_history/first_50_years.php": {
+      "title": "Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/visitors/city_history/first_50_years.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 773-4407"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://satellitebeach.gov/visitors/city_history/index.php": {
+      "title": "Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/visitors/city_history/index.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 773-4407"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://satellitebeach.gov/visitors/city_history/softball_capital_of_the_world/index.php": {
+      "title": "Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/visitors/city_history/softball_capital_of_the_world/index.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 773-4407"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://satellitebeach.gov/visitors/city_history/through_the_decades/index.php": {
+      "title": "Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/visitors/city_history/through_the_decades/index.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 773-4407"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://satellitebeach.gov/visitors/index.php": {
+      "title": "Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/visitors/index.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 773-4407"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://satellitebeach.gov/": {
+      "title": "Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 773-4407"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://satellitebeach.gov/departments/fire_department/fall_prevention/index.php": {
+      "title": "Satellite Beach, FL",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/departments/fire_department/fall_prevention/index.php"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/departments/fire_department/fall_prevention/index.php"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/departments/fire_department/fall_prevention/index.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 773-4405",
+        "(321) 773-4407"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://satellitebeach.gov/departments/recreation_department/special_events.php": {
+      "title": "SPECIAL EVENT INFORMATION",
+      "band_hits": {
+        "event": {
+          "total": 26,
+          "zones": {
+            "title": 1,
+            "body": 25,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/departments/recreation_department/special_events.php"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/departments/recreation_department/special_events.php"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://satellitebeach.gov/departments/recreation_department/special_events.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 773-4407",
+        "321-773-6458"
+      ],
+      "socials": [
+        "https://www.facebook.com/SatelliteBeachRecreation",
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    }
+  }
+}

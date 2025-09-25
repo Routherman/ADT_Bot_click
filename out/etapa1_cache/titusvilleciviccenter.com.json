@@ -1,0 +1,158 @@
+{
+  "site_url": "https://titusvilleciviccenter.com/",
+  "domain": "titusvilleciviccenter.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://titusvilleciviccenter.com/",
+    "https://titusvilleciviccenter.com/calendar",
+    "https://titusvilleciviccenter.com/shop?olsPage=cart",
+    "https://titusvilleciviccenter.com/m/account",
+    "https://titusvilleciviccenter.com/m/create-account",
+    "https://titusvilleciviccenter.com/m/orders",
+    "https://titusvilleciviccenter.com/rental",
+    "https://titusvilleciviccenter.com/lifepointe-ministries",
+    "https://titusvilleciviccenter.com/payments",
+    "https://titusvilleciviccenter.com/privacy-policy",
+    "https://titusvilleciviccenter.com/terms-and-conditions",
+    "https://titusvilleciviccenter.com/m/login"
+  ],
+  "candidates": [
+    "https://titusvilleciviccenter.com/calendar",
+    "https://titusvilleciviccenter.com/"
+  ],
+  "per_page": {
+    "https://titusvilleciviccenter.com/calendar": {
+      "title": "Calendar",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://titusvilleciviccenter.com/calendar"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://titusvilleciviccenter.com/calendar"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://titusvilleciviccenter.com/calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://titusvilleciviccenter.com/": {
+      "title": "Events, Event Space - Titusville Civic Center - Titusville, Florida",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 2,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://titusvilleciviccenter.com/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://titusvilleciviccenter.com/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://titusvilleciviccenter.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

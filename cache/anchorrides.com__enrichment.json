@@ -1,0 +1,160 @@
+{
+  "timestamp": "2025-09-22T04:56:12.462464",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T04:56:08.408793",
+      "company": {
+        "name": null,
+        "domain": "anchorrides.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 16167752,
+          "description": "Anchor enables private yacht owners to share unique and customizable yachting experiences with the world. Anchor is the only website where you can book a luxury charter experience directly from owners through a friendly concierge service. Our roster of professionally trained and licensed Captains & Crew take the experience to the next level and unlock a limitless world of exotic destinations.",
+          "domain": "anchorrides.com",
+          "employees": "1 - 10",
+          "founded": "2017",
+          "fqdn": "www.anchorrides.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/e/8a/e8a94c592a2b8fcb4c5e10bdc315fdff",
+          "name": "Anchor Yacht Charters",
+          "revenueRange": [],
+          "mainIndustry": "Consumer Services",
+          "subIndustry": "Personal care services",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/anchor-999f"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/anchor---peer-to-pier"
+            }
+          },
+          "address": "Clearwater North America United States US Clearwater, FL 33762, US Florida FL -82.80010223388672,27.965850830078125 ",
+          "location": {
+            "city": "Clearwater",
+            "country": "United States",
+            "fullLocation": "Clearwater North America United States US Clearwater, FL 33762, US Florida FL -82.80010223388672,27.965850830078125 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Clearwater, FL 33762, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7299,
+                "description": "Miscellaneous personal services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 812199,
+                "description": "Other Personal Care Services"
+              }
+            ]
+          },
+          "website": "https://anchorrides.com",
+          "specialities": [
+            "boating",
+            "concierge",
+            "luxury",
+            "travel",
+            "yacht charter",
+            "yachting"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "currency": "USD",
+                "roundAmount": 1817309,
+                "roundType": "Venture Round",
+                "roundDate": "Jan 23, 2024"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 2500000,
+                "roundType": "Seed Round",
+                "roundDate": "Aug 16, 2021"
+              }
+            ],
+            "totalRounds": 2,
+            "totalRoundsAmount": 4317309,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundType": "Venture Round",
+            "lastRoundAmount": 1817309,
+            "lastRoundDate": "Jan 23, 2024"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T04:56:09.663778",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T04:56:12.458867",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,464 @@
+{
+  "site_url": "https://irmsc.org/",
+  "domain": "irmsc.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://irmsc.org/",
+    "https://irmsc.org/schedule",
+    "https://irmsc.org/home",
+    "https://irmsc.org/members",
+    "https://irmsc.org/application",
+    "https://irmsc.org/sailing-instructions",
+    "https://irmsc.org/brochure",
+    "https://irmsc.org/class-rules",
+    "https://irmsc.org/member-resources",
+    "https://irmsc.org/racing-rules",
+    "https://irmsc.org/tips-hints-links-and-files",
+    "https://irmsc.org/for-sale-boats-and-accessories",
+    "https://irmsc.org/board-members",
+    "https://irmsc.org/map",
+    "https://irmsc.org/photos",
+    "https://irmsc.org/scrap-book"
+  ],
+  "candidates": [
+    "https://irmsc.org/schedule",
+    "https://irmsc.org/",
+    "https://irmsc.org/contact",
+    "https://irmsc.org/contact/",
+    "https://irmsc.org/contact-us",
+    "https://irmsc.org/contact-us/",
+    "https://irmsc.org/contactus",
+    "https://irmsc.org/contactus/",
+    "https://irmsc.org/about",
+    "https://irmsc.org/about/",
+    "https://irmsc.org/about-us",
+    "https://irmsc.org/about-us/",
+    "https://irmsc.org/visit",
+    "https://irmsc.org/visit/",
+    "https://irmsc.org/location",
+    "https://irmsc.org/location/",
+    "https://irmsc.org/directions",
+    "https://irmsc.org/directions/"
+  ],
+  "per_page": {
+    "https://irmsc.org/schedule": {
+      "title": "IRMSC - Schedule",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/schedule"
+          ]
+        },
+        "schedule": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/schedule"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/"
+          ]
+        }
+      },
+      "emails": [
+        "thebeers1996@msn.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/contact": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/contact/": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/contact-us": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/contact-us/": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/contactus": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/contactus/": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/about": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/about/": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/about-us": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/about-us/": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/visit": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/visit/": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/location": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/location/": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/directions": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://irmsc.org/directions/": {
+      "title": "IRMSC",
+      "band_hits": {
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://irmsc.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

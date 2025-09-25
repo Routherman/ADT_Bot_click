@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-23T01:30:50.880193",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T01:30:47.278775",
+      "company": {
+        "name": null,
+        "domain": "bayfrontinnnaples.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 11901901,
+          "description": "The Bayfront Inn also specializes in intimate weddings, receptions, special events and banquets accommodating up to 85 people. We offer the waterside terrace overlooking beautiful Naples Bay, for an outdoor setting and intimate atmosphere in an ideal Naples downtown location. The Bayfront Inn also provides delicious catering and plenty of options to fit any budget.",
+          "domain": "bayfrontinnnaples.com",
+          "employees": "1 - 10",
+          "fqdn": "www.bayfrontinnnaples.com",
+          "logoUrl": "https://logo.lusha.co/d/company_11901901_logo.svg",
+          "name": "Bayfront Inn 5th Ave",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/bayfront-inn-5th-ave"
+            }
+          },
+          "address": "Europe United Kingdom GB 1221 5th Avenue South; Naples, 34102, GB ",
+          "location": {
+            "city": "",
+            "country": "United Kingdom",
+            "fullLocation": "Europe United Kingdom GB 1221 5th Avenue South; Naples, 34102, GB ",
+            "state": "",
+            "stateCode": "GB",
+            "countryIso2": "GB",
+            "rawLocation": "1221 5th Avenue South; Naples, 34102, GB"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://bayfrontinnnaples.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T01:30:48.506605",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T01:30:50.873289",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

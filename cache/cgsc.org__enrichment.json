@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-09-21T06:20:38.065534",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T06:20:34.194778",
+      "company": {
+        "name": null,
+        "domain": "cgsc.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 1562083,
+          "description": "The Coconut Grove Sailing Club sits on the waterfront of Miami.  Sailing programs offer many activities which include: Summer Sailing programs for Youth Sailing, Scholarships for beginning sailors, Learn to Sail for Adults, Keelboat training for Advanced Skippers, and CGSC is the Host Club for the University of Miami's Sailing Team.  We also host the Olympic Class Regatta, the Orange Bowl Regatta, among many international events, and many of our sailors compete internationally with great success.\r\n\r\nOur Racing fleet is very active in both PHRF and One Design sailboats participating in club and distance racing, and the regular Biscayne Bay Yacht Racing Association regattas. Our Race Committee Volunteers of Race Officers and their dedicated support crew are on assignments to conduct the best races for all competitors, coming in from around South Florida and internationally. We have a great time out there!  We welcome new Volunteers!\r\n\r\nWe are honored that Melges Racing contacted us to be the hosting club for three of the Inaugural Winter Series of racing the Audi Melges 20s Regattas, including the 3rd in the Bacardi Cup:  the eight series are scheduled around this country in their first year of racing.  They are returning this year.\r\n\r\nThe Rendezvous Committee takes advantage of our fabulous sailing grounds with trips to the Keys, Bahamas and locally. There is always a nautical twist for extra fun on these adventures.  Check out the next Rendezvous on our Rendezvous web page.",
+          "domain": "cgsc.org",
+          "employees": "11 - 50",
+          "founded": "1946",
+          "fqdn": "www.cgsc.org",
+          "name": "Coconut Grove Sailing Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Sports",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/coconut-grove-sailing-club"
+            }
+          },
+          "location": {
+            "city": "",
+            "country": "",
+            "fullLocation": "",
+            "state": "",
+            "stateCode": ""
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7941,
+                "description": "Sports clubs, managers, and promoters"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 713990,
+                "description": "All Other Amusement and Recreation Industries"
+              }
+            ]
+          },
+          "website": "https://cgsc.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T06:20:35.388689",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T06:20:38.060965",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

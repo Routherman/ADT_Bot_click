@@ -1,0 +1,834 @@
+{
+  "site_url": "https://booking.com/",
+  "domain": "booking.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://booking.com/",
+    "https://www.booking.com/booking-home/index.en-us.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaAyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AurZzMYGwAIB0gIkNzI5MzUzYTMtMWZjZC00MmM1LTk2NmYtMTIyYTk3YzA3MmUw2AIB4AIB",
+    "https://www.booking.com/index.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaAyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AurZzMYGwAIB0gIkNzI5MzUzYTMtMWZjZC00MmM1LTk2NmYtMTIyYTk3YzA3MmUw2AIB4AIB&sid=7bc55afe4ff44940e20afec6d6ce8096",
+    "https://secure.booking.com/help.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaAyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AurZzMYGwAIB0gIkNzI5MzUzYTMtMWZjZC00MmM1LTk2NmYtMTIyYTk3YzA3MmUw2AIB4AIB&sid=7bc55afe4ff44940e20afec6d6ce8096&source=header&src=profile_contact_cs",
+    "https://join.booking.com/?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaAyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AurZzMYGwAIB0gIkNzI5MzUzYTMtMWZjZC00MmM1LTk2NmYtMTIyYTk3YzA3MmUw2AIB4AIB&lang=en-us&sid=7bc55afe4ff44940e20afec6d6ce8096&utm_medium=frontend&utm_source=topbar",
+    "https://www.booking.com/index.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaAyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AurZzMYGwAIB0gIkNzI5MzUzYTMtMWZjZC00MmM1LTk2NmYtMTIyYTk3YzA3MmUw2AIB4AIB&selected_currency=ARS&sid=7bc55afe4ff44940e20afec6d6ce8096",
+    "https://ch.booking.com/c?st=RkxJR0hU&lt=TEFORElOR19QQUdF&si=Q2g1aUxXTjBMWEJzWVhSbWIzSnRMV1JwYzNSeWFXSjFkR2x2YmkxamRHUVFBaHBBdnJKQXVxSnkwS1VOYVJRTGEwa2gwWEVGNlRILzNhTGgvdk1rc3BmUk1ET2RQODhSU0VvZWpGTVB0dm5hRWhMM3h0dGFDZkhHeEJKZSt3MUdvbUVkQnc9PQ%3D%3D&target=aHR0cHM6Ly9mbGlnaHRzLmJvb2tpbmcuY29tL3B4Z28_ZXRTdGF0ZUJsb2I9RUxmd0dMRFI1dlFfbXZVbjFWTHlWZmNxTlFpZmd1R2NNWDFUbVZiejBmdFlvTFgyMmZ5ZkhmTEJyakRRODltT20mYWRwbGF0PXd3dy1pbmRleC13ZWJfc2hlbGxfaGVhZGVyLWZsaWdodC1taXNzaW5nX2NyZWF0aXZlLTM3Q1p2QnBTMlVZdFBBS1o5Q2VoWjgmbGFiZWw9Z2VuMTczbnItMTBDQUVvZ2dJNDZBZElNMWdFYUF5SUFRR1lBVE80QVJmSUFRellBUVBvQVFINEFRR0lBZ0dvQWdHNEF1clp6TVlHd0FJQjBnSWtOekk1TXpVellUTXRNV1pqWkMwME1tTTFMVGsyTm1ZdE1USXlZVGszWXpBM01tVXcyQUlCNEFJQiZsYW5nPWVuLXVzJmRpc3RyaWJ1dGlvbl9pZD0zN0NadkJwUzJVWXRQQUtaOUNlaFo4JmFpZD0zMDQxNDImY2xpZW50X25hbWU9Yi13ZWItc2hlbGwtYmZmJnNpZD03YmM1NWFmZTRmZjQ0OTQwZTIwYWZlYzZkNmNlODA5Ng%3D%3D",
+    "https://ch.booking.com/c?st=Q0FS&lt=TEFORElOR19QQUdF&si=Q2g1aUxXTjBMWEJzWVhSbWIzSnRMV1JwYzNSeWFXSjFkR2x2YmkxamRHUVFBaHBBZmFnNC9vRmc2SFBIYlFXOVVOOTBmbWVldnVBeE1UNmtreXdDOWhadWNVY1U1WHVoNWlseURsbkZpckF0RFp6T052d2M4ZVRBV0Q0eXZNUnhDc1FoRHc9PQ%3D%3D&target=aHR0cHM6Ly93d3cuYm9va2luZy5jb20vY2Fycy9pbmRleC5lbi11cy5odG1sP3NlbGVjdGVkX2N1cnJlbmN5PUFSUyZldFN0YXRlQmxvYj1FTGZ3R0xEUjV2UV9tdlVuMVZMeVZmY3FOUWlmZ3VHY01YMVRtVmJ6MGZ0WW9MWDIyZnlmSGZMQnJqRFE4OW1PbSZhZHBsYXQ9d3d3LWluZGV4LXdlYl9zaGVsbF9oZWFkZXItY2FyLW1pc3NpbmdfY3JlYXRpdmUtMzdDWnZCcFMyVVl0UEFLWjlDZWhaOCZsYWJlbD1nZW4xNzNuci0xMENBRW9nZ0k0NkFkSU0xZ0VhQXlJQVFHWUFUTzRBUmZJQVF6WUFRUG9BUUg0QVFHSUFnR29BZ0c0QXVyWnpNWUd3QUlCMGdJa056STVNelV6WVRNdE1XWmpaQzAwTW1NMUxUazJObVl0TVRJeVlUazNZekEzTW1VdzJBSUI0QUlCJmRpc3RyaWJ1dGlvbl9pZD0zN0NadkJwUzJVWXRQQUtaOUNlaFo4JmFpZD0zMDQxNDImY2xpZW50X25hbWU9Yi13ZWItc2hlbGwtYmZmJnNpZD03YmM1NWFmZTRmZjQ0OTQwZTIwYWZlYzZkNmNlODA5Ng%3D%3D",
+    "https://ch.booking.com/c?st=QVRUUkFDVElPTg%3D%3D&lt=TEFORElOR19QQUdF&si=Q2g1aUxXTjBMWEJzWVhSbWIzSnRMV1JwYzNSeWFXSjFkR2x2YmkxamRHUVFBaHBBZ012anpoWmV5dXhDZjZ0VVMrZHFRWXdSUHMxSzc3RGxRdXhsQkRRRm85SEhaSktCVk5HS3QrdUdLT29jRDV4Q0lBaHNzeFhBSGFaY0tJeUl0MFdLQnc9PQ%3D%3D&target=aHR0cHM6Ly93d3cuYm9va2luZy5jb20vYXR0cmFjdGlvbnMvaW5kZXguZW4tdXMuaHRtbD9zZWxlY3RlZF9jdXJyZW5jeT1BUlMmZXRTdGF0ZUJsb2I9RUxmd0dMRFI1dlFfbXZVbjFWTHlWZmNxTlFpZmd1R2NNWDFUbVZiejBmdFlvTFgyMmZ5ZkhmTEJyakRRODltT20mYWRwbGF0PXd3dy1pbmRleC13ZWJfc2hlbGxfaGVhZGVyLWF0dHJhY3Rpb24tbWlzc2luZ19jcmVhdGl2ZS0zN0NadkJwUzJVWXRQQUtaOUNlaFo4JmxhYmVsPWdlbjE3M25yLTEwQ0FFb2dnSTQ2QWRJTTFnRWFBeUlBUUdZQVRPNEFSZklBUXpZQVFQb0FRSDRBUUdJQWdHb0FnRzRBdXJaek1ZR3dBSUIwZ0lrTnpJNU16VXpZVE10TVdaalpDMDBNbU0xTFRrMk5tWXRNVEl5WVRrM1l6QTNNbVV3MkFJQjRBSUImZGlzdHJpYnV0aW9uX2lkPTM3Q1p2QnBTMlVZdFBBS1o5Q2VoWjgmYWlkPTMwNDE0MiZjbGllbnRfbmFtZT1iLXdlYi1zaGVsbC1iZmYmc2lkPTdiYzU1YWZlNGZmNDQ5NDBlMjBhZmVjNmQ2Y2U4MDk2",
+    "https://ch.booking.com/c?st=VEFYSQ%3D%3D&lt=TEFORElOR19QQUdF&si=Q2g1aUxXTjBMWEJzWVhSbWIzSnRMV1JwYzNSeWFXSjFkR2x2YmkxamRHUVFBaHBBSVVZNWpwUThvMHdERlMyVUFERmV3K1RxYVhCRVpGdy9CWlFVSjA5VTNkV05oNWVaVm9VMzV1Mm9FMXFUeXFlaUp1YnkvbENIVXpQVk9mbG9VQVNPQWc9PQ%3D%3D&target=aHR0cHM6Ly93d3cuYm9va2luZy5jb20vdGF4aS9pbmRleC5lbi11cy5odG1sP3NlbGVjdGVkX2N1cnJlbmN5PUFSUyZldFN0YXRlQmxvYj1FTGZ3R0xEUjV2UV9tdlVuMVZMeVZmY3FOUWlmZ3VHY01YMVRtVmJ6MGZ0WW9MWDIyZnlmSGZMQnJqRFE4OW1PbSZhZHBsYXQ9d3d3LWluZGV4LXdlYl9zaGVsbF9oZWFkZXItdGF4aS1taXNzaW5nX2NyZWF0aXZlLTM3Q1p2QnBTMlVZdFBBS1o5Q2VoWjgmbGFiZWw9Z2VuMTczbnItMTBDQUVvZ2dJNDZBZElNMWdFYUF5SUFRR1lBVE80QVJmSUFRellBUVBvQVFINEFRR0lBZ0dvQWdHNEF1clp6TVlHd0FJQjBnSWtOekk1TXpVellUTXRNV1pqWkMwME1tTTFMVGsyTm1ZdE1USXlZVGszWXpBM01tVXcyQUlCNEFJQiZkaXN0cmlidXRpb25faWQ9MzdDWnZCcFMyVVl0UEFLWjlDZWhaOCZhaWQ9MzA0MTQyJmNsaWVudF9uYW1lPWItd2ViLXNoZWxsLWJmZiZzaWQ9N2JjNTVhZmU0ZmY0NDk0MGUyMGFmZWM2ZDZjZTgwOTY%3D",
+    "https://www.booking.com/dealspage.en-us.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaAyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AurZzMYGwAIB0gIkNzI5MzUzYTMtMWZjZC00MmM1LTk2NmYtMTIyYTk3YzA3MmUw2AIB4AIB&campaign_id=getaway",
+    "https://www.booking.com/dealspage.en-us.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaAyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AurZzMYGwAIB0gIkNzI5MzUzYTMtMWZjZC00MmM1LTk2NmYtMTIyYTk3YzA3MmUw2AIB4AIB&campaign_id=late_escape",
+    "https://www.booking.com/searchresults.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaAyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AurZzMYGwAIB0gIkNzI5MzUzYTMtMWZjZC00MmM1LTk2NmYtMTIyYTk3YzA3MmUw2AIB4AIB&dest_id=-979186&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0",
+    "https://www.booking.com/searchresults.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaAyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AurZzMYGwAIB0gIkNzI5MzUzYTMtMWZjZC00MmM1LTk2NmYtMTIyYTk3YzA3MmUw2AIB4AIB&dest_id=-390625&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0",
+    "https://www.booking.com/searchresults.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaAyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AurZzMYGwAIB0gIkNzI5MzUzYTMtMWZjZC00MmM1LTk2NmYtMTIyYTk3YzA3MmUw2AIB4AIB&dest_id=-983417&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0",
+    "https://www.booking.com/searchresults.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaAyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AurZzMYGwAIB0gIkNzI5MzUzYTMtMWZjZC00MmM1LTk2NmYtMTIyYTk3YzA3MmUw2AIB4AIB&dest_id=-1003243&dest_type=city&group_adults=2&req_adults=2&no_rooms=1&group_children=0&req_children=0"
+  ],
+  "candidates": [
+    "https://www.booking.com/booking-home/index.en-us.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaAyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AurZzMYGwAIB0gIkNzI5MzUzYTMtMWZjZC00MmM1LTk2NmYtMTIyYTk3YzA3MmUw2AIB4AIB",
+    "https://booking.com/",
+    "https://booking.com/contact",
+    "https://booking.com/contact/",
+    "https://booking.com/contact-us",
+    "https://booking.com/contact-us/",
+    "https://booking.com/contactus",
+    "https://booking.com/contactus/",
+    "https://booking.com/about",
+    "https://booking.com/about/",
+    "https://booking.com/about-us",
+    "https://booking.com/about-us/",
+    "https://booking.com/visit",
+    "https://booking.com/visit/",
+    "https://booking.com/location",
+    "https://booking.com/location/",
+    "https://booking.com/directions",
+    "https://booking.com/directions/"
+  ],
+  "per_page": {
+    "https://www.booking.com/booking-home/index.en-us.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaAyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AurZzMYGwAIB0gIkNzI5MzUzYTMtMWZjZC00MmM1LTk2NmYtMTIyYTk3YzA3MmUw2AIB4AIB": {
+      "title": "The world's best vacation rentals | Booking.com",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.booking.com/booking-home/index.en-us.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaAyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AurZzMYGwAIB0gIkNzI5MzUzYTMtMWZjZC00MmM1LTk2NmYtMTIyYTk3YzA3MmUw2AIB4AIB"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.booking.com/booking-home/index.en-us.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaAyIAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4AurZzMYGwAIB0gIkNzI5MzUzYTMtMWZjZC00MmM1LTk2NmYtMTIyYTk3YzA3MmUw2AIB4AIB"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/": {
+      "title": "Booking.com | Official site | The best hotels, flights, car rentals & accommodations",
+      "band_hits": {
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/contact": {
+      "title": "Booking.com:\nHotels in Cairo.\nBook your hotel now!",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contact"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contact"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/contact/": {
+      "title": "Booking.com:\nHotels in Cairo.\nBook your hotel now!",
+      "band_hits": {
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contact/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/contact-us": {
+      "title": "Booking.com:\nHotels in Contact.\nBook your hotel now!",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contact-us"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/contact-us/": {
+      "title": "Booking.com:\nHotels in Contact.\nBook your hotel now!",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contact-us/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/contactus": {
+      "title": "Booking.com:\nHotels in Cairo.\nBook your hotel now!",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contactus"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/contactus/": {
+      "title": "Booking.com:\nHotels in Cairo.\nBook your hotel now!",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contactus/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/about": {
+      "title": "Booking.com:\nHotels in Tbilisi.\nBook your hotel now!",
+      "band_hits": {
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/about"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/about"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/about/": {
+      "title": "Booking.com:\nHotels in Tbilisi.\nBook your hotel now!",
+      "band_hits": {
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/about/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/about/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/about-us": {
+      "title": "Booking.com:\nHotels in Gulf Shores.\nBook your hotel now!",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/about-us"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/about-us/": {
+      "title": "Booking.com:\nHotels in Gulf Shores.\nBook your hotel now!",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/about-us/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/visit": {
+      "title": "Booking.com:\nHotels in Evergem.\nBook your hotel now!",
+      "band_hits": {
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/visit"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/visit/": {
+      "title": "Booking.com:\nHotels in Evergem.\nBook your hotel now!",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/visit/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/location": {
+      "title": "Booking.com:\nHotels in Sofia.\nBook your hotel now!",
+      "band_hits": {
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/location"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/location"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/location/": {
+      "title": "Booking.com:\nHotels in Sofia.\nBook your hotel now!",
+      "band_hits": {
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/location/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/location/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/directions": {
+      "title": "Booking.com:\nHotels in Narbonne-Plage.\nBook your hotel now!",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/directions"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/directions"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://booking.com/directions/": {
+      "title": "Booking.com:\nHotels in Narbonne-Plage.\nBook your hotel now!",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/directions/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://booking.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

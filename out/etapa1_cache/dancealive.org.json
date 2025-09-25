@@ -1,0 +1,576 @@
+{
+  "site_url": "https://dancealive.org/",
+  "domain": "dancealive.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://dancealive.org/",
+    "https://dancealive.org/staff/",
+    "https://dancealive.org/calendar/",
+    "https://dancealive.org/booking-agent/",
+    "https://dancealive.org/tickets/",
+    "https://dancealive.org/mission-goals/",
+    "https://dancealive.org/next-generation/",
+    "https://dancealive.org/official-school/",
+    "https://dancealive.org/history/",
+    "https://dancealive.org/artistic-director-founder/",
+    "https://dancealive.org/executive-administrator-founder/",
+    "https://dancealive.org/executive-director/",
+    "https://dancealive.org/dancers-2/",
+    "https://dancealive.org/performances/",
+    "https://dancealive.org/city-of-alachua/",
+    "https://dancealive.org/ocala/",
+    "https://dancealive.org/capital-campaign/",
+    "https://dancealive.org/individual-donors/",
+    "https://dancealive.org/corporate-support/",
+    "https://dancealive.org/the-collier-companies-challenge-grant/",
+    "https://dancealive.org/legacy-society-2/",
+    "https://dancealive.org/legacy-society/",
+    "https://dancealive.org/discovering-dance-2-2/",
+    "https://dancealive.org/discovering-dance/",
+    "https://dancealive.org/dance-partners/",
+    "https://dancealive.org/senior-moments/",
+    "https://dancealive.org/magic-of-nutcracker/",
+    "https://dancealive.org/curriculum/",
+    "https://dancealive.org/surveys/",
+    "https://dancealive.org/tech-rider/",
+    "https://dancealive.org/community-nutcracker-rider/",
+    "https://dancealive.org/light-plot/",
+    "https://dancealive.org/2025/06/29/land-of-la-chua/",
+    "https://dancealive.org/2025/06/29/the-nutcracker-4/",
+    "https://dancealive.org/2025/06/29/swan-lake/",
+    "https://dancealive.org/2025/06/29/romeo-and-juliet/",
+    "https://dancealive.org/2018/07/10/meet-the-dancers/",
+    "https://dancealive.org/2018/07/10/lil-wonder-bistro/",
+    "https://dancealive.org/2023/07/21/champagne-gala-2/",
+    "https://dancealive.org/2022/04/07/lady-bug-action-hero/",
+    "https://dancealive.org/2023/08/21/lorie-gleim/",
+    "https://dancealive.org/2023/08/21/star-bradbury/",
+    "https://dancealive.org/2023/08/21/weaver-gaines/",
+    "https://dancealive.org/2023/08/21/stephanie-johnson/",
+    "https://dancealive.org/2023/08/21/kim-tuttle/",
+    "https://dancealive.org/2023/08/22/erin-buss/",
+    "https://dancealive.org/2025/02/20/nurhan-nur-erenguc/",
+    "https://dancealive.org/2023/08/21/melanie-leonard/",
+    "https://dancealive.org/2023/08/21/susannah-peddie/",
+    "https://dancealive.org/2023/08/21/colleen-rand/",
+    "https://dancealive.org/2023/08/21/tim-roark/",
+    "https://dancealive.org/2023/08/21/james-roberts/",
+    "https://dancealive.org/2023/08/21/adrienne-stevens/",
+    "https://dancealive.org/2024/04/23/ashley-walsh/",
+    "https://dancealive.org/2018/07/30/carla-amancio/",
+    "https://dancealive.org/2019/05/28/rosemary-deiorio/",
+    "https://dancealive.org/2019/05/27/tenki-nomura/",
+    "https://dancealive.org/2018/07/30/beatriz-povoas/",
+    "https://dancealive.org/2019/11/03/jose-ramos/",
+    "https://dancealive.org/2024/05/30/ribeiro-tales/",
+    "https://dancealive.org/2019/05/03/rachel-ridley/",
+    "https://dancealive.org/2018/05/07/andre-valladon/",
+    "https://dancealive.org/2018/07/30/ashley-brooke-lunn/",
+    "https://dancealive.org/2018/07/30/roberto-vega/",
+    "https://dancealive.org/2023/08/24/paloma-berjano/",
+    "https://dancealive.org/2022/09/26/luan-brito/",
+    "https://dancealive.org/2022/07/16/beatriz-correa/",
+    "https://dancealive.org/2022/07/16/marilyn-deiorio/",
+    "https://dancealive.org/2024/05/29/fuentes-marite/",
+    "https://dancealive.org/2024/01/06/tucker-gokey/",
+    "https://dancealive.org/2023/08/24/stirling-kolb/",
+    "https://dancealive.org/2020/12/27/emilia-leon/",
+    "https://dancealive.org/2018/07/30/hernan-montenegro/",
+    "https://dancealive.org/2022/07/16/alison-tucker/"
+  ],
+  "candidates": [
+    "https://dancealive.org/calendar/",
+    "https://dancealive.org/staff/",
+    "https://dancealive.org/booking-agent/",
+    "https://dancealive.org/",
+    "https://dancealive.org/performances/"
+  ],
+  "per_page": {
+    "https://dancealive.org/calendar/": {
+      "title": "Calendar – Dance Alive National Ballet",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/calendar/"
+          ]
+        },
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/calendar/"
+          ]
+        },
+        "show": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/calendar/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/calendar/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/calendar/"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/calendar/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800) 435-7352",
+        "352-371-2986",
+        "8012680863"
+      ],
+      "socials": [
+        "https://www.facebook.com/dancealivenationalballet",
+        "https://www.instagram.com/dance.alive/",
+        "https://www.linkedin.com/company/dancealive-national-ballet",
+        "https://www.youtube.com/user/DanceAliveBallet"
+      ]
+    },
+    "https://dancealive.org/staff/": {
+      "title": "Staff – Dance Alive National Ballet",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/staff/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/staff/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/staff/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/staff/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/staff/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/staff/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(254) 644-3265",
+        "(352) 317-2122",
+        "(352) 359-2007",
+        "(352) 371-2986",
+        "(800) 435-7352",
+        "(904) 233-0787",
+        "352-371-2986",
+        "8012680863"
+      ],
+      "socials": [
+        "https://www.facebook.com/dancealivenationalballet",
+        "https://www.instagram.com/dance.alive/",
+        "https://www.linkedin.com/company/dancealive-national-ballet",
+        "https://www.youtube.com/user/DanceAliveBallet"
+      ]
+    },
+    "https://dancealive.org/booking-agent/": {
+      "title": "Booking Agent – Dance Alive National Ballet",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/booking-agent/"
+          ]
+        },
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/booking-agent/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/booking-agent/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/booking-agent/"
+          ]
+        },
+        "booking": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/booking-agent/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/booking-agent/"
+          ]
+        },
+        "concierto": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/booking-agent/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800) 435-7352",
+        "352-371-2986",
+        "570.824.2266",
+        "617.930.4925",
+        "8012680863"
+      ],
+      "socials": [
+        "https://www.facebook.com/dancealivenationalballet",
+        "https://www.instagram.com/dance.alive/",
+        "https://www.linkedin.com/company/dancealive-national-ballet",
+        "https://www.youtube.com/user/DanceAliveBallet"
+      ]
+    },
+    "https://dancealive.org/": {
+      "title": "Dance Alive National Ballet",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/"
+          ]
+        },
+        "performance": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800) 435-7352",
+        "352-371-2986",
+        "8012680863"
+      ],
+      "socials": [
+        "https://www.facebook.com/dancealivenationalballet",
+        "https://www.instagram.com/dance.alive/",
+        "https://www.linkedin.com/company/dancealive-national-ballet",
+        "https://www.youtube.com/user/DanceAliveBallet",
+        "https://www.youtube.com/watch"
+      ]
+    },
+    "https://dancealive.org/performances/": {
+      "title": "Performances – Dance Alive National Ballet",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/performances/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/performances/"
+          ]
+        },
+        "performance": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/performances/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/performances/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://dancealive.org/performances/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800) 435-7352",
+        "352-371-2986",
+        "8012680863"
+      ],
+      "socials": [
+        "https://www.facebook.com/dancealivenationalballet",
+        "https://www.instagram.com/dance.alive/",
+        "https://www.linkedin.com/company/dancealive-national-ballet",
+        "https://www.youtube.com/user/DanceAliveBallet"
+      ]
+    }
+  }
+}

@@ -1,0 +1,2537 @@
+{
+  "site_url": "https://myfwc.com/",
+  "domain": "myfwc.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://myfwc.com/",
+    "https://myfwc.com/contact/wildlife-alert/",
+    "https://myfwc.com/about/rules-regulations/",
+    "https://myfwc.com/contact/fwc-office/regional-offices/",
+    "https://myfwc.com/research/manatee/information/support/contact/",
+    "https://myfwc.com/research/about/",
+    "https://outreach.myfwc.com/events/event_list.asp",
+    "https://myfwc.com/about/",
+    "https://myfwc.com/about/inside-fwc/",
+    "https://myfwc.com/about/inside-fwc/fwri/",
+    "https://myfwc.com/about/inside-fwc/hgm/",
+    "https://myfwc.com/about/inside-fwc/ffm/",
+    "https://myfwc.com/about/inside-fwc/le/",
+    "https://myfwc.com/about/inside-fwc/hsc/",
+    "https://myfwc.com/about/inside-fwc/mfm/",
+    "https://myfwc.com/about/commission/",
+    "https://myfwc.com/about/commission/commission-meetings/",
+    "https://myfwc.com/about/commission/commissioners/",
+    "https://myfwc.com/about/overview/",
+    "https://myfwc.com/news/",
+    "https://myfwc.com/contact/",
+    "https://myfwc.com/news/social/",
+    "https://myfwc.com/contact/fwc-office/",
+    "https://myfwc.com/contact/law-enforcement/",
+    "https://myfwc.com/contact/tell-us/",
+    "https://myfwc.com/about/rules-regulations/proposed-rule-changes/",
+    "https://myfwc.com/contact/public-records-requests/",
+    "https://myfwc.com/contact/signs/",
+    "https://myfwc.com/contact/event/",
+    "https://myfwc.com/license/",
+    "https://myfwc.com/license/recreational/",
+    "https://myfwc.com/license/recreational/how-to-order/",
+    "https://myfwc.com/license/recreational/do-i-need-one/",
+    "https://myfwc.com/license/limited-entry/",
+    "https://myfwc.com/license/public-land-use/",
+    "https://myfwc.com/license/accessibility/",
+    "https://myfwc.com/license/commercial/",
+    "https://myfwc.com/license/commercial/saltwater/",
+    "https://myfwc.com/license/commercial/freshwater/",
+    "https://app.myfwc.com/crossdoi/clsonline/",
+    "https://myfwc.com/license/commercial/saltwater/charter/",
+    "https://myfwc.com/license/recreational/saltwater-fishing/vessel-pier-licenses/",
+    "https://myfwc.com/license/wildlife/",
+    "https://myfwc.com/license/wildlife/nuisance-wildlife-permits/",
+    "https://myfwc.com/license/captive-wildlife/",
+    "https://myfwc.com/license/application-forms/",
+    "https://myfwc.com/license/boating-navigation/",
+    "https://app.myfwc.com/LE/WildlifeAlert/",
+    "https://myfwc.com/fishing/saltwater/recreational/",
+    "https://myfwc.com/fishing/freshwater/regulations/",
+    "https://myfwc.com/hunting/regulations/",
+    "https://myfwc.com/boating/regulations/",
+    "https://myfwc.com/conservation/you-conserve/wildlife/",
+    "https://myfwc.com/education/wildlife/unhook/",
+    "https://myfwc.com/wildlifehabitats/wildlife/bear/living/",
+    "https://myfwc.com/wildlifehabitats/profiles/mammals/land/bats/",
+    "https://myfwc.com/wildlifehabitats/profiles/mammals/land/coyote/",
+    "https://myfwc.com/conservation/you-conserve/wildlife/alligators/"
+  ],
+  "candidates": [
+    "https://myfwc.com/contact/event/",
+    "https://myfwc.com/contact/",
+    "https://myfwc.com/contact/fwc-office/",
+    "https://myfwc.com/contact/fwc-office/regional-offices/",
+    "https://myfwc.com/contact/law-enforcement/",
+    "https://myfwc.com/contact/public-records-requests/",
+    "https://myfwc.com/contact/signs/",
+    "https://myfwc.com/contact/tell-us/",
+    "https://myfwc.com/contact/wildlife-alert/",
+    "https://myfwc.com/research/manatee/information/support/contact/",
+    "https://myfwc.com/about/",
+    "https://myfwc.com/about/commission/",
+    "https://myfwc.com/about/commission/commission-meetings/",
+    "https://myfwc.com/about/commission/commissioners/",
+    "https://myfwc.com/about/inside-fwc/",
+    "https://myfwc.com/about/inside-fwc/ffm/",
+    "https://myfwc.com/about/inside-fwc/fwri/",
+    "https://myfwc.com/about/inside-fwc/hgm/",
+    "https://myfwc.com/about/inside-fwc/hsc/",
+    "https://myfwc.com/about/inside-fwc/le/",
+    "https://myfwc.com/about/inside-fwc/mfm/",
+    "https://myfwc.com/about/overview/",
+    "https://myfwc.com/about/rules-regulations/",
+    "https://myfwc.com/about/rules-regulations/proposed-rule-changes/",
+    "https://myfwc.com/research/about/",
+    "https://outreach.myfwc.com/events/event_list.asp",
+    "https://myfwc.com/news/",
+    "https://myfwc.com/news/social/",
+    "https://myfwc.com/",
+    "https://myfwc.com/contact",
+    "https://myfwc.com/contact-us",
+    "https://myfwc.com/contact-us/",
+    "https://myfwc.com/contactus",
+    "https://myfwc.com/contactus/",
+    "https://myfwc.com/about",
+    "https://myfwc.com/about-us",
+    "https://myfwc.com/about-us/",
+    "https://myfwc.com/visit",
+    "https://myfwc.com/visit/",
+    "https://myfwc.com/location",
+    "https://myfwc.com/location/",
+    "https://myfwc.com/directions",
+    "https://myfwc.com/directions/"
+  ],
+  "per_page": {
+    "https://myfwc.com/contact/event/": {
+      "title": "Event | FWC",
+      "band_hits": {
+        "event": {
+          "total": 39,
+          "zones": {
+            "title": 1,
+            "body": 38,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/event/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/event/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/event/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/event/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/contact/": {
+      "title": "How to Contact the FWC | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "tip@myfwc.com"
+      ],
+      "phones": [
+        "(850) 488-4676",
+        "(888-404-3922",
+        "800-955-8770",
+        "800-955-8771"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/contact/fwc-office/": {
+      "title": "Contact an Office at the FWC | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/fwc-office/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/fwc-office/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/fwc-office/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676",
+        "352-732-1225",
+        "386-758-0525",
+        "561-625-5122",
+        "727-896-8626",
+        "850-265-3676",
+        "850-413-0085",
+        "850-414-2870",
+        "850-487-0554",
+        "850-487-1764",
+        "850-487-3795",
+        "850-487-3796",
+        "850-488-0331",
+        "850-488-3641",
+        "850-488-3831",
+        "850-488-4676",
+        "850-488-6068",
+        "850-488-6251",
+        "850-488-6411",
+        "850-488-6551",
+        "863-648-3200"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/contact/fwc-office/regional-offices/": {
+      "title": "Regional Office Contacts | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/fwc-office/regional-offices/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/fwc-office/regional-offices/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/fwc-office/regional-offices/"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/fwc-office/regional-offices/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676",
+        "352-732-1225",
+        "386-758-0525",
+        "561-625-5122",
+        "850-265-3676",
+        "863-648-3200",
+        "888-404-3922"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/contact/law-enforcement/": {
+      "title": "Law Enforcement Contacts | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/law-enforcement/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/law-enforcement/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/law-enforcement/"
+          ]
+        },
+        "acts": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/law-enforcement/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676",
+        "305-956-2500",
+        "352-732-1225",
+        "386-758-0525",
+        "561-625-5122",
+        "850-265-3676",
+        "863-648-3200"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/contact/public-records-requests/": {
+      "title": "Public Records Requests | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/public-records-requests/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/public-records-requests/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/public-records-requests/"
+          ]
+        }
+      },
+      "emails": [
+        "recordsexemption@myfwc.com"
+      ],
+      "phones": [
+        "(850) 488-4676",
+        "850-488-6553"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/contact/signs/": {
+      "title": "FWC Signs – Educational, Loan from Regional Office, or Regulatory  | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/signs/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/signs/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/signs/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/signs/"
+          ]
+        }
+      },
+      "emails": [
+        "cleanuptraps@myfwc.com",
+        "coastal@myfwc.com",
+        "imperiledspecies@myfwc.com",
+        "marine@myfwc.com",
+        "snap@myfwc.com"
+      ],
+      "phones": [
+        "(850) 488-4676",
+        "(866-392-4286"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/contact/tell-us/": {
+      "title": "Tell Us What You Think | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/tell-us/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/tell-us/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/tell-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/contact/wildlife-alert/": {
+      "title": "Wildlife Alert - Report a Violation | FWC",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/wildlife-alert/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/wildlife-alert/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/wildlife-alert/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact/wildlife-alert/"
+          ]
+        }
+      },
+      "emails": [
+        "tip@myfwc.com"
+      ],
+      "phones": [
+        "(850) 488-4676",
+        "(888-404-3922"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.facebook.com/WildlifeAlert",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/research/manatee/information/support/contact/": {
+      "title": "Report a Sick, Injured, Dead, or Tagged Manatee | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/research/manatee/information/support/contact/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/research/manatee/information/support/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/research/manatee/information/support/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676",
+        "(888-404-3922"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about/": {
+      "title": "About | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about/commission/": {
+      "title": "The Commission | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/commission/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/commission/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/commission/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/commission/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about/commission/commission-meetings/": {
+      "title": "Commission Meetings | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/commission/commission-meetings/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/commission/commission-meetings/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/commission/commission-meetings/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/commission/commission-meetings/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about/commission/commissioners/": {
+      "title": "The Commissioners | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/commission/commissioners/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/commission/commissioners/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/commission/commissioners/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/commission/commissioners/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about/inside-fwc/": {
+      "title": "Inside the FWC | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about/inside-fwc/ffm/": {
+      "title": "Freshwater Fisheries Managment | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/ffm/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/ffm/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/ffm/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/ffm/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about/inside-fwc/fwri/": {
+      "title": "Fish and Wildlife Research Institute | FWC",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/fwri/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/fwri/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/fwri/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about/inside-fwc/hgm/": {
+      "title": "Hunting and Game Management | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/hgm/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/hgm/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/hgm/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676",
+        "850-488-3831"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about/inside-fwc/hsc/": {
+      "title": "Habitat and Species Conservation | FWC",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/hsc/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/hsc/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/hsc/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about/inside-fwc/le/": {
+      "title": "Law Enforcement | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/le/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/le/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/le/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about/inside-fwc/mfm/": {
+      "title": "Marine Fisheries Management | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/mfm/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/mfm/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/inside-fwc/mfm/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about/overview/": {
+      "title": "FWC Overview | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/overview/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/overview/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/overview/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about/rules-regulations/": {
+      "title": "Rules and Regulations | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/rules-regulations/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/rules-regulations/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/rules-regulations/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/rules-regulations/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about/rules-regulations/proposed-rule-changes/": {
+      "title": "Proposed Rule Changes | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/rules-regulations/proposed-rule-changes/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/rules-regulations/proposed-rule-changes/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about/rules-regulations/proposed-rule-changes/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/research/about/": {
+      "title": "Inside FWRI | FWC",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/research/about/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/research/about/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/research/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "http://facebook.com/fwcresearch",
+        "http://instagram.com/fwcresearch",
+        "http://youtube.com/fwcresearch",
+        "https://www.facebook.com/FWCResearch/posts/1204784125015418",
+        "https://www.facebook.com/FWCResearch/posts/1208084971352000",
+        "https://www.facebook.com/FWCResearch/posts/1210602024433628",
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos",
+        "https://youtu.be/R5xroOKXbtE",
+        "https://youtu.be/WPkrMYTDqck"
+      ]
+    },
+    "https://outreach.myfwc.com/events/event_list.asp": {
+      "title": "Event Calendar - FWC Outreach",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 1,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://outreach.myfwc.com/events/event_list.asp"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://outreach.myfwc.com/events/event_list.asp"
+          ]
+        },
+        "calendar": {
+          "total": 23,
+          "zones": {
+            "title": 1,
+            "body": 22,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://outreach.myfwc.com/events/event_list.asp"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": []
+    },
+    "https://myfwc.com/news/": {
+      "title": "FWC News | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/news/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/news/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/news/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/news/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/news/"
+          ]
+        }
+      },
+      "emails": [
+        "page@myfwc.com"
+      ],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/news/social/": {
+      "title": "Social Media | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/news/social/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/news/social/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/news/social/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "http://instagram.com/myfwc/",
+        "http://www.facebook.com/FWCResearch",
+        "http://www.facebook.com/MyFWC",
+        "http://www.facebook.com/TrophyCatchFlorida",
+        "http://www.youtube.com/FWCResearch",
+        "http://youtube.com/HuntFloridaTV",
+        "https://instagram.com/fwcresearch",
+        "https://www.facebook.com/CatchaFLMemory/",
+        "https://www.facebook.com/FWCvolunteers/",
+        "https://www.facebook.com/HGM.FWC",
+        "https://www.facebook.com/MyFWC/",
+        "https://www.facebook.com/WildlifeAlert",
+        "https://www.facebook.com/floridabirdingtrail",
+        "https://www.facebook.com/fwcreefrangers/",
+        "https://www.facebook.com/fyccn2",
+        "https://www.facebook.com/pages/Chinsegut-Conservation-Center/103720663057983",
+        "https://www.instagram.com/fishreelflorida/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/3990329",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos",
+        "https://www.youtube.com/channel/UCHM28mzWFeqjXc9PCDUdc4Q",
+        "https://www.youtube.com/user/MyFWCsocial"
+      ]
+    },
+    "https://myfwc.com/": {
+      "title": "Florida Fish and Wildlife Conservation Commission | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/contact": {
+      "title": "How to Contact the FWC | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "tip@myfwc.com"
+      ],
+      "phones": [
+        "(850) 488-4676",
+        "(888-404-3922",
+        "800-955-8770",
+        "800-955-8771"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/contact-us": {
+      "title": "Page Not Found | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact-us"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/contact-us/": {
+      "title": "Page Not Found | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact-us/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/contactus": {
+      "title": "Page Not Found | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contactus"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/contactus/": {
+      "title": "Page Not Found | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contactus/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about": {
+      "title": "About | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/about-us": {
+      "title": "Page Not Found | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about-us"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/visit": {
+      "title": "Page Not Found | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/visit"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/visit"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/visit/": {
+      "title": "Page Not Found | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/visit/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/location": {
+      "title": "Page Not Found | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/location"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/location"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/location/": {
+      "title": "Page Not Found | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/location/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/location/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/directions": {
+      "title": "Page Not Found | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/directions"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/directions"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    },
+    "https://myfwc.com/directions/": {
+      "title": "Page Not Found | FWC",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/directions/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://myfwc.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 488-4676"
+      ],
+      "socials": [
+        "https://www.facebook.com/MyFWC/",
+        "https://www.instagram.com/myfwc/",
+        "https://www.linkedin.com/company/florida-fish-&-wildlife-conservation-commission",
+        "https://www.youtube.com/MyFWCvideos"
+      ]
+    }
+  }
+}

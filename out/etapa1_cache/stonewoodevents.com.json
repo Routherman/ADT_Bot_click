@@ -1,0 +1,196 @@
+{
+  "site_url": "https://stonewoodevents.com/",
+  "domain": "stonewoodevents.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://stonewoodevents.com/",
+    "https://stonewoodevents.com/about",
+    "https://stonewoodevents.com/contact",
+    "https://stonewoodevents.com/cart",
+    "https://stonewoodevents.com/portfolio-1",
+    "https://stonewoodevents.com/services",
+    "https://stonewoodevents.com/services-1",
+    "https://stonewoodevents.com/new-page",
+    "https://stonewoodevents.com/appointments",
+    "https://stonewoodevents.com/portfolio-1/project-one-f5w4d-yp3xc"
+  ],
+  "candidates": [
+    "https://stonewoodevents.com/contact",
+    "https://stonewoodevents.com/about",
+    "https://stonewoodevents.com/"
+  ],
+  "per_page": {
+    "https://stonewoodevents.com/contact": {
+      "title": "Contact | Connect With Us Now — Stonewood Events",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stonewoodevents.com/contact"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stonewoodevents.com/contact"
+          ]
+        },
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stonewoodevents.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 262-4626",
+        "352-262-4626"
+      ],
+      "socials": []
+    },
+    "https://stonewoodevents.com/about": {
+      "title": "About | Discover Our Story — Stonewood Events",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stonewoodevents.com/about"
+          ]
+        },
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stonewoodevents.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-262-4626"
+      ],
+      "socials": []
+    },
+    "https://stonewoodevents.com/": {
+      "title": "Stonewood Events | Plan Your Event Today",
+      "band_hits": {
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 2,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stonewoodevents.com/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stonewoodevents.com/"
+          ]
+        },
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stonewoodevents.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-262-4626"
+      ],
+      "socials": []
+    }
+  }
+}

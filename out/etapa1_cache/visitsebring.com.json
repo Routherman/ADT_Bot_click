@@ -1,0 +1,657 @@
+{
+  "site_url": "https://visitsebring.com/",
+  "domain": "visitsebring.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://visitsebring.com/",
+    "https://visitsebring.com/updates/",
+    "https://visitsebring.com/meeting-planners/",
+    "https://visitsebring.com/sports/",
+    "https://visitsebring.com/hgtv/",
+    "https://visitsebring.com/cities/",
+    "https://visitsebring.com/cities/avon-park/",
+    "https://visitsebring.com/cities/lake-placid/",
+    "https://visitsebring.com/cities/sebring/",
+    "https://visitsebring.com/things-to-do/",
+    "https://visitsebring.com/things-to-do/sebring-international-raceway/",
+    "https://visitsebring.com/things-to-do/food-drink/",
+    "https://visitsebring.com/things-to-do/nightlife/",
+    "https://visitsebring.com/things-to-do/family-friendly/",
+    "https://visitsebring.com/things-to-do/arts-culture/",
+    "https://visitsebring.com/things-to-do/spas/",
+    "https://visitsebring.com/things-to-do/shopping/",
+    "https://visitsebring.com/outdoors/",
+    "https://visitsebring.com/outdoors/nature/",
+    "https://visitsebring.com/outdoors/fishing/",
+    "https://visitsebring.com/outdoors/golf/",
+    "https://visitsebring.com/outdoors/geocaching/",
+    "https://visitsebring.com/outdoors/parks-piers/",
+    "https://visitsebring.com/lodging/",
+    "https://visitsebring.com/lodging/fish-camps/",
+    "https://visitsebring.com/lodging/hotels-motels/",
+    "https://visitsebring.com/lodging/rv-campgrounds/",
+    "https://visitsebring.com/lodging/vacation-home-condos/",
+    "https://visitsebring.com/events/",
+    "https://visitsebring.com/events/annual-events/",
+    "https://visitsebring.com/events/events-this-week/",
+    "https://visitsebring.com/plan-your-visit/",
+    "https://visitsebring.com/plan-your-visit/interactive-map/",
+    "https://visitsebring.com/plan-your-visit/sample-itineraries/",
+    "https://visitsebring.com/plan-your-visit/directions/",
+    "https://visitsebring.com/plan-your-visit/road-trips/",
+    "https://visitsebring.com/plan-your-visit/faq/",
+    "https://visitsebring.com/partners/highlands-hammock-state-park/",
+    "https://visitsebring.com/partners/the-hotel-jacaranda-restaurant-buffet/",
+    "https://visitsebring.com/partners/the-murals-of-lake-placid/",
+    "https://visitsebring.com/outdoors/agritourism/",
+    "https://visitsebring.com/things-to-do/dining/",
+    "https://visitsebring.com/sports/sports-recreation/",
+    "https://visitsebring.com/blog/enjoy-an-adult-only-getaway-to-the-sebring-area/",
+    "https://visitsebring.com/blog/kick-off-summer-at-the-2025-caladium-festival-in-lake-placid-fl/",
+    "https://visitsebring.com/blog/floridas-freshwater-getaway-the-best-beaches-in-the-sebring-area/",
+    "https://visitsebring.com/blog/top-10-things-to-do-in-the-sebring-area/",
+    "https://visitsebring.com/blog/counting-birds-tracking-change-reflections-from-the-2024-christmas-bird-count/",
+    "https://visitsebring.com/blog/sebring-soda-festival-2025/",
+    "https://visitsebring.com/request-information/",
+    "https://visitsebring.com/blog/celebrate-halloween-and-fall-in-sebring-events-you-wont-want-to-miss/",
+    "https://visitsebring.com/blog/your-next-great-catch-awaits-fish-camps-in-sebring-florida/",
+    "https://visitsebring.com/about/",
+    "https://visitsebring.com/contact/",
+    "https://visitsebring.com/media/",
+    "https://visitsebring.com/grants/",
+    "https://visitsebring.com/privacy-policy/",
+    "https://visitsebring.com/partners/alan-jay-wildstein-center/",
+    "https://visitsebring.com/partners/circle-theatre/",
+    "https://visitsebring.com/partners/the-grove-at-twenty-one-hundred/",
+    "https://visitsebring.com/partners/antler-pines/",
+    "https://visitsebring.com/partners/arbuckle-creek-farms/",
+    "https://visitsebring.com/partners/inn-on-the-lakes/",
+    "https://visitsebring.com/partners/chateau-elan-hotel-conference-center/",
+    "https://visitsebring.com/breweries-and-bars/",
+    "https://visitsebring.com/blog/celebrations-for-every-season-in-sebring-fl/",
+    "https://visitsebring.com/blog/adventure-at-any-speed/",
+    "https://visitsebring.com/blog/a-race-through-history/",
+    "https://visitsebring.com/blog/5-most-instagrammable-places-sebring/",
+    "https://visitsebring.com/blog/racing-spirit-native-sebring/",
+    "https://visitsebring.com/blog/fall-winter-events-sebring/",
+    "https://visitsebring.com/partners/museum-of-florida-art-culture/",
+    "https://visitsebring.com/partners/wild-turkey-tavern/",
+    "https://visitsebring.com/partners/eighteen-east-a-restaurant-bar/",
+    "https://visitsebring.com/partners/maxwell-groves/",
+    "https://visitsebring.com/blog/places-to-celebrate-new-years-eve-in-sebring/",
+    "https://visitsebring.com/blog/experience-2023-holiday-events-and-celebrations-in-sebring-fl/",
+    "https://visitsebring.com/blog/modern-day-mayberrry/",
+    "https://visitsebring.com/blog/2022-holiday-events-and-celebrations-in-the-sebring-area/",
+    "https://visitsebring.com/blog/top-10-things-avon-park/",
+    "https://visitsebring.com/blog/top-sebring-bike-trails/",
+    "https://visitsebring.com/event/avon-park-farmers-market/",
+    "https://visitsebring.com/event/an-afternoon-in-autumn/",
+    "https://visitsebring.com/event/california-toe-jam-band/",
+    "https://visitsebring.com/event/camp-wingmann-fall-family-festival/",
+    "https://visitsebring.com/partners/lake-june-pontoons-watersports-rental/",
+    "https://visitsebring.com/partners/archbold-biological-station-in-venus/",
+    "https://visitsebring.com/event/annual-caladium-festival/",
+    "https://visitsebring.com/blog/family-events-sebring-summer/",
+    "https://visitsebring.com/event/barktoberfest/",
+    "https://visitsebring.com/event/lake-placid-limited-sugar-express-steam-engine-ride-to-lake-placid/",
+    "https://visitsebring.com/event/gfny-cycling/",
+    "https://visitsebring.com/event/central-florida-spartan-trifecta-weekend/",
+    "https://visitsebring.com/blog/fishing-camps-sebring-fl/",
+    "https://visitsebring.com/event/the-cottage-market-of-sebring/",
+    "https://visitsebring.com/event/oktoberfest-at-turn-2-brewery/",
+    "https://visitsebring.com/event/visit-sebring-classic/",
+    "https://visitsebring.com/event/light-the-circle-pink/",
+    "https://visitsebring.com/things-to-do/sebring-international-raceway/events/",
+    "https://visitsebring.com/things-to-do/sebring-international-raceway/history/"
+  ],
+  "candidates": [
+    "https://visitsebring.com/contact/",
+    "https://visitsebring.com/about/",
+    "https://visitsebring.com/blog/2022-holiday-events-and-celebrations-in-the-sebring-area/",
+    "https://visitsebring.com/blog/celebrate-halloween-and-fall-in-sebring-events-you-wont-want-to-miss/",
+    "https://visitsebring.com/blog/experience-2023-holiday-events-and-celebrations-in-sebring-fl/",
+    "https://visitsebring.com/blog/fall-winter-events-sebring/",
+    "https://visitsebring.com/blog/family-events-sebring-summer/",
+    "https://visitsebring.com/blog/5-most-instagrammable-places-sebring/",
+    "https://visitsebring.com/blog/a-race-through-history/",
+    "https://visitsebring.com/blog/adventure-at-any-speed/",
+    "https://visitsebring.com/blog/celebrations-for-every-season-in-sebring-fl/",
+    "https://visitsebring.com/blog/counting-birds-tracking-change-reflections-from-the-2024-christmas-bird-count/",
+    "https://visitsebring.com/blog/enjoy-an-adult-only-getaway-to-the-sebring-area/",
+    "https://visitsebring.com/blog/fishing-camps-sebring-fl/",
+    "https://visitsebring.com/blog/floridas-freshwater-getaway-the-best-beaches-in-the-sebring-area/",
+    "https://visitsebring.com/blog/kick-off-summer-at-the-2025-caladium-festival-in-lake-placid-fl/",
+    "https://visitsebring.com/blog/modern-day-mayberrry/",
+    "https://visitsebring.com/blog/places-to-celebrate-new-years-eve-in-sebring/",
+    "https://visitsebring.com/blog/racing-spirit-native-sebring/",
+    "https://visitsebring.com/blog/sebring-soda-festival-2025/",
+    "https://visitsebring.com/blog/top-10-things-avon-park/",
+    "https://visitsebring.com/blog/top-10-things-to-do-in-the-sebring-area/",
+    "https://visitsebring.com/blog/top-sebring-bike-trails/",
+    "https://visitsebring.com/blog/your-next-great-catch-awaits-fish-camps-in-sebring-florida/",
+    "https://visitsebring.com/events/",
+    "https://visitsebring.com/events/annual-events/",
+    "https://visitsebring.com/events/events-this-week/",
+    "https://visitsebring.com/things-to-do/sebring-international-raceway/events/",
+    "https://visitsebring.com/event/an-afternoon-in-autumn/",
+    "https://visitsebring.com/event/annual-caladium-festival/",
+    "https://visitsebring.com/event/avon-park-farmers-market/",
+    "https://visitsebring.com/event/barktoberfest/",
+    "https://visitsebring.com/event/california-toe-jam-band/",
+    "https://visitsebring.com/event/camp-wingmann-fall-family-festival/",
+    "https://visitsebring.com/event/central-florida-spartan-trifecta-weekend/",
+    "https://visitsebring.com/event/gfny-cycling/",
+    "https://visitsebring.com/event/lake-placid-limited-sugar-express-steam-engine-ride-to-lake-placid/",
+    "https://visitsebring.com/event/light-the-circle-pink/",
+    "https://visitsebring.com/event/oktoberfest-at-turn-2-brewery/",
+    "https://visitsebring.com/event/the-cottage-market-of-sebring/",
+    "https://visitsebring.com/event/visit-sebring-classic/",
+    "https://visitsebring.com/plan-your-visit/faq/",
+    "https://visitsebring.com/things-to-do/sebring-international-raceway/news/",
+    "https://visitsebring.com/",
+    "https://visitsebring.com/contact",
+    "https://visitsebring.com/contact-us",
+    "https://visitsebring.com/contact-us/",
+    "https://visitsebring.com/contactus",
+    "https://visitsebring.com/contactus/",
+    "https://visitsebring.com/about",
+    "https://visitsebring.com/about-us",
+    "https://visitsebring.com/about-us/",
+    "https://visitsebring.com/visit",
+    "https://visitsebring.com/visit/",
+    "https://visitsebring.com/location",
+    "https://visitsebring.com/location/",
+    "https://visitsebring.com/directions",
+    "https://visitsebring.com/directions/"
+  ],
+  "per_page": {
+    "https://visitsebring.com/contact/": {
+      "title": "Contact Visit Sebring | Official Visitor Information",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@visitsebring.com"
+      ],
+      "phones": [
+        "(800) 545-6021"
+      ],
+      "socials": [
+        "https://www.facebook.com/VisitSebring/",
+        "https://www.instagram.com/visitsebring/",
+        "https://www.youtube.com/c/visitsebring/"
+      ]
+    },
+    "https://visitsebring.com/about/": {
+      "title": "About Visit Sebring | Visit Sebring",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/about/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/VisitSebring/",
+        "https://www.instagram.com/visitsebring/",
+        "https://www.youtube.com/c/visitsebring/"
+      ]
+    },
+    "https://visitsebring.com/blog/2022-holiday-events-and-celebrations-in-the-sebring-area/": {
+      "title": "Holiday Events & Celebrations | Visit Sebring, FL",
+      "band_hits": {
+        "event": {
+          "total": 19,
+          "zones": {
+            "title": 1,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/2022-holiday-events-and-celebrations-in-the-sebring-area/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/2022-holiday-events-and-celebrations-in-the-sebring-area/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/2022-holiday-events-and-celebrations-in-the-sebring-area/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/2022-holiday-events-and-celebrations-in-the-sebring-area/"
+          ]
+        },
+        "bands": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/2022-holiday-events-and-celebrations-in-the-sebring-area/"
+          ]
+        }
+      },
+      "emails": [
+        "casey@visitsebring.com"
+      ],
+      "phones": [
+        "(863) 453-3133"
+      ],
+      "socials": [
+        "https://www.facebook.com/VisitSebring/",
+        "https://www.instagram.com/visitsebring/",
+        "https://www.youtube.com/c/visitsebring/"
+      ]
+    },
+    "https://visitsebring.com/blog/celebrate-halloween-and-fall-in-sebring-events-you-wont-want-to-miss/": {
+      "title": "Sebring Fall & Halloween Events: Family Fun & Festivities",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/celebrate-halloween-and-fall-in-sebring-events-you-wont-want-to-miss/"
+          ]
+        },
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/celebrate-halloween-and-fall-in-sebring-events-you-wont-want-to-miss/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/celebrate-halloween-and-fall-in-sebring-events-you-wont-want-to-miss/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/VisitSebring/",
+        "https://www.instagram.com/visitsebring/",
+        "https://www.youtube.com/c/visitsebring/"
+      ]
+    },
+    "https://visitsebring.com/blog/experience-2023-holiday-events-and-celebrations-in-sebring-fl/": {
+      "title": "Festive Fun: 2023 Holiday Events in Sebring, FL",
+      "band_hits": {
+        "event": {
+          "total": 18,
+          "zones": {
+            "title": 1,
+            "body": 17,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/experience-2023-holiday-events-and-celebrations-in-sebring-fl/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/experience-2023-holiday-events-and-celebrations-in-sebring-fl/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/experience-2023-holiday-events-and-celebrations-in-sebring-fl/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/experience-2023-holiday-events-and-celebrations-in-sebring-fl/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/experience-2023-holiday-events-and-celebrations-in-sebring-fl/"
+          ]
+        },
+        "bands": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/experience-2023-holiday-events-and-celebrations-in-sebring-fl/"
+          ]
+        }
+      },
+      "emails": [
+        "casey@visitsebring.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/VisitSebring/",
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/visitsebring/",
+        "https://www.youtube.com/c/visitsebring/"
+      ]
+    },
+    "https://visitsebring.com/blog/fall-winter-events-sebring/": {
+      "title": "Fall & Winter Events, Happenings and Sports | Visit Sebring",
+      "band_hits": {
+        "event": {
+          "total": 23,
+          "zones": {
+            "title": 1,
+            "body": 22,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/fall-winter-events-sebring/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/fall-winter-events-sebring/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/VisitSebring/",
+        "https://www.instagram.com/visitsebring/",
+        "https://www.youtube.com/c/visitsebring/"
+      ]
+    },
+    "https://visitsebring.com/blog/family-events-sebring-summer/": {
+      "title": "Summer Family Adventures in Sebring, FL | Visit Sebring",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/family-events-sebring-summer/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/family-events-sebring-summer/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/family-events-sebring-summer/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/VisitSebring/",
+        "https://www.instagram.com/visitsebring/",
+        "https://www.youtube.com/c/visitsebring/"
+      ]
+    },
+    "https://visitsebring.com/blog/5-most-instagrammable-places-sebring/": {
+      "title": "The 5 Most Instagrammable Places in Sebring | Visit Sebring",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/5-most-instagrammable-places-sebring/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/5-most-instagrammable-places-sebring/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/VisitSebring/",
+        "https://www.instagram.com/visitsebring/",
+        "https://www.youtube.com/c/visitsebring/"
+      ]
+    },
+    "https://visitsebring.com/blog/a-race-through-history/": {
+      "title": "Race Through History: Sebring International Raceway's Legacy",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/a-race-through-history/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/a-race-through-history/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visitsebring.com/blog/a-race-through-history/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/VisitSebring/",
+        "https://www.instagram.com/visitsebring/",
+        "https://www.youtube.com/c/visitsebring/"
+      ]
+    }
+  }
+}

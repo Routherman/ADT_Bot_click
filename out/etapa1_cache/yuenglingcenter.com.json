@@ -1,0 +1,4912 @@
+{
+  "site_url": "https://yuenglingcenter.com/",
+  "domain": "yuenglingcenter.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://yuenglingcenter.com/",
+    "https://yuenglingcenter.com/events",
+    "https://www.yuenglingcenter.com/events",
+    "https://www.yuenglingcenter.com/events/events-calendar",
+    "https://www.yuenglingcenter.com/events/ticket-information",
+    "https://www.yuenglingcenter.com/teams/detail/usf-mens-basketball",
+    "https://www.yuenglingcenter.com/teams/detail/usf-womens-basketball",
+    "https://www.yuenglingcenter.com/teams/detail/usf-volleyball",
+    "https://www.yuenglingcenter.com/events/seating-charts",
+    "https://www.yuenglingcenter.com/venue-information",
+    "https://www.yuenglingcenter.com/venue-information/about",
+    "https://www.yuenglingcenter.com/venue-information/a-z-faq",
+    "https://www.yuenglingcenter.com/venue-information/ada-accessibility",
+    "https://www.yuenglingcenter.com/connect/contact-us",
+    "https://www.yuenglingcenter.com/connect/booking",
+    "https://www.yuenglingcenter.com/events/detail/lornashore-2025",
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-east-carolina-2025",
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-north-texas-2025",
+    "https://www.yuenglingcenter.com/events/detail/crowder-2025",
+    "https://www.yuenglingcenter.com/events/detail/doechii-2025",
+    "https://www.yuenglingcenter.com/events/detail/renee-2025",
+    "https://www.yuenglingcenter.com/events/detail/kodak-black-2025",
+    "https://www.yuenglingcenter.com/events/detail/josiah-2025",
+    "https://www.yuenglingcenter.com/events/detail/victor-2025",
+    "https://www.yuenglingcenter.com/events/detail/sabaton-2025",
+    "https://yuenglingcenter.com/accessibility",
+    "https://yuenglingcenter.com/search",
+    "https://www.yuenglingcenter.com/plan-your-visit",
+    "https://www.yuenglingcenter.com/plan-your-visit/directions-transportation",
+    "https://www.yuenglingcenter.com/plan-your-visit/parking",
+    "https://www.yuenglingcenter.com/plan-your-visit/hotels",
+    "https://www.yuenglingcenter.com/plan-your-visit/fansafetyguidelines",
+    "https://www.yuenglingcenter.com/premium-experiences",
+    "https://www.yuenglingcenter.com/premium-experiences/loge-suites",
+    "https://www.yuenglingcenter.com/premium-experiences/club-seats",
+    "https://www.yuenglingcenter.com/news",
+    "https://www.yuenglingcenter.com/connect",
+    "https://www.yuenglingcenter.com/connect/media-credentials",
+    "https://www.yuenglingcenter.com/connect/newsletter-signup",
+    "https://www.yuenglingcenter.com/accessibility",
+    "https://www.yuenglingcenter.com/sitemap",
+    "https://www.yuenglingcenter.com/terms-conditions",
+    "https://www.yuenglingcenter.com/privacy-policy",
+    "https://www.yuenglingcenter.com/events/detail/unitedus",
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-charlotte-2025",
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-temple-2025",
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-saintleo2025",
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-tulsa-2025",
+    "https://www.yuenglingcenter.com/",
+    "https://www.yuenglingcenter.com/search",
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-flam2025",
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-coppin2025",
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-georgia2025",
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-utah2025",
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-charleston2025",
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-umbc2025",
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-fiu-2026",
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-liu-2025",
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-duke-2025",
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-neworleans-2025",
+    "https://www.yuenglingcenter.com/events/detail/wbasketball-uconn-2025",
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-houston-christian-2025",
+    "https://www.yuenglingcenter.com/events/detail/wbasketball-south-carolina-2025",
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-navy-2025",
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-witchita-state-2025",
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-utsa-2025"
+  ],
+  "candidates": [
+    "https://www.yuenglingcenter.com/connect/contact-us",
+    "https://www.yuenglingcenter.com/venue-information/about",
+    "https://www.yuenglingcenter.com/events",
+    "https://www.yuenglingcenter.com/events/detail/crowder-2025",
+    "https://www.yuenglingcenter.com/events/detail/doechii-2025",
+    "https://www.yuenglingcenter.com/events/detail/josiah-2025",
+    "https://www.yuenglingcenter.com/events/detail/kodak-black-2025",
+    "https://www.yuenglingcenter.com/events/detail/lornashore-2025",
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-charleston2025",
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-coppin2025",
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-flam2025",
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-georgia2025",
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-saintleo2025",
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-umbc2025",
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-utah2025",
+    "https://www.yuenglingcenter.com/events/detail/renee-2025",
+    "https://www.yuenglingcenter.com/events/detail/sabaton-2025",
+    "https://www.yuenglingcenter.com/events/detail/unitedus",
+    "https://www.yuenglingcenter.com/events/detail/victor-2025",
+    "https://www.yuenglingcenter.com/events/detail/wbasketball-south-carolina-2025",
+    "https://www.yuenglingcenter.com/events/detail/wbasketball-uconn-2025",
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-duke-2025",
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-fiu-2026",
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-houston-christian-2025",
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-liu-2025",
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-navy-2025",
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-neworleans-2025",
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-charlotte-2025",
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-east-carolina-2025",
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-north-texas-2025",
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-temple-2025",
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-tulsa-2025",
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-utsa-2025",
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-witchita-state-2025",
+    "https://www.yuenglingcenter.com/events/events-calendar",
+    "https://www.yuenglingcenter.com/events/seating-charts",
+    "https://www.yuenglingcenter.com/events/ticket-information",
+    "https://yuenglingcenter.com/events",
+    "https://www.yuenglingcenter.com/teams/detail/usf-mens-basketball",
+    "https://www.yuenglingcenter.com/teams/detail/usf-volleyball",
+    "https://www.yuenglingcenter.com/teams/detail/usf-womens-basketball",
+    "https://www.yuenglingcenter.com/connect/booking",
+    "https://www.yuenglingcenter.com/venue-information",
+    "https://www.yuenglingcenter.com/venue-information/a-z-faq",
+    "https://www.yuenglingcenter.com/venue-information/ada-accessibility",
+    "https://yuenglingcenter.com/",
+    "https://yuenglingcenter.com/contact",
+    "https://yuenglingcenter.com/contact/",
+    "https://yuenglingcenter.com/contact-us",
+    "https://yuenglingcenter.com/contact-us/",
+    "https://yuenglingcenter.com/contactus",
+    "https://yuenglingcenter.com/contactus/",
+    "https://yuenglingcenter.com/about",
+    "https://yuenglingcenter.com/about/",
+    "https://yuenglingcenter.com/about-us",
+    "https://yuenglingcenter.com/about-us/",
+    "https://yuenglingcenter.com/visit",
+    "https://yuenglingcenter.com/visit/",
+    "https://yuenglingcenter.com/location",
+    "https://yuenglingcenter.com/location/",
+    "https://yuenglingcenter.com/directions",
+    "https://yuenglingcenter.com/directions/"
+  ],
+  "per_page": {
+    "https://www.yuenglingcenter.com/connect/contact-us": {
+      "title": "Contact Us | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/connect/contact-us"
+          ]
+        },
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/connect/contact-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/connect/contact-us"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/connect/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/connect/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813-301-2500",
+        "813-301-6500",
+        "813-301-6502",
+        "813-301-6700",
+        "813-301-6900",
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/venue-information/about": {
+      "title": "About | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information/about"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information/about"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information/about"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information/about"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events": {
+      "title": "Events | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events"
+          ]
+        },
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/crowder-2025": {
+      "title": "Crowder | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/crowder-2025"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/crowder-2025"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/crowder-2025"
+          ]
+        },
+        "gig": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/crowder-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/crowder-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/crowder-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/doechii-2025": {
+      "title": "Doechii | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/doechii-2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/doechii-2025"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/doechii-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/doechii-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/doechii-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/josiah-2025": {
+      "title": "Josiah Queen | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/josiah-2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/josiah-2025"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/josiah-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/josiah-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/josiah-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/kodak-black-2025": {
+      "title": "Kodak Black | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/kodak-black-2025"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/kodak-black-2025"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/kodak-black-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/kodak-black-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/kodak-black-2025"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/kodak-black-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/lornashore-2025": {
+      "title": "Lorna Shore  | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/lornashore-2025"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/lornashore-2025"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/lornashore-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/lornashore-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/lornashore-2025"
+          ]
+        },
+        "bands": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/lornashore-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-charleston2025": {
+      "title": "USF Men's Basketball vs. College of Charleston | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-charleston2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-charleston2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-charleston2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-charleston2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-charleston2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-coppin2025": {
+      "title": "USF Men's Basketball vs. Coppin State | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-coppin2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-coppin2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-coppin2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-coppin2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-coppin2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-flam2025": {
+      "title": "USF Men's Basketball vs. Florida A&M | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-flam2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-flam2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-flam2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-flam2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-flam2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-georgia2025": {
+      "title": "USF Men's Basketball vs. Georgia College & State | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-georgia2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-georgia2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-georgia2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-georgia2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-georgia2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-saintleo2025": {
+      "title": "USF Men's Basketball vs. Saint Leo | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-saintleo2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-saintleo2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-saintleo2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-saintleo2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-saintleo2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-umbc2025": {
+      "title": "USF Men's Basketball vs. UMBC | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-umbc2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-umbc2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-umbc2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-umbc2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-umbc2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/mbasketball-utah2025": {
+      "title": "USF Men's Basketball vs. Utah State | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-utah2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-utah2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-utah2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-utah2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/mbasketball-utah2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/renee-2025": {
+      "title": "Reneé Rapp | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/renee-2025"
+          ]
+        },
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/renee-2025"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/renee-2025"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/renee-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/renee-2025"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/renee-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/renee-2025"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/renee-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/sabaton-2025": {
+      "title": "Sabaton: Legends on Tour | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/sabaton-2025"
+          ]
+        },
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/sabaton-2025"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/sabaton-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/sabaton-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/sabaton-2025"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/sabaton-2025"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/sabaton-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/unitedus": {
+      "title": "UniteUS | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/unitedus"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/unitedus"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/unitedus"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/unitedus"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/unitedus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/victor-2025": {
+      "title": "Victor Manuelle  | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/victor-2025"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/victor-2025"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/victor-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/victor-2025"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/victor-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/victor-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/wbasketball-south-carolina-2025": {
+      "title": "USF Women's Basketball vs. South Carolina | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wbasketball-south-carolina-2025"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wbasketball-south-carolina-2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wbasketball-south-carolina-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wbasketball-south-carolina-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wbasketball-south-carolina-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/wbasketball-uconn-2025": {
+      "title": "USF Women's Basketball vs. UConn | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wbasketball-uconn-2025"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wbasketball-uconn-2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wbasketball-uconn-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wbasketball-uconn-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wbasketball-uconn-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-duke-2025": {
+      "title": "USF Women's Basketball vs. Duke | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-duke-2025"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-duke-2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-duke-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-duke-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-duke-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-fiu-2026": {
+      "title": "USF Women's Basketball vs. FIU | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-fiu-2026"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-fiu-2026"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-fiu-2026"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-fiu-2026"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-fiu-2026"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-houston-christian-2025": {
+      "title": "USF Women's Basketball vs. Houston Christian | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-houston-christian-2025"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-houston-christian-2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-houston-christian-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-houston-christian-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-houston-christian-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-liu-2025": {
+      "title": "USF Women's Basketball vs. LIU | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-liu-2025"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-liu-2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-liu-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-liu-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-liu-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-navy-2025": {
+      "title": "USF Women's Basketball vs. Navy | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-navy-2025"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-navy-2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-navy-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-navy-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-navy-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/womens-basketball-neworleans-2025": {
+      "title": "USF Women's Basketball vs. New Orleans | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-neworleans-2025"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-neworleans-2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-neworleans-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-neworleans-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/womens-basketball-neworleans-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-charlotte-2025": {
+      "title": "USF Volleyball vs. Charlotte | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-charlotte-2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-charlotte-2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-charlotte-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-charlotte-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-charlotte-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-east-carolina-2025": {
+      "title": "USF Volleyball vs. East Carolina | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-east-carolina-2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-east-carolina-2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-east-carolina-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-east-carolina-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-east-carolina-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-north-texas-2025": {
+      "title": "USF Volleyball vs. North Texas | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-north-texas-2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-north-texas-2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-north-texas-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-north-texas-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-north-texas-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-temple-2025": {
+      "title": "USF Volleyball vs. Temple | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-temple-2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-temple-2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-temple-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-temple-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-temple-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-tulsa-2025": {
+      "title": "USF Volleyball vs. Tulsa | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-tulsa-2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-tulsa-2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-tulsa-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-tulsa-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-tulsa-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-utsa-2025": {
+      "title": "USF Volleyball vs. UTSA | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-utsa-2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-utsa-2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-utsa-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-utsa-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-utsa-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/detail/wvb-vs-witchita-state-2025": {
+      "title": "USF Volleyball vs. Witchita State | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-witchita-state-2025"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-witchita-state-2025"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-witchita-state-2025"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-witchita-state-2025"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/detail/wvb-vs-witchita-state-2025"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/events-calendar": {
+      "title": "Events Calendar | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/events-calendar"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 1,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/events-calendar"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/events-calendar"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/events-calendar"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/events-calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/seating-charts": {
+      "title": "Seating Charts | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/seating-charts"
+          ]
+        },
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/seating-charts"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/seating-charts"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/seating-charts"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/seating-charts"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/events/ticket-information": {
+      "title": "Ticket Information | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/ticket-information"
+          ]
+        },
+        "event": {
+          "total": 16,
+          "zones": {
+            "title": 0,
+            "body": 16,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/ticket-information"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/ticket-information"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/ticket-information"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/ticket-information"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/events/ticket-information"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(813) 301-6900",
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/events": {
+      "title": "Events | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/events"
+          ]
+        },
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/events"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/events"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/events"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/teams/detail/usf-mens-basketball": {
+      "title": "USF Men's Basketball | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/teams/detail/usf-mens-basketball"
+          ]
+        },
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/teams/detail/usf-mens-basketball"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/teams/detail/usf-mens-basketball"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/teams/detail/usf-mens-basketball"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/teams/detail/usf-mens-basketball"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/teams/detail/usf-volleyball": {
+      "title": "USF Volleyball | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/teams/detail/usf-volleyball"
+          ]
+        },
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/teams/detail/usf-volleyball"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/teams/detail/usf-volleyball"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/teams/detail/usf-volleyball"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/teams/detail/usf-volleyball"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/teams/detail/usf-womens-basketball": {
+      "title": "USF Women's Basketball | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/teams/detail/usf-womens-basketball"
+          ]
+        },
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/teams/detail/usf-womens-basketball"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/teams/detail/usf-womens-basketball"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/teams/detail/usf-womens-basketball"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/teams/detail/usf-womens-basketball"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/connect/booking": {
+      "title": "Booking | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/connect/booking"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/connect/booking"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/connect/booking"
+          ]
+        },
+        "booking": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/connect/booking"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/connect/booking"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/venue-information": {
+      "title": "Venue Information | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/venue-information/a-z-faq": {
+      "title": "Arena Guide | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information/a-z-faq"
+          ]
+        },
+        "event": {
+          "total": 32,
+          "zones": {
+            "title": 0,
+            "body": 32,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information/a-z-faq"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information/a-z-faq"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information/a-z-faq"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information/a-z-faq"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500",
+        "813.301.6502"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://www.yuenglingcenter.com/venue-information/ada-accessibility": {
+      "title": "ADA/Accessibility | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information/ada-accessibility"
+          ]
+        },
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 0,
+            "body": 15,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information/ada-accessibility"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information/ada-accessibility"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information/ada-accessibility"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.yuenglingcenter.com/venue-information/ada-accessibility"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(813) 974-3111",
+        "813) 301-6797",
+        "813.301.2500",
+        "813.301.6500",
+        "813.301.6700"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/": {
+      "title": "Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/"
+          ]
+        },
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/contact": {
+      "title": "Page Not Found | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/contact/": {
+      "title": "Page Not Found | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact/"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/contact-us": {
+      "title": "Contact Us | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact-us"
+          ]
+        },
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact-us"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813-301-2500",
+        "813-301-6500",
+        "813-301-6502",
+        "813-301-6700",
+        "813-301-6900",
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/contact-us/": {
+      "title": "Contact Us | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact-us/"
+          ]
+        },
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact-us/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813-301-2500",
+        "813-301-6500",
+        "813-301-6502",
+        "813-301-6700",
+        "813-301-6900",
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/contactus": {
+      "title": "Page Not Found | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contactus"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contactus"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contactus"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/contactus/": {
+      "title": "Page Not Found | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contactus/"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contactus/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contactus/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/about": {
+      "title": "About | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/about/": {
+      "title": "About | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about/"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about/"
+          ]
+        },
+        "booking": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/about-us": {
+      "title": "Page Not Found | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about-us"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about-us"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/about-us/": {
+      "title": "Page Not Found | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about-us/"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about-us/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/visit": {
+      "title": "Page Not Found | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/visit"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/visit"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/visit"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/visit"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/visit/": {
+      "title": "Page Not Found | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/visit/"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/visit/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/visit/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/location": {
+      "title": "Page Not Found | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/location"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/location"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/location"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/location"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/location/": {
+      "title": "Page Not Found | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/location/"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/location/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/location/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/location/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/directions": {
+      "title": "Page Not Found | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/directions"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/directions"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/directions"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/directions"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    },
+    "https://yuenglingcenter.com/directions/": {
+      "title": "Page Not Found | Yuengling Center",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/directions/"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/directions/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/directions/"
+          ]
+        },
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://yuenglingcenter.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.301.2500",
+        "813.301.6500"
+      ],
+      "socials": [
+        "https://www.facebook.com/yuenglingcenter",
+        "https://www.instagram.com/yuenglingcenter"
+      ]
+    }
+  }
+}

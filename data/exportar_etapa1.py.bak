@@ -1,0 +1,276 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+import os
+import re
+import json
+import pandas as pd
+from datetime import datetime
+from typing import List, Dict, Any, Set
+from statistics import mode, mean
+from pathlib import Path
+
+def clean_email(email: str) -> str:
+    """Limpia y normaliza un email."""
+    # Quitar prefijos %20 o 20
+    email = email.strip()
+    while email.lower().startswith(("%20", "20")):
+        email = email[2:] if email.startswith("20") else email[3:]
+        email = email.strip()
+    
+    # Quitar cualquier texto antes de @ que contenga ... o que no sea alfanumérico/_/./-/+
+    if "@" in email:
+        local, domain = email.split("@", 1)
+        if "..." in local:
+            local = local.split("...")[-1]
+        # Solo permitir caracteres válidos en la parte local
+        local = re.sub(r'[^a-zA-Z0-9._+-]', '', local)
+        email = f"{local}@{domain}"
+    
+    return email.lower()
+
+def is_valid_email(email: str) -> bool:
+    """Verifica si un email tiene formato válido."""
+    pattern = r'^[a-zA-Z0-9._+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
+    return bool(re.match(pattern, email))
+
+def get_valid_unique_emails(emails_data: List[Dict[str, Any]]) -> str:
+    """Extrae emails válidos y únicos de la lista de emails."""
+    valid_emails = set()
+    
+    for email_item in emails_data:
+        email = clean_email(email_item.get('value', ''))
+        if email and is_valid_email(email):
+            valid_emails.add(email)
+    
+    return ','.join(sorted(valid_emails))
+
+def calculate_score_stats(scores: List[float]) -> Dict[str, float]:
+    """Calcula estadísticas de scores."""
+    if not scores:
+        return {
+            "promedio": 0,
+            "moda": 0,
+            "maximo": 0,
+            "minimo": 0
+        }
+    
+    # Filtrar scores válidos y convertir a float
+    valid_scores = [float(s) for s in scores if s is not None]
+    if not valid_scores:
+        return {
+            "promedio": 0,
+            "moda": 0,
+            "maximo": 0,
+            "minimo": 0
+        }
+    
+    try:
+        score_mode = mode(valid_scores)
+    except:
+        score_mode = valid_scores[0]  # Si no hay moda, usar el primer valor
+    
+    return {
+        "promedio": mean(valid_scores),
+        "moda": score_mode,
+        "maximo": max(valid_scores),
+        "minimo": min(valid_scores)
+    }
+
+def export_etapa1(etapa1_path: str, output_path: str):
+    """
+    Exporta los datos de etapa1 a Excel y JSON con estadísticas.
+    
+    Args:
+        etapa1_path: Ruta al archivo etapa1_v1.json
+        output_path: Ruta donde guardar las exportaciones
+    """
+    # Asegurar que existe el directorio de salida
+    Path(output_path).mkdir(parents=True, exist_ok=True)
+    
+    # Obtener el mínimo score desde variables de entorno
+    MIN_SCORE = float(os.getenv('SCRORE_MIN_EXPORT_STAGE1', '5.0'))
+    
+    print(f"\nCargando datos desde: {etapa1_path}")
+    # Cargar datos de etapa1
+    with open(etapa1_path, 'r', encoding='utf-8') as f:
+        data = json.load(f).get('sites', [])
+    print(f"Datos cargados: {len(data)} registros")
+    
+    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+    excel_filename = f'exportacion_etapa1_{timestamp}.xlsx'
+    json_filename = f'exportacion_etapa1_{timestamp}.json'
+    
+    # Preparar estadísticas
+    print("\nPreparando estadísticas...")
+    total_records = len(data)
+    valid_florida = [item for item in data if item.get('florida_ok', False)]
+    valid_florida_count = len(valid_florida)
+    print(f"Registros válidos de Florida: {valid_florida_count}")
+    
+    # Conteos y estadísticas
+    failed_acquisition = len([item for item in valid_florida if not item.get('band', {}).get('score')])
+    scores = [item.get('band', {}).get('score', 0) for item in valid_florida]
+    score_stats = calculate_score_stats(scores)
+    print("Estadísticas de scores calculadas")
+    
+    # Contar emails válidos únicos
+    sites_with_valid_emails = 0
+    sites_without_emails = 0
+    total_valid_emails = 0
+    
+    for item in valid_florida:
+        valid_emails = set()
+        for email_item in item.get('emails', []):
+            email = clean_email(email_item.get('value', ''))
+            if email and is_valid_email(email):
+                valid_emails.add(email)
+        
+        if valid_emails:
+            sites_with_valid_emails += 1
+            total_valid_emails += len(valid_emails)
+        else:
+            sites_without_emails += 1
+    
+    # Crear resumen
+    summary = {
+        "Total registros": total_records,
+        "Registros válidos Florida": valid_florida_count,
+        "Fallaron adquisición": failed_acquisition,
+        "Sin emails válidos": sites_without_emails,
+        "Con emails válidos": sites_with_valid_emails,
+        "Total emails válidos": total_valid_emails,
+        "Score promedio": score_stats["promedio"],
+        "Score moda": score_stats["moda"],
+        "Score máximo": score_stats["maximo"],
+        "Score mínimo": score_stats["minimo"]
+    }
+    
+def normalize_social_url(url):
+    """Normaliza una URL de red social."""
+    url = url.lower().strip()
+    if not url:
+        return ''
+    # Eliminar parámetros y fragmentos
+    url = url.split('?')[0].split('#')[0]
+    # Normalizar prefijo
+    if url.startswith('http://'):
+        url = 'https://' + url[7:]
+    elif not url.startswith('https://'):
+        url = 'https://' + url
+    # Normalizar www
+    if url.startswith('https://www.'):
+        url = 'https://' + url[12:]
+    return url
+
+def get_unique_socials(socials):
+    """Obtiene URLs únicas de redes sociales agrupadas por plataforma."""
+    urls_seen = set()
+    unique_urls = []
+    
+    for s in socials:
+        url = s.get('url', '')
+        if not url or '.php' in url or '/watch' in url or '/verify' in url:
+            continue
+            
+        normalized = normalize_social_url(url)
+        if not normalized or normalized in urls_seen:
+            continue
+            
+        urls_seen.add(normalized)
+        unique_urls.append(normalized)
+    
+    return ','.join(sorted(unique_urls))
+
+def extract_source_data(source):
+    """Extrae datos del diccionario source_csv."""
+    if not source:
+        return '', '', ''
+        
+    source_row = source.get('row', {})
+    if not source_row:
+        return '', source.get('rubro', ''), ''
+        
+    # Intentar diferentes variantes de nombre
+    nombre = source_row.get('Nombre', '') or source_row.get('Name', '')
+    
+    # Intentar diferentes variantes de URL
+    web = (source_row.get('Sitio Web') or 
+           source_row.get('Website') or 
+           source_row.get('URL') or 
+           source_row.get('url') or '')
+    
+    return nombre.strip(), source.get('rubro', ''), web.strip()
+
+    print("\nCreando registros para exportación...")
+    # Crear DataFrame para hoja 2
+    records = []
+    valid_count = 0
+    for item in valid_florida:
+        if item.get('band', {}).get('score', 0) >= MIN_SCORE:
+            valid_count += 1
+            source = item.get('source_csv', {})
+            nombre, venue, web = extract_source_data(source)
+            
+            record = {
+                'Nombre': nombre,
+                'Venue': venue,
+                'WEB': web,
+                'puntaje_web': item.get('band', {}).get('score', 0),
+                'emails_Web': get_valid_unique_emails(item.get('emails', [])),
+                'socials': get_unique_socials(item.get('socials', [])),
+                'Direccion_Completa': (
+                    item.get('addresses', [{}])[0].get('value', '')
+                    if item.get('addresses')
+                    else source.get('Dirección', '')
+                )
+            }
+            records.append(record)
+    
+    # Crear Excel
+    try:
+        print(f"\nGuardando Excel en: {os.path.join(output_path, excel_filename)}")
+        with pd.ExcelWriter(os.path.join(output_path, excel_filename)) as writer:
+            # Hoja 1 - Resumen
+            pd.DataFrame([summary]).to_excel(writer, sheet_name='Resumen', index=False)
+            # Hoja 2 - Datos
+            pd.DataFrame(records).to_excel(writer, sheet_name='Datos', index=False)
+        
+        # Crear JSON
+        export_data = {
+            'summary': summary,
+            'data': records
+        }
+        
+        json_path = os.path.join(output_path, json_filename)
+        print(f"Guardando JSON en: {json_path}")
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(export_data, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        print(f"\nError al guardar archivos: {str(e)}")
+    
+    # Imprimir resumen en consola
+    print("\nResumen de exportación:")
+    print("-" * 40)
+    for key, value in summary.items():
+        if isinstance(value, float):
+            print(f"{key}: {value:.2f}")
+        else:
+            print(f"{key}: {value}")
+    
+    print("\nArchivos exportados:")
+    print(f"Excel: {excel_filename}")
+    print(f"JSON: {json_filename}")
+
+if __name__ == "__main__":
+    import argparse
+    
+    parser = argparse.ArgumentParser(description='Exportar datos de etapa1 a Excel y JSON')
+    parser.add_argument('--input', '-i', 
+                      default='out/etapa1_v1.json',
+                      help='Ruta al archivo etapa1_v1.json')
+    parser.add_argument('--output', '-o',
+                      default='out/exports',
+                      help='Carpeta donde guardar las exportaciones')
+    args = parser.parse_args()
+    
+    export_etapa1(args.input, args.output)

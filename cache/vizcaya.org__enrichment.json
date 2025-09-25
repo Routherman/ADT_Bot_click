@@ -1,0 +1,134 @@
+{
+  "timestamp": "2025-09-22T20:32:14.817893",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T20:32:11.018828",
+      "company": {
+        "name": null,
+        "domain": "vizcaya.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 9501026,
+          "description": "Vizcaya Museum and Gardens is a National Historic Landmark that preserves the Miami estate of agricultural industrialist James Deering. The museum is dedicated to preserving Vizcaya’s cultural and environmental resources to engage people in connecting with the past, understanding the present and shaping the future.",
+          "domain": "vizcaya.org",
+          "employees": "51 - 200",
+          "founded": "1916",
+          "fqdn": "www.vizcaya.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/a/6a/a6a3eb412d1ee01c9b4772a7965bc4bd",
+          "name": "Vizcaya Museum and Gardens",
+          "revenueRange": [
+            250000000,
+            500000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/vizcaya-museum-and-gardens"
+            }
+          },
+          "address": "Miami North America United States US 3251 South Miami Avenue; Miami, FL 33129, US Florida FL -80.19365692138672,25.774269104003906 ",
+          "location": {
+            "city": "Miami",
+            "country": "United States",
+            "fullLocation": "Miami North America United States US 3251 South Miami Avenue; Miami, FL 33129, US Florida FL -80.19365692138672,25.774269104003906 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3251 South Miami Avenue; Miami, FL 33129, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8412,
+                "description": "Museums and art galleries"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 712110,
+                "description": "Museums"
+              }
+            ]
+          },
+          "website": "https://vizcaya.org",
+          "specialities": [
+            "historic homes",
+            "horticulture",
+            "learning programs"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T20:32:12.295553",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T20:32:14.813190",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "site_url": "https://madisonfl.org/",
+  "domain": "madisonfl.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://madisonfl.org/",
+    "https://madisonfl.org/about/",
+    "https://business.madisonfl.org/directory",
+    "https://business.madisonfl.org/events",
+    "https://business.madisonfl.org/calendar",
+    "https://business.madisonfl.org/contact",
+    "https://madisonfl.org//",
+    "https://business.madisonfl.org/member-application",
+    "https://business.madisonfl.org/MIC/login",
+    "https://madisonfl.org/sponsors/",
+    "https://madisonfl.org/gallery/",
+    "https://madisonfl.org/author/brandon/",
+    "https://madisonfl.org/best-of-madison-awards/",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=%23",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=A",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=B",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=C",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=D",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=E",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=F",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=G",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=H",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=I",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=J",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=K",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=L",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=M",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=N",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=O",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=P",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=Q",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=R",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=S",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=T",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=U",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=V",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=W",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=X",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=Y",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=Z",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=%23%21",
+    "https://business.madisonfl.org/directory/Search/advertising-media-488003",
+    "https://business.madisonfl.org/directory/Search/advertising-media-488003?cid=488028",
+    "https://business.madisonfl.org/directory/Search/advertising-media-488003?cid=488029",
+    "https://business.madisonfl.org/directory/Search/advertising-media-488003?cid=488030",
+    "https://business.madisonfl.org/directory/Search/advertising-media-488003?cid=488032",
+    "https://business.madisonfl.org/directory/Search/agriculture-fishing-forestry-488004",
+    "https://business.madisonfl.org/directory/Search/agriculture-fishing-forestry-488004?cid=488034",
+    "https://business.madisonfl.org/directory/Search/arts-culture-entertainment-488005",
+    "https://business.madisonfl.org/directory/Search/arts-culture-entertainment-488005?cid=488039"
+  ],
+  "candidates": [
+    "https://business.madisonfl.org/contact",
+    "https://madisonfl.org/about/",
+    "https://business.madisonfl.org/calendar",
+    "https://business.madisonfl.org/events",
+    "https://business.madisonfl.org/directory",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=%23",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=%23%21",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=A",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=B",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=C",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=D",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=E",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=F",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=G",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=H",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=I",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=J",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=K",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=L",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=M",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=N",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=O",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=P",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=Q",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=R",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=S",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=T",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=U",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=V",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=W",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=X",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=Y",
+    "https://business.madisonfl.org/directory/FindStartsWith?term=Z",
+    "https://business.madisonfl.org/directory/Search/advertising-media-488003",
+    "https://business.madisonfl.org/directory/Search/advertising-media-488003?cid=488028",
+    "https://business.madisonfl.org/directory/Search/advertising-media-488003?cid=488029",
+    "https://business.madisonfl.org/directory/Search/advertising-media-488003?cid=488030",
+    "https://business.madisonfl.org/directory/Search/advertising-media-488003?cid=488032",
+    "https://business.madisonfl.org/directory/Search/agriculture-fishing-forestry-488004",
+    "https://business.madisonfl.org/directory/Search/agriculture-fishing-forestry-488004?cid=488034",
+    "https://business.madisonfl.org/directory/Search/arts-culture-entertainment-488005",
+    "https://business.madisonfl.org/directory/Search/arts-culture-entertainment-488005?cid=488039",
+    "https://madisonfl.org/",
+    "https://madisonfl.org//",
+    "https://madisonfl.org/contact",
+    "https://madisonfl.org/contact/",
+    "https://madisonfl.org/contact-us",
+    "https://madisonfl.org/contact-us/",
+    "https://madisonfl.org/contactus",
+    "https://madisonfl.org/contactus/",
+    "https://madisonfl.org/about",
+    "https://madisonfl.org/about-us",
+    "https://madisonfl.org/about-us/",
+    "https://madisonfl.org/visit",
+    "https://madisonfl.org/visit/",
+    "https://madisonfl.org/location",
+    "https://madisonfl.org/location/",
+    "https://madisonfl.org/directions",
+    "https://madisonfl.org/directions/"
+  ],
+  "per_page": {
+    "https://business.madisonfl.org/contact": {
+      "title": "Contact Us    – Madison County",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/contact"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "chamber@madisonfl.org"
+      ],
+      "phones": [
+        "(850) 973-2788",
+        "850-973-2788"
+      ],
+      "socials": [
+        "https://www.facebook.com/madisoncountyflchamber"
+      ]
+    },
+    "https://madisonfl.org/about/": {
+      "title": "About – Madison County",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://madisonfl.org/about/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://madisonfl.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-973-2788"
+      ],
+      "socials": [
+        "https://www.facebook.com/madisoncountyflchamber"
+      ]
+    },
+    "https://business.madisonfl.org/calendar": {
+      "title": "Calendar    – Madison County",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/calendar"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/calendar"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-973-2788"
+      ],
+      "socials": [
+        "https://www.facebook.com/madisoncountyflchamber"
+      ]
+    },
+    "https://business.madisonfl.org/events": {
+      "title": "Calendar    – Madison County",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/events"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/events"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-973-2788"
+      ],
+      "socials": [
+        "https://www.facebook.com/madisoncountyflchamber"
+      ]
+    },
+    "https://business.madisonfl.org/directory": {
+      "title": "Directories    – Madison County",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/directory"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/directory"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "850-973-2788"
+      ],
+      "socials": [
+        "https://www.facebook.com/madisoncountyflchamber"
+      ]
+    },
+    "https://business.madisonfl.org/directory/FindStartsWith?term=%23": {
+      "title": "Directory    – Madison County",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/directory/FindStartsWith?term=%23"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/directory/FindStartsWith?term=%23"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 253-5953",
+        "850-973-2788",
+        "8509737441"
+      ],
+      "socials": [
+        "https://www.facebook.com/madisoncountyflchamber"
+      ]
+    },
+    "https://business.madisonfl.org/directory/FindStartsWith?term=%23%21": {
+      "title": "Directory    – Madison County",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/directory/FindStartsWith?term=%23%21"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/directory/FindStartsWith?term=%23%21"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(229) 242-1170",
+        "(229) 244-5652",
+        "(229) 262-6319",
+        "(229) 403-1741",
+        "(229) 474-8771",
+        "(229) 560-6113",
+        "(352) 224-4425",
+        "(361) 774-8031",
+        "(386) 364-5360",
+        "(386) 364-7200",
+        "(386) 752-4072",
+        "(408) 753-5826",
+        "(800) 700-8744",
+        "(850) 244-1177",
+        "(850) 251-6615",
+        "(850) 253-0262",
+        "(850) 253-2133",
+        "(850) 253-2326",
+        "(850) 253-2438",
+        "(850) 260-0639",
+        "(850) 287-6464",
+        "(850) 294-2016",
+        "(850) 383-3448",
+        "(850) 464-0891",
+        "(850) 464-1653",
+        "(850) 464-3936",
+        "(850) 464-6130",
+        "(850) 508-7386",
+        "(850) 584-3160",
+        "(850) 601-6157",
+        "(850) 673-1975",
+        "(850) 838-7640",
+        "(850) 948-2741",
+        "(850) 948-9911",
+        "(850) 971-4200",
+        "(850) 973-0755",
+        "(850) 973-1390",
+        "(850) 973-2200",
+        "(850) 973-2245",
+        "(850) 973-2552",
+        "(850) 973-4880",
+        "(850) 973-6400",
+        "(850) 973-7414",
+        "(850) 973-7545",
+        "(850) 973-7647",
+        "(850) 973-8036",
+        "(850) 973-9957",
+        "(877) 601-7373",
+        "2292427702",
+        "844-542-6663",
+        "850 2742429",
+        "850-272-3111",
+        "8508437590",
+        "8509737441"
+      ],
+      "socials": [
+        "https://www.facebook.com/MadTalkersToastmastersClub",
+        "https://www.facebook.com/madisoncountyflchamber"
+      ]
+    },
+    "https://business.madisonfl.org/directory/FindStartsWith?term=A": {
+      "title": "Directory    – Madison County",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/directory/FindStartsWith?term=A"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/directory/FindStartsWith?term=A"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(352) 341-0903",
+        "(408) 753-5826",
+        "(850) 222-2308",
+        "(850) 251-6615",
+        "(850) 253-2436",
+        "(850) 294-2016",
+        "(850) 584-3160",
+        "(850) 673-8696",
+        "(850) 717-5009",
+        "(850) 841-0645",
+        "(850) 929-2045",
+        "(850) 971-9976",
+        "(850) 973-1390",
+        "(850) 973-6970",
+        "(850) 973-9957",
+        "(850) 973-9990",
+        "(910) 818-9281",
+        "850-973-2426",
+        "850-973-2788"
+      ],
+      "socials": [
+        "https://www.facebook.com/madisoncountyflchamber"
+      ]
+    },
+    "https://business.madisonfl.org/directory/FindStartsWith?term=B": {
+      "title": "Directory    – Madison County",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/directory/FindStartsWith?term=B"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://business.madisonfl.org/directory/FindStartsWith?term=B"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 244-1177",
+        "(850) 584-9191",
+        "(850) 673-1003",
+        "(850) 878-5310",
+        "(850) 928-4818",
+        "(850) 971-5514",
+        "(850) 973-1404",
+        "(850) 973-2258",
+        "(850) 973-2330",
+        "(850) 973-2600",
+        "(850) 973-4034",
+        "(850) 973-4828",
+        "850-973-2788"
+      ],
+      "socials": [
+        "https://www.facebook.com/madisoncountyflchamber"
+      ]
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "timestamp": "2025-09-19T05:36:36.694823",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T05:36:32.697030",
+      "company": {
+        "name": null,
+        "domain": "apccfl.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 98982245,
+          "description": "The Avon Park Chamber of Commerce, APCC strives to advance the economic programs and practices of its members by assuming a leadership role in expanding the income potential of member businesses and organizations thereby maintaining a quality environment in which to live, work, and conduct business. \n\nEnhancing the business climate & quality of life throughout our community",
+          "domain": "apccfl.org",
+          "employees": "1 - 10",
+          "founded": "1904",
+          "fqdn": "www.apccfl.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/6/77/6775cf01f5680a15c82ae1e1425f6809",
+          "name": "The Avon Park Chamber of Commerce",
+          "revenueRange": [],
+          "mainIndustry": "Business Services",
+          "subIndustry": "Business Consulting & Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/theavonparkchamberofcommerce"
+            }
+          },
+          "address": "Avon Park North America United States US 28 E Main St; Avon Park, FL 33825, US Florida FL -81.50618743896484,27.595869064331055 ",
+          "location": {
+            "city": "Avon Park",
+            "country": "United States",
+            "fullLocation": "Avon Park North America United States US 28 E Main St; Avon Park, FL 33825, US Florida FL -81.50618743896484,27.595869064331055 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "28 E Main St; Avon Park, FL 33825, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8742,
+                "description": "Management consulting services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 541611,
+                "description": "Administrative Management and General Management Consulting Services"
+              }
+            ]
+          },
+          "website": "https://apccfl.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T05:36:33.924952",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T05:36:36.690599",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

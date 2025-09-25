@@ -1,0 +1,133 @@
+{
+  "timestamp": "2025-09-24T02:18:27.341159",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T02:18:23.970536",
+      "company": {
+        "name": null,
+        "domain": "pgica.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 15711228,
+          "description": "The Punta Gorda Isles Civic Association (PGICA), a non-profit 501(c) 3 organization, has been an integral part of the community for more than 60 years. What began as a small association with a handful of supporters has grown to an association of more than 3,500 members which provides the community with educational opportunities, entertaiment, and a myriad of needed programs and services.",
+          "domain": "pgica.org",
+          "employees": "1 - 10",
+          "founded": "1962",
+          "fqdn": "www.pgica.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/48/b48bf7e910db59aa7dab12dfbfb052c4",
+          "name": "Punta Gorda Isles Civic Association",
+          "revenueRange": [],
+          "mainIndustry": "Organizations",
+          "subIndustry": "Civic & Social Organizations",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/punta-gorda-isles-civic-association-inc"
+            }
+          },
+          "address": "Punta Gorda North America United States US 2001 Shreve St; Punta Gorda, Florida 33950, US Florida FL -82.04537200927734,26.929779052734375 ",
+          "location": {
+            "city": "Punta Gorda",
+            "country": "United States",
+            "fullLocation": "Punta Gorda North America United States US 2001 Shreve St; Punta Gorda, Florida 33950, US Florida FL -82.04537200927734,26.929779052734375 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "2001 Shreve St; Punta Gorda, Florida 33950, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8641,
+                "description": "Civic and social associations"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 813410,
+                "description": "Civic and Social Organizations"
+              }
+            ]
+          },
+          "website": "https://pgica.org",
+          "specialities": [
+            "classes",
+            "clubs and societies",
+            "entertainment",
+            "fitness",
+            "private event venue"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T02:18:24.579740",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T02:18:27.337260",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

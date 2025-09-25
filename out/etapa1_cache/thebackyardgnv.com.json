@@ -1,0 +1,214 @@
+{
+  "site_url": "https://thebackyardgnv.com/",
+  "domain": "thebackyardgnv.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://thebackyardgnv.com/",
+    "https://www.thebackyardgnv.com/about-faq",
+    "https://www.thebackyardgnv.com/events",
+    "https://www.thebackyardgnv.com/contact",
+    "https://www.thebackyardgnv.com",
+    "https://www.thebackyardgnv.com/menus-specials",
+    "https://www.thebackyardgnv.com/malibu-nights",
+    "https://www.thebackyardgnv.com/gallery",
+    "https://www.thebackyardgnv.com/cocktail-menu",
+    "https://www.thebackyardgnv.com/beer-menu",
+    "https://www.thebackyardgnv.com/food-menu"
+  ],
+  "candidates": [
+    "https://www.thebackyardgnv.com/contact",
+    "https://www.thebackyardgnv.com/about-faq",
+    "https://www.thebackyardgnv.com/events",
+    "https://thebackyardgnv.com/"
+  ],
+  "per_page": {
+    "https://www.thebackyardgnv.com/contact": {
+      "title": "Contact/Subscribe | The Backyard",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.thebackyardgnv.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/backyardgnv",
+        "http://www.facebook.com/backyardgnv",
+        "https://www.facebook.com/backyardgnv",
+        "https://www.instagram.com/backyardgnv"
+      ]
+    },
+    "https://www.thebackyardgnv.com/about-faq": {
+      "title": "About & FAQ | The Backyard",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.thebackyardgnv.com/about-faq"
+          ]
+        },
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.thebackyardgnv.com/about-faq"
+          ]
+        },
+        "music venue": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.thebackyardgnv.com/about-faq"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.thebackyardgnv.com/about-faq"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.thebackyardgnv.com/about-faq"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/backyardgnv",
+        "http://www.facebook.com/backyardgnv",
+        "https://www.facebook.com/backyardgnv",
+        "https://www.instagram.com/backyardgnv"
+      ]
+    },
+    "https://www.thebackyardgnv.com/events": {
+      "title": "Events | The Backyard",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.thebackyardgnv.com/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://thebackyardgnv.com/": {
+      "title": "Home | The Backyard",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://thebackyardgnv.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/backyardgnv",
+        "http://www.facebook.com/backyardgnv",
+        "https://www.facebook.com/backyardgnv",
+        "https://www.instagram.com/backyardgnv"
+      ]
+    }
+  }
+}

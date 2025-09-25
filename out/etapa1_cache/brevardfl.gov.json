@@ -1,0 +1,913 @@
+{
+  "site_url": "https://brevardfl.gov/",
+  "domain": "brevardfl.gov",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://brevardfl.gov/",
+    "https://brevardfl.gov/FireRescue/AboutFireRescue",
+    "https://brevardfl.gov/HumanResources/PoliciesAndProcedures",
+    "https://brevardfl.gov/NorthBrevardEconomicDevelopmentZone/About",
+    "https://brevardfl.gov/ParksAndRecreation/AboutParks",
+    "https://brevardfl.gov/TourismDevelopmentOffice/Calendar",
+    "https://brevardfl.gov/UtilityServices/ContactInformationAndFAQ",
+    "https://brevardfl.gov/AboutBrevardCounty",
+    "https://brevardfl.gov/Directory",
+    "https://brevardfl.gov/HistoricalCommission/AboutUs",
+    "https://brevardfl.gov/HistoricalCommission/BookStore",
+    "https://brevardfl.gov/SaveOurLagoon/Calendar",
+    "https://brevardfl.gov/Contact",
+    "https://brevardfl.gov/communications/viewrelease?id=9665",
+    "https://brevardfl.gov/home",
+    "https://brevardfl.gov/BudgetOffice",
+    "https://brevardfl.gov/BudgetOffice/Budgets",
+    "https://brevardfl.gov/BudgetOffice/ARPARecoveryPlan",
+    "https://brevardfl.gov/BudgetOffice/CitizenBudgetGuide",
+    "https://brevardfl.gov/BudgetOffice/Reports",
+    "https://brevardfl.gov/BudgetOffice/TenYearExpenditureAnalysis",
+    "https://brevardfl.gov/CentralServices",
+    "https://brevardfl.gov/CentralServices/AssetManagement",
+    "https://brevardfl.gov/CentralServices/FleetServices",
+    "https://brevardfl.gov/CentralServices/PurchasingServices",
+    "https://brevardfl.gov/Communications",
+    "https://brevardfl.gov/Communications/MediaPolicieAndProcedures",
+    "https://brevardfl.gov/Communications/PressReleases",
+    "https://brevardfl.gov/Communications/SocialMedia",
+    "https://brevardfl.gov/Communications/SpaceCoastGovernmentTelevision",
+    "https://brevardfl.gov/Communications/TelevisionGuide",
+    "https://brevardfl.gov/Communications/Subscribe",
+    "https://brevardfl.gov/Communications/EditSubscription",
+    "https://brevardfl.gov/CountyAttorney",
+    "https://brevardfl.gov/CountyManager",
+    "https://brevardfl.gov/CountyManager/OrganizationalChart",
+    "https://brevardfl.gov/EmergencyManagement",
+    "https://brevardfl.gov/EmergencyManagement/AlertSignup",
+    "https://brevardfl.gov/EmergencyManagement/BePrepared",
+    "https://brevardfl.gov/EmergencyManagement/Mitigation",
+    "https://brevardfl.gov/EmergencyManagement/PublicSafetyRadio",
+    "https://brevardfl.gov/EmergencyManagement/Recovery",
+    "https://brevardfl.gov/EmergencyManagement/Response",
+    "https://brevardfl.gov/EmergencyManagement/RequestAnEOCTour",
+    "https://brevardfl.gov/EmergencyManagement/RequestAPresentation",
+    "https://brevardfl.gov/EmergencyManagement/911Administration",
+    "https://brevardfl.gov/FireRescue",
+    "https://brevardfl.gov/FireRescue/EducationAndFAQ",
+    "https://brevardfl.gov/FireRescue/EmergencyMedicalServices",
+    "https://brevardfl.gov/FireRescue/FinanceAndAdministrativeServices",
+    "https://brevardfl.gov/FireRescue/FireOnTheBeachApplication",
+    "https://brevardfl.gov/FireRescue/FirePrevention",
+    "https://brevardfl.gov/FireRescue/FireRescueCareers",
+    "https://brevardfl.gov/FireRescue/FireAndSpecialOperations",
+    "https://brevardfl.gov/FireRescue/FireStationsLocations",
+    "https://brevardfl.gov/FireRescue/OceanRescueServices",
+    "https://brevardfl.gov/FireRescue/ReservistsVolunteers",
+    "https://brevardfl.gov/FireRescue/ride-a-long",
+    "https://brevardfl.gov/FireRescue/TrainingBureau",
+    "https://brevardfl.gov/HousingAndHumanServices",
+    "https://brevardfl.gov/HousingAndHumanServices/Announcements",
+    "https://brevardfl.gov/HousingAndHumanServices/CommunityActionAgency",
+    "https://brevardfl.gov/HousingAndHumanServices/CommunityDevelopmentBlockGrant",
+    "https://brevardfl.gov/HousingAndHumanServices/CommunityHousingDevelopmentOrganization",
+    "https://brevardfl.gov/HousingAndHumanServices/GuardianAdLitem",
+    "https://brevardfl.gov/HousingAndHumanServices/HousingPrograms",
+    "https://brevardfl.gov/HousingAndHumanServices/OpenBids",
+    "https://brevardfl.gov/HousingAndHumanServices/PlansAndReports",
+    "https://brevardfl.gov/HousingAndHumanServices/VeteranServices",
+    "https://brevardfl.gov/HousingAndHumanServices/OpioidAbatement",
+    "https://brevardfl.gov/HumanResources",
+    "https://brevardfl.gov/HumanResources/EmploymentInformation",
+    "https://brevardfl.gov/HumanResources/EmployeeInformation",
+    "https://brevardfl.gov/HumanResources/LocalJobLinks",
+    "https://brevardfl.gov/HumanResources/BRAVEVolunteerProgram",
+    "https://brevardfl.gov/HumanResources/RiskManagementClaimsReporting",
+    "https://brevardfl.gov/InformationTechnology",
+    "https://brevardfl.gov/MerrittIslandRedevelopmentAgency",
+    "https://brevardfl.gov/MosquitoControl",
+    "https://brevardfl.gov/MosquitoControl/HorseOwners",
+    "https://brevardfl.gov/MosquitoControl/PreventionAndControl",
+    "https://brevardfl.gov/MosquitoControl/ServicesProvided"
+  ],
+  "candidates": [
+    "https://brevardfl.gov/Contact",
+    "https://brevardfl.gov/UtilityServices/ContactInformationAndFAQ",
+    "https://brevardfl.gov/AboutBrevardCounty",
+    "https://brevardfl.gov/FireRescue/AboutFireRescue",
+    "https://brevardfl.gov/HistoricalCommission/AboutUs",
+    "https://brevardfl.gov/NorthBrevardEconomicDevelopmentZone/About",
+    "https://brevardfl.gov/ParksAndRecreation/AboutParks",
+    "https://brevardfl.gov/SaveOurLagoon/Calendar",
+    "https://brevardfl.gov/TourismDevelopmentOffice/Calendar",
+    "https://brevardfl.gov/Directory",
+    "https://brevardfl.gov/HistoricalCommission/BookStore",
+    "https://brevardfl.gov/HumanResources/PoliciesAndProcedures",
+    "https://brevardfl.gov/",
+    "https://brevardfl.gov/FireRescue/FirePrevention",
+    "https://brevardfl.gov/MosquitoControl/PreventionAndControl"
+  ],
+  "per_page": {
+    "https://brevardfl.gov/Contact": {
+      "title": "Brevard County Contact Information",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/Contact"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/Contact"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/Contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 633-2000",
+        "(321) 633-2042",
+        "(800) 955-8771",
+        "(800)-955-8771"
+      ],
+      "socials": [
+        "https://www.facebook.com/BrevardCountyGovt",
+        "https://www.instagram.com/BrevardCountyGovt",
+        "https://www.youtube.com/user/SCGTV199"
+      ]
+    },
+    "https://brevardfl.gov/UtilityServices/ContactInformationAndFAQ": {
+      "title": "Brevard County Utility Services Contact Information",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/UtilityServices/ContactInformationAndFAQ"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/UtilityServices/ContactInformationAndFAQ"
+          ]
+        }
+      },
+      "emails": [
+        "bfb.billing@brevardfl.gov",
+        "mims.billing@brevardfl.gov",
+        "utilityservicescontact@brevardfl.gov"
+      ],
+      "phones": [
+        "(321) 255-4328",
+        "(321) 264-5130",
+        "(321) 383-5791",
+        "(321) 433-8400",
+        "(321) 455-1338",
+        "(321) 455-1339",
+        "(321) 608-5000",
+        "(321) 633-2091",
+        "(321) 633-2095",
+        "(321) 733-5634",
+        "(321) 952-3420",
+        "(772) 664-5916",
+        "(800) 432-4770",
+        "(800)-955-8771"
+      ],
+      "socials": [
+        "https://www.facebook.com/BrevardCountyGovt",
+        "https://www.instagram.com/BrevardCountyGovt",
+        "https://www.youtube.com/user/SCGTV199"
+      ]
+    },
+    "https://brevardfl.gov/AboutBrevardCounty": {
+      "title": "About Brevard County, Florida",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/AboutBrevardCounty"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/AboutBrevardCounty"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800)-955-8771"
+      ],
+      "socials": [
+        "https://www.facebook.com/BrevardCountyGovt",
+        "https://www.instagram.com/BrevardCountyGovt",
+        "https://www.youtube.com/user/SCGTV199"
+      ]
+    },
+    "https://brevardfl.gov/FireRescue/AboutFireRescue": {
+      "title": "Brevard County Fire Rescue About Us",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/FireRescue/AboutFireRescue"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/FireRescue/AboutFireRescue"
+          ]
+        }
+      },
+      "emails": [
+        "emsmedicalrecordsrequest@brevardfl.gov",
+        "fire.rescue@brevardfl.gov"
+      ],
+      "phones": [
+        "(321) 633-2056",
+        "(800)-955-8771"
+      ],
+      "socials": [
+        "http://www.facebook.com/Brevardfire",
+        "https://www.facebook.com/BrevardCountyGovt",
+        "https://www.instagram.com/BrevardCountyGovt",
+        "https://www.instagram.com/brevardcofireems/",
+        "https://www.youtube.com/user/SCGTV199"
+      ]
+    },
+    "https://brevardfl.gov/HistoricalCommission/AboutUs": {
+      "title": "About the Brevard County Historical Commission",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/HistoricalCommission/AboutUs"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/HistoricalCommission/AboutUs"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 633-1794",
+        "(321) 633-1807",
+        "(800)-955-8771"
+      ],
+      "socials": [
+        "https://www.facebook.com/BrevardCountyGovt",
+        "https://www.instagram.com/BrevardCountyGovt",
+        "https://www.youtube.com/user/SCGTV199"
+      ]
+    },
+    "https://brevardfl.gov/NorthBrevardEconomicDevelopmentZone/About": {
+      "title": "About the North Brevard Economic Development Zone",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/NorthBrevardEconomicDevelopmentZone/About"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/NorthBrevardEconomicDevelopmentZone/About"
+          ]
+        }
+      },
+      "emails": [
+        "troy.post@brevardfl.gov"
+      ],
+      "phones": [
+        "(321) 621-4713",
+        "(800)-955-8771"
+      ],
+      "socials": [
+        "https://www.facebook.com/BrevardCountyGovt",
+        "https://www.instagram.com/BrevardCountyGovt",
+        "https://www.youtube.com/user/SCGTV199"
+      ]
+    },
+    "https://brevardfl.gov/ParksAndRecreation/AboutParks": {
+      "title": "Brevard County Parks and Recreation Department",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/ParksAndRecreation/AboutParks"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/ParksAndRecreation/AboutParks"
+          ]
+        }
+      },
+      "emails": [
+        "brevardparks@brevardfl.gov",
+        "centralareaparks@brevardfl.gov",
+        "northareaparks@brevardfl.gov",
+        "southareaparks@brevardfl.gov"
+      ],
+      "phones": [
+        "(321) 255-4400",
+        "(321) 264-5105",
+        "(321) 633-1874",
+        "(321) 633-2046",
+        "(321) 633-2198",
+        "(800)-955-8771"
+      ],
+      "socials": [
+        "https://www.facebook.com/BrevardCountyGovt",
+        "https://www.facebook.com/BrevardParks/",
+        "https://www.instagram.com/BrevardCountyGovt",
+        "https://www.instagram.com/brevardparks/",
+        "https://www.youtube.com/user/SCGTV199"
+      ]
+    },
+    "https://brevardfl.gov/SaveOurLagoon/Calendar": {
+      "title": "Citizen's Oversight Committee Meeting Calendar",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/SaveOurLagoon/Calendar"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/SaveOurLagoon/Calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800)-955-8771"
+      ],
+      "socials": [
+        "https://www.facebook.com/BrevardCountyGovt",
+        "https://www.instagram.com/BrevardCountyGovt",
+        "https://www.youtube.com/user/SCGTV199"
+      ]
+    },
+    "https://brevardfl.gov/TourismDevelopmentOffice/Calendar": {
+      "title": "Tourism Development Office Calendar",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/TourismDevelopmentOffice/Calendar"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/TourismDevelopmentOffice/Calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800)-955-8771"
+      ],
+      "socials": [
+        "https://www.facebook.com/BrevardCountyGovt",
+        "https://www.instagram.com/BrevardCountyGovt",
+        "https://www.youtube.com/user/SCGTV199"
+      ]
+    },
+    "https://brevardfl.gov/Directory": {
+      "title": "Brevard County Directory",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/Directory"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/Directory"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/Directory"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/Directory"
+          ]
+        }
+      },
+      "emails": [
+        "address.assign@brevardfl.gov"
+      ],
+      "phones": [
+        "(321) 253-6611",
+        "(321) 253-6620",
+        "(321) 607-6901",
+        "(321) 633-2044",
+        "(321) 633-2075",
+        "(321) 633-2121",
+        "(321) 633-2196",
+        "(772) 664-1015",
+        "(772) 664-1633",
+        "(772) 664-3629",
+        "(772) 664-5916",
+        "(772) 664-5941",
+        "(800) 955-8771",
+        "(800)-955-8771",
+        "321-454-6601",
+        "321-454-6602",
+        "321-633-2056",
+        "386-756-9798",
+        "772-663-6269",
+        "800-432-4770",
+        "800-435-7352",
+        "850-488-2221"
+      ],
+      "socials": [
+        "https://www.facebook.com/BrevardCountyGovt",
+        "https://www.instagram.com/BrevardCountyGovt",
+        "https://www.youtube.com/user/SCGTV199"
+      ]
+    },
+    "https://brevardfl.gov/HistoricalCommission/BookStore": {
+      "title": "Brevard County Historical Commission Book Store",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/HistoricalCommission/BookStore"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/HistoricalCommission/BookStore"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 633-1794",
+        "(321) 633-1807",
+        "(800)-955-8771"
+      ],
+      "socials": [
+        "https://www.facebook.com/BrevardCountyGovt",
+        "https://www.instagram.com/BrevardCountyGovt",
+        "https://www.youtube.com/user/SCGTV199"
+      ]
+    },
+    "https://brevardfl.gov/HumanResources/PoliciesAndProcedures": {
+      "title": "Brevard County Human Resources Policies and Procedures",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/HumanResources/PoliciesAndProcedures"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/HumanResources/PoliciesAndProcedures"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/HumanResources/PoliciesAndProcedures"
+          ]
+        }
+      },
+      "emails": [
+        "adacompliance@brevardfl.gov",
+        "employment@brevardfl.gov",
+        "personnel_records@brevardfl.gov"
+      ],
+      "phones": [
+        "(321) 633-2031",
+        "(321) 633-2032",
+        "(321) 633-2036",
+        "(800)-955-8771"
+      ],
+      "socials": [
+        "https://www.facebook.com/BrevardCountyGovt",
+        "https://www.instagram.com/BrevardCountyGovt",
+        "https://www.youtube.com/user/SCGTV199"
+      ]
+    },
+    "https://brevardfl.gov/": {
+      "title": "Brevard County Government",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(800)-955-8771"
+      ],
+      "socials": [
+        "https://www.facebook.com/BrevardCountyGovt",
+        "https://www.instagram.com/BrevardCountyGovt",
+        "https://www.youtube.com/user/SCGTV199"
+      ]
+    },
+    "https://brevardfl.gov/FireRescue/FirePrevention": {
+      "title": "Brevard County Florida Fire Rescue Fire Prevention",
+      "band_hits": {
+        "event": {
+          "total": 29,
+          "zones": {
+            "title": 1,
+            "body": 28,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/FireRescue/FirePrevention"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/FireRescue/FirePrevention"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/FireRescue/FirePrevention"
+          ]
+        }
+      },
+      "emails": [
+        "adacompliance@brevardfl.gov",
+        "emsmedicalrecordsrequest@brevardfl.gov",
+        "fire.prevention@brevardfl.gov",
+        "fire.rescue@brevardfl.gov"
+      ],
+      "phones": [
+        "(321) 633-2056",
+        "(321) 633-2072",
+        "(321) 637-5660",
+        "(407) 888-8767",
+        "(800)-955-8771",
+        "800-342-5869",
+        "877-662-7766"
+      ],
+      "socials": [
+        "http://www.facebook.com/Brevardfire",
+        "https://www.facebook.com/BrevardCountyGovt",
+        "https://www.instagram.com/BrevardCountyGovt",
+        "https://www.instagram.com/brevardcofireems/",
+        "https://www.youtube.com/user/SCGTV199"
+      ]
+    },
+    "https://brevardfl.gov/MosquitoControl/PreventionAndControl": {
+      "title": "Brevard County Mosquito Prevention and Control",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/MosquitoControl/PreventionAndControl"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/MosquitoControl/PreventionAndControl"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://brevardfl.gov/MosquitoControl/PreventionAndControl"
+          ]
+        }
+      },
+      "emails": [
+        "mosquitocontrolwebcontact@brevardfl.gov"
+      ],
+      "phones": [
+        "(321) 264-5032",
+        "(321) 952-4523",
+        "(800)-955-8771",
+        "800-222-1222",
+        "800-858-7378"
+      ],
+      "socials": [
+        "https://www.facebook.com/BrevardCountyGovt",
+        "https://www.instagram.com/BrevardCountyGovt",
+        "https://www.youtube.com/user/SCGTV199"
+      ]
+    }
+  }
+}

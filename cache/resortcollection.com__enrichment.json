@@ -1,0 +1,150 @@
+{
+  "timestamp": "2025-09-22T22:13:42.197358",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T22:13:38.425733",
+      "company": {
+        "name": null,
+        "domain": "resortcollection.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 1054129,
+          "description": "Resort Collection property management company in Panama City Beach manages 13 resorts that include: Edgewater Beach & Golf Resort, Majestic Beach Resort,  Emerald Beach Resort, Long Beach Resort, En Soleil Resort, Summit Beach Resort, Continental Condominiums, Top of the Gulf Condominiums, Grandview East Resort, Sunbird Beach Resort, Gulf Highlands Beach Resort, and Laketown Wharf. \n\nResort Collection boasts more than 1,000 full-service gulf-front suites and golf villas, over 90,000 square feet of combined indoor and outdoor meeting space, tennis courts, multiple retail shops, boutiques, eateries, coffee shops, fitness centers, an outdoor basketball court, 36 luxurious pools, and a 9-hole executive golf course.",
+          "domain": "resortcollection.com",
+          "employees": "201 - 500",
+          "founded": "1984",
+          "fqdn": "www.resortcollection.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/ff/bff98c652f425b46d17481f490f20852",
+          "name": "The Resort Collection of Panama City Beach",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/resort-collection"
+            }
+          },
+          "address": "Panama City Beach North America United States US 11212 Front Beach Road; Panama City Beach, FL 32408, US Florida FL -85.80548858642578,30.176589965820312 ",
+          "location": {
+            "city": "Panama City Beach",
+            "country": "United States",
+            "fullLocation": "Panama City Beach North America United States US 11212 Front Beach Road; Panama City Beach, FL 32408, US Florida FL -85.80548858642578,30.176589965820312 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "11212 Front Beach Road; Panama City Beach, FL 32408, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://resortcollection.com",
+          "specialities": [
+            "association management",
+            "beach homes",
+            "beach rentals",
+            "beach resort",
+            "beach service",
+            "condo rentals",
+            "food and beverage",
+            "full service hotel",
+            "groups",
+            "hospitatlity",
+            "hotel",
+            "marketing",
+            "meetings and conventions",
+            "property management",
+            "resort management",
+            "special events",
+            "vacation rentals",
+            "vacations",
+            "weddings"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T22:13:39.618488",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T22:13:42.192779",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

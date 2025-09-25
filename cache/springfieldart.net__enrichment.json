@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-16T20:50:14.485323",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-16T20:50:10.585379",
+      "company": {
+        "name": null,
+        "domain": "springfieldart.net",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 67942706,
+          "description": "The Springfield Museum of Art (SMoA) in Springfield, Ohio is a community-oriented art museum. It was incorporated in 1952 by a group of artists and citizens who felt a need for a visual arts facility in the community. \n\nThe permanent collection, nearly 2,000 objects in all media, is primarily comprised of American art, with particular strength in works by artists with strong ties to Ohio and the Midwest, and special concentrations in art by women, self-taught artists, prints, and art created since the mid-19th centruy. \n\nThe Museum is accredited by the American Alliance of Museums. SMoA is the only art museum in Ohio to bear the distinction as a Smithsonian Affiliate. It is also a participant in the national Arts Bridges partnership program as well as Museums for All.\n\nMission: Springfield Museum of Art expands creativity and vitality by connecting art and communities.",
+          "domain": "springfieldart.net",
+          "employees": "1 - 10",
+          "founded": "1952",
+          "fqdn": "www.springfieldart.net",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/6/68/6686d1a54acef3f44612f1b7188ece89",
+          "name": "Springfield Museum of Art",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/springfield-museum-of-art-ohio"
+            }
+          },
+          "address": "Springfield North America United States US 107 Cliff Park Rd; Springfield, Ohio 45504, US Ohio OH -83.80882263183594,39.92422866821289 ",
+          "location": {
+            "city": "Springfield",
+            "country": "United States",
+            "fullLocation": "Springfield North America United States US 107 Cliff Park Rd; Springfield, Ohio 45504, US Ohio OH -83.80882263183594,39.92422866821289 ",
+            "state": "Ohio",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "107 Cliff Park Rd; Springfield, Ohio 45504, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8412,
+                "description": "Museums and art galleries"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 712110,
+                "description": "Museums"
+              }
+            ]
+          },
+          "website": "https://springfieldart.net"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-16T20:50:11.927820",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-16T20:50:14.476313",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

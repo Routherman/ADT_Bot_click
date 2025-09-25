@@ -1,0 +1,2876 @@
+{
+  "site_url": "https://naplesgarden.org/",
+  "domain": "naplesgarden.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://naplesgarden.org/",
+    "https://www.naplesgarden.org/visit/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/about-the-garden/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/berger-shop-in-the-garden/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/tour-options/",
+    "https://www.naplesgarden.org/private-events/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/photography-policy/",
+    "https://www.naplesgarden.org/policies/",
+    "https://www.naplesgarden.org/events-and-exhibitions/",
+    "https://www.naplesgarden.org/visit/contact-us/",
+    "https://www.naplesgarden.org/support/membership/",
+    "https://naplesgarden.org/events",
+    "https://www.naplesgarden.org/events/w-o-n-d-e-r-2/2025-09-19/",
+    "https://www.naplesgarden.org/events/garden-grounds-cart-tours-3/2025-09-19/",
+    "https://naplesgarden.org/visit/directions/",
+    "https://naplesgarden.org/visit/plan-your-visit/tour-options/",
+    "https://naplesgarden.org/support/membership/",
+    "https://naplesgarden.org/contact-us/",
+    "https://www.naplesgarden.org/",
+    "https://www.naplesgarden.org/ways-to-enjoy-the-garden/",
+    "https://www.naplesgarden.org/gardens/",
+    "https://www.naplesgarden.org/collections/",
+    "https://www.naplesgarden.org/students-teachers/",
+    "https://www.naplesgarden.org/education/",
+    "https://www.naplesgarden.org/adult-programming/",
+    "https://www.naplesgarden.org/children-families/children-families/",
+    "https://www.naplesgarden.org/educations/meet-me-in-the-garden/",
+    "https://www.naplesgarden.org/education/nature-journaling/",
+    "https://www.naplesgarden.org/notes-from-the-garden/",
+    "https://www.naplesgarden.org/conservation/",
+    "https://www.naplesgarden.org/conservation/thecenter/",
+    "https://www.naplesgarden.org/conservation/protecting-wild-plants/",
+    "https://www.naplesgarden.org/conservation/conservation-collections/",
+    "https://www.naplesgarden.org/conservation/prescribed-burns/",
+    "https://www.naplesgarden.org/conservation/seed-collecting-conservation-horticulture/",
+    "https://www.naplesgarden.org/conservation/global-contributions/",
+    "https://www.naplesgarden.org/support/",
+    "https://www.naplesgarden.org/support/donate/",
+    "https://www.naplesgarden.org/royal-palm-society/",
+    "https://www.naplesgarden.org/support/sponsor/",
+    "https://www.naplesgarden.org/support/volunteers/",
+    "https://www.naplesgarden.org/tickets",
+    "https://www.naplesgarden.org/summer-hours/",
+    "http://www.naplesgarden.org/tickets",
+    "https://www.naplesgarden.org/evenstad-horticulture-campus/",
+    "https://www.naplesgarden.org/how-did-that-plant-get-up-there/",
+    "https://www.naplesgarden.org/palms-an-hourglass-of-history/",
+    "https://www.naplesgarden.org/seeing-the-garden-for-the-trees/",
+    "https://www.naplesgarden.org/from-shade-to-shelter-how-keystone-trees-sustain-life/",
+    "https://naplesgarden.org/notes-from-the-garden",
+    "https://www.naplesgarden.org/tickets/",
+    "https://www.naplesgarden.org/hats/",
+    "https://www.naplesgarden.org/employment/",
+    "https://www.naplesgarden.org/executive-staff/",
+    "https://www.naplesgarden.org/media/",
+    "https://www.naplesgarden.org/privacy-policy/",
+    "https://www.naplesgarden.org/website-accessibility/",
+    "https://www.naplesgarden.org/events",
+    "https://www.naplesgarden.org/visit/directions/",
+    "https://www.naplesgarden.org/contact-us/",
+    "https://www.naplesgarden.org/what-can-you-do-at-our-garden/",
+    "https://www.naplesgarden.org/gardens/garden-faq-2/",
+    "https://www.naplesgarden.org/garden-maps/",
+    "https://www.naplesgarden.org/series/dia-de-los-muertos-celebration/",
+    "https://www.naplesgarden.org/series/annual-ikebana-exhibition/",
+    "https://www.naplesgarden.org/series/naples-orchid-society-annual-show-sale/",
+    "https://www.naplesgarden.org/weddings-events/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/2/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/3/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/7/",
+    "https://www.naplesgarden.org/celebrating-10-seasons-of-fogg-cafe-and-counting/",
+    "https://www.naplesgarden.org/from-the-fogg-cafe-family-to-yours/"
+  ],
+  "candidates": [
+    "https://naplesgarden.org/contact-us/",
+    "https://www.naplesgarden.org/contact-us/",
+    "https://www.naplesgarden.org/visit/contact-us/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/about-the-garden/",
+    "https://naplesgarden.org/events",
+    "https://naplesgarden.org/support/membership/",
+    "https://www.naplesgarden.org/events",
+    "https://www.naplesgarden.org/events-and-exhibitions/",
+    "https://www.naplesgarden.org/events/garden-grounds-cart-tours-3/2025-09-19/",
+    "https://www.naplesgarden.org/events/w-o-n-d-e-r-2/2025-09-19/",
+    "https://www.naplesgarden.org/private-events/",
+    "https://www.naplesgarden.org/support/membership/",
+    "https://www.naplesgarden.org/weddings-events/",
+    "https://naplesgarden.org/visit/directions/",
+    "https://naplesgarden.org/visit/plan-your-visit/tour-options/",
+    "https://www.naplesgarden.org/policies/",
+    "https://www.naplesgarden.org/visit/",
+    "https://www.naplesgarden.org/visit/directions/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/berger-shop-in-the-garden/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/2/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/3/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/7/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/photography-policy/",
+    "https://www.naplesgarden.org/visit/plan-your-visit/tour-options/",
+    "https://naplesgarden.org/",
+    "https://www.naplesgarden.org/series/naples-orchid-society-annual-show-sale/",
+    "https://naplesgarden.org/contact",
+    "https://naplesgarden.org/contact/",
+    "https://naplesgarden.org/contact-us",
+    "https://naplesgarden.org/contactus",
+    "https://naplesgarden.org/contactus/",
+    "https://naplesgarden.org/about",
+    "https://naplesgarden.org/about/",
+    "https://naplesgarden.org/about-us",
+    "https://naplesgarden.org/about-us/",
+    "https://naplesgarden.org/visit",
+    "https://naplesgarden.org/visit/",
+    "https://naplesgarden.org/location",
+    "https://naplesgarden.org/location/",
+    "https://naplesgarden.org/directions",
+    "https://naplesgarden.org/directions/"
+  ],
+  "per_page": {
+    "https://naplesgarden.org/contact-us/": {
+      "title": "Contact Us | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact-us/"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact-us/"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@naplesgarden.org",
+        "tickets@naplesgarden.org"
+      ],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/contact-us/": {
+      "title": "Contact Us | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/contact-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/contact-us/"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/contact-us/"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@naplesgarden.org",
+        "tickets@naplesgarden.org"
+      ],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/visit/contact-us/": {
+      "title": "Contact Us | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/contact-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/contact-us/"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/contact-us/"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@naplesgarden.org",
+        "tickets@naplesgarden.org"
+      ],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/visit/plan-your-visit/about-the-garden/": {
+      "title": "Naples Botanical Garden | About the Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/about-the-garden/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/about-the-garden/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/about-the-garden/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/events": {
+      "title": "Events from April 6, 2023 – November 21, 2023",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 1,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/events"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/events"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/events"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/events"
+          ]
+        },
+        "schedule": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/events"
+          ]
+        },
+        "artists": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/support/membership/": {
+      "title": "We Love Our Members! | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/support/membership/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/support/membership/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/support/membership/"
+          ]
+        }
+      },
+      "emails": [
+        "membership@naplesgarden.org"
+      ],
+      "phones": [
+        "239.315.7293",
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/events": {
+      "title": "Events from April 6, 2023 – November 21, 2023",
+      "band_hits": {
+        "event": {
+          "total": 25,
+          "zones": {
+            "title": 1,
+            "body": 24,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events"
+          ]
+        },
+        "schedule": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events"
+          ]
+        },
+        "artists": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/events-and-exhibitions/": {
+      "title": "Events & Exhibitions | Naples Botanical Garden",
+      "band_hits": {
+        "live music": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events-and-exhibitions/"
+          ]
+        },
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events-and-exhibitions/"
+          ]
+        },
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 1,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events-and-exhibitions/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events-and-exhibitions/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events-and-exhibitions/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events-and-exhibitions/"
+          ]
+        },
+        "artists": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events-and-exhibitions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/events/garden-grounds-cart-tours-3/2025-09-19/": {
+      "title": "Garden Grounds Cart Tours | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events/garden-grounds-cart-tours-3/2025-09-19/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events/garden-grounds-cart-tours-3/2025-09-19/"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events/garden-grounds-cart-tours-3/2025-09-19/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/events/w-o-n-d-e-r-2/2025-09-19/": {
+      "title": "W.O.N.D.E.R. | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 0,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events/w-o-n-d-e-r-2/2025-09-19/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events/w-o-n-d-e-r-2/2025-09-19/"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events/w-o-n-d-e-r-2/2025-09-19/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/events/w-o-n-d-e-r-2/2025-09-19/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/private-events/": {
+      "title": "Private Events | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/private-events/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/private-events/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/private-events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/support/membership/": {
+      "title": "We Love Our Members! | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/support/membership/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/support/membership/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/support/membership/"
+          ]
+        }
+      },
+      "emails": [
+        "membership@naplesgarden.org"
+      ],
+      "phones": [
+        "239.315.7293",
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/weddings-events/": {
+      "title": "Private Events | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/weddings-events/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/weddings-events/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/weddings-events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/visit/directions/": {
+      "title": "Directions | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit/directions/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit/directions/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@naplesgarden.org"
+      ],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/visit/plan-your-visit/tour-options/": {
+      "title": "Tour Options | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit/plan-your-visit/tour-options/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit/plan-your-visit/tour-options/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit/plan-your-visit/tour-options/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit/plan-your-visit/tour-options/"
+          ]
+        },
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit/plan-your-visit/tour-options/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit/plan-your-visit/tour-options/"
+          ]
+        }
+      },
+      "emails": [
+        "groupinfo@naplesgarden.org"
+      ],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/policies/": {
+      "title": "Policies | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/policies/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/policies/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/policies/"
+          ]
+        }
+      },
+      "emails": [
+        "info@naplesgarden.org",
+        "visitorservices@naplesgarden.org"
+      ],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/visit/": {
+      "title": "Visit | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/visit/directions/": {
+      "title": "Directions | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/directions/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/directions/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@naplesgarden.org"
+      ],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/visit/plan-your-visit/": {
+      "title": "Plan Your Visit | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/"
+          ]
+        }
+      },
+      "emails": [
+        "info@naplesgarden.org"
+      ],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/visit/plan-your-visit/berger-shop-in-the-garden/": {
+      "title": "Berger Shop in the Garden | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/berger-shop-in-the-garden/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/berger-shop-in-the-garden/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/berger-shop-in-the-garden/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/": {
+      "title": "Fogg Café | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/2/": {
+      "title": "Fogg Café | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/2/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/2/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/2/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/3/": {
+      "title": "Fogg Café | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/3/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/3/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/3/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/7/": {
+      "title": "Fogg Café | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/7/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/7/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/fogg-cafe/page/7/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/visit/plan-your-visit/photography-policy/": {
+      "title": "Photography Policy | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/photography-policy/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/photography-policy/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/photography-policy/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/photography-policy/"
+          ]
+        }
+      },
+      "emails": [
+        "jfuentes@naplesgarden.org",
+        "media@naplesgarden.org",
+        "visitorservices@naplesgarden.org"
+      ],
+      "phones": [
+        "239.325.1354",
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/visit/plan-your-visit/tour-options/": {
+      "title": "Tour Options | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/tour-options/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/tour-options/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/tour-options/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/tour-options/"
+          ]
+        },
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/tour-options/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/visit/plan-your-visit/tour-options/"
+          ]
+        }
+      },
+      "emails": [
+        "groupinfo@naplesgarden.org"
+      ],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/": {
+      "title": "Homepage | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.instagram.com/naplesbotanical/",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://www.naplesgarden.org/series/naples-orchid-society-annual-show-sale/": {
+      "title": "Naples Orchid Society Annual Show & Sale | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 19,
+          "zones": {
+            "title": 0,
+            "body": 19,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/series/naples-orchid-society-annual-show-sale/"
+          ]
+        },
+        "show": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/series/naples-orchid-society-annual-show-sale/"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.naplesgarden.org/series/naples-orchid-society-annual-show-sale/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/contact": {
+      "title": "Contact Us | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@naplesgarden.org",
+        "tickets@naplesgarden.org"
+      ],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/contact/": {
+      "title": "Contact Us | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact/"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact/"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@naplesgarden.org",
+        "tickets@naplesgarden.org"
+      ],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/contact-us": {
+      "title": "Contact Us | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact-us"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact-us"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@naplesgarden.org",
+        "tickets@naplesgarden.org"
+      ],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/contactus": {
+      "title": "Page not found | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contactus"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/contactus/": {
+      "title": "Page not found | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contactus/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/about": {
+      "title": "Naples Botanical Garden | About the Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/about"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/about"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/about/": {
+      "title": "Naples Botanical Garden | About the Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/about/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/about/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/about-us": {
+      "title": "Page not found | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/about-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/about-us/": {
+      "title": "Page not found | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/about-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/visit": {
+      "title": "Visit | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/visit/": {
+      "title": "Visit | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/location": {
+      "title": "Page not found | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/location"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/location"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/location/": {
+      "title": "Page not found | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/location/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/location/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/directions": {
+      "title": "Directions | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/directions"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/directions"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/directions"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/directions"
+          ]
+        }
+      },
+      "emails": [
+        "info@naplesgarden.org"
+      ],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    },
+    "https://naplesgarden.org/directions/": {
+      "title": "Directions | Naples Botanical Garden",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/directions/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/directions/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://naplesgarden.org/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@naplesgarden.org"
+      ],
+      "phones": [
+        "239.643.7275"
+      ],
+      "socials": [
+        "https://www.facebook.com/NaplesGarden",
+        "https://www.instagram.com/naplesbotanical",
+        "https://www.linkedin.com/company/naples-botanical-garden/posts/",
+        "https://www.tiktok.com/@naplesbotanical",
+        "https://www.youtube.com/naplesbotanicalgarden"
+      ]
+    }
+  }
+}

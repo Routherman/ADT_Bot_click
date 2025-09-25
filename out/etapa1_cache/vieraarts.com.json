@@ -1,0 +1,260 @@
+{
+  "site_url": "https://vieraarts.com/",
+  "domain": "vieraarts.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://vieraarts.com/",
+    "https://vieraarts.com/contact.html",
+    "https://vieraarts.com/schedule-of-events.html",
+    "https://vieraarts.com/index.html",
+    "https://vieraarts.com/applications.html",
+    "https://vieraarts.com/directions.html",
+    "https://vieraarts.com/sponsors.html",
+    "https://vieraarts.com/volunteer.html",
+    "https://vieraarts.com/student-art-competiton.html",
+    "https://vieraarts.com/artist-info.html",
+    "https://vieraarts.com/crafter-info.html",
+    "https://vieraarts.com/student-art-register.html"
+  ],
+  "candidates": [
+    "https://vieraarts.com/contact.html",
+    "https://vieraarts.com/schedule-of-events.html",
+    "https://vieraarts.com/",
+    "https://vieraarts.com/contact",
+    "https://vieraarts.com/contact/",
+    "https://vieraarts.com/contact-us",
+    "https://vieraarts.com/contact-us/",
+    "https://vieraarts.com/contactus",
+    "https://vieraarts.com/contactus/",
+    "https://vieraarts.com/about",
+    "https://vieraarts.com/about/",
+    "https://vieraarts.com/about-us",
+    "https://vieraarts.com/about-us/",
+    "https://vieraarts.com/visit",
+    "https://vieraarts.com/visit/",
+    "https://vieraarts.com/location",
+    "https://vieraarts.com/location/",
+    "https://vieraarts.com/directions",
+    "https://vieraarts.com/directions/"
+  ],
+  "per_page": {
+    "https://vieraarts.com/contact.html": {
+      "title": "Viera Art Festival - Contact",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/schedule-of-events.html": {
+      "title": "Schedule of Events",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieraarts.com/schedule-of-events.html"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieraarts.com/schedule-of-events.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/": {
+      "title": "Viera Art Festival - Home",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://vieraarts.com/"
+          ]
+        }
+      },
+      "emails": [
+        "info@vieraarts.com"
+      ],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/contact": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/contact/": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/contact-us": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/contact-us/": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/contactus": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/contactus/": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/about": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/about/": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/about-us": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/about-us/": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/visit": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/visit/": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/location": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/location/": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/directions": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://vieraarts.com/directions/": {
+      "title": "Error 500 - Internal Server Error",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

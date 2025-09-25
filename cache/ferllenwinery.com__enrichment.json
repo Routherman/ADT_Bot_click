@@ -1,0 +1,133 @@
+{
+  "timestamp": "2025-09-21T01:34:26.097222",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T01:34:21.868782",
+      "company": {
+        "name": null,
+        "domain": "ferllenwinery.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 3007415,
+          "description": "Located in Mendoza, Argentina, in one of the best wine regions in the world, sheltered by the monumental mountain range of the Andes and surrounded by 30 hectares of Malbec, our winery has been created. A family owned winery with centenary tradition making wine in Argentina.\nOur passion:\nWhen a glass of rich, dark Malbec tastes as though it could have been produced anywhere, then all has been lost and the importance of a wine’s individuality has been wasted. Our production is dedicated to the grape, finding in raw and basic elements the conservation of nature and uniting the wisdom of the vintage with the advantages of this modern era without sacrificing the respect of impeccable wine making. Hand-harvesting, segregating fermentation of the grapes, combining techniques that yield a fuller vintage these are just a few of the choices made by Ferllen Winery, following a philosophy that aims for uniqueness and quality from the origin. Thanks to the labor of a dedicated team that year round focus their time and souls into the art of wine-making, the results can be seen and are even more evident upon a sip of any of our varietals.\nFerllen Winery a compilation of well-balanced varietals from Valle de Uco Mendoza, Argentina.\nAll the magic of the Uco Valley in a bottle. Enjoy the experience.",
+          "domain": "ferllenwinery.com",
+          "employees": "11 - 50",
+          "founded": "2006",
+          "fqdn": "www.ferllenwinery.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/d/06/d0664a3987ca331a0024f39e64071086",
+          "name": "Ferllen Winery",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Food & Beverage Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/ferllen-winery"
+            }
+          },
+          "address": "Miami North America United States US 1110 Brickell Ave; Suite 403; Miami, Fl 33131, US Florida FL -80.19365692138672,25.774269104003906 ",
+          "location": {
+            "city": "Miami",
+            "country": "United States",
+            "fullLocation": "Miami North America United States US 1110 Brickell Ave; Suite 403; Miami, Fl 33131, US Florida FL -80.19365692138672,25.774269104003906 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1110 Brickell Ave; Suite 403; Miami, Fl 33131, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://ferllenwinery.com/home",
+          "specialities": [
+            "chardonnay",
+            "malbec"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T01:34:23.110491",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T01:34:26.092235",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

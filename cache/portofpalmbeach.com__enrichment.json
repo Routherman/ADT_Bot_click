@@ -1,0 +1,138 @@
+{
+  "timestamp": "2025-09-20T13:21:39.176003",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T13:21:35.209433",
+      "company": {
+        "name": null,
+        "domain": "portofpalmbeach.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 3213333,
+          "description": "Established in 1915, the Port of Palm Beach District is a Special Taxing District, operating as a Sub-Division of the State of Florida. The taxing authority has not levied ad valorem taxes on district properties since 1975, operating solely off revenues generated through its operations.\n\nThe Port of Palm Beach is a full-service, diversified port, offering cruise and cargo services to more than 30 onsite tenants and users. At 162 acres, the Port’s efficiency is unparalleled, processing more than $7 billion in commodities, 2.5 million tons of cargo, and 500,000 cruise passengers annually. The Port of Palm Beach ranks as the fourth busiest of Florida’s 14 deepwater ports and 20th in the nation. \n\nMore than 2,850 people are employed by the Port of Palm Beach and its tenants, making it one of the largest employers in Palm Beach County. And through the contribution of more than $185 million in business revenue and $17.5 million in tenant-contributed state and local annual tax revenue, it is one of the largest economic engines in South Florida.",
+          "domain": "portofpalmbeach.com",
+          "employees": "51 - 200",
+          "founded": "1915",
+          "fqdn": "www.portofpalmbeach.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/4b/b4b1eb23f5794941587aacd6fa71bfc5",
+          "name": "Port of Palm Beach",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Transportation, Logistics, Supply Chain & Storage",
+          "subIndustry": "Maritime Transportation",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/port-of-palm-beach"
+            }
+          },
+          "address": "Riviera Beach North America United States US One East 11th Street, Suite 600, Riviera Beach, FL, 33404; Riviera Beach, FL 33404, US Florida FL -80.05809783935547,26.775339126586914 ",
+          "location": {
+            "city": "Riviera Beach",
+            "country": "United States",
+            "fullLocation": "Riviera Beach North America United States US One East 11th Street, Suite 600, Riviera Beach, FL, 33404; Riviera Beach, FL 33404, US Florida FL -80.05809783935547,26.775339126586914 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "One East 11th Street, Suite 600, Riviera Beach, FL, 33404; Riviera Beach, FL 33404, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 4412,
+                "description": "Deep sea foreign transportation of freight"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 488320,
+                "description": "Marine Cargo Handling"
+              }
+            ]
+          },
+          "website": "https://portofpalmbeach.com",
+          "specialities": [
+            "breakbulk",
+            "bulk",
+            "dry bulk",
+            "heavy lift cargo",
+            "reefer cargo",
+            "ro/ro",
+            "shipping containers"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T13:21:36.440625",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T13:21:39.171498",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

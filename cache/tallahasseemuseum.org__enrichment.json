@@ -1,0 +1,135 @@
+{
+  "timestamp": "2025-09-22T20:58:25.321852",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T20:58:21.245457",
+      "company": {
+        "name": null,
+        "domain": "tallahasseemuseum.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 809668,
+          "description": "From its first temporary location to the nationally recognized, accredited, 52-acre institution it is today, the Museum's educational commitment to the region and active learning has strengthened and broadened. Now providing programs for children, schools, families and adults, it serves a population of over 435,000 people in a 13-county region, promoting knowledge and understanding of the region’s cultural history and natural environment, and inspiring people to enrich their lives and build a better community.",
+          "domain": "tallahasseemuseum.org",
+          "employees": "11 - 50",
+          "founded": "1957",
+          "fqdn": "www.tallahasseemuseum.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/3/9b/39bcf91c3364e83a599191806b9b06f9",
+          "name": "Tallahassee Museum",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/tallahassee-museum"
+            }
+          },
+          "address": "Tallahassee North America United States US 3945  Museum Dr; Tallahassee, FL 32310, US Florida FL -84.28073120117188,30.43825912475586 ",
+          "location": {
+            "city": "Tallahassee",
+            "country": "United States",
+            "fullLocation": "Tallahassee North America United States US 3945  Museum Dr; Tallahassee, FL 32310, US Florida FL -84.28073120117188,30.43825912475586 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3945  Museum Dr; Tallahassee, FL 32310, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8412,
+                "description": "Museums and art galleries"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 712110,
+                "description": "Museums"
+              }
+            ]
+          },
+          "website": "https://tallahasseemuseum.org",
+          "specialities": [
+            "adult education",
+            "corporate team building",
+            "early childhood education",
+            "natural history"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T20:58:22.460282",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T20:58:25.316595",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

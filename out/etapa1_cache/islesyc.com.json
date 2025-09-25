@@ -1,0 +1,855 @@
+{
+  "site_url": "https://islesyc.com/",
+  "domain": "islesyc.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://islesyc.com/",
+    "https://islesyc.com/About_Us",
+    "https://islesyc.com/About_Us/Hours_of_Operation_Dress_Code",
+    "https://islesyc.com/About_Us/History",
+    "https://islesyc.com/About_Us/Upcoming_Events",
+    "https://islesyc.com/About_Us/Testimonials",
+    "https://islesyc.com/About_Us/Vision_Goals",
+    "https://islesyc.com/About_Us/Board_of_Directors",
+    "https://islesyc.com/About_Us/Contact_Us",
+    "https://islesyc.com/About_Us/Newsletters",
+    "https://islesyc.com/Dining_(1)/Weddings_Special_Occassions",
+    "https://islesyc.com/Membership",
+    "https://islesyc.com/Staging/Membership",
+    "https://islesyc.com/Home",
+    "https://islesyc.com/Dining_(1)",
+    "https://islesyc.com/On_the_Water",
+    "https://islesyc.com/On_the_Water/Dockmaster_and_Arrival_Info",
+    "https://islesyc.com/On_the_Water/Cruising",
+    "https://islesyc.com/On_the_Water/IYC_Sail_Club",
+    "https://islesyc.com/On_the_Water/Kayaking",
+    "https://islesyc.com/On_the_Water/Navigation_Information",
+    "https://islesyc.com/On_the_Water/Mariner_of_The_Year",
+    "https://islesyc.com/Activities_Members",
+    "https://islesyc.com/Activities_Members/Biking",
+    "https://islesyc.com/Activities_Members/Billiards",
+    "https://islesyc.com/Activities_Members/Bocce",
+    "https://islesyc.com/Activities_Members/Clubs",
+    "https://islesyc.com/Activities_Members/Fitness",
+    "https://islesyc.com/Activities_Members/Golf",
+    "https://islesyc.com/Activities_Members/Tennis",
+    "https://islesyc.com/IYC_Charity_Cup",
+    "https://islesyc.com/ChangePassword",
+    "https://islesyc.com/Staging/On_the_Water",
+    "https://islesyc.com/Activities_(1)",
+    "https://islesyc.com/cdn-cgi/l/email-protection",
+    "https://islesyc.com/Staging/About_Us/Hours_of_Operation_Dress_Code",
+    "https://islesyc.com/Staging/About_Us/History",
+    "https://islesyc.com/Staging/About_Us/Upcoming_Events",
+    "https://islesyc.com/Staging/About_Us/Testimonials",
+    "https://islesyc.com/Staging/About_Us/Vision_Goals",
+    "https://islesyc.com/Staging/About_Us/Board_of_Directors",
+    "https://islesyc.com/Staging/About_Us/Contact_Us",
+    "https://islesyc.com/Staging/About_Us/Newsletters"
+  ],
+  "candidates": [
+    "https://islesyc.com/About_Us/Contact_Us",
+    "https://islesyc.com/Staging/About_Us/Contact_Us",
+    "https://islesyc.com/About_Us/Upcoming_Events",
+    "https://islesyc.com/Staging/About_Us/Upcoming_Events",
+    "https://islesyc.com/About_Us",
+    "https://islesyc.com/About_Us/Board_of_Directors",
+    "https://islesyc.com/About_Us/History",
+    "https://islesyc.com/About_Us/Hours_of_Operation_Dress_Code",
+    "https://islesyc.com/About_Us/Newsletters",
+    "https://islesyc.com/About_Us/Testimonials",
+    "https://islesyc.com/About_Us/Vision_Goals",
+    "https://islesyc.com/Staging/About_Us/Board_of_Directors",
+    "https://islesyc.com/Staging/About_Us/History",
+    "https://islesyc.com/Staging/About_Us/Hours_of_Operation_Dress_Code",
+    "https://islesyc.com/Staging/About_Us/Newsletters",
+    "https://islesyc.com/Staging/About_Us/Testimonials",
+    "https://islesyc.com/Staging/About_Us/Vision_Goals",
+    "https://islesyc.com/Membership",
+    "https://islesyc.com/Staging/Membership",
+    "https://islesyc.com/Dining_(1)/Weddings_Special_Occassions",
+    "https://islesyc.com/",
+    "https://islesyc.com/contact",
+    "https://islesyc.com/contact/",
+    "https://islesyc.com/contact-us",
+    "https://islesyc.com/contact-us/",
+    "https://islesyc.com/contactus",
+    "https://islesyc.com/contactus/",
+    "https://islesyc.com/about",
+    "https://islesyc.com/about/",
+    "https://islesyc.com/about-us",
+    "https://islesyc.com/about-us/",
+    "https://islesyc.com/visit",
+    "https://islesyc.com/visit/",
+    "https://islesyc.com/location",
+    "https://islesyc.com/location/",
+    "https://islesyc.com/directions",
+    "https://islesyc.com/directions/"
+  ],
+  "per_page": {
+    "https://islesyc.com/About_Us/Contact_Us": {
+      "title": "Contact Us - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/About_Us/Contact_Us"
+          ]
+        }
+      },
+      "emails": [
+        "gm@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-2690",
+        "(941) 639-7551",
+        "(941) 769-0842"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/Staging/About_Us/Contact_Us": {
+      "title": "Contact Us - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/Staging/About_Us/Contact_Us"
+          ]
+        }
+      },
+      "emails": [
+        "gm@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-2690",
+        "(941) 639-7551",
+        "(941) 769-0842"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/About_Us/Upcoming_Events": {
+      "title": "Upcoming Events - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/About_Us/Upcoming_Events"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/Staging/About_Us/Upcoming_Events": {
+      "title": "Upcoming Events - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/Staging/About_Us/Upcoming_Events"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/About_Us": {
+      "title": "About Us - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/About_Us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/About_Us"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/About_Us/Board_of_Directors": {
+      "title": "Board of Directors - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/About_Us/Board_of_Directors"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/About_Us/History": {
+      "title": "History - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/About_Us/History"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/About_Us/History"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/About_Us/Hours_of_Operation_Dress_Code": {
+      "title": "Hours of Operation & Dress Code - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/About_Us/Hours_of_Operation_Dress_Code"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/About_Us/Newsletters": {
+      "title": "Newsletters - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/About_Us/Newsletters"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/About_Us/Testimonials": {
+      "title": "Testimonials - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/About_Us/Testimonials"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/About_Us/Testimonials"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/About_Us/Vision_Goals": {
+      "title": "Vision & Goals - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/About_Us/Vision_Goals"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/Staging/About_Us/Board_of_Directors": {
+      "title": "Board of Directors - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/Staging/About_Us/Board_of_Directors"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/Staging/About_Us/History": {
+      "title": "History - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/Staging/About_Us/History"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/Staging/About_Us/History"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/Staging/About_Us/Hours_of_Operation_Dress_Code": {
+      "title": "Hours of Operation & Dress Code - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/Staging/About_Us/Hours_of_Operation_Dress_Code"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/Staging/About_Us/Newsletters": {
+      "title": "Newsletters - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/Staging/About_Us/Newsletters"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/Staging/About_Us/Testimonials": {
+      "title": "Testimonials - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/Staging/About_Us/Testimonials"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/Staging/About_Us/Testimonials"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/Staging/About_Us/Vision_Goals": {
+      "title": "Vision & Goals - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/Staging/About_Us/Vision_Goals"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/Membership": {
+      "title": "Membership - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/Membership"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(941) 639-1369",
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/Staging/Membership": {
+      "title": "Membership - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/Staging/Membership"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(941) 639-1369",
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/Dining_(1)/Weddings_Special_Occassions": {
+      "title": "Weddings & Special Occasions - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/Dining_(1)/Weddings_Special_Occassions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/": {
+      "title": "Home - Isles Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://islesyc.com/"
+          ]
+        }
+      },
+      "emails": [
+        "iyc@islesyc.com",
+        "membership@islesyc.com"
+      ],
+      "phones": [
+        "(941) 639-7551"
+      ],
+      "socials": [
+        "https://www.facebook.com/islesyachtclub"
+      ]
+    },
+    "https://islesyc.com/contact": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islesyc.com/contact/": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islesyc.com/contact-us": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islesyc.com/contact-us/": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islesyc.com/contactus": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islesyc.com/contactus/": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islesyc.com/about": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islesyc.com/about/": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islesyc.com/about-us": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islesyc.com/about-us/": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islesyc.com/visit": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islesyc.com/visit/": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islesyc.com/location": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islesyc.com/location/": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islesyc.com/directions": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://islesyc.com/directions/": {
+      "title": "Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

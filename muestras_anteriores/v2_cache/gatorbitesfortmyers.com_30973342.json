@@ -1,0 +1,62 @@
+{
+  "pages": [
+    {
+      "url": "https://www.gatorbitesfortmyers.com/contact",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "========= Site Content =========\nFood Menu\nDrink Menu\nFood Specials\nEntertainment\nOur Reviews\nContact Us\n239-267-1317\nCall for Seasonal Live Music Schedule!\nFood Menu\nDrink Menu\nFood Specials\nEntertainment\nOur Reviews\nContact Us\nDon't hesitate to\nCONTACT US\nLeave us a message\nPhone\n(239) 267-1317\nLocation\n20351 Summerlin Rd, Ste #120, Fort Myers, FL 33908\nHours\nMon - Sun\n12:00 pm\n-\n12:00 am\nQuick Links\nFood Menu\nDrink Menu\nFood Specials\nEntertainment\nOur Reviews\nContact Us\nContact Info\n(239) 267-1317\n20351 Summerlin Rd, Ste #120, Fort Myers, FL 33908\nMon-Sun: 12pm to Midnight\nFollow Us\nCopyright GatorBites Tale & Ale | All Rights Reserved | Designed by\nYeppy Marketing Agency\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: daa35f02\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": []
+    },
+    {
+      "url": "https://www.facebook.com/bitethegator",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "https://www.gatorbitesfortmyers.com/reviews",
+    "https://www.gatorbitesfortmyers.com/home",
+    "https://www.gatorbitesfortmyers.com/food-specials",
+    "https://www.gatorbitesfortmyers.com/drink-menu",
+    "https://www.gatorbitesfortmyers.com/entertainment",
+    "https://www.gatorbitesfortmyers.com/",
+    "https://www.gatorbitesfortmyers.com/menu#Munchies",
+    "https://www.gatorbitesfortmyers.com/menu#Burgers",
+    "https://www.gatorbitesfortmyers.com/menu#Fish",
+    "https://www.gatorbitesfortmyers.com/contact",
+    "https://www.gatorbitesfortmyers.com/menu"
+  ],
+  "candidate_links": [
+    "https://www.gatorbitesfortmyers.com/contact",
+    "https://www.facebook.com/bitethegator"
+  ],
+  "visited": [
+    "https://www.gatorbitesfortmyers.com/",
+    "https://www.gatorbitesfortmyers.com/about",
+    "https://www.gatorbitesfortmyers.com/contact",
+    "https://www.gatorbitesfortmyers.com/staff",
+    "https://www.gatorbitesfortmyers.com/team",
+    "https://www.gatorbitesfortmyers.com/board",
+    "https://www.gatorbitesfortmyers.com/directory",
+    "https://www.gatorbitesfortmyers.com/events",
+    "https://www.gatorbitesfortmyers.com/sitemap.xml",
+    "https://www.gatorbitesfortmyers.com/council",
+    "https://www.gatorbitesfortmyers.com/leadership",
+    "https://www.gatorbitesfortmyers.com/management",
+    "https://www.gatorbitesfortmyers.com/producers",
+    "https://www.gatorbitesfortmyers.com/support",
+    "https://www.gatorbitesfortmyers.com/crew",
+    "https://www.gatorbitesfortmyers.com/members",
+    "https://www.gatorbitesfortmyers.com/bios",
+    "https://www.gatorbitesfortmyers.com/people",
+    "https://www.gatorbitesfortmyers.com/artists",
+    "https://www.gatorbitesfortmyers.com/musicians",
+    "https://www.gatorbitesfortmyers.com/faculty",
+    "https://www.gatorbitesfortmyers.com/administration",
+    "https://www.gatorbitesfortmyers.com/contact",
+    "https://www.facebook.com/bitethegator"
+  ],
+  "base_url": "https://www.gatorbitesfortmyers.com/"
+}

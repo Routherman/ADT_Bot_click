@@ -1,0 +1,155 @@
+{
+  "timestamp": "2025-09-25T00:20:34.804231",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T00:20:30.496421",
+      "company": {
+        "name": null,
+        "domain": "flaquarium.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 60966,
+          "description": "The Florida Aquarium actively participates in and promotes stewardship of the natural environment as part of our mission of conservation. As a 501(c)(3) not-for-profit organization, The Florida Aquarium provides an opportunity to see over 8,000 aquatic and terrestrial animals, explore complex ecosystems, look for wild dolphins in Tampa Bay, play at the Splash Pad and more! Ranked #2 Aquarium in North America in a recent USA TODAY’S 10Best Readers’ Choice Awards, the aquarium is more than a must-see attraction, The Florida Aquarium is working to protect and restore our blue planet on many conservation fronts, including research and rescue efforts that help restore Florida’s sea turtle and coral populations and to ensure that sharks continue to swim our seas. In August of 2019, The Florida Aquarium, in partnership with Project Coral, became the first to successfully spawn critically endangered pillar coral in a laboratory. To learn more, follow us on social media at @floridaaquarium and visit www.flaquarium.org.",
+          "domain": "flaquarium.org",
+          "employees": "201 - 500",
+          "founded": "1995",
+          "fqdn": "www.flaquarium.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/3/0b/30b00079a9d5b065ef4057488efebfd2",
+          "name": "The Florida Aquarium",
+          "revenueRange": [
+            50000000,
+            100000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/the-florida-aquarium"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/the-florida-aquarium"
+            }
+          },
+          "address": "Tampa North America United States US The Florida Aquarium; 701 Channelside Drive; Tampa, FL 33602, US Florida FL -82.45842742919922,27.947519302368164 ",
+          "location": {
+            "city": "Tampa",
+            "country": "United States",
+            "fullLocation": "Tampa North America United States US The Florida Aquarium; 701 Channelside Drive; Tampa, FL 33602, US Florida FL -82.45842742919922,27.947519302368164 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "The Florida Aquarium; 701 Channelside Drive; Tampa, FL 33602, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8412,
+                "description": "Museums and art galleries"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 712120,
+                "description": "Historical Sites"
+              }
+            ]
+          },
+          "website": "https://flaquarium.org",
+          "specialities": [
+            "animal enrichment",
+            "conservation",
+            "education",
+            "educational outreach",
+            "environment",
+            "environmental stewardship",
+            "research"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "roundType": "Grant",
+                "roundDate": "Jun 18, 2025"
+              }
+            ],
+            "totalRounds": 1,
+            "totalRoundsAmount": 0,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundType": "Grant",
+            "lastRoundDate": "Jun 18, 2025"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T00:20:31.889837",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T00:20:34.799223",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

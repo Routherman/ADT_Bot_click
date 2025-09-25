@@ -1,0 +1,168 @@
+{
+  "site_url": "https://riverlanes.com/",
+  "domain": "riverlanes.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://riverlanes.com/",
+    "https://riverlanes.com/contact-us/",
+    "https://riverlanes.com",
+    "https://riverlanes.com/rates-times/",
+    "https://riverlanes.com/leagues/",
+    "https://riverlanes.com/youth/",
+    "https://riverlanes.com/food-spirits/",
+    "https://riverlanes.com/birthday-parties/",
+    "https://riverlanes.com/group-events/",
+    "https://riverlanes.com/tournaments/"
+  ],
+  "candidates": [
+    "https://riverlanes.com/contact-us/",
+    "https://riverlanes.com",
+    "https://riverlanes.com/",
+    "https://riverlanes.com/group-events/"
+  ],
+  "per_page": {
+    "https://riverlanes.com/contact-us/": {
+      "title": "Contact us – River Lanes (New)",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://riverlanes.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@riverlanes.com"
+      ],
+      "phones": [
+        "(321) 267-7118",
+        "(321)-267-7118"
+      ],
+      "socials": [
+        "https://instagram.com/river_lanes/",
+        "https://www.facebook.com/RiverLanesFEC"
+      ]
+    },
+    "https://riverlanes.com": {
+      "title": "River Lanes (New) – My WordPress Blog",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://riverlanes.com"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321)267-7118"
+      ],
+      "socials": [
+        "https://instagram.com/river_lanes/",
+        "https://www.facebook.com/RiverLanesFEC"
+      ]
+    },
+    "https://riverlanes.com/": {
+      "title": "River Lanes (New) – My WordPress Blog",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://riverlanes.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321)267-7118"
+      ],
+      "socials": [
+        "https://instagram.com/river_lanes/",
+        "https://www.facebook.com/RiverLanesFEC"
+      ]
+    },
+    "https://riverlanes.com/group-events/": {
+      "title": "Group Events – River Lanes (New)",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://riverlanes.com/group-events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

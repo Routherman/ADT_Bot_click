@@ -1,0 +1,50 @@
+{
+  "pages": [
+    {
+      "url": "http://nanacat40.tripod.com/id2.html",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "'\"</title></head>\nform name=\"search\" onSubmit=\"return searchit()\" id='header_search' >\n<input type=\"text\" placeholder=\"Search\" size=30 name=\"search2\" value=\"\">\n<input type=\"button\" value=\"Go!\" onClick=\"searchit()\">\n</form>\n<style>\nform#header_search {\n    width: 916px;\n    margin: 0 auto 8px;\n    position: relative;\n}\n\n\nform#header_search input {\n    height: 40px;\n    font-size: 14px;\n    line-height: 40px;\n    padding: 0 8px;\n    box-sizing: border-box;\n    background: #F4F2E9;\n    border: 1px solid #BBB8B8;\n    transition: background-color 300ms ease-out,\n                color 300ms ease;\n}\n\nform#header_search input[type=\"text\"] {\n    width: 100%;\n}\nform#header_search input[type=\"text\"]:focus {\n    border-color: #A2D054;\n    background-color: #fff;\n    box-shadow: 0 0px 12px -4px #A2D054;\n}\n\n\n\nform#header_search input[type=\"button\"] {\n    position: absolute;\n    top: 1px;\n    right: 1px;\n    opacity: 1;\n    background: #DFDCCF;\n    color: #463734;\n    width: 125px;\n    cursor: pointer;\n    height: 38px;\n    border: none;\n}\nform#header_search input[type=\"text\"]:focus ~ input[type='button']:hover,\nform#header_search input[type='button']:hover {\n    background-color: #A5CE56;\n    color: #fff;\n}\nform#header_search input[type=\"text\"]:focus ~ input[type='button'] {\n    background-color: #52AEDF;\n    color: #fff;\n}\n\n</style>\n\n<script>\nfunction searchit(){\n    \n    // determine environment \n    var search_env \n    if (lycos_ad_www_server.indexOf(\".pd.\") > -1) {\n       search_env = 'http://search51.pd.lycos.com/a/';\n    } else if (lycos_ad_www_server.indexOf(\".qa.\") > -1) {\n       search_env = 'http://search51.qa.lycos.com/a/';\n    } else {\n       search_env = 'http://search51.lycos.com/a/';\n    }\n\nvar search_term = encodeURIComponent(document.search.search2.value)\nvar search_url = search_env+search_term;\nwindow.open(search_url);\n\nreturn false\n}\n</script\nadded 7/22\nPINTO'S LOUNGE.COM\nContact Us\nnavbar Type=\"vert\" uses-text=\"Y\" face=\"Times New Roman,Times,serif\" size=\"2\" color=\"0000ff\" style=\"0\"\nHome\nContact Us\nActivities\nBands\nGallery of Photos\nMap\n/navbar\narea Type=\"subhead\" face=\"Arial,Helvetica,sans-serif\" size=\"3\" color=\"black\" style=\"3\"\nLet us know what you think!\n/area Type=\"subhead\"\narea Type=\"main\" face=\"Arial,Helvetica,sans-serif\" size=\"2\" color=\"black\" style=\"0\"\nGive us a call or send an e-mail today for more information.\n\"''\"\n321-269-7665\n\"''\"\nContact Pinto's\nOr send us mail:\nPinto's Lounge 7555 South\n                                    US1 Titusville, Fl, 32780\n\"''\"\n/area Type=\"main\"\narea Type=\"area_a\" face=\"Arial,Helvetica,sans-serif\" size=\"2\" color=\"black\" style=\"0\"\n/area Type=\"area_a\"\narea Type=\"area_b\" face=\"Arial,Helvetica,sans-serif\" size=\"2\" color=\"black\" style=\"0\"\n/area Type=\"area_b\"\narea Type=\"area_c\" face=\"Arial,Helvetica,sans-serif\" size=\"2\" color=\"black\" style=\"0\"\n/area Type=\"area_c\"\narea Type=\"runner\" face=\"Arial,Helvetica,sans-serif\" size=\"1\" color=\"black\" style=\"1\"\nThanks for visiting our site!\narea Type=\"footer\" face=\"Arial,Helvetica,sans-serif\" size=\"1\" color=\"black\" style=\"1\"\nPinto's Lounge 7555 South US1 Titusville, Fl, 32780\n\"''\"\n/area Type=\"footer\"\n/area Type=\"runner\"",
+      "emails": [
+        "nanacat40@lycos.com"
+      ]
+    }
+  ],
+  "all_links": [
+    "http://nanacat40.tripod.com/id6.html",
+    "http://nanacat40.tripod.com/id3.html",
+    "http://nanacat40.tripod.com/id2.html",
+    "http://nanacat40.tripod.com/id4.html",
+    "http://nanacat40.tripod.com/index.html",
+    "http://nanacat40.tripod.com/id5.html"
+  ],
+  "candidate_links": [
+    "http://nanacat40.tripod.com/id2.html"
+  ],
+  "visited": [
+    "http://nanacat40.tripod.com/",
+    "http://nanacat40.tripod.com/about",
+    "http://nanacat40.tripod.com/contact",
+    "http://nanacat40.tripod.com/staff",
+    "http://nanacat40.tripod.com/team",
+    "http://nanacat40.tripod.com/board",
+    "http://nanacat40.tripod.com/directory",
+    "http://nanacat40.tripod.com/events",
+    "http://nanacat40.tripod.com/sitemap.xml",
+    "http://nanacat40.tripod.com/council",
+    "http://nanacat40.tripod.com/leadership",
+    "http://nanacat40.tripod.com/management",
+    "http://nanacat40.tripod.com/producers",
+    "http://nanacat40.tripod.com/support",
+    "http://nanacat40.tripod.com/crew",
+    "http://nanacat40.tripod.com/members",
+    "http://nanacat40.tripod.com/bios",
+    "http://nanacat40.tripod.com/people",
+    "http://nanacat40.tripod.com/artists",
+    "http://nanacat40.tripod.com/musicians",
+    "http://nanacat40.tripod.com/faculty",
+    "http://nanacat40.tripod.com/administration",
+    "http://nanacat40.tripod.com/id2.html"
+  ],
+  "base_url": "http://nanacat40.tripod.com/"
+}

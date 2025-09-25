@@ -1,0 +1,132 @@
+{
+  "site_url": "https://kaylahustonevents.com/",
+  "domain": "kaylahustonevents.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://kaylahustonevents.com/",
+    "https://www.kaylahustonevents.com/weddings",
+    "https://www.kaylahustonevents.com/events-gallery",
+    "https://www.kaylahustonevents.com",
+    "https://www.kaylahustonevents.com/khe-meow",
+    "https://www.kaylahustonevents.com/collections",
+    "https://www.kaylahustonevents.com/main-gallery",
+    "https://www.kaylahustonevents.com/video-gallery",
+    "https://www.kaylahustonevents.com/letschat",
+    "https://www.kaylahustonevents.com/balloon-menu",
+    "http://www.kaylahustonevents.com/letschat"
+  ],
+  "candidates": [
+    "https://www.kaylahustonevents.com/events-gallery",
+    "https://www.kaylahustonevents.com/weddings",
+    "https://kaylahustonevents.com/"
+  ],
+  "per_page": {
+    "https://www.kaylahustonevents.com/events-gallery": {
+      "title": "Events Gallery | kaylahustonevents",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 2,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.kaylahustonevents.com/events-gallery"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.kaylahustonevents.com/weddings": {
+      "title": "Wedding Gallery | kaylahustonevents",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.kaylahustonevents.com/weddings"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://kaylahustonevents.com/": {
+      "title": "Kayla Huston Events | info@kaylahustonevents.com",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 2,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://kaylahustonevents.com/"
+          ]
+        }
+      },
+      "emails": [
+        "info@kaylahustonevents.com"
+      ],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

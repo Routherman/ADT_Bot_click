@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "url": "http://townshiptlh.com/our-events",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "Events at Township\nNo matter what day of the week, you can always find something happening here at Township. From Flip My Ship and Dueling Pianos to $2 Tuesday and The Perfect Week, our events are the prefect reason to grab your crew, order a Das Mule and make some memories\nWeekly\n<span class=\"events-nav__button js-upcoming\">Upcoming</span>\nSignature\nWeekly\nTuesdays\nSee More Photos\n×\n$2 Tuesday\n7:00pm\nEvery Tuesday join us for $2 Tuesday. $2 wells ($4 doubles), $2 off half liter beer cocktails, $2 Smash Burger Tacos and $2 select shots\nWednesdays\n×\nTownie Bingo\n7:00pm\nEvery Wednesday come in for Townie Bingo with $10 Townie Punch and prizes for winners\nThursdays\n×\nDice Price\n7:00pm\nRoll into the weekend with Dice Price every Thursday. Order a well liquor, select draft beer, goat shot, green tea shot, or lemon drop. Bartender rolls the dice and whatever side it lands on is the price of your drink.\nFridays\n×\nFlip My Ship\n4:00pm - 7:00pm\nEvery Friday join us for Flip My Ship. Order any half liter beer cocktail, half liter select draft, well liquor and tell the bartender you want to Flip My Ship. For every drink or shot ordered, the bartender flips a quarter and you call it in the air. If you win, that drink is on us. If you lose, you pay for the drink\nSaturdays\n×\nBuckets and Doubles\n12:00pm\n$15 buckets of High Noon Sun Sips, Michelob Ultra or Mom Water. Then from 6-10pm, $6 double wells.\n<section class=\"events-section\" id=\"upcoming\">\n\n      <div class=\"events-section__heading-container\">\n        <span class=\"events-section__heading-line\"></span><h2 class=\"events-section__heading\">Upcoming</h2><span class=\"events-section__heading-line\"></span>\n      </div>\n\n      \n      <div class=\"events-section__event\">\n        <div class=\"event__photos\">\n          <img class=\"event__image\" src='/cms/resources/events/event-placeholder-w370h190.jpg' alt=\"Event image\">\n              \n          <button class=\"event__see-more js-modal-button\" data-open='event-modal-1'>\n              See More Photos\n            </button>\n        \n        <div class=\"reveal modal\" id='event-modal-1' data-reveal data-animation-in=\"fade-in\" data-animation-out=\"fade-out\">\n\n            <div class=\"orbit in-modal\" role=\"region\" aria-label=\"Modal image slider\" data-orbit data-anim-in-from-left=\"township-slide-in-left\" data-anim-in-from-right=\"township-slide-in-right\" data-anim-out-to-left=\"township-slide-out-left\" data-anim-out-to-right=\"township-slide-out-right\">\n            \n              <button class=\"close-button\" data-close aria-label=\"Close modal\" type=\"button\">\n                <span aria-hidden=\"true\">&times;</span>\n              </button>\n            \n              <div class=\"orbit-wrapper\">\n            \n                <div class=\"orbit-controls\">\n                  <button class=\"orbit-previous\">\n                    <img src=\"_assets/img/hero-left.png\" alt=\"Previous Slide\">\n                  </button>\n                  <button class=\"orbit-next\">\n                    <img src=\"_assets/img/hero-right.png\" alt=\"Next Slide\">\n                  </button>\n                </div>\n            \n                <ul class=\"orbit-container\">\n                  \n                                            <li class=\"orbit-slide\">\n                                                <figure class=\"orbit-figure\">\n                                                    <img class=\"orbit-image\" src='/cms/resources/gallery/book-event-madison-w1024h768.png'>\n                                                </figure>\n                                            </li>\n                                        \n                                            <li class=\"orbit-slide\">\n                                                <figure class=\"orbit-figure\">\n                                                    <img class=\"orbit-image\" src='/cms/resources/gallery/book-event-garden-w1024h768.png'>\n                                                </figure>\n                                            </li>\n                                        \n                </ul>\n            \n              </div>\n            </div>\n            \n            </div>\n        </div>\n        <div class=\"event__content\">\n          <h3 class=\"event__title\">\n              Upcoming Event\n          </h3>\n          <p class=\"event__datetime\">\n            <span class=\"event__date\">\n                Wednesday, 07/24/19\n            </span>|\n            <span class=\"event__time\">\n                7:00 - 12:00 a.m.\n            </span>\n            \n            |\n            <span class=\"event__note\">\n                Checkin: 6:30 p.m.\n            </span>\n\n          </p>\n          <p class=\"event__details\">\n              Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n          </p>\n          <a class=\"event__register\" href='https://www.eventbrite.com/' target=\"_blank\">\n              Register Now\n          </a>\n        </div>\n    </div>\n\n      <div class=\"events-section__event\">\n        <div class=\"event__photos\">\n          <img class=\"event__image\" src='/cms/resources/events/event-placeholder-w370h190.jpg' alt=\"Event image\">\n              \n        <div class=\"reveal modal\" id='event-modal-2' data-reveal data-animation-in=\"fade-in\" data-animation-out=\"fade-out\">\n\n            <div class=\"orbit in-modal\" role=\"region\" aria-label=\"Modal image slider\" data-orbit data-anim-in-from-left=\"township-slide-in-left\" data-anim-in-from-right=\"township-slide-in-right\" data-anim-out-to-left=\"township-slide-out-left\" data-anim-out-to-right=\"township-slide-out-right\">\n            \n              <button class=\"close-button\" data-close aria-label=\"Close modal\" type=\"button\">\n                <span aria-hidden=\"true\">&times;</span>\n              </button>\n            \n              <div class=\"orbit-wrapper\">\n            \n                <div class=\"orbit-controls\">\n                  <button class=\"orbit-previous\">\n                    <img src=\"_assets/img/hero-left.png\" alt=\"Previous Slide\">\n                  </button>\n                  <button class=\"orbit-next\">\n                    <img src=\"_assets/img/hero-right.png\" alt=\"Next Slide\">\n                  </button>\n                </div>\n            \n                <ul class=\"orbit-container\">\n                  \n                </ul>\n            \n              </div>\n            </div>\n            \n            </div>\n        </div>\n        <div class=\"event__content\">\n          <h3 class=\"event__title\">\n              Another Future Event\n          </h3>\n          <p class=\"event__datetime\">\n            <span class=\"event__date\">\n                Thursday, 08/29/19\n            </span>|\n            <span class=\"event__time\">\n                10:00 p.m. - 12:00 a.m.\n            </span>\n            \n          </p>\n          <p class=\"event__details\">\n              Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Maecenas faucibus mollis interdum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n          </p>\n          <a class=\"event__register\" href='https://www.eventbrite.com/' target=\"_blank\">\n              Register Now\n          </a>\n        </div>\n    </div>\n   \n\n    </section>\nSignature\nSee More Photos\n×\nJulia Cole\nSaturday, 10/12/24\n|\n7pm\nGet ready, Townies. Nashville country artist, television host, and rising star Julia Cole, who also recently made her Grand Ole Opry debut, is coming to the Ship. So mark your calendars for Saturday, October 12, and let’s make Tallahassee the loudest stop of her tour. $5 cover starting at 5pm. Show starts at 8pm.\nWeekly\nTuesdays\nSee More Photos\n×\n$2 Tuesday\n7:00pm\nEvery Tuesday join us for $2 Tuesday. $2 wells ($4 doubles), $2 off half liter beer cocktails, $2 Smash Burger Tacos and $2 select shots\nWednesdays\n×\nTownie Bingo\n7:00pm\nEvery Wednesday come in for Townie Bingo with $10 Townie Punch and prizes for winners\nThursdays\n×\nDice Price\n7:00pm\nRoll into the weekend with Dice Price every Thursday. Order a well liquor, select draft beer, goat shot, green tea shot, or lemon drop. Bartender rolls the dice and whatever side it lands on is the price of your drink.\nFridays\n×\nFlip My Ship\n4:00pm - 7:00pm\nEvery Friday join us for Flip My Ship. Order any half liter beer cocktail, half liter select draft, well liquor and tell the bartender you want to Flip My Ship. For every drink or shot ordered, the bartender flips a quarter and you call it in the air. If you win, that drink is on us. If you lose, you pay for the drink\nSaturdays\n×\nBuckets and Doubles\n12:00pm\n$15 buckets of High Noon Sun Sips, Michelob Ultra or Mom Water. Then from 6-10pm, $6 double wells.\nSignature\nSee More Photos\n×\nJulia Cole\nSaturday, 10/12/24\n|\n7pm\nGet ready, Townies. Nashville country artist, television host, and rising star Julia Cole, who also recently made her Grand Ole Opry debut, is coming to the Ship. So mark your calendars for Saturday, October 12, and let’s make Tallahassee the loudest stop of her tour. $5 cover starting at 5pm. Show starts at 8pm.",
+      "emails": [
+        "info@townshiptlh.com"
+      ]
+    },
+    {
+      "url": "http://townshiptlh.com/book-event",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "Book Event\nThe Garden is a unique setting to Tallahassee complete with outdoor fireplace and a retractable awning. Ohh, and let’s not forget the 32 taps and private bar.\nSubmit an Event Request\nHost It Here at Township\nWhatever the event, we've got you covered. Here are just a few of the events that we can host.\nEngagement parties (including brunch)\nCharitable functions and fundraisers\nCorporate meetings and social gatherings\nBaby showers (including brunch)\nHigh school reunions\nNon-profit meetings and social gatherings\nWedding rehearsal dinners (including brunch)\nConference caterings\nOffice lunch delivery\nSee More Photos\n×\nMore Space Details\n×\nphp // /orbit-wrapper ?\nphp // /hero ?",
+      "emails": [
+        "info@townshiptlh.com"
+      ]
+    }
+  ],
+  "all_links": [
+    "http://townshiptlh.com/our-events",
+    "http://townshiptlh.com/oktoberfest",
+    "http://townshiptlh.com/book-event",
+    "mailto:info@townshiptlh.com",
+    "http://townshiptlh.com/menus/",
+    "http://townshiptlh.com/"
+  ],
+  "candidate_links": [
+    "http://townshiptlh.com/our-events",
+    "http://townshiptlh.com/book-event"
+  ],
+  "visited": [
+    "http://townshiptlh.com/",
+    "http://townshiptlh.com/about",
+    "http://townshiptlh.com/contact",
+    "http://townshiptlh.com/staff",
+    "http://townshiptlh.com/team",
+    "http://townshiptlh.com/board",
+    "http://townshiptlh.com/directory",
+    "http://townshiptlh.com/events",
+    "http://townshiptlh.com/sitemap.xml",
+    "http://townshiptlh.com/council",
+    "http://townshiptlh.com/leadership",
+    "http://townshiptlh.com/management",
+    "http://townshiptlh.com/producers",
+    "http://townshiptlh.com/support",
+    "http://townshiptlh.com/crew",
+    "http://townshiptlh.com/members",
+    "http://townshiptlh.com/bios",
+    "http://townshiptlh.com/people",
+    "http://townshiptlh.com/artists",
+    "http://townshiptlh.com/musicians",
+    "http://townshiptlh.com/faculty",
+    "http://townshiptlh.com/administration",
+    "http://townshiptlh.com/our-events",
+    "http://townshiptlh.com/book-event"
+  ],
+  "base_url": "http://townshiptlh.com/"
+}

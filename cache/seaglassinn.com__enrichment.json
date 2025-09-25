@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-20T08:48:55.812788",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T08:48:52.065595",
+      "company": {
+        "name": null,
+        "domain": "seaglassinn.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 5353662,
+          "description": "The historic SeaGlass Inn was built in 1915 and was originally a boarding house owned by the McCormick sisters.  Travelers came by ferry to our Melbourne Beach pier, boarded a small rail car, and traveled down Ocean Avenue to the beach.  The SeaGlass Inn Bed and Breakfast has preserved the traditional island-style setting in the inviting Historic Inn House and added the Treehouse Cabana which features six brand new rooms.  This unique addition is built around a majestic oak tree that comes right through the roof!   You’ll delight in the tropical atmosphere of our spacious courtyard with a heated swimming pool, glistening glass firepit and more.  Make yourself at home here in the shade of mature mango trees ~ enjoy family gatherings and events ~ and stay for a while.  It’s a wonderfully comfortable and captivating place.\n\n The SeaGlass Inn Bed & Breakfast is located in the charming town of Melbourne Beach ~ a barrier island oasis on central Florida’s Atlantic shore that is truly one of the best kept secrets on the coast!  Here, you can stroll to sunrises on pristine beaches to the east - and spectacular sunsets over the beautiful Indian River Lagoon to the west.  In between, you’ll find a multitude of fine and casual dining options, as well as beautiful parks and local events to enhance your holiday enjoyment.\n\nIf you are coming for the beach, you will not be disappointed!  Miles of quiet, sandy beaches and our blissful Florida weather help make Melbourne Beach the tropical escape of your dreams.  Surf, fish, sunbathe, gather shells and seaglass…  You will love it here and will marvel at the awesome wildlife that graces our shores in abundance, including dolphins, manatees and whales!  We are also a designated sea turtle nesting area and a haven for magnificent birdlife.\n\nAll this and more, and yet we are around the corner from Orlando’s tourism attractions for those visitors wanting to enjoy a diversity of entertainment options.",
+          "domain": "seaglassinn.com",
+          "employees": "1 - 10",
+          "fqdn": "www.seaglassinn.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/d/bd/dbd91fd23dcccc0b25eaad0c9e780b38",
+          "name": "SeaGlass Inn Bed & Breakfast",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/seaglass-inn-bed-%26-breakfast"
+            }
+          },
+          "address": "Melbourne Beach North America United States US 514 Ocean Avenue; Melbourne Beach, Florida 32951, US Florida FL -80.56033325195312,28.068349838256836 ",
+          "location": {
+            "city": "Melbourne Beach",
+            "country": "United States",
+            "fullLocation": "Melbourne Beach North America United States US 514 Ocean Avenue; Melbourne Beach, Florida 32951, US Florida FL -80.56033325195312,28.068349838256836 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "514 Ocean Avenue; Melbourne Beach, Florida 32951, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://seaglassinn.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T08:48:53.368972",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T08:48:55.807518",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "site_url": "https://locations.bonefishgrill.com/",
+  "domain": "locations.bonefishgrill.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://locations.bonefishgrill.com/",
+    "https://locations.bonefishgrill.com/search",
+    "https://locations.bonefishgrill.com",
+    "https://locations.bonefishgrill.com/alabama",
+    "https://locations.bonefishgrill.com/arkansas",
+    "https://locations.bonefishgrill.com/colorado",
+    "https://locations.bonefishgrill.com/florida",
+    "https://locations.bonefishgrill.com/georgia",
+    "https://locations.bonefishgrill.com/illinois",
+    "https://locations.bonefishgrill.com/indiana",
+    "https://locations.bonefishgrill.com/kansas",
+    "https://locations.bonefishgrill.com/kentucky",
+    "https://locations.bonefishgrill.com/louisiana",
+    "https://locations.bonefishgrill.com/maryland",
+    "https://locations.bonefishgrill.com/michigan",
+    "https://locations.bonefishgrill.com/missouri/brentwood/8780-eager-road",
+    "https://locations.bonefishgrill.com/nebraska/omaha/120-regency-parkway",
+    "https://locations.bonefishgrill.com/nevada/las-vegas",
+    "https://locations.bonefishgrill.com/new-jersey",
+    "https://locations.bonefishgrill.com/new-york",
+    "https://locations.bonefishgrill.com/north-carolina",
+    "https://locations.bonefishgrill.com/ohio",
+    "https://locations.bonefishgrill.com/oklahoma/broken-arrow/4651-w.-kenosha-street",
+    "https://locations.bonefishgrill.com/pennsylvania",
+    "https://locations.bonefishgrill.com/south-carolina",
+    "https://locations.bonefishgrill.com/tennessee",
+    "https://locations.bonefishgrill.com/texas",
+    "https://locations.bonefishgrill.com/virginia",
+    "https://locations.bonefishgrill.com/washington",
+    "https://locations.bonefishgrill.com/wisconsin",
+    "https://locations.bonefishgrill.com/index.html",
+    "https://locations.bonefishgrill.com/alabama/huntsville/4800-whitesburg-drive-s.",
+    "https://locations.bonefishgrill.com/alabama/mobile/6955-airport-boulevard",
+    "https://locations.bonefishgrill.com/alabama/montgomery/7020-eastchase-parkway",
+    "https://locations.bonefishgrill.com/arkansas/little-rock/11525-cantrell-road",
+    "https://locations.bonefishgrill.com/arkansas/rogers/3201-market-street",
+    "https://locations.bonefishgrill.com/colorado/colorado-springs/5102-north-nevada-avenue",
+    "https://locations.bonefishgrill.com/colorado/denver/8100-w.-crestline-avenue",
+    "https://locations.bonefishgrill.com/colorado/greenwood/4948-s.-yosemite-street",
+    "https://locations.bonefishgrill.com/colorado/johnstown/4920-thompson-parkway",
+    "https://locations.bonefishgrill.com/colorado/lakewood/14770-w.-colfax-ave.",
+    "https://locations.bonefishgrill.com/colorado/westminster/10438-town-center-drive",
+    "https://locations.bonefishgrill.com/florida/belleair-bluffs/2939-west-bay-drive",
+    "https://locations.bonefishgrill.com/florida/boca-raton/9598-glades-road",
+    "https://locations.bonefishgrill.com/florida/bonita-springs/26381-south-tamiami-trail",
+    "https://locations.bonefishgrill.com/florida/boynton-beach/1880-n.-congress-avenue",
+    "https://locations.bonefishgrill.com/florida/bradenton/7456-cortez-road-w",
+    "https://locations.bonefishgrill.com/florida/brandon/1015-providence-road",
+    "https://locations.bonefishgrill.com/florida/brooksville/12906-cortez-rd.",
+    "https://locations.bonefishgrill.com/florida/cape-coral/900-sw-pine-island-rd.",
+    "https://locations.bonefishgrill.com/florida/clearwater/2519-mcmullen-booth-road",
+    "https://locations.bonefishgrill.com/florida/coral-springs/1455-n.-university-drive",
+    "https://locations.bonefishgrill.com/florida/daytona-beach/1702-w.-international-speedway-blvd.",
+    "https://locations.bonefishgrill.com/florida/destin/4447-commons-drive-e",
+    "https://locations.bonefishgrill.com/florida/ft.-lauderdale/300-terminal-drive-63",
+    "https://locations.bonefishgrill.com/florida/ft.-myers/14261-s.-tamiami-trail",
+    "https://locations.bonefishgrill.com/florida/gainesville/3237-sw-35th-boulevard",
+    "https://locations.bonefishgrill.com/florida/jacksonville/10950-san-jose-boulevard",
+    "https://locations.bonefishgrill.com/florida/jacksonville-beach/2400-s.-3rd-street",
+    "https://locations.bonefishgrill.com/florida/kissimmee",
+    "https://locations.bonefishgrill.com/florida/lake-worth/9897-lake-worth-road",
+    "https://locations.bonefishgrill.com/florida/lakeland/225-w.-pipkin-road",
+    "https://locations.bonefishgrill.com/florida/longwood/1761-w.-state-road-434",
+    "https://locations.bonefishgrill.com/florida/lutz/25264-sierra-center-blvd",
+    "https://locations.bonefishgrill.com/florida/miami",
+    "https://locations.bonefishgrill.com/florida/ocala/4701-sw-college-road",
+    "https://locations.bonefishgrill.com/florida/orlando",
+    "https://locations.bonefishgrill.com/florida/palm-beach-gardens/4635-pga-blvd",
+    "https://locations.bonefishgrill.com/florida/pensacola/5025-n.-12th-avenue",
+    "https://locations.bonefishgrill.com/florida/plantation/10197-west-sunrise-blvd.",
+    "https://locations.bonefishgrill.com/florida/sarasota",
+    "https://locations.bonefishgrill.com/florida/st.-petersburg",
+    "https://locations.bonefishgrill.com/florida/stuart/2283-s.e.-federal-highway",
+    "https://locations.bonefishgrill.com/florida/tallahassee/3491-thomasville-road",
+    "https://locations.bonefishgrill.com/florida/tampa",
+    "https://locations.bonefishgrill.com/florida/the-villages/3580-wedgewood-lane",
+    "https://locations.bonefishgrill.com/florida/trinity/10750-sr-54",
+    "https://locations.bonefishgrill.com/florida/venice/1681-us-highway-41-bypass-south",
+    "https://locations.bonefishgrill.com/florida/vero-beach/2075-indian-river-blvd.",
+    "https://locations.bonefishgrill.com/florida/viera/2251-town-center-ave",
+    "https://locations.bonefishgrill.com/florida/weston/4545-weston-road",
+    "https://locations.bonefishgrill.com/florida/winter-garden/3279-daniels-road",
+    "https://locations.bonefishgrill.com/georgia/atlanta/2997-cobb-parkway",
+    "https://locations.bonefishgrill.com/georgia/augusta/2911-washington-road",
+    "https://locations.bonefishgrill.com/georgia/buford/3420-buford-drive",
+    "https://locations.bonefishgrill.com/georgia/columbus/6763-veterans-parkway"
+  ],
+  "candidates": [
+    "https://locations.bonefishgrill.com",
+    "https://locations.bonefishgrill.com/",
+    "https://locations.bonefishgrill.com/contact",
+    "https://locations.bonefishgrill.com/contact/",
+    "https://locations.bonefishgrill.com/contact-us",
+    "https://locations.bonefishgrill.com/contact-us/",
+    "https://locations.bonefishgrill.com/contactus",
+    "https://locations.bonefishgrill.com/contactus/",
+    "https://locations.bonefishgrill.com/about",
+    "https://locations.bonefishgrill.com/about/",
+    "https://locations.bonefishgrill.com/about-us",
+    "https://locations.bonefishgrill.com/about-us/",
+    "https://locations.bonefishgrill.com/visit",
+    "https://locations.bonefishgrill.com/visit/",
+    "https://locations.bonefishgrill.com/location",
+    "https://locations.bonefishgrill.com/location/",
+    "https://locations.bonefishgrill.com/directions",
+    "https://locations.bonefishgrill.com/directions/"
+  ],
+  "per_page": {
+    "https://locations.bonefishgrill.com": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/contact": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/contact/": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/contact-us": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/contact-us/": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/contactus": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/contactus/": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/about": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/about/": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/about-us": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/about-us/": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/visit": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/visit/": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/location": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/location/": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/directions": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    },
+    "https://locations.bonefishgrill.com/directions/": {
+      "title": "All Bonefish Grill Locations",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://locations.bonefishgrill.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://instagram.com/bonefishgrill",
+        "https://www.facebook.com/bonefishgrill",
+        "https://www.tiktok.com/channel/bonefish-grill"
+      ]
+    }
+  }
+}

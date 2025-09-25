@@ -1,0 +1,156 @@
+{
+  "site_url": "https://seaclubresort.com/",
+  "domain": "seaclubresort.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://seaclubresort.com/",
+    "https://seaclubresort.com/events.php",
+    "https://seaclubresort.com/rooms.php",
+    "https://seaclubresort.com/contact.php",
+    "https://seaclubresort.com/reviews.php",
+    "https://seaclubresort.com/weather.php",
+    "https://seaclubresort.com/index.php",
+    "https://seaclubresort.com/amenities.php",
+    "https://seaclubresort.com/cruise-special.php",
+    "https://seaclubresort.com/gallery.php"
+  ],
+  "candidates": [
+    "https://seaclubresort.com/contact.php",
+    "https://seaclubresort.com/events.php",
+    "https://seaclubresort.com/rooms.php",
+    "https://seaclubresort.com/"
+  ],
+  "per_page": {
+    "https://seaclubresort.com/contact.php": {
+      "title": "Contact the Sea Club Resort, directly on spectacular Fort Lauderdale Beach is relaxed and affordable, enjoy the ocean front Deck Bar, or a light meal and a drink poolside, as the ocean does its magic. Business travelers appreciate the proximity with the Fort Lauderdale Convention Center which makes their stay pleasurable as well as convenient.",
+      "band_hits": {},
+      "emails": [
+        "info@seaclubresort.com"
+      ],
+      "phones": [
+        "(954) 564-3211",
+        "(954)568-1825",
+        "954.564.3211"
+      ],
+      "socials": [
+        "https://www.facebook.com/pages/Sea-Club-Resort/109108579123367"
+      ]
+    },
+    "https://seaclubresort.com/events.php": {
+      "title": "Events Calendar for the Ft. Lauderdale and the Sea Club Resort, directly on spectacular Fort Lauderdale Beach is relaxed and affordable, enjoy the ocean front Deck Bar, or a light meal and a drink poolside, as the ocean does its magic. Business travelers appreciate the proximity with the Fort Lauderdale Convention Center which makes their stay pleasurable as well as convenient.",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://seaclubresort.com/events.php"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://seaclubresort.com/events.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954.564.3211"
+      ],
+      "socials": [
+        "https://www.facebook.com/pages/Sea-Club-Resort/109108579123367"
+      ]
+    },
+    "https://seaclubresort.com/rooms.php": {
+      "title": "Guest Rooms and Suites at the Sea Club Resort Ft Lauderdale: Enjoy family beachfront vacations and luxury oceanfront getaways packages on romantic Ft. Lauderdale Beach Blvd",
+      "band_hits": {
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://seaclubresort.com/rooms.php"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954.564.3211"
+      ],
+      "socials": [
+        "https://www.facebook.com/pages/Sea-Club-Resort/109108579123367"
+      ]
+    },
+    "https://seaclubresort.com/": {
+      "title": "Fort Lauderdale Beachfront Boutique Hotel: Sea Club Resort Florida nearby Port Everglades and Las Olas",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "954.564.3211"
+      ],
+      "socials": [
+        "https://www.facebook.com/pages/Sea-Club-Resort/109108579123367"
+      ]
+    }
+  }
+}

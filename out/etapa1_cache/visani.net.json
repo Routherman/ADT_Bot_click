@@ -1,0 +1,207 @@
+{
+  "site_url": "https://visani.net/",
+  "domain": "visani.net",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://visani.net/",
+    "https://www.visani.net/contact-us",
+    "https://www.visani.net/faq",
+    "http://www.visani.net/",
+    "https://www.visani.net",
+    "https://www.visani.net/gift-cards",
+    "https://www.visani.net/dining",
+    "https://www.visani.net/gallery",
+    "https://www.visani.net/menu",
+    "https://www.visani.net/wine-bee-liqour-dessert"
+  ],
+  "candidates": [
+    "https://www.visani.net/contact-us",
+    "https://www.visani.net/faq",
+    "https://visani.net/"
+  ],
+  "per_page": {
+    "https://www.visani.net/contact-us": {
+      "title": "CONTACT US | visani-comedy-zone",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visani.net/contact-us"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visani.net/contact-us"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visani.net/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "941-629-9191"
+      ],
+      "socials": [
+        "https://www.facebook.com/pages/Visani-Comedy-Theater-Port-Charlotte/119791311419034",
+        "https://www.youtube.com/channel/UC2xGG_1kbD0G8mqLx8u0LNQ",
+        "https://www.youtube.com/user/VisaniComedy"
+      ]
+    },
+    "https://www.visani.net/faq": {
+      "title": "FAQ | visani-comedy-zone",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visani.net/faq"
+          ]
+        },
+        "show": {
+          "total": 18,
+          "zones": {
+            "title": 0,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visani.net/faq"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visani.net/faq"
+          ]
+        },
+        "music night": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.visani.net/faq"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "941-629-9191"
+      ],
+      "socials": [
+        "https://www.facebook.com/pages/Visani-Comedy-Theater-Port-Charlotte/119791311419034",
+        "https://www.youtube.com/channel/UC2xGG_1kbD0G8mqLx8u0LNQ",
+        "https://www.youtube.com/user/VisaniComedy"
+      ]
+    },
+    "https://visani.net/": {
+      "title": "Restaurant | Visani-comedy-zone | Port Charlotte",
+      "band_hits": {
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://visani.net/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "941-629-9191"
+      ],
+      "socials": [
+        "https://www.facebook.com/pages/Visani-Comedy-Theater-Port-Charlotte/119791311419034",
+        "https://www.youtube.com/channel/UC2xGG_1kbD0G8mqLx8u0LNQ",
+        "https://www.youtube.com/user/VisaniComedy"
+      ]
+    }
+  }
+}

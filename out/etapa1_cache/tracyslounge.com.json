@@ -1,0 +1,313 @@
+{
+  "site_url": "https://tracyslounge.com/",
+  "domain": "tracyslounge.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://tracyslounge.com/",
+    "https://tracyslounge.com/event-calendar",
+    "https://tracyslounge.com/event-gallery",
+    "https://tracyslounge.com/menu-1",
+    "https://tracyslounge.com/daily-specials",
+    "https://tracyslounge.com/social-media",
+    "https://tracyslounge.com/menu-gallery",
+    "https://tracyslounge.com/beer"
+  ],
+  "candidates": [
+    "https://tracyslounge.com/event-calendar",
+    "https://tracyslounge.com/event-gallery",
+    "https://tracyslounge.com/",
+    "https://tracyslounge.com/contact",
+    "https://tracyslounge.com/contact/",
+    "https://tracyslounge.com/contact-us",
+    "https://tracyslounge.com/contact-us/",
+    "https://tracyslounge.com/contactus",
+    "https://tracyslounge.com/contactus/",
+    "https://tracyslounge.com/about",
+    "https://tracyslounge.com/about/",
+    "https://tracyslounge.com/about-us",
+    "https://tracyslounge.com/about-us/",
+    "https://tracyslounge.com/visit",
+    "https://tracyslounge.com/visit/",
+    "https://tracyslounge.com/location",
+    "https://tracyslounge.com/location/",
+    "https://tracyslounge.com/directions",
+    "https://tracyslounge.com/directions/"
+  ],
+  "per_page": {
+    "https://tracyslounge.com/event-calendar": {
+      "title": "Event Calendar",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tracyslounge.com/event-calendar"
+          ]
+        },
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 1,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tracyslounge.com/event-calendar"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tracyslounge.com/event-calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/event-gallery": {
+      "title": "Event Gallery",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tracyslounge.com/event-gallery"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tracyslounge.com/event-gallery"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/": {
+      "title": "Tracy's Lounge - Restaurant, Lounge, Bar, Live Music, Karaoke",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tracyslounge.com/"
+          ]
+        },
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tracyslounge.com/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://tracyslounge.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 242-4863"
+      ],
+      "socials": [
+        "https://www.facebook.com/TracysLounge/",
+        "https://www.instagram.com/tracyslounge/"
+      ]
+    },
+    "https://tracyslounge.com/contact": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/contact/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/contact-us": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/contact-us/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/contactus": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/about": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/about/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/about-us": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/about-us/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/visit": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/visit/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/location": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/location/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/directions": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://tracyslounge.com/directions/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

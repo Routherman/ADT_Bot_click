@@ -1,0 +1,379 @@
+{
+  "site_url": "https://beartreebarn.com/",
+  "domain": "beartreebarn.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://beartreebarn.com/",
+    "https://beartreebarn.com/blog/",
+    "https://beartreebarn.com/contact-information/",
+    "https://beartreebarn.com/photo-gallery/",
+    "https://beartreebarn.com/location/",
+    "https://beartreebarn.com",
+    "https://beartreebarn.com/2019/04/26/more-pretty-weddings/",
+    "https://beartreebarn.com/author/cathyboston/",
+    "https://beartreebarn.com/tag/choose-your-special-spot/",
+    "https://beartreebarn.com/2018/11/11/look-at-the-photos-from-our-most-recent-event/",
+    "https://beartreebarn.com/2018/02/24/the-journey-begins/",
+    "https://beartreebarn.com/author/chuckroesel/",
+    "https://beartreebarn.com/photo-gallery/shawna-wedding-004-2/",
+    "https://beartreebarn.com/photo-gallery/shawna-wedding-005-2/",
+    "https://beartreebarn.com/photo-gallery/shawna-wedding-007-2/",
+    "https://beartreebarn.com/photo-gallery/shawna-wedding-013-2/",
+    "https://beartreebarn.com/photo-gallery/shawna-wedding-015-2/",
+    "https://beartreebarn.com/photo-gallery/shawna-wedding-017-2/",
+    "https://beartreebarn.com/photo-gallery/shawna-wedding-019-2/",
+    "https://beartreebarn.com/photo-gallery/shawna-wedding-025-2/",
+    "https://beartreebarn.com/photo-gallery/shawna-wedding-029-2/",
+    "https://beartreebarn.com/photo-gallery/shawna-wedding-037-2/",
+    "https://beartreebarn.com/photo-gallery/33675285_10156633933476842_5042705309638852608_o/",
+    "https://beartreebarn.com/photo-gallery/41430093_2204891283098192_2530037196803538944_o/",
+    "https://beartreebarn.com/photo-gallery/41308669_2204537559800231_1044707389812506624_o/",
+    "https://beartreebarn.com/photo-gallery/barn-loveseat/",
+    "https://beartreebarn.com/photo-gallery/35330086_2113369945583660_2008063241430761472_n/",
+    "https://beartreebarn.com/photo-gallery/35298479_2113369998916988_8818594222727757824_n/",
+    "https://beartreebarn.com/photo-gallery/35197036_2113370038916984_4135574827647893504_n/",
+    "https://beartreebarn.com/photo-gallery/35300541_2113369805583674_4831934664375533568_n/",
+    "https://beartreebarn.com/photo-gallery/34904634_10156664947296842_6784353636664213504_o/",
+    "https://beartreebarn.com/photo-gallery/32314081_2094634120790576_2595553688793645056_n-1/",
+    "https://beartreebarn.com/photo-gallery/32293988_2094634147457240_4347169668545380352_n/",
+    "https://beartreebarn.com/photo-gallery/32289458_2094634297457225_2470156608143884288_n/",
+    "https://beartreebarn.com/photo-gallery/32266927_2094634274123894_6054254959220752384_n/",
+    "https://beartreebarn.com/photo-gallery/32271869_2094634324123889_5016052872903655424_n/",
+    "https://beartreebarn.com/photo-gallery/32086787_1691269814241957_2430194900982038528_n/",
+    "https://beartreebarn.com/photo-gallery/31964235_10155417649505913_5025250897555357696_n/",
+    "https://beartreebarn.com/photo-gallery/31960627_10155417644335913_556101825636335616_n/",
+    "https://beartreebarn.com/photo-gallery/31964350_10155417647930913_8239910915042967552_n-1/",
+    "https://beartreebarn.com/photo-gallery/31964314_1691261410909464_3734256674102312960_n/",
+    "https://beartreebarn.com/photo-gallery/31968215_10155417639505913_4525056326203604992_n/",
+    "https://beartreebarn.com/photo-gallery/31969949_1691266067575665_4904023010379300864_n-1/",
+    "https://beartreebarn.com/photo-gallery/32076539_1691266184242320_1980730181228167168_n/",
+    "https://beartreebarn.com/photo-gallery/32076101_10155417658520913_3376493869804814336_n/",
+    "https://beartreebarn.com/photo-gallery/32085104_10155417646255913_7961735108870799360_n-1/",
+    "https://beartreebarn.com/photo-gallery/32235753_2094636244123697_7553800687054749696_n/",
+    "https://beartreebarn.com/photo-gallery/32332549_2094634210790567_4297015608853135360_n/",
+    "https://beartreebarn.com/photo-gallery/32387256_2094634247457230_4735159147002068992_n/",
+    "https://beartreebarn.com/photo-gallery/33899620_2102808699973118_2041754128836722688_o/",
+    "https://beartreebarn.com/photo-gallery/33712151_2102808899973098_5769541731787735040_o/",
+    "https://beartreebarn.com/photo-gallery/33828784_10156636003826842_7372654346787356672_o/",
+    "https://beartreebarn.com/photo-gallery/?share=twitter",
+    "https://beartreebarn.com/location/?share=twitter",
+    "https://beartreebarn.com/2019/04/26/more-pretty-weddings/?share=twitter",
+    "https://beartreebarn.com/2018/11/11/look-at-the-photos-from-our-most-recent-event/?share=twitter",
+    "https://beartreebarn.com/photo-gallery/20190421_1728555785999919378097220/",
+    "https://beartreebarn.com/photo-gallery/33901977_2103352479918740_1461051473558241280_o/",
+    "https://beartreebarn.com/photo-gallery/barnkitchenlaundry/",
+    "https://beartreebarn.com/photo-gallery/20190420_1612532944429387739239668/",
+    "https://beartreebarn.com/photo-gallery/barnkitchen/",
+    "https://beartreebarn.com/photo-gallery/20190420_1404488003345324206432582/",
+    "https://beartreebarn.com/photo-gallery/outdoorseating/"
+  ],
+  "candidates": [
+    "https://beartreebarn.com/contact-information/",
+    "https://beartreebarn.com/blog/",
+    "https://beartreebarn.com",
+    "https://beartreebarn.com/",
+    "https://beartreebarn.com/2018/11/11/look-at-the-photos-from-our-most-recent-event/",
+    "https://beartreebarn.com/2018/11/11/look-at-the-photos-from-our-most-recent-event/?share=twitter",
+    "https://beartreebarn.com/contact",
+    "https://beartreebarn.com/contact/",
+    "https://beartreebarn.com/contact-us",
+    "https://beartreebarn.com/contact-us/",
+    "https://beartreebarn.com/contactus",
+    "https://beartreebarn.com/contactus/",
+    "https://beartreebarn.com/about",
+    "https://beartreebarn.com/about/",
+    "https://beartreebarn.com/about-us",
+    "https://beartreebarn.com/about-us/",
+    "https://beartreebarn.com/visit",
+    "https://beartreebarn.com/visit/",
+    "https://beartreebarn.com/location",
+    "https://beartreebarn.com/location/",
+    "https://beartreebarn.com/directions",
+    "https://beartreebarn.com/directions/"
+  ],
+  "per_page": {
+    "https://beartreebarn.com/contact-information/": {
+      "title": "Contact Information – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "352-217-3150",
+        "352-636-2475"
+      ],
+      "socials": []
+    },
+    "https://beartreebarn.com/blog/": {
+      "title": "Blog – Bear Tree Barn",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://beartreebarn.com/blog/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://beartreebarn.com/blog/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com": {
+      "title": "Bear Tree Barn",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://beartreebarn.com"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://beartreebarn.com"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-217-3150",
+        "352-636-2475"
+      ],
+      "socials": []
+    },
+    "https://beartreebarn.com/": {
+      "title": "Bear Tree Barn",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://beartreebarn.com/"
+          ]
+        },
+        "booking": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://beartreebarn.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-217-3150",
+        "352-636-2475"
+      ],
+      "socials": []
+    },
+    "https://beartreebarn.com/2018/11/11/look-at-the-photos-from-our-most-recent-event/": {
+      "title": "Look at our most recent photos! – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/2018/11/11/look-at-the-photos-from-our-most-recent-event/?share=twitter": {
+      "title": "",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/contact": {
+      "title": "Contact – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/contact/": {
+      "title": "Contact – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/contact-us": {
+      "title": "Page not found – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/contact-us/": {
+      "title": "Page not found – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/contactus": {
+      "title": "Page not found – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/contactus/": {
+      "title": "Page not found – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/about": {
+      "title": "Page not found – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/about/": {
+      "title": "Page not found – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/about-us": {
+      "title": "Page not found – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/about-us/": {
+      "title": "Page not found – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/visit": {
+      "title": "Page not found – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/visit/": {
+      "title": "Page not found – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/location": {
+      "title": "Location – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/location/": {
+      "title": "Location – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/directions": {
+      "title": "Page not found – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://beartreebarn.com/directions/": {
+      "title": "Page not found – Bear Tree Barn",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

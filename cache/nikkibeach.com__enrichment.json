@@ -1,0 +1,160 @@
+{
+  "timestamp": "2025-09-22T16:44:00.150496",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-22T16:43:56.452336",
+      "company": {
+        "name": null,
+        "domain": "nikkibeach.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 146225,
+          "description": "Established by entrepreneurs Jack and Lucia Penrod, Nikki Beach\nHospitality Group epitomizes barefoot luxury hospitality, curating\ntransformative lifestyle experiences through its collection of Nikki\nBeach properties including iconic beach clubs, resorts, residences,\ndining concepts, and pop-ups as well as the group’s new restaurant\nconcept, Lucia. Located in some of the world’s most sought-after\ntravel destinations worldwide, Nikki Beach is recognized among the\nworld's best beach clubs and resorts.\n\nNikki Beach stands as a global haven for unforgettable moments,\nseamlessly blending music, dining, entertainment, fashion, film, and\nart to create unparalleled celebrations. Beyond travel experiences,\nNikki Beach extends its reach with a lifestyle division, featuring\nboutiques and an e-commerce shop.\n\nIn 2024, the brand introduced Lucia, a groundbreaking restaurant and\nbeach concept within the Nikki Beach Hospitality Group portfolio.\nLucia promises to redefine culinary excellence and immersive dining,\nblending Cuisine du Soleil with vibrant, seasonally changing decor.\nAcross the brand's expanding endeavors, Nikki Beach Hospitality\nGroup continues to set new benchmarks in crafting luxury travel and\nlifestyle experiences.",
+          "domain": "nikkibeach.com",
+          "employees": "1001 - 5000",
+          "founded": "1998",
+          "fqdn": "www.nikkibeach.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=30/j_lvlu4vke2g05yqy27.f73ca06172c12898aa9c50ac8017e64403d1bca7.file_lvlu5dnz12h5hhv6u5.logo_cached.jpg",
+          "name": "Nikki Beach Hospitality Group",
+          "revenueRange": [
+            250000000,
+            500000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/nikki-beach"
+            }
+          },
+          "address": "Miami Beach North America United States US 1 Ocean Dr; Miami Beach, FL 33139, US Florida FL -80.13005065917969,25.7906494140625 ",
+          "location": {
+            "city": "Miami Beach",
+            "country": "United States",
+            "fullLocation": "Miami Beach North America United States US 1 Ocean Dr; Miami Beach, FL 33139, US Florida FL -80.13005065917969,25.7906494140625 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1 Ocean Dr; Miami Beach, FL 33139, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://nikkibeach.com",
+          "specialities": [
+            "barefoot luxury",
+            "beach",
+            "beach club",
+            "beverages",
+            "catering",
+            "celebrities",
+            "champagne",
+            "cocktails",
+            "culinary",
+            "dining and entertainment",
+            "dj services",
+            "events",
+            "fashion",
+            "film festival",
+            "food",
+            "food and beverage",
+            "gastronomy",
+            "hospitality",
+            "hotel",
+            "international cuisine",
+            "luxury lifestyle",
+            "marketing",
+            "music",
+            "pool",
+            "product launches",
+            "public relations",
+            "restaurant",
+            "weddings",
+            "wine"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-22T16:43:57.577248",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-22T16:44:00.145357",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

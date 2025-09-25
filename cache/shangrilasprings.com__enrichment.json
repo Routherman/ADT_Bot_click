@@ -1,0 +1,142 @@
+{
+  "timestamp": "2025-09-23T13:10:04.646135",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T13:09:59.292253",
+      "company": {
+        "name": null,
+        "domain": "shangrilasprings.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 25019809,
+          "description": "Built in 1926, Shangri-La Springs is a historic hotel located on more than 8 acres in the heart of beautiful Bonita Springs, Florida. Our stately property offers a boutique hotel experience and a variety of unique services including an organic restaurant, full-service organic spa, organic garden and meeting & event spaces.\n\nOur historic property has long been known for its invigorating and restorative powers. The Spa at Shangri-La Springs offers organic serenity whether you’re looking for rejuvenation or relaxation, you’ll feel like you’ve turned back the clock in more ways than one. Enjoy a full complement of organic spa treatments by our highly skilled and licensed staff. \n\nOur organic farm-to-table restaurant, Harvest & Wisdom, provides a menu crafted with seasonal produce picked fresh from our on-site organic garden along with locally-sourced organic proteins and beverages.\n\nThe history of the springs begins hundreds of years ago with the Calusa Indians who were the original inhabitants of this area. They used the natural spring water for medicinal and trading purposes. Then, in the early 1500s, Juan Ponce De Leon discovered the spring in his quest for the Fountain of Youth. Many believe the natural mineral waters running through the spring have special healing properties.\n\nThis natural mineral spring, which is still flowing on the property today, is the very spring for which the city was named – Bonita Springs.",
+          "domain": "shangrilasprings.com",
+          "employees": "11 - 50",
+          "founded": "1926",
+          "fqdn": "www.shangrilasprings.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/8/0b/80bbec57344fe40885ef43b70b55d111",
+          "name": "Shangri-La Springs",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/shangrilasprings"
+            }
+          },
+          "address": "Bonita Springs North America United States US 27750 Old 41 Rd; Bonita Springs, FL 34135, US Florida FL -81.77870178222656,26.33980941772461 ",
+          "location": {
+            "city": "Bonita Springs",
+            "country": "United States",
+            "fullLocation": "Bonita Springs North America United States US 27750 Old 41 Rd; Bonita Springs, FL 34135, US Florida FL -81.77870178222656,26.33980941772461 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "27750 Old 41 Rd; Bonita Springs, FL 34135, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://shangrilasprings.com",
+          "specialities": [
+            "destination weddings",
+            "events",
+            "full service spa",
+            "guided tours",
+            "historic hotel",
+            "hotel",
+            "live music",
+            "organic restaurant",
+            "resorts",
+            "venue rental",
+            "yoga"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T13:10:00.589466",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T13:10:04.642883",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

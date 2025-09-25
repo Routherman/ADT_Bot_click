@@ -1,0 +1,132 @@
+{
+  "timestamp": "2025-09-16T15:48:17.348793",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-16T15:48:13.035591",
+      "company": {
+        "name": null,
+        "domain": "thegratefulpalate.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 35703033,
+          "description": "Seconds from the Intracoastal Waterway and minutes from Lauderdale Beach, the Grateful Palate is an impeccably-located, 4,000-square-foot event hall in Fort Lauderdale. Its indoor and outdoor event spaces offer scenic backdrops for wedding ceremonies, corporate receptions, and more. And with personalizable catering, professional service, and meeting-friendly amenities available, the Grateful Palate can help you ensure your special occasion goes off without a hitch.",
+          "domain": "thegratefulpalate.com",
+          "employees": "11 - 50",
+          "fqdn": "www.thegratefulpalate.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/4/de/4de112085552ec26a8e7a10e33c77c00",
+          "name": "Grateful Palate Catering and Events",
+          "revenueRange": [],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/grateful-palate-catering-and-events"
+            }
+          },
+          "address": "Fort Lauderdale North America United States US 3003 NE 32nd Ave; Fort Lauderdale, Florida 33304, US Florida FL -80.14337921142578,26.122310638427734 ",
+          "location": {
+            "city": "Fort Lauderdale",
+            "country": "United States",
+            "fullLocation": "Fort Lauderdale North America United States US 3003 NE 32nd Ave; Fort Lauderdale, Florida 33304, US Florida FL -80.14337921142578,26.122310638427734 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3003 NE 32nd Ave; Fort Lauderdale, Florida 33304, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://thegratefulpalate.com",
+          "specialities": [
+            "catering",
+            "corporate events",
+            "events",
+            "hospitality",
+            "weddings"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-16T15:48:14.571047",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-16T15:48:17.342913",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

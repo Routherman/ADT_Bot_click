@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-23T01:05:06.854471",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T01:05:03.203625",
+      "company": {
+        "name": null,
+        "domain": "gatortracecountryclub.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 60787409,
+          "description": "Fort Pierce Golf and Port St Lucie Golf, an Arthur Hills golf course at beautiful Gator Trace Golf & Country Club serving Fort Pierce and Port St Lucie.",
+          "domain": "gatortracecountryclub.com",
+          "employees": "11 - 50",
+          "founded": "2000",
+          "fqdn": "www.gatortracecountryclub.com",
+          "name": "GATOR TRACE GOLF & COUNTRY CLUB, LC.",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Wellness & Fitness Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/gator-trace-golf-%26-country-club-lc."
+            }
+          },
+          "address": "Fort Pierce North America United States US 4302 GATOR TRACE DR; Fort Pierce, Florida 34982, us Florida FL -80.32560729980469,27.44671058654785 ",
+          "location": {
+            "city": "Fort Pierce",
+            "country": "United States",
+            "fullLocation": "Fort Pierce North America United States US 4302 GATOR TRACE DR; Fort Pierce, Florida 34982, us Florida FL -80.32560729980469,27.44671058654785 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "4302 GATOR TRACE DR; Fort Pierce, Florida 34982, us"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7991,
+                "description": "Physical fitness facilities"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 713940,
+                "description": "Fitness and Recreational Sports Centers"
+              }
+            ]
+          },
+          "website": "https://gatortracecountryclub.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T01:05:04.350497",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T01:05:06.849286",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

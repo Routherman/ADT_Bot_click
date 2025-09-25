@@ -1,0 +1,597 @@
+{
+  "site_url": "https://misionlagoranch.com/",
+  "domain": "misionlagoranch.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://misionlagoranch.com/",
+    "https://misionlagoranch.com/about",
+    "https://misionlagoranch.com/faqs-2",
+    "https://misionlagoranch.com/contact",
+    "https://misionlagoranch.com/cart"
+  ],
+  "candidates": [
+    "https://misionlagoranch.com/contact",
+    "https://misionlagoranch.com/about",
+    "https://misionlagoranch.com/faqs-2",
+    "https://misionlagoranch.com/",
+    "https://misionlagoranch.com/contact/",
+    "https://misionlagoranch.com/contact-us",
+    "https://misionlagoranch.com/contact-us/",
+    "https://misionlagoranch.com/contactus",
+    "https://misionlagoranch.com/contactus/",
+    "https://misionlagoranch.com/about/",
+    "https://misionlagoranch.com/about-us",
+    "https://misionlagoranch.com/about-us/",
+    "https://misionlagoranch.com/visit",
+    "https://misionlagoranch.com/visit/",
+    "https://misionlagoranch.com/location",
+    "https://misionlagoranch.com/location/",
+    "https://misionlagoranch.com/directions",
+    "https://misionlagoranch.com/directions/"
+  ],
+  "per_page": {
+    "https://misionlagoranch.com/contact": {
+      "title": "Contact — Mision Lago Estate",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/contact"
+          ]
+        },
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/contact"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "karin@misionlagoranch.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/about": {
+      "title": "About — Mision Lago Estate",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/faqs-2": {
+      "title": "FAQs 2 — Mision Lago Estate",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/faqs-2"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/faqs-2"
+          ]
+        }
+      },
+      "emails": [
+        "karin@misionlagoranch.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/": {
+      "title": "Mision Lago Estate",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/"
+          ]
+        },
+        "event": {
+          "total": 14,
+          "zones": {
+            "title": 0,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/"
+          ]
+        }
+      },
+      "emails": [
+        "karin@misionlagoranch.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/contact/": {
+      "title": "Contact — Mision Lago Estate",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/contact/"
+          ]
+        },
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/contact/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "karin@misionlagoranch.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/contact-us": {
+      "title": "Mision Lago Estate",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/contact-us/": {
+      "title": "Mision Lago Estate",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/contactus": {
+      "title": "Mision Lago Estate",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/contactus/": {
+      "title": "Mision Lago Estate",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/about/": {
+      "title": "About — Mision Lago Estate",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/about-us": {
+      "title": "Mision Lago Estate",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/about-us/": {
+      "title": "Mision Lago Estate",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/visit": {
+      "title": "Mision Lago Estate",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/visit/": {
+      "title": "Mision Lago Estate",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/location": {
+      "title": "Mision Lago Estate",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/location/": {
+      "title": "Mision Lago Estate",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/directions": {
+      "title": "Mision Lago Estate",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    },
+    "https://misionlagoranch.com/directions/": {
+      "title": "Mision Lago Estate",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://misionlagoranch.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/MisionLagoEstate/",
+        "https://www.instagram.com/misionlagoestate/"
+      ]
+    }
+  }
+}

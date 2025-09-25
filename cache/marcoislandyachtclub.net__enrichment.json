@@ -1,0 +1,134 @@
+{
+  "timestamp": "2025-09-20T17:38:12.375632",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T17:38:08.683095",
+      "company": {
+        "name": null,
+        "domain": "marcoislandyachtclub.net",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 15382482,
+          "description": "Florida from our home on the Marco River. Our \"Old Florida\" style clubhouse treats members and guests to casual and elegant dining options and our chef's amazing seasonally-inspired menu. Our large venue can accompany celebrations of all sizes. We host a wide variety of events throughout the year from weddings and anniversaries to corporate parties. We offer several different membership options to meet whatever our prospective members are looking for. Members at Marco Island Yacht Club are immersed in a private dining and boating lifestyle with a touch of Southern Florida beauty that can't be replicated.",
+          "domain": "marcoislandyachtclub.net",
+          "employees": "11 - 50",
+          "founded": "2001",
+          "fqdn": "www.marcoislandyachtclub.net",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/7/ef/7efc42120b40e3a3c5c39b886f90a636",
+          "name": "MARCO ISLAND YACHT CLUB INC",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/marco-island-yacht-club-inc"
+            }
+          },
+          "address": "Marco Island North America United States US 1400 N COLLIER BLVD; MARCO ISLAND, Florida 34145, US Florida FL -81.71842193603516,25.94120979309082 ",
+          "location": {
+            "city": "Marco Island",
+            "country": "United States",
+            "fullLocation": "Marco Island North America United States US 1400 N COLLIER BLVD; MARCO ISLAND, Florida 34145, US Florida FL -81.71842193603516,25.94120979309082 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1400 N COLLIER BLVD; MARCO ISLAND, Florida 34145, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://marcoislandyachtclub.net",
+          "specialities": [
+            "banqueting",
+            "marine",
+            "private club"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T17:38:09.808711",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T17:38:12.371201",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

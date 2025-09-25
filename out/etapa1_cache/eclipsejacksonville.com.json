@@ -1,0 +1,492 @@
+{
+  "site_url": "https://eclipsejacksonville.com/",
+  "domain": "eclipsejacksonville.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://eclipsejacksonville.com/",
+    "https://eclipsejacksonville.com/events/",
+    "https://eclipsejacksonville.com/contact-us/",
+    "https://eclipsejacksonville.com",
+    "https://eclipsejacksonville.com/private-parties/",
+    "https://eclipsejacksonville.com/bartending-school/",
+    "https://eclipsejacksonville.com/gallery/"
+  ],
+  "candidates": [
+    "https://eclipsejacksonville.com/contact-us/",
+    "https://eclipsejacksonville.com/events/",
+    "https://eclipsejacksonville.com",
+    "https://eclipsejacksonville.com/"
+  ],
+  "per_page": {
+    "https://eclipsejacksonville.com/contact-us/": {
+      "title": "Contact Us – Eclipse Riverside Nightlife Jacksonville",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "904-228-4663"
+      ],
+      "socials": [
+        "https://www.facebook.com/EclipseBarJax",
+        "https://www.instagram.com/eclipsebarnightclubjax/",
+        "https://www.tiktok.com/@eclipsebarnightclubjax"
+      ]
+    },
+    "https://eclipsejacksonville.com/events/": {
+      "title": "Events – Eclipse Riverside Nightlife Jacksonville",
+      "band_hits": {
+        "event": {
+          "total": 13,
+          "zones": {
+            "title": 1,
+            "body": 12,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/events/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/events/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/events/"
+          ]
+        },
+        "open mic": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "904-228-4663"
+      ],
+      "socials": [
+        "https://www.facebook.com/EclipseBarJax",
+        "https://www.facebook.com/EclipseBarJax/events",
+        "https://www.facebook.com/events/1150251936939352/",
+        "https://www.facebook.com/events/1826973761509166",
+        "https://www.instagram.com/eclipsebarnightclubjax/",
+        "https://www.tiktok.com/@eclipsebarnightclubjax"
+      ]
+    },
+    "https://eclipsejacksonville.com": {
+      "title": "Eclipse Riverside Nightlife Jacksonville – Jacksonville's premier alternative nightlife destination. Eclipse offers live music, themed nights, karaoke, and special events in the heart of Riverside. Open 7 days until 2am with no cover charge and easy parking.",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com"
+          ]
+        },
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com"
+          ]
+        },
+        "sound system": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com"
+          ]
+        },
+        "open mic": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com"
+          ]
+        },
+        "live performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com"
+          ]
+        },
+        "bands": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com"
+          ]
+        },
+        "tribute band": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com"
+          ]
+        }
+      },
+      "emails": [
+        "info@eclipsejacksonville.com"
+      ],
+      "phones": [
+        "904-228-4663"
+      ],
+      "socials": [
+        "https://facebook.com",
+        "https://www.facebook.com/EclipseBarJax",
+        "https://www.facebook.com/EclipseBarJax/events",
+        "https://www.facebook.com/events/1423870032290194",
+        "https://www.facebook.com/events/606036392527798",
+        "https://www.facebook.com/share/16ENa9LNY4/",
+        "https://www.facebook.com/share/16jKWYy3Zj/",
+        "https://www.facebook.com/share/1WBuVsDuSz/",
+        "https://www.instagram.com/eclipsebarnightclubjax/",
+        "https://www.tiktok.com/@eclipsebarnightclubjax"
+      ]
+    },
+    "https://eclipsejacksonville.com/": {
+      "title": "Eclipse Riverside Nightlife Jacksonville – Jacksonville's premier alternative nightlife destination. Eclipse offers live music, themed nights, karaoke, and special events in the heart of Riverside. Open 7 days until 2am with no cover charge and easy parking.",
+      "band_hits": {
+        "live music": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/"
+          ]
+        },
+        "event": {
+          "total": 15,
+          "zones": {
+            "title": 1,
+            "body": 14,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/"
+          ]
+        },
+        "performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/"
+          ]
+        },
+        "sound system": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/"
+          ]
+        },
+        "open mic": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/"
+          ]
+        },
+        "live performance": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/"
+          ]
+        },
+        "bands": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/"
+          ]
+        },
+        "tribute band": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://eclipsejacksonville.com/"
+          ]
+        }
+      },
+      "emails": [
+        "info@eclipsejacksonville.com"
+      ],
+      "phones": [
+        "904-228-4663"
+      ],
+      "socials": [
+        "https://facebook.com",
+        "https://www.facebook.com/EclipseBarJax",
+        "https://www.facebook.com/EclipseBarJax/events",
+        "https://www.facebook.com/events/1423870032290194",
+        "https://www.facebook.com/events/606036392527798",
+        "https://www.facebook.com/share/16ENa9LNY4/",
+        "https://www.facebook.com/share/16jKWYy3Zj/",
+        "https://www.facebook.com/share/1WBuVsDuSz/",
+        "https://www.instagram.com/eclipsebarnightclubjax/",
+        "https://www.tiktok.com/@eclipsebarnightclubjax"
+      ]
+    }
+  }
+}

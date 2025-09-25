@@ -1,0 +1,134 @@
+{
+  "timestamp": "2025-09-25T00:00:33.996129",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T00:00:30.916440",
+      "company": {
+        "name": null,
+        "domain": "hometownamerica.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 34063,
+          "description": "Hometown America consists of two divisions – the Hometown America Family Communities and Hometown America Age-Qualified (55+) Communities. Our properties are known nationwide for their quality amenities, professional on-site management and the affordable lifestyle they provide for our residents.\n\nFrom coast to coast, our residents enjoy an affordable and inspiring lifestyle. With Hometown America you will always find a welcoming and friendly environment, and a dedication to providing a higher standard of living.\n\nThis dedication to quality of life extends beyond our residential communities to the vicinities in which they are located. Our residents and our employees work to ease living conditions through volunteerism, donations, and special disaster relief efforts. In addition, Hometown America and the Hometown America Foundation contribute to related causes.",
+          "domain": "hometownamerica.com",
+          "employees": "201 - 500",
+          "founded": "1997",
+          "fqdn": "www.hometownamerica.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/8/56/8568f0a2f9eacfab069c8f07fd7ecbc1",
+          "name": "Hometown America",
+          "revenueRange": [],
+          "mainIndustry": "Real Estate",
+          "subIndustry": "Real Estate",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/hometown-america"
+            }
+          },
+          "address": "Chicago North America United States US Chicago, IL, US Illinois IL -87.6500473022461,41.85002899169922 ",
+          "location": {
+            "city": "Chicago",
+            "country": "United States",
+            "fullLocation": "Chicago North America United States US Chicago, IL, US Illinois IL -87.6500473022461,41.85002899169922 ",
+            "state": "Illinois",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Chicago, IL, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 6513,
+                "description": "Apartment building operators"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 531110,
+                "description": "Lessors of Residential Buildings and Dwellings"
+              }
+            ]
+          },
+          "website": "https://hometownamerica.com",
+          "specialities": [
+            "55+communities",
+            "affordable housing",
+            "family groups",
+            "manufactured homes",
+            "property management",
+            "real estate"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T00:00:31.549129",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T00:00:33.990541",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run nav_pro menu",
+			"type": "shell",
+			"command": "python.exe",
+			"args": [
+				"nav_pro.py",
+				"--menu"
+			],
+			"problemMatcher": [
+				"$eslint - stylish"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Batch smoke test with filters",
+			"type": "shell",
+			"command": "python nav_busqueda_externa_v2.py --batch-from-etapa1 \"out/etapa1_v1.json\" --only-missing-emails --max-band-score 70 --start 0 --limit 5 --output \"out/etapa1_2_V2_V3.json\"",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Smoke test FB sanitize (thebull-gnv.com)",
+			"type": "shell",
+			"command": "python nav_busqueda_externa_v2.py thebull-gnv.com --output \"out/_smoke_test.json\"",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "navegar_secciones batch test",
+			"type": "shell",
+			"command": "python navegar_secciones.py --batch-from-etapa1 \"out/etapa1_v1.json\" --only-missing-emails --start 0 --limit 5 --out-base \"out\"",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "navegar_secciones next 5",
+			"type": "shell",
+			"command": "python navegar_secciones.py --batch-from-etapa1 \"out/etapa1_v1.json\" --only-missing-emails --start 5 --limit 5 --out-base \"out\"",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "navegar_secciones next 5 (continue)",
+			"type": "shell",
+			"command": "python navegar_secciones.py --batch-from-etapa1 \"out/etapa1_v1.json\" --only-missing-emails --start 10 --limit 5 --out-base \"out\"",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "run menu progreso summary",
+			"type": "shell",
+			"command": "python menu_progreso.py --summary",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Dry-run reconstruir etapa1",
+			"type": "shell",
+			"command": "python reconstruir_etapa1.py --dry-run",
+			"args": [],
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Write etapa1_recon.json",
+			"type": "shell",
+			"command": "python reconstruir_etapa1.py",
+			"args": [],
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Replace etapa1 with recon (backup first)",
+			"type": "shell",
+			"command": "python reconstruir_etapa1.py --replace-etapa1",
+			"args": [],
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

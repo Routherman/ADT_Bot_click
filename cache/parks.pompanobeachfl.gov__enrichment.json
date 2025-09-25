@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-09-23T20:50:05.976852",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T20:50:02.214054",
+      "company": {
+        "name": null,
+        "domain": "parks.pompanobeachfl.gov",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 1042043,
+          "description": "Municipality in the Beautiful City of Pompano Beach.\n\nLocated in the heart of Florida's Gold Coast, the City of Pompano Beach is the year round home to over 101,000 residents.  During season (September through March) the number swells to nearly 165,000 as part-time residents from more inclement environments join us for \"fun in the sun\". \n\nIf you are looking for a place to call home where you can put in a days work and still have time to: play a quick nine on a beautiful course, wet a line in waters inhabited by trophy class denizens of the deep, or just unwind with warm sand between your toes and watch the moon rise over the Gulf Stream then Pompano Beach is your kinda place.\n\nThe National Civic League crowned Pompano Beach the coveted All-America City Award – the nation’s longest running and most prestigious civic recognition program.\n\nThe All-America City Award encourages and recognizes civic excellence, honoring the communities in which citizens, government, businesses and nonprofit organizations demonstrate successful resolution of critical community issues. Since 1949, more than 4,000 communities have competed and nearly 500 have been designated All- America Cities.",
+          "domain": "pompanobeachfl.gov",
+          "employees": "501 - 1000",
+          "fqdn": "www.pompanobeachfl.gov",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/0/dd/0dda730bfa4eac7c843953f20fc40522",
+          "name": "City of Pompano Beach",
+          "revenueRange": [],
+          "mainIndustry": "Government",
+          "subIndustry": "Government Administration",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/city-of-pompano-beach"
+            }
+          },
+          "address": "Pompano Beach North America United States US 100 West Atlantic Blvd.; Pompano Beach, FL 33060, US Florida FL -80.12477111816406,26.23785972595215 ",
+          "location": {
+            "city": "Pompano Beach",
+            "country": "United States",
+            "fullLocation": "Pompano Beach North America United States US 100 West Atlantic Blvd.; Pompano Beach, FL 33060, US Florida FL -80.12477111816406,26.23785972595215 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "100 West Atlantic Blvd.; Pompano Beach, FL 33060, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 9111,
+                "description": "Executive offices"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 921110,
+                "description": "Executive Offices"
+              }
+            ]
+          },
+          "website": "https://pompanobeachfl.gov"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T20:50:03.384922",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T20:50:05.972951",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-20T09:09:52.318186",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T09:09:48.703358",
+      "company": {
+        "name": null,
+        "domain": "biscaynebaybrewing.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 33007646,
+          "description": "Founded in 2012, Biscayne Bay Brewing Company is committed to growing the beer culture of Miami.  With a focus on classic styles of beer, Biscayne Bay Brewing has built a reputation for quality above all else.\n\nGiving back is an important part of Biscayne Bay Brewing’s philosophy; not just delicious craft beer but also by service to others. As a member of the community, Biscayne Bay Brewing has continually collaborates with local service organizations by sponsoring events and opening its brewery for their use to raise resources and awareness for important causes.\n\nWe’re proud that we’ve given back to and or have collaborated with: The Education Fund • Friends of Biscayne Bay • Boys and Girls Club of Miami • St. June Children’s Hospital • Fort Lauderdale Science Museum •  Miami Waterkeeper",
+          "domain": "biscaynebaybrewing.com",
+          "employees": "11 - 50",
+          "founded": "2012",
+          "fqdn": "www.biscaynebaybrewing.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/2/7c/27cbcf183ba7367d68eeb9b6692fc277",
+          "name": "Biscayne Bay Brewing Company",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Food & Beverage Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/biscayne-bay-brewing-company-llc"
+            }
+          },
+          "address": "Miami North America United States US 100 NE First Ave; Miami, Florida 33132, US Florida FL -80.19365692138672,25.774269104003906 ",
+          "location": {
+            "city": "Miami",
+            "country": "United States",
+            "fullLocation": "Miami North America United States US 100 NE First Ave; Miami, Florida 33132, US Florida FL -80.19365692138672,25.774269104003906 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "100 NE First Ave; Miami, Florida 33132, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5813,
+                "description": "Drinking places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://biscaynebaybrewing.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T09:09:49.930932",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T09:09:52.313851",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

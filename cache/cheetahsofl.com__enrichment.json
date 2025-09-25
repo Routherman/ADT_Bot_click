@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-09-21T06:01:49.895281",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T06:01:46.517901",
+      "company": {
+        "name": null,
+        "domain": "cheetahsofl.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 3527677,
+          "description": "The World Famous Cheetah Hallandale Beach features over 100 of the most beautiful entertainers in a newly renovated, South Beach style atmosphere.  Cheetah Hallandale Beach is an experience that is not to be missed with three levels, six stages, and a state of the art sports lounge.  Hold your next bachelor, divorce, or birthday party here and enjoy an event that will be remembered for years to come.  Spice up your next corporate meeting with the presence of beautiful entertainers and delicious food served from our full kitchen.  With ten 60” HD TVs and six projectors, our new state of the art sports lounge is the perfect place to catch the next big fight or game.  Come see for yourself why we are considered the best strip club in South Florida.",
+          "domain": "cheetahsofl.com",
+          "employees": "51 - 200",
+          "founded": "2002",
+          "fqdn": "www.cheetahsofl.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/6/04/60429115f01ed858cbab1f6b1e0cf26c",
+          "name": "Cheetah Gentlemen's Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/cheetah-gentlemen%27s-club"
+            }
+          },
+          "address": "Hallandale Beach North America United States US 100 Ansin Boulevard; Hallandale Beach, FL 33009, US Florida FL -80.14837646484375,25.981199264526367 ",
+          "location": {
+            "city": "Hallandale Beach",
+            "country": "United States",
+            "fullLocation": "Hallandale Beach North America United States US 100 Ansin Boulevard; Hallandale Beach, FL 33009, US Florida FL -80.14837646484375,25.981199264526367 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "100 Ansin Boulevard; Hallandale Beach, FL 33009, US"
+          },
+          "website": "https://cheetahsofl.com",
+          "specialities": [
+            "adult entertainment",
+            "bachelorette parties",
+            "dancers",
+            "nightlife",
+            "parties",
+            "special events",
+            "sports bar",
+            "vip areas"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T06:01:47.636749",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T06:01:49.890666",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

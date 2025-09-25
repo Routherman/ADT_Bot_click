@@ -1,0 +1,122 @@
+{
+  "timestamp": "2025-09-21T17:40:28.358426",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T17:40:24.282199",
+      "company": {
+        "name": null,
+        "domain": "suntexboatclub.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 86697353,
+          "description": "Join our Club and get unlimited access to our top-of-the-line fleet of pontoons, tritoons, center consoles, and runabouts*. New to boating? No problem! Let us train you as we introduce you to the boating lifestyle. Just sold your boat? No worries! Get back on the water! Come enjoy our amazing boat club!\n\nAs a member, you simply log into our easy-to-use online reservation system, choose a boat, then just show up! We will handle the rest!\n\nClub members also get complimentary access to all of our wakeboards, kneeboards, paddleboards, tubes, skis, and more!* And if you travel, Members may use any one of our clubs, located in Texas, Georgia, Oklahoma, Iowa, Florida, California, Kentucky, and Tennessee.\n\nDaily rentals are also available. Ask us about our house boats!",
+          "domain": "suntexboatclub.com",
+          "employees": "1001 - 5000",
+          "founded": "2016",
+          "fqdn": "www.suntexboatclub.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/5/f9/5f938ffd7df6d6fcd8f9d5cf2858fc99",
+          "name": "Suntex Boat Club & Rentals | The Circle of Boating®",
+          "revenueRange": [
+            1000000,
+            10000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Recreational Facilities",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/suntex-boat-club"
+            }
+          },
+          "address": "Dallas North America United States US 17330 Preston Rd; Suite 220A; Dallas, Texas 75252, US Texas TX -96.80667114257812,32.783058166503906 ",
+          "location": {
+            "city": "Dallas",
+            "country": "United States",
+            "fullLocation": "Dallas North America United States US 17330 Preston Rd; Suite 220A; Dallas, Texas 75252, US Texas TX -96.80667114257812,32.783058166503906 ",
+            "state": "Texas",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "17330 Preston Rd; Suite 220A; Dallas, Texas 75252, US"
+          },
+          "website": "https://suntexboatclub.com",
+          "specialities": [
+            "boat club",
+            "boating safety",
+            "hospitality",
+            "marina management",
+            "membership"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T17:40:25.448289",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T17:40:28.329473",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

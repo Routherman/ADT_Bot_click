@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-23T19:43:15.988722",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T19:43:12.301866",
+      "company": {
+        "name": null,
+        "domain": "ceulmt.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 4991259,
+          "description": "Why Choose CEULMT.COM?\nWhy Choose CEULMT.COM?\nWhy take my CEU Coursework over our competitors??\n• Remember when you were a student in massage school, working hard at succeeding while facing the challenges of life and school?\n• How about the time and effort you put in when preparing for the certification exam and licensure process?\n\nAt CEULMT.COM, you are completing coursework designed and created by an actual professor of massage therapy with a decade of full time teaching experience. I was there with my students, at their side, providing them with the education and support they deserved. I am still there for them as a mentor, years after they leave my classroom. Let me continue being there for you too!\n\nCredentials:\n• Top rated College Instructor by students for classroom organization, interaction, and instructional performance.\n• Two time Teacher of Distinction Award winner for Teaching Excellence.\n• Vast knowledge of anatomy, physiology, pathologies, and advanced modalities.\n• Working Licensed Nationally Certified Massage Therapist since 2000.\n• Published Writer on the field of massage therapy.\n• One of the top reputations in the country as an Instructor and LMT.\n• Mentor & Consultant to massage therapists throughout the world.\n• Graduate of Florida International University\n• Former School Teacher",
+          "domain": "ceulmt.com",
+          "employees": "1 - 10",
+          "founded": "2000",
+          "fqdn": "www.ceulmt.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/ce/bce2a79c8ade56820343d59da79ec827",
+          "name": "CEULMT.COM",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Wellness & Fitness Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/ceulmt-com"
+            }
+          },
+          "address": "North America United States US ., Florida 32937, US Florida FL ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US ., Florida 32937, US Florida FL ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "., Florida 32937, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7991,
+                "description": "Physical fitness facilities"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 713940,
+                "description": "Fitness and Recreational Sports Centers"
+              }
+            ]
+          },
+          "website": "https://ceulmt.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T19:43:13.528804",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T19:43:15.985167",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

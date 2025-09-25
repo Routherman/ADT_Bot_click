@@ -1,0 +1,961 @@
+{
+  "site_url": "https://hamptonyc.com/",
+  "domain": "hamptonyc.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://hamptonyc.com/",
+    "https://www.hamptonyc.com/about",
+    "https://www.hamptonyc.com/team",
+    "https://www.hamptonyc.com/visiting-yachtsman",
+    "https://www.hamptonyc.com/calendar",
+    "https://www.hamptonyc.com/membership",
+    "https://www.hamptonyc.com/faq",
+    "https://www.hamptonyc.com/weddings-events",
+    "https://www.hamptonyc.com/contact",
+    "https://www.hamptonyc.com/reservations",
+    "https://www.hamptonyc.com",
+    "https://www.hamptonyc.com/amenities",
+    "https://www.hamptonyc.com/board-of-directors",
+    "https://www.hamptonyc.com/foundation",
+    "https://www.hamptonyc.com/regattas-registration",
+    "https://www.hamptonyc.com/big-boat-racing",
+    "https://www.hamptonyc.com/one-design",
+    "https://www.hamptonyc.com/cruising",
+    "https://www.hamptonyc.com/adult-sailing-program",
+    "https://www.hamptonyc.com/resources",
+    "https://www.hamptonyc.com/juniorsailing",
+    "https://www.hamptonyc.com/juniorsailingschedule"
+  ],
+  "candidates": [
+    "https://www.hamptonyc.com/contact",
+    "https://www.hamptonyc.com/about",
+    "https://www.hamptonyc.com/calendar",
+    "https://www.hamptonyc.com/membership",
+    "https://www.hamptonyc.com/weddings-events",
+    "https://www.hamptonyc.com/team",
+    "https://www.hamptonyc.com/faq",
+    "https://www.hamptonyc.com/reservations",
+    "https://www.hamptonyc.com/visiting-yachtsman",
+    "https://hamptonyc.com/",
+    "https://www.hamptonyc.com/juniorsailingschedule",
+    "https://hamptonyc.com/contact",
+    "https://hamptonyc.com/contact/",
+    "https://hamptonyc.com/contact-us",
+    "https://hamptonyc.com/contact-us/",
+    "https://hamptonyc.com/contactus",
+    "https://hamptonyc.com/contactus/",
+    "https://hamptonyc.com/about",
+    "https://hamptonyc.com/about/",
+    "https://hamptonyc.com/about-us",
+    "https://hamptonyc.com/about-us/",
+    "https://hamptonyc.com/visit",
+    "https://hamptonyc.com/visit/",
+    "https://hamptonyc.com/location",
+    "https://hamptonyc.com/location/",
+    "https://hamptonyc.com/directions",
+    "https://hamptonyc.com/directions/"
+  ],
+  "per_page": {
+    "https://www.hamptonyc.com/contact": {
+      "title": "Contact | Hampton Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/contact"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://www.hamptonyc.com/about": {
+      "title": "About | Hampton Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/about"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://www.hamptonyc.com/calendar": {
+      "title": "Calendar of Events | Hampton Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 1,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/calendar"
+          ]
+        },
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/calendar"
+          ]
+        }
+      },
+      "emails": [
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://www.hamptonyc.com/membership": {
+      "title": "Membership | Hampton Yacht Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.hamptonyc.com/weddings-events": {
+      "title": "Weddings & Events | Hampton Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/weddings-events"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/weddings-events"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/weddings-events"
+          ]
+        }
+      },
+      "emails": [
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://www.hamptonyc.com/team": {
+      "title": "Team",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/team"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/team"
+          ]
+        }
+      },
+      "emails": [
+        "accounting@hamptonyc.com",
+        "chef@hamptonyc.com",
+        "eventscoordinator@hamptonyc.com",
+        "fohmanager@hamptonyc.com",
+        "manager@hamptonyc.com",
+        "officemanager@hamptonyc.com",
+        "sailingdirector@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://www.hamptonyc.com/faq": {
+      "title": "FAQ | Hampton Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/faq"
+          ]
+        }
+      },
+      "emails": [
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://www.hamptonyc.com/reservations": {
+      "title": "Reservations | Hampton Yacht Club",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://www.hamptonyc.com/visiting-yachtsman": {
+      "title": "Visiting Yachts | Hampton Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/visiting-yachtsman"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/visiting-yachtsman"
+          ]
+        }
+      },
+      "emails": [
+        "sailingdirector@hamptonyc.com"
+      ],
+      "phones": [
+        "757 722 0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/": {
+      "title": "Hampton Yacht Club | Virginia",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://www.hamptonyc.com/juniorsailingschedule": {
+      "title": "Junior Sailing Schedule | Hampton Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/juniorsailingschedule"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 1,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hamptonyc.com/juniorsailingschedule"
+          ]
+        }
+      },
+      "emails": [
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/contact": {
+      "title": "Contact | Hampton Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/contact"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/contact/": {
+      "title": "Contact | Hampton Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/contact-us": {
+      "title": "404 Error Page | Hampton Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/contact-us/": {
+      "title": "404 Error Page | Hampton Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/contactus": {
+      "title": "404 Error Page | Hampton Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/contactus/": {
+      "title": "404 Error Page | Hampton Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/about": {
+      "title": "About | Hampton Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/about"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/about/": {
+      "title": "About | Hampton Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/about/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/about-us": {
+      "title": "404 Error Page | Hampton Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/about-us/": {
+      "title": "404 Error Page | Hampton Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/visit": {
+      "title": "404 Error Page | Hampton Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/visit/": {
+      "title": "404 Error Page | Hampton Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/location": {
+      "title": "404 Error Page | Hampton Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/location/": {
+      "title": "404 Error Page | Hampton Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/directions": {
+      "title": "404 Error Page | Hampton Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    },
+    "https://hamptonyc.com/directions/": {
+      "title": "404 Error Page | Hampton Yacht Club",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hamptonyc.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "hamptonycsailing@gmail.com",
+        "manager@hamptonyc.com"
+      ],
+      "phones": [
+        "(757) 722-0711"
+      ],
+      "socials": [
+        "https://www.facebook.com/hampton.yachtclub/",
+        "https://www.instagram.com/hamptonyc_sailing/"
+      ]
+    }
+  }
+}

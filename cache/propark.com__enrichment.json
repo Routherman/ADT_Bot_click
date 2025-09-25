@@ -1,0 +1,140 @@
+{
+  "timestamp": "2025-09-21T14:11:20.583840",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T14:11:16.380616",
+      "company": {
+        "name": null,
+        "domain": "propark.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 40665105,
+          "description": "Propark Mobility began in 1984 with a 60-space parking lot in Hartford, Conn. Today, the company has expanded to over 1,000 locations in more than 140 cities nationwide. Specializing in parking management, transportation, campus mobility, and electrification services, Propark remains on the cutting edge of technological innovations, leveraging the latest tools to ensure client success and customer satisfaction.\n\nThe company fosters a thriving culture through positive employee practices and a commitment to social responsibility, supporting local communities across the country. From valet offerings at the nation’s leading hospitals and luxury hotels to parking management at Boston’s TD Garden and mobility and electrification services on Google’s west coast campuses, Propark Mobility delivers outstanding results as a national company with a personalized approach.",
+          "domain": "propark.com",
+          "employees": "5001 - 10000",
+          "fqdn": "www.propark.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/a/01/a01a138fdb74f3a105a5b2cb7bc8b344",
+          "name": "Propark Mobility",
+          "revenueRange": [],
+          "mainIndustry": "Transportation, Logistics, Supply Chain & Storage",
+          "subIndustry": "Ground Passenger Transportation",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/proparkmobility"
+            }
+          },
+          "address": "Hartford North America United States US Hartford, Connecticut 06103, US Connecticut CT -72.68508911132812,41.763710021972656 ",
+          "location": {
+            "city": "Hartford",
+            "country": "United States",
+            "fullLocation": "Hartford North America United States US Hartford, Connecticut 06103, US Connecticut CT -72.68508911132812,41.763710021972656 ",
+            "state": "Connecticut",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Hartford, Connecticut 06103, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 4111,
+                "description": "Local and suburban transit"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 485999,
+                "description": "All Other Transit and Ground Passenger Transportation"
+              }
+            ]
+          },
+          "website": "https://propark.com",
+          "funding": {
+            "rounds": [
+              {
+                "currency": "USD",
+                "roundAmount": 400000,
+                "roundType": "Seed Round",
+                "roundDate": "Feb 12, 2014"
+              }
+            ],
+            "totalRounds": 1,
+            "totalRoundsAmount": 400000,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundDate": "Invalid Date"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T14:11:17.807407",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T14:11:20.577206",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

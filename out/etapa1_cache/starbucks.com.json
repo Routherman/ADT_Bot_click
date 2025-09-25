@@ -1,0 +1,384 @@
+{
+  "site_url": "https://starbucks.com/",
+  "domain": "starbucks.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://starbucks.com/",
+    "https://www.starbucks.com/about-us/",
+    "https://www.starbucks.com/contact/",
+    "https://www.starbucks.com/about-us/accessibility/",
+    "https://starbucks.com/menu",
+    "https://starbucks.com/rewards",
+    "https://starbucks.com/gift",
+    "https://starbucks.com/store-locator",
+    "https://starbucks.com/account/signin?ReturnUrl=%2F",
+    "https://starbucks.com/account/create",
+    "https://starbucks.com/account/cards",
+    "https://starbucks.com/account/rewards",
+    "https://starbucks.com/account/for-you",
+    "https://starbucks.com/account/history",
+    "https://starbucks.com/account/personal",
+    "https://starbucks.com/account/payment-method",
+    "https://starbucks.com/account/settings/privacy",
+    "https://starbucks.com/account/settings",
+    "https://starbucks.com/account/signout?ReturnUrl=%2F",
+    "https://www.starbucks.com/menu/featured/",
+    "https://www.starbucks.com/account/create",
+    "https://www.starbucks.com/gift",
+    "https://customerservice.starbucks.com/",
+    "https://careers.starbucks.com/culture/",
+    "https://careers.starbucks.com/benefits/education/",
+    "https://alumni.starbucks.com/",
+    "https://careers.starbucks.com/",
+    "https://careers.starbucks.com/discover-opportunities/international-careers/"
+  ],
+  "candidates": [
+    "https://www.starbucks.com/contact/",
+    "https://www.starbucks.com/about-us/",
+    "https://www.starbucks.com/about-us/accessibility/",
+    "https://starbucks.com/",
+    "https://starbucks.com/contact",
+    "https://starbucks.com/contact/",
+    "https://starbucks.com/contact-us",
+    "https://starbucks.com/contact-us/",
+    "https://starbucks.com/contactus",
+    "https://starbucks.com/contactus/",
+    "https://starbucks.com/about",
+    "https://starbucks.com/about/",
+    "https://starbucks.com/about-us",
+    "https://starbucks.com/about-us/",
+    "https://starbucks.com/visit",
+    "https://starbucks.com/visit/",
+    "https://starbucks.com/location",
+    "https://starbucks.com/location/",
+    "https://starbucks.com/directions",
+    "https://starbucks.com/directions/"
+  ],
+  "per_page": {
+    "https://www.starbucks.com/contact/": {
+      "title": "Contact Us: Starbucks Coffee Company",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.starbucks.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "investorrelations@starbucks.com",
+        "partnerships@starbucks.com",
+        "press@starbucks.com",
+        "pressemea@starbucks.com"
+      ],
+      "phones": [
+        "206 318 7100"
+      ],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://www.starbucks.com/about-us/": {
+      "title": "About Us: Starbucks Coffee Company",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://www.starbucks.com/about-us/accessibility/": {
+      "title": "Accessibility: Starbucks Coffee Company",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/": {
+      "title": "Starbucks Coffee Company",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/contact": {
+      "title": "Contact Us: Starbucks Coffee Company",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://starbucks.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "investorrelations@starbucks.com",
+        "partnerships@starbucks.com",
+        "press@starbucks.com",
+        "pressemea@starbucks.com"
+      ],
+      "phones": [
+        "206 318 7100"
+      ],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/contact/": {
+      "title": "Contact Us: Starbucks Coffee Company",
+      "band_hits": {
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://starbucks.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "investorrelations@starbucks.com",
+        "partnerships@starbucks.com",
+        "press@starbucks.com",
+        "pressemea@starbucks.com"
+      ],
+      "phones": [
+        "206 318 7100"
+      ],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/contact-us": {
+      "title": "404: Page not found: Starbucks Coffee Company:",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/contact-us/": {
+      "title": "404: Page not found: Starbucks Coffee Company:",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/contactus": {
+      "title": "404: Page not found: Starbucks Coffee Company:",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/contactus/": {
+      "title": "404: Page not found: Starbucks Coffee Company:",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/about": {
+      "title": "404: Page not found: Starbucks Coffee Company:",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/about/": {
+      "title": "404: Page not found: Starbucks Coffee Company:",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/about-us": {
+      "title": "About Us: Starbucks Coffee Company",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/about-us/": {
+      "title": "About Us: Starbucks Coffee Company",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/visit": {
+      "title": "404: Page not found: Starbucks Coffee Company:",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/visit/": {
+      "title": "404: Page not found: Starbucks Coffee Company:",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/location": {
+      "title": "404: Page not found: Starbucks Coffee Company:",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/location/": {
+      "title": "404: Page not found: Starbucks Coffee Company:",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/directions": {
+      "title": "404: Page not found: Starbucks Coffee Company:",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    },
+    "https://starbucks.com/directions/": {
+      "title": "404: Page not found: Starbucks Coffee Company:",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://facebook.com/starbucks",
+        "https://instagram.com/starbucks",
+        "https://www.youtube.com/starbucks"
+      ]
+    }
+  }
+}

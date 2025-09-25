@@ -1,0 +1,136 @@
+{
+  "timestamp": "2025-09-19T18:47:08.864537",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T18:47:04.657420",
+      "company": {
+        "name": null,
+        "domain": "foxsquirrelcornmaze.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 11786332,
+          "description": "The Futch Family is excited to host our 9th annual “Fox Squirrel Corn Maze” in 2020 on the Single R Ranch in Plant City, Florida. We were awarded the Farm Family of the year by Hillsborough County in 2015, we are very proud of this achievement as we have worked hard for many years. The ranch has been in our family since 1920, six (6) generations. The family continues to operate the ranch today, which is a cattle operation, strawberry field, and the perfect location for your next corporate event.  Please visit our website or contact us about hosting your corporate event on Single R Ranch, the home of Futch Entertainment.",
+          "domain": "foxsquirrelcornmaze.com",
+          "employees": "1 - 10",
+          "founded": "1920",
+          "fqdn": "www.foxsquirrelcornmaze.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/2/c6/2c6012794972f59a1bea26c75dbb7fe2",
+          "name": "Futch Entertainment",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Events Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/futch-entertainment"
+            }
+          },
+          "address": "Plant City North America United States US 3002 Charlie Taylor Rd; Plant City, Florida, US Florida FL -82.11469268798828,28.01888084411621 ",
+          "location": {
+            "city": "Plant City",
+            "country": "United States",
+            "fullLocation": "Plant City North America United States US 3002 Charlie Taylor Rd; Plant City, Florida, US Florida FL -82.11469268798828,28.01888084411621 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3002 Charlie Taylor Rd; Plant City, Florida, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7389,
+                "description": "Business services, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 561920,
+                "description": "Convention and Trade Show Organizers"
+              }
+            ]
+          },
+          "website": "https://foxsquirrelcornmaze.com",
+          "specialities": [
+            "agriculture",
+            "agritourism",
+            "corporate events",
+            "event venue",
+            "outdoor events"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T18:47:05.987088",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "not_found",
+      "last_check": "2025-09-19T18:47:08.854747",
+      "http_status": 400,
+      "raw_text": "{\"detail\":\"Not found.\"}"
+    }
+  }
+}

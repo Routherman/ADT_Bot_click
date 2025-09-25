@@ -1,0 +1,138 @@
+{
+  "timestamp": "2025-09-25T05:54:53.837722",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T05:54:50.104537",
+      "company": {
+        "name": null,
+        "domain": "northfloridamedicalcenters.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 7006434,
+          "description": "North Florida Medical consists of 10 primary care and 3 dental locations, providing high quality care in service areas that were traditionally underserved.  We are in Crestview, Quincy, Wewahitchka, Eastpoint, Tallahassee, Panacea, Madison, Perry, Mayo and Cross City.  Most recently, we have added a mobile clinic, Health Force One. Our corporate offices support our clinics and are based in Tallahassee.  \n\nOur clinics are Federally Qualifing Health Centers and as such can offer a sliding fee program in addition to taking insurance (including Medicaid and Medicare).  Our current slide fee program begins with a nominal fee as low as $10.",
+          "domain": "northfloridamedicalcenters.org",
+          "employees": "51 - 200",
+          "fqdn": "www.northfloridamedicalcenters.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/2/15/21521428fbfc28f1863709956ff5c402",
+          "name": "North Florida Medical",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitals, Healthcare & Clinics",
+          "subIndustry": "Hospitals & Healthcare",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/north-florida-medical-centers"
+            }
+          },
+          "address": "Tallahassee North America United States US 2804 Remington Green Circle; Tallahassee, Florida 32308, US Florida FL -84.28073120117188,30.43825912475586 ",
+          "location": {
+            "city": "Tallahassee",
+            "country": "United States",
+            "fullLocation": "Tallahassee North America United States US 2804 Remington Green Circle; Tallahassee, Florida 32308, US Florida FL -84.28073120117188,30.43825912475586 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "2804 Remington Green Circle; Tallahassee, Florida 32308, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8062,
+                "description": "General medical and surgical hospitals"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 621111,
+                "description": "Offices of Physicians (except Mental Health Specialists)"
+              }
+            ]
+          },
+          "website": "https://northfloridamedicalcenters.org",
+          "specialities": [
+            "cbs",
+            "chp",
+            "dental care",
+            "geriatrics",
+            "medicaid applications",
+            "medical",
+            "pediatrics",
+            "primary care"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T05:54:51.357853",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T05:54:53.832430",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

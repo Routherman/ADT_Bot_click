@@ -1,0 +1,160 @@
+{
+  "timestamp": "2025-09-23T12:18:20.761466",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T12:18:16.896768",
+      "company": {
+        "name": null,
+        "domain": "brevardhealth.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 2608171,
+          "description": "The Brevard Health Alliance, Inc. is Brevard County’s only Federally Qualified Health Center. This organization provides extensive primary health care services to Brevard County residents regardless of their ability to pay for those services. By offering services on a sliding fee scale, BHA has provided primary care services, limited dental services, diagnostic services, case management services, medication assistance, and specialty referrals to Brevard County’s economically disadvantaged residents since March of 2005.",
+          "domain": "brevardhealth.org",
+          "employees": "501 - 1000",
+          "founded": "2005",
+          "fqdn": "www.brevardhealth.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/0/ab/0abdcae99a74cd75ba6e1668296d9106",
+          "name": "Brevard Health Alliance, Inc.",
+          "revenueRange": [
+            50000000,
+            100000000
+          ],
+          "mainIndustry": "Hospitals, Healthcare & Clinics",
+          "subIndustry": "Hospitals & Healthcare",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/brevard-health-alliance"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/brevard-health-alliance-inc"
+            }
+          },
+          "address": "Melbourne North America United States US 4315 Woodland Park Dr; Melbourne, Florida 32904, US Florida FL -80.60810852050781,28.083629608154297 ",
+          "location": {
+            "city": "Melbourne",
+            "country": "United States",
+            "fullLocation": "Melbourne North America United States US 4315 Woodland Park Dr; Melbourne, Florida 32904, US Florida FL -80.60810852050781,28.083629608154297 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "4315 Woodland Park Dr; Melbourne, Florida 32904, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8062,
+                "description": "General medical and surgical hospitals"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 621111,
+                "description": "Offices of Physicians (except Mental Health Specialists)"
+              }
+            ]
+          },
+          "website": "https://brevardhealth.org",
+          "specialities": [
+            "behavioral health",
+            "clinics",
+            "community care",
+            "dental",
+            "family medicine",
+            "federally qualified health centers",
+            "ob/gyn",
+            "pediatrics",
+            "pharmacy",
+            "psychiatry",
+            "psychology",
+            "women's health"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "roundType": "Grant",
+                "roundDate": "Nov 22, 2024"
+              }
+            ],
+            "totalRounds": 1,
+            "totalRoundsAmount": 0,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundType": "Grant",
+            "lastRoundDate": "Nov 22, 2024"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T12:18:18.257408",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T12:18:20.758124",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

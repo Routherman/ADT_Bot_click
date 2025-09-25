@@ -1,0 +1,1220 @@
+{
+  "site_url": "https://amikids.org/",
+  "domain": "amikids.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://amikids.org/",
+    "https://amikids.org/about-amikids/",
+    "https://amikids.org/about-amikids/the-amikids-story/",
+    "https://amikids.org/about-amikids/our-values/",
+    "https://amikids.org/about-amikids/our-team/",
+    "https://amikids.org/about-amikids/our-impact/",
+    "https://amikids.org/about-amikids/our-approach/",
+    "https://amikids.org/about-amikids/experiential-education/",
+    "https://amikids.org/about-amikids/2023-2025-strategic-plan/",
+    "https://amikids.org/success-stories/",
+    "https://amikids.org/careers/",
+    "https://amikids.org/our-press/",
+    "https://amikids.org/programs-and-services/",
+    "https://amikids.org/locations/",
+    "https://amikids.org/get-involved/",
+    "https://amikids.org/?campaign=686671",
+    "https://amikids.org/success_stories/integer-posuere-erat-a-ante-copy-3/",
+    "https://amikids.org/success_stories/isabelle-orlando/",
+    "https://amikids.org/success_stories/brody-manatee-copy/",
+    "https://amikids.org/about-amikids/?campaign=686671",
+    "https://amikids.org/get-involved/hire-our-youth/",
+    "https://amikids.org/donate/",
+    "https://amikids.org/get-involved/volunteers/",
+    "https://amikids.org/get-involved/partnerships/",
+    "https://amikids.org/get-involved/advocate/",
+    "https://amikids.org/about-amikids/the-amikids-story/?campaign=686671",
+    "https://amikids.org/about-amikids/our-values/?campaign=686671",
+    "https://amikids.org/about-amikids/our-team/?campaign=686671",
+    "https://amikids.org/team_member/brad-roub/",
+    "https://amikids.org/team_member/mike-thornton/",
+    "https://amikids.org/team_member/heyward-golden/",
+    "https://amikids.org/team_member/maria-porto-duarte/",
+    "https://amikids.org/team_member/rosemary-brackman/",
+    "https://amikids.org/team_member/angee-hastings/",
+    "https://amikids.org/team_member/amy-bradshaw/",
+    "https://amikids.org/team_member/sara-jolly/",
+    "https://amikids.org/team_member/justin-day/",
+    "https://amikids.org/team_member/nancy-loehr/",
+    "https://amikids.org/team_member/jerry-prejean/",
+    "https://amikids.org/team_member/laura-branch/",
+    "https://amikids.org/team_member/mark-metheny/",
+    "https://amikids.org/team_member/corey-lee/",
+    "https://amikids.org/team_member/randy-sanderson/",
+    "https://amikids.org/team_member/terin-cremer/",
+    "https://amikids.org/team_member/mark-lettelleir/",
+    "https://amikids.org/about-amikids/our-impact/?campaign=686671",
+    "https://amikids.org/about-amikids/our-approach/?campaign=686671",
+    "https://amikids.org/about-amikids/experiential-education/?campaign=686671",
+    "https://amikids.org/about-amikids/2023-2025-strategic-plan/?campaign=686671",
+    "https://amikids.org/success-stories/?campaign=686671",
+    "https://amikids.org/careers/?campaign=686671",
+    "https://amikids.org/our-press/?campaign=686671",
+    "https://amikids.org/programs-and-services/?campaign=686671",
+    "https://amikids.org/locations/?fwp_location_services=Community-based",
+    "https://amikids.org/locations/?fwp_location_services=residential",
+    "https://amikids.org/locations/?fwp_location_services=program-enhancements",
+    "https://amikids.org/marine-apprenticeship/",
+    "https://amikids.org/locations/?campaign=686671",
+    "https://amikids.org/location/amikids-acadiana/",
+    "https://amikids.org/location/amikids-alabama-family-services/",
+    "https://amikids.org/location/amikids-albuquerque-transitional-living-operated-by-amikids-sandoval/",
+    "https://amikids.org/location/amikids-aspen/",
+    "https://amikids.org/location/amikids-baton-rouge/",
+    "https://amikids.org/location/amikids-bay-county/",
+    "https://amikids.org/location/amikids-beaufort/",
+    "https://amikids.org/location/amikids-behavioral-health/",
+    "https://amikids.org/location/amikids-bennettsville/",
+    "https://amikids.org/location/amikids-bernalillo/",
+    "https://amikids.org/location/amikids-caddo/",
+    "https://amikids.org/location/amikids-clay-county/",
+    "https://amikids.org/location/amikids-duval/",
+    "https://amikids.org/location/amikids-emerald-coast/",
+    "https://amikids.org/location/amikids-pensacola-escambia-boys-base/",
+    "https://amikids.org/location/amikids-family-services/",
+    "https://amikids.org/location/amikids-farmington/",
+    "https://amikids.org/location/amikids-gadsden/",
+    "https://amikids.org/location/amikids-gainesville/",
+    "https://amikids.org/location/amikids-gateways/"
+  ],
+  "candidates": [
+    "https://amikids.org/about-amikids/",
+    "https://amikids.org/about-amikids/2023-2025-strategic-plan/",
+    "https://amikids.org/about-amikids/2023-2025-strategic-plan/?campaign=686671",
+    "https://amikids.org/about-amikids/?campaign=686671",
+    "https://amikids.org/about-amikids/experiential-education/",
+    "https://amikids.org/about-amikids/experiential-education/?campaign=686671",
+    "https://amikids.org/about-amikids/our-approach/",
+    "https://amikids.org/about-amikids/our-approach/?campaign=686671",
+    "https://amikids.org/about-amikids/our-impact/",
+    "https://amikids.org/about-amikids/our-impact/?campaign=686671",
+    "https://amikids.org/about-amikids/our-team/",
+    "https://amikids.org/about-amikids/our-team/?campaign=686671",
+    "https://amikids.org/about-amikids/our-values/",
+    "https://amikids.org/about-amikids/our-values/?campaign=686671",
+    "https://amikids.org/about-amikids/the-amikids-story/",
+    "https://amikids.org/about-amikids/the-amikids-story/?campaign=686671",
+    "https://amikids.org/team_member/amy-bradshaw/",
+    "https://amikids.org/team_member/angee-hastings/",
+    "https://amikids.org/team_member/brad-roub/",
+    "https://amikids.org/team_member/corey-lee/",
+    "https://amikids.org/team_member/heyward-golden/",
+    "https://amikids.org/team_member/jerry-prejean/",
+    "https://amikids.org/team_member/justin-day/",
+    "https://amikids.org/team_member/laura-branch/",
+    "https://amikids.org/team_member/maria-porto-duarte/",
+    "https://amikids.org/team_member/mark-lettelleir/",
+    "https://amikids.org/team_member/mark-metheny/",
+    "https://amikids.org/team_member/mike-thornton/",
+    "https://amikids.org/team_member/nancy-loehr/",
+    "https://amikids.org/team_member/randy-sanderson/",
+    "https://amikids.org/team_member/rosemary-brackman/",
+    "https://amikids.org/team_member/sara-jolly/",
+    "https://amikids.org/team_member/terin-cremer/",
+    "https://amikids.org/get-involved/hire-our-youth/",
+    "https://amikids.org/",
+    "https://amikids.org/contact",
+    "https://amikids.org/contact/",
+    "https://amikids.org/contact-us",
+    "https://amikids.org/contact-us/",
+    "https://amikids.org/contactus",
+    "https://amikids.org/contactus/",
+    "https://amikids.org/about",
+    "https://amikids.org/about/",
+    "https://amikids.org/about-us",
+    "https://amikids.org/about-us/",
+    "https://amikids.org/visit",
+    "https://amikids.org/visit/",
+    "https://amikids.org/location",
+    "https://amikids.org/location/",
+    "https://amikids.org/directions",
+    "https://amikids.org/directions/"
+  ],
+  "per_page": {
+    "https://amikids.org/about-amikids/": {
+      "title": "Learn about AMIkids: Empowering Youth for a Successful Future - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about-amikids/2023-2025-strategic-plan/": {
+      "title": "2023-2025 Strategic Plan - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A",
+        "https://www.youtube.com/watch"
+      ]
+    },
+    "https://amikids.org/about-amikids/2023-2025-strategic-plan/?campaign=686671": {
+      "title": "2023-2025 Strategic Plan - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A",
+        "https://www.youtube.com/watch"
+      ]
+    },
+    "https://amikids.org/about-amikids/?campaign=686671": {
+      "title": "Learn about AMIkids: Empowering Youth for a Successful Future - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about-amikids/experiential-education/": {
+      "title": "Experiential Education - AMIkids",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/experiential-education/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/experiential-education/"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/experiential-education/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/experiential-education/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about-amikids/experiential-education/?campaign=686671": {
+      "title": "Experiential Education - AMIkids",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/experiential-education/?campaign=686671"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/experiential-education/?campaign=686671"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/experiential-education/?campaign=686671"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/experiential-education/?campaign=686671"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about-amikids/our-approach/": {
+      "title": "Our Approach - AMIkids",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/our-approach/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/our-approach/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/our-approach/"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/our-approach/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about-amikids/our-approach/?campaign=686671": {
+      "title": "Our Approach - AMIkids",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/our-approach/?campaign=686671"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/our-approach/?campaign=686671"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/our-approach/?campaign=686671"
+          ]
+        },
+        "performers": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/our-approach/?campaign=686671"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about-amikids/our-impact/": {
+      "title": "AMIkids Impact: Empowering Young People to Success - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about-amikids/our-impact/?campaign=686671": {
+      "title": "AMIkids Impact: Empowering Young People to Success - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about-amikids/our-team/": {
+      "title": "Our Team - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about-amikids/our-team/?campaign=686671": {
+      "title": "Our Team - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about-amikids/our-values/": {
+      "title": "Our Values - AMIkids",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/our-values/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about-amikids/our-values/?campaign=686671": {
+      "title": "Our Values - AMIkids",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/about-amikids/our-values/?campaign=686671"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about-amikids/the-amikids-story/": {
+      "title": "AMIkids Story: Transforming Lives Through Opportunity - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about-amikids/the-amikids-story/?campaign=686671": {
+      "title": "AMIkids Story: Transforming Lives Through Opportunity - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/amy-bradshaw/": {
+      "title": "Dr. Amy Bradshaw Hoppock - AMIkids",
+      "band_hits": {
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/team_member/amy-bradshaw/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/angee-hastings/": {
+      "title": "Angee Hastings - AMIkids",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/team_member/angee-hastings/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/brad-roub/": {
+      "title": "Brad Roub - AMIkids",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/team_member/brad-roub/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/corey-lee/": {
+      "title": "Corey Lee - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/heyward-golden/": {
+      "title": "Heyward Golden - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/jerry-prejean/": {
+      "title": "Jerry Prejean - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/justin-day/": {
+      "title": "Justin Day - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/laura-branch/": {
+      "title": "Laura Branch - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/maria-porto-duarte/": {
+      "title": "Maria Porto-Duarte - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/mark-lettelleir/": {
+      "title": "Mark Lettelleir - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/mark-metheny/": {
+      "title": "Mark Metheny - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/mike-thornton/": {
+      "title": "Mike Thornton - AMIkids",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/team_member/mike-thornton/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/nancy-loehr/": {
+      "title": "Nancy Loehr - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/randy-sanderson/": {
+      "title": "Randy Sanderson - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/rosemary-brackman/": {
+      "title": "Rosemary Brackman - AMIkids",
+      "band_hits": {
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/team_member/rosemary-brackman/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/sara-jolly/": {
+      "title": "Sara Jolly: A Leader in Resource Development - AMIkids",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/team_member/sara-jolly/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/team_member/terin-cremer/": {
+      "title": "Terin Cremer - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/get-involved/hire-our-youth/": {
+      "title": "Hire our youth - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/": {
+      "title": "AMIkids Non-Profit Organization: Empowering Youth Since 1969",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://amikids.org/contact": {
+      "title": "Page not found - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/contact/": {
+      "title": "Page not found - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/contact-us": {
+      "title": "Page not found - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/contact-us/": {
+      "title": "Page not found - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/contactus": {
+      "title": "Page not found - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/contactus/": {
+      "title": "Page not found - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about": {
+      "title": "Learn about AMIkids: Empowering Youth for a Successful Future - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about/": {
+      "title": "Learn about AMIkids: Empowering Youth for a Successful Future - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about-us": {
+      "title": "Page not found - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/about-us/": {
+      "title": "Page not found - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/visit": {
+      "title": "Page not found - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/visit/": {
+      "title": "Page not found - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/location": {
+      "title": "AMIkids Locations: Find the Nearest Facility Near You - AMIkids",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/location/": {
+      "title": "AMIkids Locations: Find the Nearest Facility Near You - AMIkids",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://amikids.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/directions": {
+      "title": "Page not found - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    },
+    "https://amikids.org/directions/": {
+      "title": "Page not found - AMIkids",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "813.887.3300"
+      ],
+      "socials": [
+        "https://www.facebook.com/AMIkids",
+        "https://www.instagram.com/weareamikids/",
+        "https://www.linkedin.com/company/amikids",
+        "https://www.youtube.com/channel/UCEeo8bhEsZ4bAlHcr-hxD4A"
+      ]
+    }
+  }
+}

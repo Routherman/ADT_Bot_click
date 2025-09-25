@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-17T12:15:05.972385",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-17T12:14:59.804057",
+      "company": {
+        "name": null,
+        "domain": "pureflorida.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 81421263,
+          "description": "We are the Punta Gorda/Englewood Beach Visitor & Convention Bureau, the official tourism marketing organization (DMO) for Charlotte County, Florida. Located on the Southwest Florida coastline, the area encompasses all of Charlotte Harbor and Knight, Don Pedro, Little Gasparilla, North Gasparilla Islands along with the towns of Port Charlotte, Punta Gorda, Englewood, Placida, Cape Haze & Babcock Ranch.\nTogether with our partners in the tourism and hospitality community, we promote the destination and all there is to do and see to consumers, meeting planners, sports organizers, media and the film industry. Our accommodation options are varied from independent and brands hotels and resorts, to a variety of vacation rentals. \nWe are an outdoor enthusiast’s dream come true. Boating, unrivalled fishing, and watersports of all types along with 70 parks where nature abounds. Off the beaten path, Punta Gorda is a charming harborside town with an easily walkable downtown, Conference Center and 4 adjacent hotel properties with a dining scene ranked #2 Small Town Food Scenes in USA Today’s 10Best list.\nWith a population of under 200,000 and only one building over 6 stories tall in the entire county, it’s a laid-back, comfortable, friendly place.\nFind out why we’re a destination worth connecting with when looking for a destination for a small to midsize group or meeting. \n\n\nView Charlotte County's Social Media Terms of Use at www.CharlotteCountyFL.gov/socialterms",
+          "domain": "pureflorida.com",
+          "employees": "11 - 50",
+          "fqdn": "www.pureflorida.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/7/63/76316bbec9ac657db8d2d71b980f83e2",
+          "name": "Punta Gorda/Englewood Beach Visitor & Convention Bureau",
+          "revenueRange": [],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Travel Arrangements",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/punta-gorda-englewood-beach"
+            }
+          },
+          "address": "Port Charlotte North America United States US 1700 Tamiami Trail; Suite G-2; Port Charlotte, Florida 33948, US Florida FL -82.09063720703125,26.97616958618164 ",
+          "location": {
+            "city": "Port Charlotte",
+            "country": "United States",
+            "fullLocation": "Port Charlotte North America United States US 1700 Tamiami Trail; Suite G-2; Port Charlotte, Florida 33948, US Florida FL -82.09063720703125,26.97616958618164 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1700 Tamiami Trail; Suite G-2; Port Charlotte, Florida 33948, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 4724,
+                "description": "Travel agencies"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 561510,
+                "description": "Travel Agencies"
+              }
+            ]
+          },
+          "website": "https://pureflorida.com",
+          "specialities": [
+            "destination marketing",
+            "tourism and hospitality"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-17T12:15:01.006011",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-17T12:15:05.967814",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

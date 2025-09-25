@@ -1,0 +1,139 @@
+{
+  "timestamp": "2025-09-25T05:23:53.179072",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T05:23:49.728414",
+      "company": {
+        "name": null,
+        "domain": "dms.desotoschools.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 18586359,
+          "description": "The mission of the School District of DeSoto is to prepare all students to be successful citizens and productive workers. \n\nGoals\n1. To create a challenging, supportive educational environment that results in higher levels of achievement for all students which includes: reading with comprehension, writing clearly, computing accurately, thinking, reasoning, and using information to solve problems.\n\n2. To provide leadership to agencies serving youth, ensuring family support and academic success.\n\n3. To help all employees become educational leaders who provide responsible and innovative leadership to achieve effective instruction for all students.\n\n4. To hold everyone in the school district accountable for contributing to the educational bottom line: student achievement.\n\n5. To create an organizational culture that considers employees to be its most valuable resource and invests in their professional growth and development.\n\n6. To create within the entire community a sense of ownership of the schools and a belief that a quality public school system is an investment in the continued growth and prosperity of DeSoto County.",
+          "domain": "desotoschools.com",
+          "employees": "501 - 1000",
+          "fqdn": "www.desotoschools.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/2/d0/2d0e0daf959244834da7fb2cc456a8ad",
+          "name": "School District of DeSoto County",
+          "revenueRange": [],
+          "mainIndustry": "Education",
+          "subIndustry": "Primary & Secondary Education",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/theschooldistrictofdesotocounty"
+            }
+          },
+          "address": "Arcadia North America United States US 530 La Solona Ave; Arcadia, Florida 34266, US Florida FL -81.8584213256836,27.215879440307617 ",
+          "location": {
+            "city": "Arcadia",
+            "country": "United States",
+            "fullLocation": "Arcadia North America United States US 530 La Solona Ave; Arcadia, Florida 34266, US Florida FL -81.8584213256836,27.215879440307617 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "530 La Solona Ave; Arcadia, Florida 34266, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8211,
+                "description": "Elementary and secondary schools"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 611110,
+                "description": "Elementary and Secondary Schools"
+              }
+            ]
+          },
+          "website": "https://desotoschools.com",
+          "funding": {
+            "rounds": [
+              {
+                "roundType": "Grant",
+                "roundDate": "May 19, 2023"
+              }
+            ],
+            "totalRounds": 1,
+            "totalRoundsAmount": 0,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundType": "Grant",
+            "lastRoundDate": "May 19, 2023"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T05:23:50.854042",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T05:23:53.174462",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

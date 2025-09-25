@@ -1,0 +1,69 @@
+{
+  "pages": [
+    {
+      "url": "http://www.donnascaribbean.com/contact-us",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "========= Site Content =========\nHome\nAbout\nMedia Gallery\nJoin The Team\nApplication Form\nOur Menu\nCatering\nOur Locations\nContact Us\nRewards\nHome\nAbout\nMedia Gallery\nJoin The Team\nApplication Form\nOur Menu\nCatering\nOur Locations\nContact Us\nRewards\nOrder Now\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nContact Us\nnavigation placeholders\nHOME\n> CONTACT US\nCONTACT US\nCORPORATE OFFICE\n5434 N University Dr,\n﻿\nLauderhill, FL 33351, USA\nCall Us Today\n1-800-805-7108\nSend Us A Message\nWe’d love to hear from you\nContact Us\nSend Us A\nMessage\nFirst Name\nLast Name\nPhone Number\nYour Email Address\nSubject\nMessage\nThank you for contacting Donna's Caribbean Restaurant.\nWe will get back to you as soon as possible.\nOops, there was an error in sending your message.\nPlease try again later.\nA TASTE OF THE ISLANDS\nSIMPLY\nTHE BEST\nServing South Florida and the Caribbean for over 25 years, now with 13 convenient locations. Career opportunities available, contact us for an interview.\nOur Partners\nWE WILL DELIVER DELICIOUS DONNA'S TO YOU\nButton\nButton\nButton\nQuick Links\nHome\nOur Menu\nCatering\nContact Us\nAbout Us\nMedia Gallery\nJoin The Team\nApplication Form\nOur Locations\nCONNECT WITH US\n© 2025\nDonna's Caribbean Restaurant\nDesigned by\nBrandiket.com\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: 8f7309cd\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": []
+    },
+    {
+      "url": "http://www.donnascaribbean.com/join-the-team",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "========= Site Content =========\nHome\nAbout\nMedia Gallery\nJoin The Team\nApplication Form\nOur Menu\nCatering\nOur Locations\nContact Us\nRewards\nHome\nAbout\nMedia Gallery\nJoin The Team\nApplication Form\nOur Menu\nCatering\nOur Locations\nContact Us\nRewards\nOrder Now\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nJoin The Team\nnavigation placeholders\nHOME\n> JOIN THE TEAM\nJOIN THE TEAM\nJOIN THE TEAM\nFrequently Asked\nQuestions\nWHAT POSTIONS ARE AVAILABLE?\nWe are currently hiring cashiers, kitchen assistants, servers, bartenders and cooks.\nFLEXIBLE HOURS?\nWe have part-time and full-time positions currently available.\nBECOME A MANAGER?\nOnce you show the ability to work hard, are motivated and display the necessary interpersonal skills we would love to give you an opportunity to move up within the company.\nMULTIPLE LOCATIONS TO WORK AT?\nWe have 14 locations in throughout South Florida (Dade and Broward counties), so you can work close to home.\nMUST BE ABLE TO WORK LEGALLY?\nMust meet all the mandatory government requirements to work in the United States.\nBI-WEEKLY PAY?\nWe pay our employees every (2) weeks after your initial training.\nHOW DO I BECOME A CHEF?\nWe are always looking to promote from within and also teach our motivated kitchen preps and assistants how to become a Donna’s chef.\nSTART IMMEDIATELY ONCE YOUR HIRED?\nWe are looking for highly self-motivated individuals, who are looking to become a part of Donna’s Caribbean family.\nAPPLICATION FORM\nDonna's Caribbean Restaurant\nMEET IVAN ONE OF\nOUR CHEFS\nOur Partners\nWE WILL DELIVER DELICIOUS DONNA'S TO YOU\nButton\nButton\nButton\nQuick Links\nHome\nOur Menu\nCatering\nContact Us\nAbout Us\nMedia Gallery\nJoin The Team\nApplication Form\nOur Locations\nCONNECT WITH US\n© 2025\nDonna's Caribbean Restaurant\nDesigned by\nBrandiket.com\nAdd full CSS and Javascript before the close tag of the body if needed\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: 8f7309cd\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": []
+    },
+    {
+      "url": "https://www.facebook.com/donnascaribbean",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "http://www.donnascaribbean.com/",
+    "http://www.donnascaribbean.com/locations",
+    "http://www.donnascaribbean.com/catering",
+    "http://www.donnascaribbean.com/application-form",
+    "http://www.donnascaribbean.com/Donnas-Rewards",
+    "http://www.donnascaribbean.com/contact-us",
+    "http://www.donnascaribbean.com/our-menu",
+    "http://www.donnascaribbean.com/join-the-team",
+    "http://www.donnascaribbean.com/media-gallery"
+  ],
+  "candidate_links": [
+    "http://www.donnascaribbean.com/contact-us",
+    "http://www.donnascaribbean.com/join-the-team",
+    "https://www.facebook.com/donnascaribbean"
+  ],
+  "visited": [
+    "http://www.donnascaribbean.com/",
+    "http://www.donnascaribbean.com/about",
+    "http://www.donnascaribbean.com/contact",
+    "http://www.donnascaribbean.com/staff",
+    "http://www.donnascaribbean.com/team",
+    "http://www.donnascaribbean.com/board",
+    "http://www.donnascaribbean.com/directory",
+    "http://www.donnascaribbean.com/events",
+    "http://www.donnascaribbean.com/sitemap.xml",
+    "http://www.donnascaribbean.com/council",
+    "http://www.donnascaribbean.com/leadership",
+    "http://www.donnascaribbean.com/management",
+    "http://www.donnascaribbean.com/producers",
+    "http://www.donnascaribbean.com/support",
+    "http://www.donnascaribbean.com/crew",
+    "http://www.donnascaribbean.com/members",
+    "http://www.donnascaribbean.com/bios",
+    "http://www.donnascaribbean.com/people",
+    "http://www.donnascaribbean.com/artists",
+    "http://www.donnascaribbean.com/musicians",
+    "http://www.donnascaribbean.com/faculty",
+    "http://www.donnascaribbean.com/administration",
+    "http://www.donnascaribbean.com/contact-us",
+    "http://www.donnascaribbean.com/join-the-team",
+    "https://www.facebook.com/donnascaribbean"
+  ],
+  "base_url": "http://www.donnascaribbean.com/"
+}

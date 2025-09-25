@@ -1,0 +1,48 @@
+{
+  "pages": [
+    {
+      "url": "http://weekipub.com/contact",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "Contact\nName\n*\nThis field is mandatory\nComment\n*\nThis field is mandatory\n* Indicates required fields\nSend\nThere was an error submitting your message. Please try again.\nThank you for your feedback!\nIf you would like a response to a comment please include a way to be contacted in the form above. All feedback is appreciated.\nThank you!\nContact us\nTelephone:\n(352) 606-2033\nAddress:\n8070 Cortez Blvd, Weeki Wachee, FL 34607\nHours of Operation:\nMon – Thu\nClosed\nFriday\n03:00 pm – 11:00 pm\nSaturday\n01:00 pm – 11:00 pm\nSunday\n01:00 pm – 08:00 pm",
+      "emails": [
+        "mail@example.com"
+      ]
+    }
+  ],
+  "all_links": [
+    "http://weekipub.com/menu",
+    "http://weekipub.com/contact",
+    "http://weekipub.com/",
+    "http://weekipub.com/location"
+  ],
+  "candidate_links": [
+    "http://weekipub.com/contact"
+  ],
+  "visited": [
+    "http://weekipub.com/",
+    "http://weekipub.com/about",
+    "http://weekipub.com/contact",
+    "http://weekipub.com/staff",
+    "http://weekipub.com/team",
+    "http://weekipub.com/board",
+    "http://weekipub.com/directory",
+    "http://weekipub.com/events",
+    "http://weekipub.com/sitemap.xml",
+    "http://weekipub.com/council",
+    "http://weekipub.com/leadership",
+    "http://weekipub.com/management",
+    "http://weekipub.com/producers",
+    "http://weekipub.com/support",
+    "http://weekipub.com/crew",
+    "http://weekipub.com/members",
+    "http://weekipub.com/bios",
+    "http://weekipub.com/people",
+    "http://weekipub.com/artists",
+    "http://weekipub.com/musicians",
+    "http://weekipub.com/faculty",
+    "http://weekipub.com/administration",
+    "http://weekipub.com/contact"
+  ],
+  "base_url": "http://weekipub.com/"
+}

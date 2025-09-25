@@ -1,0 +1,636 @@
+{
+  "site_url": "https://hoteleleo.com/",
+  "domain": "hoteleleo.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://hoteleleo.com/",
+    "https://hoteleleo.com/faqs/",
+    "https://hoteleleo.com/contact-us/",
+    "https://hoteleleo.com/covey-kitchen-cocktails/event/",
+    "https://hoteleleo.com/covey-kitchen-cocktails/reservations/",
+    "https://hoteleleo.com/meetings/venues/",
+    "https://hoteleleo.com/weddings/",
+    "https://hoteleleo.com/weddings/start-planning/",
+    "https://hoteleleo.com/events/",
+    "https://hoteleleo.com/weddings",
+    "https://hoteleleo.com/gift-card/",
+    "https://hoteleleo.com/hospitals-patients/",
+    "https://hoteleleo.com/gallery/",
+    "https://hoteleleo.com/accommodations/",
+    "https://hoteleleo.com/accommodations/amenities/",
+    "https://hoteleleo.com/statements-policies/accessibility/",
+    "https://www.hoteleleo.com/statements-policies/pet-policy/",
+    "https://hoteleleo.com/specials/",
+    "https://hoteleleo.com/covey-kitchen-cocktails/",
+    "https://hoteleleo.com/covey-kitchen-cocktails/menus/",
+    "https://hoteleleo.com/meetings/",
+    "https://hoteleleo.com/meetings/services/",
+    "https://www.hoteleleo.com/meetings/gather-and-celebrate/",
+    "https://hoteleleo.com/meetings/catering/",
+    "https://hoteleleo.com/meetings/planning/",
+    "https://hoteleleo.com/things-to-do/",
+    "https://hoteleleo.com/things-to-do/nearby-attractions/",
+    "https://hoteleleo.com/things-to-do/arts-entertainment/",
+    "https://hoteleleo.com/things-to-do/eco-adventure/",
+    "https://hoteleleo.com/things-to-do/sports/",
+    "https://hoteleleo.com/blog",
+    "https://hoteleleo.com/search/",
+    "https://hoteleleo.com/statements-policies/accessibility",
+    "https://hoteleleo.com/statements-policies/privacy-policy/",
+    "https://hoteleleo.com/specials/fl-ga-residents-rate/",
+    "https://hoteleleo.com/events/weekend-brunch/",
+    "https://hoteleleo.com/events/anniversary-specials-at-covey-kitchen/",
+    "https://hoteleleo.com/events/live-jazz-nights/",
+    "https://hoteleleo.com/events/free-fridays-concert-series/",
+    "https://hoteleleo.com/events/cypress-and-grove-oktoberfest/",
+    "https://hoteleleo.com/events/?month=August&year=2025&view=tiles",
+    "https://hoteleleo.com/events/?month=October&year=2025&view=tiles",
+    "https://hoteleleo.com/events/mayhem-ranch-fall-festival/",
+    "https://hoteleleo.com/statements-policies/pet-policy/",
+    "https://hoteleleo.com/accommodations/accessibility/",
+    "https://www.hoteleleo.com/faqs/",
+    "https://www.hoteleleo.com/contact-us/",
+    "https://www.hoteleleo.com/covey-kitchen-cocktails/event/",
+    "https://www.hoteleleo.com/covey-kitchen-cocktails/reservations/",
+    "https://www.hoteleleo.com/meetings/venues/",
+    "https://www.hoteleleo.com/weddings/",
+    "https://www.hoteleleo.com/weddings/start-planning/"
+  ],
+  "candidates": [
+    "https://hoteleleo.com/contact-us/",
+    "https://www.hoteleleo.com/contact-us/",
+    "https://hoteleleo.com/events/",
+    "https://hoteleleo.com/events/?month=August&year=2025&view=tiles",
+    "https://hoteleleo.com/events/?month=October&year=2025&view=tiles",
+    "https://hoteleleo.com/events/anniversary-specials-at-covey-kitchen/",
+    "https://hoteleleo.com/events/cypress-and-grove-oktoberfest/",
+    "https://hoteleleo.com/events/free-fridays-concert-series/",
+    "https://hoteleleo.com/events/live-jazz-nights/",
+    "https://hoteleleo.com/events/mayhem-ranch-fall-festival/",
+    "https://hoteleleo.com/events/weekend-brunch/",
+    "https://hoteleleo.com/weddings",
+    "https://hoteleleo.com/weddings/",
+    "https://hoteleleo.com/weddings/start-planning/",
+    "https://www.hoteleleo.com/weddings/",
+    "https://www.hoteleleo.com/weddings/start-planning/",
+    "https://hoteleleo.com/covey-kitchen-cocktails/event/",
+    "https://www.hoteleleo.com/covey-kitchen-cocktails/event/",
+    "https://hoteleleo.com/covey-kitchen-cocktails/reservations/",
+    "https://hoteleleo.com/faqs/",
+    "https://hoteleleo.com/meetings/venues/",
+    "https://www.hoteleleo.com/covey-kitchen-cocktails/reservations/",
+    "https://www.hoteleleo.com/faqs/",
+    "https://www.hoteleleo.com/meetings/venues/",
+    "https://hoteleleo.com/"
+  ],
+  "per_page": {
+    "https://hoteleleo.com/contact-us/": {
+      "title": "Contact Hotel ELEO | Gainesville, FL",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@hoteleleo.com"
+      ],
+      "phones": [
+        "352-565-3750",
+        "352.565.3750"
+      ],
+      "socials": [
+        "https://www.facebook.com/HotelEleo",
+        "https://www.instagram.com/TheHotelEleo/",
+        "https://www.tiktok.com/@hoteleleo",
+        "https://www.youtube.com/channel/UCHziwiS-KlxiLtzEh9KJ66Q"
+      ]
+    },
+    "https://www.hoteleleo.com/contact-us/": {
+      "title": "Contact Hotel ELEO | Gainesville, FL",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hoteleleo.com/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.hoteleleo.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@hoteleleo.com"
+      ],
+      "phones": [
+        "352-565-3750",
+        "352.565.3750"
+      ],
+      "socials": [
+        "https://www.facebook.com/HotelEleo",
+        "https://www.instagram.com/TheHotelEleo/",
+        "https://www.tiktok.com/@hoteleleo",
+        "https://www.youtube.com/channel/UCHziwiS-KlxiLtzEh9KJ66Q"
+      ]
+    },
+    "https://hoteleleo.com/events/": {
+      "title": "Upcoming Events at Hotel ELEO | Don’t Miss Out!",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/"
+          ]
+        },
+        "concert": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/"
+          ]
+        },
+        "event": {
+          "total": 18,
+          "zones": {
+            "title": 1,
+            "body": 17,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@hoteleleo.com"
+      ],
+      "phones": [
+        "352-565-3750"
+      ],
+      "socials": [
+        "https://www.facebook.com/HotelEleo",
+        "https://www.instagram.com/TheHotelEleo/",
+        "https://www.tiktok.com/@hoteleleo",
+        "https://www.youtube.com/channel/UCHziwiS-KlxiLtzEh9KJ66Q"
+      ]
+    },
+    "https://hoteleleo.com/events/?month=August&year=2025&view=tiles": {
+      "title": "Upcoming Events at Hotel ELEO | Don’t Miss Out!",
+      "band_hits": {
+        "concert": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/?month=August&year=2025&view=tiles"
+          ]
+        },
+        "event": {
+          "total": 18,
+          "zones": {
+            "title": 1,
+            "body": 17,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/?month=August&year=2025&view=tiles"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/?month=August&year=2025&view=tiles"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@hoteleleo.com"
+      ],
+      "phones": [
+        "352-565-3750"
+      ],
+      "socials": [
+        "https://www.facebook.com/HotelEleo",
+        "https://www.instagram.com/TheHotelEleo/",
+        "https://www.tiktok.com/@hoteleleo",
+        "https://www.youtube.com/channel/UCHziwiS-KlxiLtzEh9KJ66Q"
+      ]
+    },
+    "https://hoteleleo.com/events/?month=October&year=2025&view=tiles": {
+      "title": "Upcoming Events at Hotel ELEO | Don’t Miss Out!",
+      "band_hits": {
+        "concert": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/?month=October&year=2025&view=tiles"
+          ]
+        },
+        "event": {
+          "total": 19,
+          "zones": {
+            "title": 1,
+            "body": 18,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/?month=October&year=2025&view=tiles"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/?month=October&year=2025&view=tiles"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/?month=October&year=2025&view=tiles"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/?month=October&year=2025&view=tiles"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/?month=October&year=2025&view=tiles"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@hoteleleo.com"
+      ],
+      "phones": [
+        "352-565-3750"
+      ],
+      "socials": [
+        "https://www.facebook.com/HotelEleo",
+        "https://www.instagram.com/TheHotelEleo/",
+        "https://www.tiktok.com/@hoteleleo",
+        "https://www.youtube.com/channel/UCHziwiS-KlxiLtzEh9KJ66Q"
+      ]
+    },
+    "https://hoteleleo.com/events/anniversary-specials-at-covey-kitchen/": {
+      "title": "Anniversary Specials at Covey Kitchen + Cocktails | Hotel Eleo at UF",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/anniversary-specials-at-covey-kitchen/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/anniversary-specials-at-covey-kitchen/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@hoteleleo.com"
+      ],
+      "phones": [
+        "352-565-3750"
+      ],
+      "socials": [
+        "https://www.facebook.com/HotelEleo",
+        "https://www.instagram.com/TheHotelEleo/",
+        "https://www.tiktok.com/@hoteleleo",
+        "https://www.youtube.com/channel/UCHziwiS-KlxiLtzEh9KJ66Q"
+      ]
+    },
+    "https://hoteleleo.com/events/cypress-and-grove-oktoberfest/": {
+      "title": "Cypress & Grove Oktoberfest | Hotel ELEO at UF | Gainesville, FL Events",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/cypress-and-grove-oktoberfest/"
+          ]
+        },
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 1,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/cypress-and-grove-oktoberfest/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/cypress-and-grove-oktoberfest/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@hoteleleo.com"
+      ],
+      "phones": [
+        "352-565-3750"
+      ],
+      "socials": [
+        "https://www.facebook.com/HotelEleo",
+        "https://www.instagram.com/TheHotelEleo/",
+        "https://www.tiktok.com/@hoteleleo",
+        "https://www.youtube.com/channel/UCHziwiS-KlxiLtzEh9KJ66Q"
+      ]
+    },
+    "https://hoteleleo.com/events/free-fridays-concert-series/": {
+      "title": "Free Fridays Concert Series – Stay at Hotel Eleo",
+      "band_hits": {
+        "concert": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/free-fridays-concert-series/"
+          ]
+        },
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/free-fridays-concert-series/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/free-fridays-concert-series/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/free-fridays-concert-series/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/free-fridays-concert-series/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@hoteleleo.com"
+      ],
+      "phones": [
+        "352-565-3750"
+      ],
+      "socials": [
+        "https://www.facebook.com/HotelEleo",
+        "https://www.instagram.com/TheHotelEleo/",
+        "https://www.tiktok.com/@hoteleleo",
+        "https://www.youtube.com/channel/UCHziwiS-KlxiLtzEh9KJ66Q"
+      ]
+    },
+    "https://hoteleleo.com/events/live-jazz-nights/": {
+      "title": "Live Jazz Nights at Hotel Eleo – Music & Cocktails",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/live-jazz-nights/"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://hoteleleo.com/events/live-jazz-nights/"
+          ]
+        }
+      },
+      "emails": [
+        "reservations@hoteleleo.com"
+      ],
+      "phones": [
+        "352-565-3750"
+      ],
+      "socials": [
+        "https://www.facebook.com/HotelEleo",
+        "https://www.instagram.com/TheHotelEleo/",
+        "https://www.tiktok.com/@hoteleleo",
+        "https://www.youtube.com/channel/UCHziwiS-KlxiLtzEh9KJ66Q"
+      ]
+    }
+  }
+}

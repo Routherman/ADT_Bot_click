@@ -1,0 +1,59 @@
+[
+  {
+    "email": "events@sweetwaterinn.com",
+    "roles": [
+      {
+        "title": "Staff Member",
+        "confidence": 0.7,
+        "sources": [
+          {
+            "type": "navegado_serp_yg",
+            "url": "https://search.yahoo.com/search?p=site%3Asweetwaterinn.com+sweetwaterinn.com+email",
+            "context": "SERP navigation via yahoo; query=site:sweetwaterinn.com sweetwaterinn.com email",
+            "timestamp": "2025-09-16T08:28:39.243985"
+          }
+        ]
+      }
+    ],
+    "department": "Unknown",
+    "description": "Found via Yahoo/Google SERP navigation"
+  },
+  {
+    "email": "info@sweetwaterinn.com",
+    "roles": [
+      {
+        "title": "Staff Member",
+        "confidence": 0.7,
+        "sources": [
+          {
+            "type": "navegado_serp_yg",
+            "url": "https://search.yahoo.com/search?p=site%3Asweetwaterinn.com+sweetwaterinn.com+email",
+            "context": "SERP navigation via yahoo; query=site:sweetwaterinn.com sweetwaterinn.com email",
+            "timestamp": "2025-09-16T08:28:39.244020"
+          }
+        ]
+      }
+    ],
+    "department": "Unknown",
+    "description": "Found via Yahoo/Google SERP navigation"
+  },
+  {
+    "email": "reserve@sweetwaterinn.com",
+    "roles": [
+      {
+        "title": "Staff Member",
+        "confidence": 0.7,
+        "sources": [
+          {
+            "type": "navegado_serp_yg",
+            "url": "https://search.yahoo.com/search?p=site%3Asweetwaterinn.com+sweetwaterinn.com+email",
+            "context": "SERP navigation via yahoo; query=site:sweetwaterinn.com sweetwaterinn.com email",
+            "timestamp": "2025-09-16T08:28:39.244026"
+          }
+        ]
+      }
+    ],
+    "department": "Unknown",
+    "description": "Found via Yahoo/Google SERP navigation"
+  }
+]

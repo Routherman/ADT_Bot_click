@@ -1,0 +1,557 @@
+{
+  "site_url": "https://djons.com/",
+  "domain": "djons.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://djons.com/",
+    "https://www.djons.com/contact-us/",
+    "https://www.djons.com/weddings/",
+    "https://www.djons.com/",
+    "https://www.djons.com/information/",
+    "https://www.djons.com/gallery-2/"
+  ],
+  "candidates": [
+    "https://www.djons.com/contact-us/",
+    "https://www.djons.com/weddings/",
+    "https://djons.com/",
+    "https://djons.com/contact",
+    "https://djons.com/contact/",
+    "https://djons.com/contact-us",
+    "https://djons.com/contact-us/",
+    "https://djons.com/contactus",
+    "https://djons.com/contactus/",
+    "https://djons.com/about",
+    "https://djons.com/about/",
+    "https://djons.com/about-us",
+    "https://djons.com/about-us/",
+    "https://djons.com/visit",
+    "https://djons.com/visit/",
+    "https://djons.com/location",
+    "https://djons.com/location/",
+    "https://djons.com/directions",
+    "https://djons.com/directions/"
+  ],
+  "per_page": {
+    "https://www.djons.com/contact-us/": {
+      "title": "Contact Us – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.djons.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://www.djons.com/weddings/": {
+      "title": "Weddings – Djons",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.djons.com/weddings/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737",
+        "321.722.2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/": {
+      "title": "Djons – Djon's Steak and Lobster House – Melbourne Beach",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/contact": {
+      "title": "Contact Us – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/contact/": {
+      "title": "Contact Us – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/contact-us": {
+      "title": "Contact Us – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/contact-us/": {
+      "title": "Contact Us – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/contactus": {
+      "title": "Page not found – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/contactus/": {
+      "title": "Page not found – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/about": {
+      "title": "Page not found – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/about/": {
+      "title": "Page not found – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/about-us": {
+      "title": "Page not found – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/about-us/": {
+      "title": "Page not found – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/visit": {
+      "title": "Page not found – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/visit/": {
+      "title": "Page not found – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/location": {
+      "title": "Page not found – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/location/": {
+      "title": "Page not found – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/directions": {
+      "title": "Page not found – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    },
+    "https://djons.com/directions/": {
+      "title": "Page not found – Djons",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://djons.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(321) 722-2737"
+      ],
+      "socials": [
+        "https://www.facebook.com/djonssteakandlobster/",
+        "https://www.instagram.com/djonssteakandlobsterhouse/"
+      ]
+    }
+  }
+}

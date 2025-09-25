@@ -1,0 +1,443 @@
+{
+  "site_url": "https://swfyachts.com/",
+  "domain": "swfyachts.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://swfyachts.com/",
+    "https://swfyachts.com/staff-photos",
+    "https://swfyachts.com/faqs",
+    "https://swfyachts.com/contact-us",
+    "https://swfyachts.com/yacht-brokerage",
+    "https://swfyachts.com/chartering-info",
+    "https://swfyachts.com/power-rates",
+    "https://swfyachts.com/sail-rates",
+    "https://swfyachts.com/new-berths",
+    "https://swfyachts.com/swfl-cruising",
+    "https://swfyachts.com/captain-vics-tip-list",
+    "https://swfyachts.com/reserve-your-yacht-here",
+    "https://swfyachts.com/friends-of-swfl-yachts",
+    "https://swfyachts.com/cruising-school",
+    "https://swfyachts.com/general-course-information",
+    "https://swfyachts.com/sail-courses",
+    "https://swfyachts.com/power-courses",
+    "https://swfyachts.com/classes-aboard-your-yacht",
+    "https://swfyachts.com/enroll-in-a-class",
+    "https://swfyachts.com/captains-instructors",
+    "https://swfyachts.com/yacht-charters",
+    "https://swfyachts.com/buyers-services",
+    "https://swfyachts.com/seller-services",
+    "https://swfyachts.com/why-use-a-brokerage",
+    "https://swfyachts.com/yacht-management",
+    "https://swfyachts.com/yacht-charter-ownership",
+    "https://swfyachts.com/steps-to-become-a-charter-yacht-owner",
+    "https://swfyachts.com/yachts-wanted",
+    "https://swfyachts.com/media-coverage",
+    "https://swfyachts.com/magazine-articles",
+    "https://swfyachts.com/press-releases",
+    "https://swfyachts.com/barbs-view-from-the-marina",
+    "https://swfyachts.com/latest-news",
+    "https://swfyachts.com/how-to-find-us",
+    "https://swfyachts.com/sea-ray-310",
+    "https://swfyachts.com/grand-banks-36-uptick",
+    "https://swfyachts.com/beneteau-343-sloop",
+    "https://swfyachts.com/the-bobcat",
+    "https://www.swfyachts.com/newpage",
+    "https://swfyachts.com/gulfshore-life",
+    "https://swfyachts.com/soundings-magazine-december-1999-issue-november-2006-issue",
+    "https://swfyachts.com/southern-boating",
+    "https://swfyachts.com/sail-girls",
+    "https://www.swfyachts.com/staff-photos",
+    "https://www.swfyachts.com/faqs",
+    "https://www.swfyachts.com/contact-us",
+    "https://www.swfyachts.com/",
+    "https://www.swfyachts.com/yacht-brokerage",
+    "https://www.swfyachts.com/chartering-info",
+    "https://www.swfyachts.com/power-rates",
+    "https://www.swfyachts.com/sail-rates",
+    "https://www.swfyachts.com/new-berths",
+    "https://www.swfyachts.com/swfl-cruising",
+    "https://www.swfyachts.com/captain-vics-tip-list",
+    "https://www.swfyachts.com/reserve-your-yacht-here",
+    "https://www.swfyachts.com/friends-of-swfl-yachts",
+    "https://www.swfyachts.com/cruising-school",
+    "https://www.swfyachts.com/general-course-information",
+    "https://www.swfyachts.com/sail-courses",
+    "https://www.swfyachts.com/power-courses",
+    "https://www.swfyachts.com/classes-aboard-your-yacht",
+    "https://www.swfyachts.com/enroll-in-a-class",
+    "https://www.swfyachts.com/captains-instructors",
+    "https://www.swfyachts.com/yacht-charters",
+    "https://www.swfyachts.com/buyers-services",
+    "https://www.swfyachts.com/seller-services",
+    "https://www.swfyachts.com/why-use-a-brokerage",
+    "https://www.swfyachts.com/yacht-management",
+    "https://www.swfyachts.com/yacht-charter-ownership",
+    "https://www.swfyachts.com/steps-to-become-a-charter-yacht-owner",
+    "https://www.swfyachts.com/yachts-wanted",
+    "https://www.swfyachts.com/media-coverage",
+    "https://www.swfyachts.com/magazine-articles",
+    "https://www.swfyachts.com/press-releases",
+    "https://www.swfyachts.com/barbs-view-from-the-marina",
+    "https://www.swfyachts.com/latest-news",
+    "https://www.swfyachts.com/how-to-find-us",
+    "https://www.swfyachts.com/sea-ray-310",
+    "https://www.swfyachts.com/grand-banks-36-uptick",
+    "https://www.swfyachts.com/beneteau-343-sloop",
+    "https://www.swfyachts.com/the-bobcat",
+    "https://www.swfyachts.com/gulfshore-life",
+    "https://www.swfyachts.com/soundings-magazine-december-1999-issue-november-2006-issue",
+    "https://www.swfyachts.com/southern-boating"
+  ],
+  "candidates": [
+    "https://swfyachts.com/contact-us",
+    "https://www.swfyachts.com/contact-us",
+    "https://swfyachts.com/staff-photos",
+    "https://www.swfyachts.com/staff-photos",
+    "https://swfyachts.com/faqs",
+    "https://www.swfyachts.com/faqs",
+    "https://swfyachts.com/",
+    "https://swfyachts.com/contact",
+    "https://swfyachts.com/contact/",
+    "https://swfyachts.com/contact-us/",
+    "https://swfyachts.com/contactus",
+    "https://swfyachts.com/contactus/",
+    "https://swfyachts.com/about",
+    "https://swfyachts.com/about/",
+    "https://swfyachts.com/about-us",
+    "https://swfyachts.com/about-us/",
+    "https://swfyachts.com/visit",
+    "https://swfyachts.com/visit/",
+    "https://swfyachts.com/location",
+    "https://swfyachts.com/location/",
+    "https://swfyachts.com/directions",
+    "https://swfyachts.com/directions/"
+  ],
+  "per_page": {
+    "https://swfyachts.com/contact-us": {
+      "title": "Contact Us | Southwest Florida Yachts | Cape Coral",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://www.swfyachts.com/contact-us": {
+      "title": "Contact Us | Southwest Florida Yachts | Cape Coral",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/staff-photos": {
+      "title": "Yacht Chartering Crew | Southwest Florida Yachts",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://www.swfyachts.com/staff-photos": {
+      "title": "Yacht Chartering Crew | Southwest Florida Yachts",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/faqs": {
+      "title": "Yacht Charter FAQs | Southwest Florida Yachts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://swfyachts.com/faqs"
+          ]
+        }
+      },
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "239.549.4900",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://www.swfyachts.com/faqs": {
+      "title": "Yacht Charter FAQs | Southwest Florida Yachts",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.swfyachts.com/faqs"
+          ]
+        }
+      },
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "239.549.4900",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/": {
+      "title": "Southwest Florida Yachts | Cape Coral",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "239.549.4900",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/contact": {
+      "title": "Southwest Florida Yachts",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/contact/": {
+      "title": "Southwest Florida Yachts",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/contact-us/": {
+      "title": "Contact Us | Southwest Florida Yachts | Cape Coral",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/contactus": {
+      "title": "Southwest Florida Yachts",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/contactus/": {
+      "title": "Southwest Florida Yachts",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/about": {
+      "title": "Southwest Florida Yachts",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/about/": {
+      "title": "Southwest Florida Yachts",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/about-us": {
+      "title": "Southwest Florida Yachts",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/about-us/": {
+      "title": "Southwest Florida Yachts",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/visit": {
+      "title": "Southwest Florida Yachts",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/visit/": {
+      "title": "Southwest Florida Yachts",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/location/": {
+      "title": "Southwest Florida Yachts",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/directions": {
+      "title": "Southwest Florida Yachts",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    },
+    "https://swfyachts.com/directions/": {
+      "title": "Southwest Florida Yachts",
+      "band_hits": {},
+      "emails": [
+        "info@swfyachts.com"
+      ],
+      "phones": [
+        "239.257.2788",
+        "800.262.7939"
+      ],
+      "socials": []
+    }
+  }
+}

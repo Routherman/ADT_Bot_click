@@ -1,0 +1,2328 @@
+{
+  "site_url": "https://wopshopsbrewing.com/",
+  "domain": "wopshopsbrewing.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://wopshopsbrewing.com/",
+    "https://wopshopsbrewing.com/calendar/",
+    "https://wopshopsbrewing.com/blog/",
+    "http://wopshopsbrewing.com",
+    "https://wopshopsbrewing.com/tap-list/",
+    "https://wopshopsbrewing.com/the-family/",
+    "https://wopshopsbrewing.com/sunday-nacho-special/",
+    "https://wopshopsbrewing.com/one-off-wednesdays/",
+    "https://wopshopsbrewing.com/thursday-dollar-wing-night/",
+    "https://wopshopsbrewing.com/wednesday-bingo-and-burger-night/",
+    "https://wopshopsbrewing.com/tuesdays-service-industry-day/",
+    "https://wopshopsbrewing.com/2024/06/",
+    "https://wopshopsbrewing.com/category/announcements/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~19/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~30/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~6/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~18/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~23/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~24/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~34/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~36/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~35/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~28/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~25/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~32/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~33/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~26/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~27/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~31/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~29/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~oneday/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~month/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~week/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~-1/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~1/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19,30/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19,6/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19,18/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~23/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~24/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~34/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~36/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~35/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~28/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~25/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~32/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~33/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~26/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~27/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~31/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~29/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~oneday/cat_ids~19/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~month/cat_ids~19/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~week/cat_ids~19/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~-1/cat_ids~19/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~1/cat_ids~19/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30,19/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30,6/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30,18/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30/request_format~json/tag_ids~23/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30/request_format~json/tag_ids~24/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30/request_format~json/tag_ids~34/"
+  ],
+  "candidates": [
+    "https://wopshopsbrewing.com/blog/",
+    "https://wopshopsbrewing.com/calendar/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19,18/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19,30/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19,6/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~23/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~24/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~25/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~26/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~27/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~28/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~29/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~31/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~32/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~33/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~34/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~35/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~36/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30,18/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30,19/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30,6/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30/request_format~json/tag_ids~23/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30/request_format~json/tag_ids~24/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30/request_format~json/tag_ids~34/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~-1/cat_ids~19/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~-1/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~1/cat_ids~19/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~1/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~18/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~19/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~30/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~6/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~23/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~24/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~25/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~26/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~27/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~28/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~29/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~31/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~32/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~33/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~34/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~35/",
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~36/",
+    "https://wopshopsbrewing.com/calendar/action~month/cat_ids~19/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~month/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~oneday/cat_ids~19/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~oneday/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~week/cat_ids~19/request_format~json/",
+    "https://wopshopsbrewing.com/calendar/action~week/request_format~json/",
+    "https://wopshopsbrewing.com/",
+    "https://wopshopsbrewing.com/contact",
+    "https://wopshopsbrewing.com/contact/",
+    "https://wopshopsbrewing.com/contact-us",
+    "https://wopshopsbrewing.com/contact-us/",
+    "https://wopshopsbrewing.com/contactus",
+    "https://wopshopsbrewing.com/contactus/",
+    "https://wopshopsbrewing.com/about",
+    "https://wopshopsbrewing.com/about/",
+    "https://wopshopsbrewing.com/about-us",
+    "https://wopshopsbrewing.com/about-us/",
+    "https://wopshopsbrewing.com/visit",
+    "https://wopshopsbrewing.com/visit/",
+    "https://wopshopsbrewing.com/location",
+    "https://wopshopsbrewing.com/location/",
+    "https://wopshopsbrewing.com/directions",
+    "https://wopshopsbrewing.com/directions/"
+  ],
+  "per_page": {
+    "https://wopshopsbrewing.com/blog/": {
+      "title": "What’s Going On – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/blog/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19,18/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19,18/request_format~json/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19,18/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19,30/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19,30/request_format~json/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19,30/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19,6/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19,6/request_format~json/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19,6/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~23/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~23/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~23/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~24/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~24/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~24/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~25/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~25/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~25/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~26/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~26/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~26/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~27/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~27/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~27/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~28/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~28/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~28/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~29/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~29/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~29/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~31/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~31/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~31/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~32/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~32/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~32/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~33/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~33/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~33/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~34/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~34/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~34/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~35/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~35/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~35/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~36/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~36/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~19/request_format~json/tag_ids~36/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30,18/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30,18/request_format~json/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30,18/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30,19/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30,19/request_format~json/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30,19/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30,6/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30,6/request_format~json/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30,6/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30/request_format~json/tag_ids~23/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30/request_format~json/tag_ids~23/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30/request_format~json/tag_ids~23/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30/request_format~json/tag_ids~24/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30/request_format~json/tag_ids~24/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30/request_format~json/tag_ids~24/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30/request_format~json/tag_ids~34/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30/request_format~json/tag_ids~34/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/cat_ids~30/request_format~json/tag_ids~34/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~-1/cat_ids~19/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~-1/cat_ids~19/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~-1/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~-1/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~1/cat_ids~19/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~1/cat_ids~19/request_format~json/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~1/cat_ids~19/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~1/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~1/request_format~json/"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/page_offset~1/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/"
+          ]
+        },
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~18/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~18/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~18/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~19/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~19/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~19/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~30/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~30/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~30/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~6/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~6/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/cat_ids~6/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~23/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~23/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~23/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~24/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~24/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~24/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~25/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~25/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~25/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~26/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~26/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~26/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~27/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~27/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~27/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~28/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~28/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~28/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~29/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~29/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~29/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~31/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~31/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~31/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~32/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~32/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~32/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~33/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~33/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~33/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~34/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~34/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~34/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~35/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~35/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~35/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~36/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~36/"
+          ]
+        },
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~agenda/request_format~json/tag_ids~36/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~month/cat_ids~19/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~month/cat_ids~19/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~month/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~month/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~oneday/cat_ids~19/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~oneday/cat_ids~19/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~oneday/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~oneday/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~week/cat_ids~19/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~week/cat_ids~19/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/calendar/action~week/request_format~json/": {
+      "title": "Calendar – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/calendar/action~week/request_format~json/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/": {
+      "title": "Wop's Hops Brewing – Sanford's First Microbrewery",
+      "band_hits": {
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/contact": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/contact/": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/contact-us": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/contact-us/": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/contactus": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/contactus/": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/about": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/about/": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/about-us": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/about-us/": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/visit": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/visit/": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/location": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/location/": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/directions": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    },
+    "https://wopshopsbrewing.com/directions/": {
+      "title": "Page not found – Wop's Hops Brewing",
+      "band_hits": {
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://wopshopsbrewing.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://facebook.com/wopshopsbrewingcompany",
+        "http://instagram.com/wopshopsbrewingco"
+      ]
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-18T05:03:49.457821",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-18T05:03:45.859873",
+      "company": {
+        "name": null,
+        "domain": "renningers.net",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 20151264,
+          "description": "Renninger's Promotions is a family-owned and operated business managing marketplaces in Pennsylvania and Florida.",
+          "domain": "renningers.net",
+          "employees": "51 - 200",
+          "fqdn": "www.renningers.net",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/1/a5/1a55a94d48a876dc9d01a94ac6fbb844",
+          "name": "Renninger's Promotions",
+          "revenueRange": [
+            1000000,
+            10000000
+          ],
+          "mainIndustry": "Retail",
+          "subIndustry": "Other",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/renninger-s-promotions"
+            }
+          },
+          "address": "Schuylkill Haven North America United States US 27 Bensinger Drive; Schuylkill Haven, Pennsylvania 17972, US Pennsylvania PA -76.17105102539062,40.63064956665039 ",
+          "location": {
+            "city": "Schuylkill Haven",
+            "country": "United States",
+            "fullLocation": "Schuylkill Haven North America United States US 27 Bensinger Drive; Schuylkill Haven, Pennsylvania 17972, US Pennsylvania PA -76.17105102539062,40.63064956665039 ",
+            "state": "Pennsylvania",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "27 Bensinger Drive; Schuylkill Haven, Pennsylvania 17972, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5999,
+                "description": "Miscellaneous retail stores, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 459999,
+                "description": "All Other Miscellaneous Retailers"
+              }
+            ]
+          },
+          "website": "https://renningers.net"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-18T05:03:46.985748",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-18T05:03:49.454507",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

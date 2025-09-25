@@ -1,0 +1,126 @@
+{
+  "timestamp": "2025-09-24T16:28:03.623434",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T16:27:59.082872",
+      "company": {
+        "name": null,
+        "domain": "myhitchcocks.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 1399628,
+          "description": "Hitchcock’s Markets is your local hometown grocery store. Hitchcock's has been proudly serving Florida for over 75 years. Right from the start, Bob Hitchcock recognized the need for rural towns in Central Florida to have clean, well-stocked, quality products and service driven food stores. In 1945, he made his dream a reality when he opened his first store offering only the finest quality foods money could buy with good old fashioned customer service. Hitchcock’s Markets continued to grow over the years to the 12 current store locations across the state. \n\nToday every employee works hard to carry on this tradition of offering friendly and courteous service, the freshest and highest quality products, competitive prices, and clean stores.",
+          "domain": "myhitchcocks.com",
+          "employees": "501 - 1000",
+          "founded": "1945",
+          "fqdn": "www.myhitchcocks.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/0/9d/09d330b5cc86c0bad35e3e3e3ec9d549",
+          "name": "Hitchcock's Markets",
+          "revenueRange": [],
+          "mainIndustry": "Retail",
+          "subIndustry": "Grocery Retail",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/hitchcock%27s-markets"
+            }
+          },
+          "address": "North America United States US 15560 NW US Highway 441; Suite 200; Alachua, FL 32615, US Florida FL ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 15560 NW US Highway 441; Suite 200; Alachua, FL 32615, US Florida FL ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "15560 NW US Highway 441; Suite 200; Alachua, FL 32615, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5411,
+                "description": "Grocery stores"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 445110,
+                "description": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)"
+              }
+            ]
+          },
+          "website": "https://myhitchcocks.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T16:28:00.311827",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T16:28:03.618578",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

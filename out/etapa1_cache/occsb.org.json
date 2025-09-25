@@ -1,0 +1,831 @@
+{
+  "site_url": "https://occsb.org/",
+  "domain": "occsb.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://occsb.org/",
+    "https://occsb.org/about/",
+    "https://occsb.org/news/",
+    "https://occsb.org/calendar/",
+    "https://occsb.org/welcome-visitor/",
+    "https://occsb.org/connect/",
+    "https://occsb.org/watch-live/",
+    "https://occsb.org/give/",
+    "https://occsb.org/news/page/2/",
+    "https://occsb.org/news/page/3/",
+    "https://occsb.org/news/page/56/",
+    "https://occsb.org/announcement-3/",
+    "https://occsb.org/sermon-notes-9-21-25-men-like-him-our-christian-example/",
+    "https://occsb.org/announcements-138/",
+    "https://occsb.org/sermon-notes-9-14-25-christian-obedience-for-the-world-to-see/",
+    "https://occsb.org/announcements-137/",
+    "https://occsb.org/sermon-notes-9-7-25-true-christian-obedience/",
+    "https://occsb.org/announcements-136/",
+    "https://occsb.org/sermon-notes-8-31-25-true-christian-humility/",
+    "https://occsb.org/announcements-135/",
+    "https://occsb.org/sermon-notes-8-17-25-true-christian-unity/",
+    "https://occsb.org/events/welcome-to-sunday-service/",
+    "https://occsb.org/events/womens-ministry-crafts-baskets/",
+    "https://occsb.org/events/mens-breakfast/",
+    "https://occsb.org/events/dinner-bible-study/",
+    "https://occsb.org/events/communion-sunday/",
+    "https://occsb.org/events/mens-bible-breakfast/",
+    "http://occsb.org/",
+    "https://occsb.org/announcements-134/",
+    "https://occsb.org/sermon-notes-8-10-25-to-live-is-christ/",
+    "https://occsb.org/announcements-133/"
+  ],
+  "candidates": [
+    "https://occsb.org/about/",
+    "https://occsb.org/calendar/",
+    "https://occsb.org/events/communion-sunday/",
+    "https://occsb.org/events/dinner-bible-study/",
+    "https://occsb.org/events/mens-bible-breakfast/",
+    "https://occsb.org/events/mens-breakfast/",
+    "https://occsb.org/events/welcome-to-sunday-service/",
+    "https://occsb.org/events/womens-ministry-crafts-baskets/",
+    "https://occsb.org/news/",
+    "https://occsb.org/news/page/2/",
+    "https://occsb.org/news/page/3/",
+    "https://occsb.org/news/page/56/",
+    "https://occsb.org/",
+    "https://occsb.org/contact",
+    "https://occsb.org/contact/",
+    "https://occsb.org/contact-us",
+    "https://occsb.org/contact-us/",
+    "https://occsb.org/contactus",
+    "https://occsb.org/contactus/",
+    "https://occsb.org/about",
+    "https://occsb.org/about-us",
+    "https://occsb.org/about-us/",
+    "https://occsb.org/visit",
+    "https://occsb.org/visit/",
+    "https://occsb.org/location",
+    "https://occsb.org/location/",
+    "https://occsb.org/directions",
+    "https://occsb.org/directions/"
+  ],
+  "per_page": {
+    "https://occsb.org/about/": {
+      "title": "About | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/calendar/": {
+      "title": "Calendar | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/calendar/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/events/communion-sunday/": {
+      "title": "Communion Sunday | Oceanside Community Church",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/events/communion-sunday/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/events/communion-sunday/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.linkedin.com/shareArticle"
+      ]
+    },
+    "https://occsb.org/events/dinner-bible-study/": {
+      "title": "Dinner & Bible Study | Oceanside Community Church",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/events/dinner-bible-study/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/events/dinner-bible-study/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.linkedin.com/shareArticle"
+      ]
+    },
+    "https://occsb.org/events/mens-bible-breakfast/": {
+      "title": "Men’s Bible Breakfast | Oceanside Community Church",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/events/mens-bible-breakfast/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/events/mens-bible-breakfast/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.linkedin.com/shareArticle"
+      ]
+    },
+    "https://occsb.org/events/mens-breakfast/": {
+      "title": "Men’s Breakfast | Oceanside Community Church",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/events/mens-breakfast/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/events/mens-breakfast/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.linkedin.com/shareArticle"
+      ]
+    },
+    "https://occsb.org/events/welcome-to-sunday-service/": {
+      "title": "Welcome to Sunday Service | Oceanside Community Church",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/events/welcome-to-sunday-service/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/events/welcome-to-sunday-service/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.linkedin.com/shareArticle"
+      ]
+    },
+    "https://occsb.org/events/womens-ministry-crafts-baskets/": {
+      "title": "Women’s Ministry Crafts & Baskets | Oceanside Community Church",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/events/womens-ministry-crafts-baskets/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/events/womens-ministry-crafts-baskets/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://www.linkedin.com/shareArticle"
+      ]
+    },
+    "https://occsb.org/news/": {
+      "title": "News | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/news/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/news/page/2/": {
+      "title": "News | Page 2 | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/news/page/2/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/news/page/3/": {
+      "title": "News | Page 3 | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/news/page/3/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/news/page/56/": {
+      "title": "News | Page 56 | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/news/page/56/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/": {
+      "title": "Oceanside Community Church | And you shall know the truth, and the truth shall make you free.",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/"
+          ]
+        },
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/"
+          ]
+        }
+      },
+      "emails": [
+        "oceansidechurch2@gmail.com"
+      ],
+      "phones": [
+        "321.777.1658"
+      ],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/contact": {
+      "title": "Page not found | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/contact/": {
+      "title": "Page not found | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/contact-us": {
+      "title": "Page not found | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/contact-us/": {
+      "title": "Page not found | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/contactus": {
+      "title": "Page not found | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/contactus/": {
+      "title": "Page not found | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/about": {
+      "title": "About | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/about-us": {
+      "title": "Page not found | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/about-us/": {
+      "title": "Page not found | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/visit": {
+      "title": "Page not found | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/visit/": {
+      "title": "Page not found | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/location": {
+      "title": "Page not found | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/location/": {
+      "title": "Page not found | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/directions": {
+      "title": "Page not found | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    },
+    "https://occsb.org/directions/": {
+      "title": "Page not found | Oceanside Community Church",
+      "band_hits": {
+        "calendar": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://occsb.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/OCCSB316/"
+      ]
+    }
+  }
+}

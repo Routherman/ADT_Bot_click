@@ -1,0 +1,855 @@
+{
+  "site_url": "https://captandersons.com/",
+  "domain": "captandersons.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://captandersons.com/",
+    "https://captandersons.com/about/map.htm",
+    "https://captandersons.com/about/contact-us.htm",
+    "https://captandersons.com/calendar/index.htm",
+    "https://captandersons.com/private-events/",
+    "https://captandersons.com/private-events/book-event.htm",
+    "https://captandersons.com/about/",
+    "https://captandersons.com/about/about-us.htm",
+    "https://captandersons.com/about/patronis-history.htm",
+    "https://captandersons.com/about/awards.htm",
+    "https://captandersons.com/about/employment.htm",
+    "https://captandersons.com/about/links.htm",
+    "https://captandersons.com/about/weather.htm",
+    "https://captandersons.com/about/panama-city-beach.htm",
+    "https://captandersons.com/index.htm",
+    "https://captandersons.com/menus/",
+    "https://captandersons.com/menus/dinner-menu.htm",
+    "https://captandersons.com/takeout/",
+    "https://captandersons.com/menus/gluten-free.htm",
+    "https://captandersons.com/menus/childrens-menu.htm",
+    "https://captandersons.com/menus/drink-list.htm",
+    "https://captandersons.com/menus/desserts.htm",
+    "https://captandersons.com/giftcards/",
+    "https://captandersons.com/wine/",
+    "https://captandersons.com/wine/captains-cellar.htm",
+    "https://captandersons.com/wine/wine-club.htm",
+    "https://captandersons.com/livecam/",
+    "https://captandersons.com/shop/",
+    "https://webstore.captandersons.com/collections/cookbooks",
+    "https://webstore.captandersons.com/collections/seasonings",
+    "https://webstore.captandersons.com/collections/gift-cards",
+    "https://captandersons.com/video/",
+    "https://wineclub.captandersons.com/",
+    "https://captandersons.com/menus/index.htm",
+    "https://captandersons.com/video/video-1.htm",
+    "https://captandersons.com/video/video-2.htm",
+    "https://captandersons.com/video/video-3.htm",
+    "https://captandersons.com/video/video-4.htm",
+    "https://captandersons.com/video/video-5.htm",
+    "https://captandersons.com/video/video-6.htm",
+    "https://captandersons.com/accessibility-statement.htm",
+    "https://captandersons.com/winelist",
+    "http://wineclub.captandersons.com/Capts-Cellar",
+    "http://wineclub.captandersons.com/Sys/Login",
+    "http://wineclub.captandersons.com/Private-Reserve",
+    "https://wineclub.captandersons.com/Private-Reserve",
+    "https://wineclub.captandersons.com/Admirals-Locker/",
+    "https://captandersons.com/video/index.htm"
+  ],
+  "candidates": [
+    "https://captandersons.com/about/contact-us.htm",
+    "https://captandersons.com/about/",
+    "https://captandersons.com/about/about-us.htm",
+    "https://captandersons.com/about/awards.htm",
+    "https://captandersons.com/about/employment.htm",
+    "https://captandersons.com/about/links.htm",
+    "https://captandersons.com/about/map.htm",
+    "https://captandersons.com/about/panama-city-beach.htm",
+    "https://captandersons.com/about/patronis-history.htm",
+    "https://captandersons.com/about/weather.htm",
+    "https://captandersons.com/calendar/index.htm",
+    "https://captandersons.com/private-events/",
+    "https://captandersons.com/private-events/book-event.htm",
+    "https://captandersons.com/",
+    "https://captandersons.com/contact",
+    "https://captandersons.com/contact/",
+    "https://captandersons.com/contact-us",
+    "https://captandersons.com/contact-us/",
+    "https://captandersons.com/contactus",
+    "https://captandersons.com/contactus/",
+    "https://captandersons.com/about",
+    "https://captandersons.com/about-us",
+    "https://captandersons.com/about-us/",
+    "https://captandersons.com/visit",
+    "https://captandersons.com/visit/",
+    "https://captandersons.com/location",
+    "https://captandersons.com/location/",
+    "https://captandersons.com/directions",
+    "https://captandersons.com/directions/"
+  ],
+  "per_page": {
+    "https://captandersons.com/about/contact-us.htm": {
+      "title": "Contact Us",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/contact-us.htm"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/contact-us.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 234-2225",
+        "850-234-2225"
+      ],
+      "socials": [
+        "https://www.facebook.com/captandersons",
+        "https://www.instagram.com/capt.andersons/",
+        "https://www.tiktok.com/@capt.andersons",
+        "https://www.youtube.com/@CaptAndersons"
+      ]
+    },
+    "https://captandersons.com/about/": {
+      "title": "About Capt. Anderson's Restaurant in Panama City Beach & Waterfront Market",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 234-2225",
+        "850-234-2225"
+      ],
+      "socials": [
+        "https://www.facebook.com/captandersons",
+        "https://www.instagram.com/capt.andersons/",
+        "https://www.tiktok.com/@capt.andersons",
+        "https://www.youtube.com/@CaptAndersons"
+      ]
+    },
+    "https://captandersons.com/about/about-us.htm": {
+      "title": "About Capt. Anderson's Restaurant in Panama City Beach & Waterfront Market",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/about-us.htm"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/about-us.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 234-2225",
+        "850-234-2225"
+      ],
+      "socials": [
+        "https://www.facebook.com/captandersons",
+        "https://www.instagram.com/capt.andersons/",
+        "https://www.tiktok.com/@capt.andersons",
+        "https://www.youtube.com/@CaptAndersons"
+      ]
+    },
+    "https://captandersons.com/about/awards.htm": {
+      "title": "Awards & Recognition",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/awards.htm"
+          ]
+        },
+        "lighting": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/awards.htm"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/awards.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 234-2225",
+        "850-234-2225"
+      ],
+      "socials": [
+        "https://www.facebook.com/captandersons",
+        "https://www.instagram.com/capt.andersons/",
+        "https://www.tiktok.com/@capt.andersons",
+        "https://www.youtube.com/@CaptAndersons"
+      ]
+    },
+    "https://captandersons.com/about/employment.htm": {
+      "title": "Employment Application",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/employment.htm"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/employment.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 234-2225",
+        "850-234-2225"
+      ],
+      "socials": [
+        "https://www.facebook.com/captandersons",
+        "https://www.instagram.com/capt.andersons/",
+        "https://www.tiktok.com/@capt.andersons",
+        "https://www.youtube.com/@CaptAndersons"
+      ]
+    },
+    "https://captandersons.com/about/links.htm": {
+      "title": "Panama City Beach Restaurants, Friends & Links",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/links.htm"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/links.htm"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/links.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 234-2225",
+        "850-234-2225"
+      ],
+      "socials": [
+        "https://www.facebook.com/captandersons",
+        "https://www.instagram.com/capt.andersons/",
+        "https://www.tiktok.com/@capt.andersons",
+        "https://www.youtube.com/@CaptAndersons"
+      ]
+    },
+    "https://captandersons.com/about/map.htm": {
+      "title": "Map & Directions",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/map.htm"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/map.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 234-2225",
+        "850-234-2225"
+      ],
+      "socials": [
+        "https://www.facebook.com/captandersons",
+        "https://www.instagram.com/capt.andersons/",
+        "https://www.tiktok.com/@capt.andersons",
+        "https://www.youtube.com/@CaptAndersons"
+      ]
+    },
+    "https://captandersons.com/about/panama-city-beach.htm": {
+      "title": "Panama City Beach Things to Do & Information About Panama City Beach",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 0,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/panama-city-beach.htm"
+          ]
+        },
+        "calendar": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/panama-city-beach.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 234-2225",
+        "850-234-2225"
+      ],
+      "socials": [
+        "https://www.facebook.com/captandersons",
+        "https://www.instagram.com/capt.andersons/",
+        "https://www.tiktok.com/@capt.andersons",
+        "https://www.youtube.com/@CaptAndersons"
+      ]
+    },
+    "https://captandersons.com/about/patronis-history.htm": {
+      "title": "Panama City Beach Seafood Restaurant",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/patronis-history.htm"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/patronis-history.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 234-2225",
+        "850-234-2225"
+      ],
+      "socials": [
+        "https://www.facebook.com/captandersons",
+        "https://www.instagram.com/capt.andersons/",
+        "https://www.tiktok.com/@capt.andersons",
+        "https://www.youtube.com/@CaptAndersons"
+      ]
+    },
+    "https://captandersons.com/about/weather.htm": {
+      "title": "Panama City Beach Weather",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/weather.htm"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about/weather.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 234-2225",
+        "850-234-2225"
+      ],
+      "socials": [
+        "https://www.facebook.com/captandersons",
+        "https://www.instagram.com/capt.andersons/",
+        "https://www.tiktok.com/@capt.andersons",
+        "https://www.youtube.com/@CaptAndersons"
+      ]
+    },
+    "https://captandersons.com/calendar/index.htm": {
+      "title": "Event Calendar for Capt. Anderson's Restaurant & Waterfront Market",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/calendar/index.htm"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/calendar/index.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 234-2225",
+        "850-234-2225"
+      ],
+      "socials": [
+        "https://www.facebook.com/captandersons",
+        "https://www.instagram.com/capt.andersons/",
+        "https://www.tiktok.com/@capt.andersons",
+        "https://www.youtube.com/@CaptAndersons"
+      ]
+    },
+    "https://captandersons.com/private-events/": {
+      "title": "Panama City Beach Event Venue",
+      "band_hits": {
+        "event": {
+          "total": 12,
+          "zones": {
+            "title": 1,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/private-events/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/private-events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 234-2225",
+        "850-234-2225"
+      ],
+      "socials": [
+        "https://www.facebook.com/captandersons",
+        "https://www.instagram.com/capt.andersons/",
+        "https://www.tiktok.com/@capt.andersons",
+        "https://www.youtube.com/@CaptAndersons"
+      ]
+    },
+    "https://captandersons.com/private-events/book-event.htm": {
+      "title": "Book an Event",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/private-events/book-event.htm"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/private-events/book-event.htm"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 234-2225",
+        "850-234-2225"
+      ],
+      "socials": [
+        "https://www.facebook.com/captandersons",
+        "https://www.instagram.com/capt.andersons/",
+        "https://www.tiktok.com/@capt.andersons",
+        "https://www.youtube.com/@CaptAndersons"
+      ]
+    },
+    "https://captandersons.com/": {
+      "title": "Panama City Beach Restaurant - Capt. Anderson's Restaurant & Waterfront Market",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 234-2225",
+        "850-234-2225"
+      ],
+      "socials": [
+        "https://www.facebook.com/captandersons",
+        "https://www.instagram.com/capt.andersons/",
+        "https://www.tiktok.com/@capt.andersons",
+        "https://www.youtube.com/@CaptAndersons"
+      ]
+    },
+    "https://captandersons.com/contact": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://captandersons.com/contact/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://captandersons.com/contact-us": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://captandersons.com/contact-us/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://captandersons.com/contactus": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://captandersons.com/contactus/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://captandersons.com/about": {
+      "title": "About Capt. Anderson's Restaurant in Panama City Beach & Waterfront Market",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://captandersons.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(850) 234-2225",
+        "850-234-2225"
+      ],
+      "socials": [
+        "https://www.facebook.com/captandersons",
+        "https://www.instagram.com/capt.andersons/",
+        "https://www.tiktok.com/@capt.andersons",
+        "https://www.youtube.com/@CaptAndersons"
+      ]
+    },
+    "https://captandersons.com/about-us": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://captandersons.com/about-us/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://captandersons.com/visit": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://captandersons.com/visit/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://captandersons.com/location": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://captandersons.com/location/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://captandersons.com/directions": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://captandersons.com/directions/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

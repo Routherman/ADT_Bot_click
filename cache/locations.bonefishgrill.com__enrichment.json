@@ -1,0 +1,126 @@
+{
+  "timestamp": "2025-09-21T05:29:09.882634",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T05:29:06.234169",
+      "company": {
+        "name": null,
+        "domain": "locations.bonefishgrill.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 348699,
+          "description": "Since the first Bonefish Grill anchored in St. Petersburg, Florida in the year 2000, we’ve expanded our net nationwide to share our deep passion for fresh seafood. Our founders set out to create a truly unique, explorative, and memorable dining experience.  \n\nAt Bonefish Grill, we reel in only the best Anglers; those who are committed to quality and excellence at every level. Our first-class team provides the perfect spot to enjoy a unique cocktail for those out with friends or those on an intimate dinner for two. Taking our guests on a menu excursion to awaken their palate with unparalleled hospitality.  \n\nOur Anglers are welcoming and passionate about navigating each guest through their dining experience from a savory start to sweet finish. Our vibrant, Polished Casual® atmosphere is the perfect backdrop to inspire diversity, inclusivity, and growth.  \n\nWe’re always looking for Anglers to help us host every occasion! \n\nBloomin’ Brands, Inc. is a company of restaurants, not a restaurant company. Our family of founder-inspired brands include Bonefish Grill, Outback Steakhouse, Carrabba's Italian Grill, and Fleming's Prime Steakhouse & Wine Bar. Our People are what set us apart and they are at the center of everything we do!",
+          "domain": "bonefishgrill.com",
+          "employees": "10001 - 100000",
+          "founded": "2000",
+          "fqdn": "www.bonefishgrill.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/3/c4/3c40891472db735063c7bac17278e14c",
+          "name": "Bonefish Grill",
+          "revenueRange": [],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/bonefish-grill"
+            }
+          },
+          "address": "Richland North America United States US 133 GAGE BLVD; RICHLAND, Washington 99352, US Washington WA -119.28446197509766,46.28569030761719 ",
+          "location": {
+            "city": "Richland",
+            "country": "United States",
+            "fullLocation": "Richland North America United States US 133 GAGE BLVD; RICHLAND, Washington 99352, US Washington WA -119.28446197509766,46.28569030761719 ",
+            "state": "Washington",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "133 GAGE BLVD; RICHLAND, Washington 99352, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://bonefishgrill.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T05:29:07.362817",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T05:29:09.878017",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

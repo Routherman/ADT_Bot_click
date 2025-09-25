@@ -1,0 +1,963 @@
+{
+  "site_url": "https://sail-tss.org/",
+  "domain": "sail-tss.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://sail-tss.org/",
+    "https://sail-tss.org/content.aspx?page_id=230&club_id=109032",
+    "https://sail-tss.org/content.aspx?page_id=31&club_id=109032&action=login&user=5",
+    "https://sail-tss.org/content.aspx?page_id=0&club_id=109032",
+    "https://sail-tss.org/content.aspx?page_id=4001&club_id=109032",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=683124",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=245617",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=687297",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=244898",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=244593",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=244595",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=249860",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=244594",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=244597",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=244596",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=353624",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=244600",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=294286",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=307189",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=244601",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=672541",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=567667",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=672968",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=264723",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=244602",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=244606",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=244608",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=244611",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=412490",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=465292",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=419277",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=412480",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=491930",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=295931",
+    "https://sail-tss.org/content.aspx?page_id=187&club_id=109032",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=244694",
+    "https://sail-tss.org/content.aspx?page_id=4&club_id=109032",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=691793",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=739674",
+    "https://sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=739675",
+    "https://www.sail-tss.org/content.aspx?page_id=22&club_id=109032&module_id=683124",
+    "https://sail-tss.org/docs.ashx?id=1210454",
+    "https://sail-tss.org/content.aspx?page_id=4001&club_id=109032&action=cira&vd=9/21/2025",
+    "https://sail-tss.org/content.aspx?page_id=4001&club_id=109032&action=cira&vm=MonthView",
+    "https://sail-tss.org/content.aspx?page_id=4091&club_id=109032&item_id=2721256",
+    "https://sail-tss.org/content.aspx?page_id=4091&club_id=109032&item_id=2676556",
+    "https://sail-tss.org/content.aspx?page_id=4091&club_id=109032&item_id=2707270",
+    "https://sail-tss.org/content.aspx?page_id=4091&club_id=109032&item_id=2206489",
+    "https://sail-tss.org/content.aspx?page_id=4091&club_id=109032&item_id=2721257",
+    "https://sail-tss.org/content.aspx?page_id=4091&club_id=109032&item_id=2703935",
+    "https://sail-tss.org/content.aspx?page_id=4091&club_id=109032&item_id=2660598",
+    "https://sail-tss.org/content.aspx?page_id=4091&club_id=109032&item_id=2723062",
+    "https://sail-tss.org/content.aspx?page_id=4091&club_id=109032&item_id=2703720",
+    "https://sail-tss.org/content.aspx?page_id=4091&club_id=109032&item_id=2705335",
+    "https://sail-tss.org/content.aspx?page_id=4091&club_id=109032&item_id=2150526",
+    "https://sail-tss.org/content.aspx?page_id=4091&club_id=109032&item_id=2721260",
+    "https://sail-tss.org/content.aspx?page_id=4091&club_id=109032&item_id=2648394"
+  ],
+  "candidates": [
+    "https://sail-tss.org/",
+    "https://sail-tss.org/contact",
+    "https://sail-tss.org/contact/",
+    "https://sail-tss.org/contact-us",
+    "https://sail-tss.org/contact-us/",
+    "https://sail-tss.org/contactus",
+    "https://sail-tss.org/contactus/",
+    "https://sail-tss.org/about",
+    "https://sail-tss.org/about/",
+    "https://sail-tss.org/about-us",
+    "https://sail-tss.org/about-us/",
+    "https://sail-tss.org/visit",
+    "https://sail-tss.org/visit/",
+    "https://sail-tss.org/location",
+    "https://sail-tss.org/location/",
+    "https://sail-tss.org/directions",
+    "https://sail-tss.org/directions/"
+  ],
+  "per_page": {
+    "https://sail-tss.org/": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/contact": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contact"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contact"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/contact/": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contact/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contact/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/contact-us": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contact-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/contact-us/": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contact-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contact-us/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/contactus": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contactus"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contactus"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/contactus/": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contactus/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contactus/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/about": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/about"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/about"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/about/": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/about/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/about/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/about-us": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/about-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/about-us"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/about-us/": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/about-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/about-us/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/visit": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/visit"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/visit"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/visit/": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/visit/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/visit/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/location": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/location"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/location"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/location/": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/location/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/location/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/directions": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/directions"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/directions"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    },
+    "https://sail-tss.org/directions/": {
+      "title": "Home - Tampa Sailing Squadron",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/directions/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/directions/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sail-tss.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Tampa-Sailing-Squadron-133360096703486/",
+        "https://www.instagram.com/tampasailingsquadron/",
+        "https://www.youtube.com/@sail-tss-org",
+        "https://youtube.com/playlist"
+      ]
+    }
+  }
+}

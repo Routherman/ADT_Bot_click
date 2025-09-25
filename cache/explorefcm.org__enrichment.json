@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-25T04:24:41.248747",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T04:24:37.746239",
+      "company": {
+        "name": null,
+        "domain": "explorefcm.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 15290924,
+          "description": "As a 501c3 nonprofit organization, the Museum serves as a center of the community. We are here to serve families. In response to changes in the community, we will change to match those needs.\n\nWe hope to inspire the next generation and equip them with confidence, creativity, and a love of learning.\n\nCheck out our guiding principles:\n\nWe educate through exploration.\nWe welcome all children.\nOur people are our secret sauce.\nWe are here to stay.\nWe serve our community.\nOur children are safe and secure.\nWe serve the whole family.",
+          "domain": "explorefcm.org",
+          "employees": "11 - 50",
+          "founded": "1991",
+          "fqdn": "www.explorefcm.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/4/46/446b3a765d25297c00c2201a5c784f7e",
+          "name": "Florida Children's Museum",
+          "revenueRange": [],
+          "mainIndustry": "Organizations",
+          "subIndustry": "Civic & Social Organizations",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/explorations-v-childrens-museum-inc"
+            }
+          },
+          "address": "Lakeland North America United States US 600 Bonnet Springs Blvd; LAKELAND, Florida 33815, US Florida FL -81.94979858398438,28.039470672607422 ",
+          "location": {
+            "city": "Lakeland",
+            "country": "United States",
+            "fullLocation": "Lakeland North America United States US 600 Bonnet Springs Blvd; LAKELAND, Florida 33815, US Florida FL -81.94979858398438,28.039470672607422 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "600 Bonnet Springs Blvd; LAKELAND, Florida 33815, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8399,
+                "description": "Social services, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 813410,
+                "description": "Civic and Social Organizations"
+              }
+            ]
+          },
+          "website": "https://explorefcm.org",
+          "specialities": [
+            "hands-on learning"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T04:24:38.920197",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T04:24:41.242400",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

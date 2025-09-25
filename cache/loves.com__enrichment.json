@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-25T07:41:05.724401",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T07:41:02.258933",
+      "company": {
+        "name": null,
+        "domain": "loves.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 104992,
+          "description": "Founded in 1964 by Tom Love, Love’s Family of Companies is headquartered in Oklahoma City, and remains entirely family-owned and operated. With more than 600 locations in 42 states, Love’s approximate growth rate is 40 stores per year. From the first filling station in Watonga, Oklahoma, the Love’s commitment has remained the same: “Clean Places, Friendly Faces.” \n\nLove’s was founded on the values of integrity, Customer focus, strong work ethic, innovation and perseverance. Tom Love displayed all of these as he built Love’s from the ground up – from one small filling station in western Oklahoma in 1964 to more than 550 Love’s locations coast to coast. These core values are the keys to our success. But Tom didn’t do it by himself. He surrounded himself with visionary team members who embodied the same set of values. Today, we are looking for these in every person we hire. No matter what job you do for Love’s, your commitment to integrity, Customer focus, strong work ethic, innovation and perseverance will not only continue our legacy of growth, it will also ensure your successful career with one of America’s top-ranked private companies. Do you have what it takes?\n\nTo learn more, go to www.loves.com, Facebook (www.facebook.com/lovestravelstops), or follow @LovesTravelStop on Twitter.",
+          "domain": "loves.com",
+          "employees": "10001 - 100000",
+          "founded": "1964",
+          "fqdn": "www.loves.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/a/24/a244473aa2e04cf8894c3a91e5db3b08",
+          "name": "Love's Travel Stops",
+          "revenueRange": [
+            1000000000,
+            10000000000
+          ],
+          "mainIndustry": "Retail",
+          "subIndustry": "Other",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/love%27s-travel-stops"
+            }
+          },
+          "address": "Oklahoma City North America United States US 10601 N Pennsylvania; Oklahoma City, OK 73120, US Oklahoma OK -97.51643371582031,35.467559814453125 ",
+          "location": {
+            "city": "Oklahoma City",
+            "country": "United States",
+            "fullLocation": "Oklahoma City North America United States US 10601 N Pennsylvania; Oklahoma City, OK 73120, US Oklahoma OK -97.51643371582031,35.467559814453125 ",
+            "state": "Oklahoma",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "10601 N Pennsylvania; Oklahoma City, OK 73120, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5999,
+                "description": "Miscellaneous retail stores, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 445110,
+                "description": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)"
+              }
+            ]
+          },
+          "website": "https://loves.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T07:41:03.366113",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T07:41:05.716937",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

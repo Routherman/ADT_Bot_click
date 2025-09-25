@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-09-19T02:42:21.719710",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T02:42:17.719091",
+      "company": {
+        "name": null,
+        "domain": "ggswaterfront.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 35505960,
+          "description": "At GG’s you’ll enjoy an amazing selection of locally sourced fish, fresh seafood, lobster and stone crabs, raw bar specialties, salads, sandwiches and superb steaks and chops grilled to perfection! GG’s Waterfront Bar & Grill is centrally located on beautiful Hollywood Beach, minutes from Ft. Lauderdale, Aventura and 20 miles from Miami. Overlooking the Intracoastal waterway, this is a fabulous way to enjoy beautiful waterfront views as world class luxury yachts cruise by your table. Every afternoon patrons gather to enjoy cocktails and watch magnificent sunsets while snapping photos as the sky changes color from blue to yellow and orange then ending in a burst of red!\n\nUpon entering GG’s you know you are truly someplace special. The modern interior is elegant, yet casual and comfortable. It’s filled with original art, gas lamps, and appointed with tables for 2 to 6 people and an array of custom designed booths for sumptuous dining. The main room lets you see all the activity in our large, bustling open kitchen and the activity at GG’s raw bar as chefs prepare your meal. You may dine al fresco on the covered dockside promenade or relax and have a cocktail, appetizers or a meal in our waterfront patio lounge or main bar. GG’s Waterfront Bar & Grill is a Hollywood Icon – in the 50’s and 60’s it was the famous Rat Pack hangout of Frank Sinatra and his buddies. Now you can enjoy our legendary waterfront and views too!\n\nLunch and dinner are served every day of the year. On Sunday the restaurant features brunch from 11 am to 3 pm, and later in the day a Sunset Party on the patio with live music from 5 pm. GG’s proudly presents a Wine Spectator Award Winning Wine list with more than 125 different wines and champagnes in a carefully curated collection from around the world to pair with the flavors of the cuisine. A private banquet room is a popular venue available for meetings, luncheons, parties, events, wedding receptions and celebrations.",
+          "domain": "ggswaterfront.com",
+          "employees": "11 - 50",
+          "fqdn": "www.ggswaterfront.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/9/59/959ec48ae0431a5be72ca2ca3380a1c7",
+          "name": "GG's Waterfront",
+          "revenueRange": [],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/ggswaterfront"
+            }
+          },
+          "address": "Hollywood North America United States US 606 N Ocean Dr; Hollywood, Florida 33019, US Florida FL -80.14949035644531,26.011199951171875 ",
+          "location": {
+            "city": "Hollywood",
+            "country": "United States",
+            "fullLocation": "Hollywood North America United States US 606 N Ocean Dr; Hollywood, Florida 33019, US Florida FL -80.14949035644531,26.011199951171875 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "606 N Ocean Dr; Hollywood, Florida 33019, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://ggswaterfront.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T02:42:19.153008",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T02:42:21.713903",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

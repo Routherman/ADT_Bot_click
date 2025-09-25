@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-20T11:56:09.702260",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T11:56:05.707602",
+      "company": {
+        "name": null,
+        "domain": "coastalcoordinating.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 57029390,
+          "description": "We offer a full-service, professional wedding coordinator and event planning services. Call our wedding planner to plan your wedding or event today!",
+          "domain": "coastalcoordinating.com",
+          "employees": "11 - 50",
+          "founded": "2014",
+          "fqdn": "www.coastalcoordinating.com",
+          "logoUrl": "https://logo.lusha.co/d/company_57029390_logo.svg",
+          "name": "COASTAL COORDINATING LLC",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Administrative & Support Services",
+          "subIndustry": "Events Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/coastal-coordinating-llc"
+            }
+          },
+          "address": "Jacksonville North America United States US 2950 HALYCON LN; Jacksonville, Florida 32223, us Florida FL -81.65564727783203,30.33218002319336 ",
+          "location": {
+            "city": "Jacksonville",
+            "country": "United States",
+            "fullLocation": "Jacksonville North America United States US 2950 HALYCON LN; Jacksonville, Florida 32223, us Florida FL -81.65564727783203,30.33218002319336 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "2950 HALYCON LN; Jacksonville, Florida 32223, us"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8742,
+                "description": "Management consulting services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 561920,
+                "description": "Convention and Trade Show Organizers"
+              }
+            ]
+          },
+          "website": "https://coastalcoordinating.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T11:56:07.033713",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T11:56:09.696474",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

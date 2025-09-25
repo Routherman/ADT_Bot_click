@@ -1,0 +1,61 @@
+{
+  "pages": [
+    {
+      "url": "https://www.oceanalleyrestaurant.com/contact",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "========= Site Content =========\nHome\nAbout\nContact\nGallery\nBlog\nWebcams\nHollywood Beach Webcams\nMenu\nBreakfast Menu\nGoogle Reviews\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nContact\nContact\nCONTACT US\n900 North Broadwalk, A1A and Indiana St.\nHollywood, FL 33019\n954.921.6171\nContact us\nName\nEmail\nPhone\nMessage\nOpt-In\nBy checking, I agree that this is not a reservation.\nThank you for contacting us.\nWe will get back to you as soon as possible\nUh oh, there was an error sending your message.\nPlease try again later\nHome\nAbout\nContact\nGallery\nBlog\nWebcams\nHollywood Beach Webcams\nMenu\nBreakfast Menu\nGoogle Reviews\nHome\nAbout\nContact\nGallery\nBlog\nWebcams\nHollywood Beach Webcams\nMenu\nBreakfast Menu\nGoogle Reviews\nBreakfast\nMon - Sun\n8:00 am\n-\n11:00 am\nLunch/Dinner\nMon - Sun\n11:30 am\n-\n11:30 pm\n(954) 921-6171\n900 North Broadwalk, A1A and Indiana St.\nHollywood, FL 33019\n© All rights reserved\nBy OceanAlleyRestaurant.com\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: dc81411d\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": []
+    },
+    {
+      "url": "https://www.oceanalleyrestaurant.com/about",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "========= Site Content =========\nHome\nAbout\nContact\nGallery\nBlog\nWebcams\nHollywood Beach Webcams\nMenu\nBreakfast Menu\nGoogle Reviews\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nAbout\nITALIAN STYLE SEAFOOD\nRestaurant & Bar\nWHY \"THE BEST\"?\nOcean Alley with Chef James has been winning “The Best of Hollywood Beach” for years including, “The Best Seafood Gumbo”, “The Best Bratwurst”, “The Best Finger-Lickin’-Chicken” and “The Best Clam Chowder” to name just a few. Chef James and General Manager Carlo Allocco have recruited an international team of chefs, bar mixologists, experienced and talented servers in the tropical setting with one of the best beach views in South Florida.\nButton\nButton\nButton\nButton\nHome\nAbout\nContact\nGallery\nBlog\nWebcams\nHollywood Beach Webcams\nMenu\nBreakfast Menu\nGoogle Reviews\nHome\nAbout\nContact\nGallery\nBlog\nWebcams\nHollywood Beach Webcams\nMenu\nBreakfast Menu\nGoogle Reviews\nBreakfast\nMon - Sun\n8:00 am\n-\n11:00 am\nLunch/Dinner\nMon - Sun\n11:30 am\n-\n11:30 pm\n(954) 921-6171\n900 North Broadwalk, A1A and Indiana St.\nHollywood, FL 33019\n© All rights reserved\nBy OceanAlleyRestaurant.com\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: dc81411d\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "https://www.oceanalleyrestaurant.com/menu",
+    "https://www.oceanalleyrestaurant.com/blog",
+    "https://www.oceanalleyrestaurant.com/make-the-most-of-the-season-by-following-these-simple-guidelines",
+    "https://www.oceanalleyrestaurant.com/ocean-alley-restaurant",
+    "https://www.oceanalleyrestaurant.com/",
+    "https://www.oceanalleyrestaurant.com/breakfast-menu",
+    "https://www.oceanalleyrestaurant.com/loyalty-sign-up",
+    "https://www.oceanalleyrestaurant.com/contact",
+    "https://www.oceanalleyrestaurant.com/gallery",
+    "https://www.oceanalleyrestaurant.com/about"
+  ],
+  "candidate_links": [
+    "https://www.oceanalleyrestaurant.com/contact",
+    "https://www.oceanalleyrestaurant.com/about"
+  ],
+  "visited": [
+    "https://www.oceanalleyrestaurant.com/",
+    "https://www.oceanalleyrestaurant.com/about",
+    "https://www.oceanalleyrestaurant.com/contact",
+    "https://www.oceanalleyrestaurant.com/staff",
+    "https://www.oceanalleyrestaurant.com/team",
+    "https://www.oceanalleyrestaurant.com/board",
+    "https://www.oceanalleyrestaurant.com/directory",
+    "https://www.oceanalleyrestaurant.com/events",
+    "https://www.oceanalleyrestaurant.com/sitemap.xml",
+    "https://www.oceanalleyrestaurant.com/council",
+    "https://www.oceanalleyrestaurant.com/leadership",
+    "https://www.oceanalleyrestaurant.com/management",
+    "https://www.oceanalleyrestaurant.com/producers",
+    "https://www.oceanalleyrestaurant.com/support",
+    "https://www.oceanalleyrestaurant.com/crew",
+    "https://www.oceanalleyrestaurant.com/members",
+    "https://www.oceanalleyrestaurant.com/bios",
+    "https://www.oceanalleyrestaurant.com/people",
+    "https://www.oceanalleyrestaurant.com/artists",
+    "https://www.oceanalleyrestaurant.com/musicians",
+    "https://www.oceanalleyrestaurant.com/faculty",
+    "https://www.oceanalleyrestaurant.com/administration",
+    "https://www.oceanalleyrestaurant.com/contact",
+    "https://www.oceanalleyrestaurant.com/about"
+  ],
+  "base_url": "https://www.oceanalleyrestaurant.com/"
+}

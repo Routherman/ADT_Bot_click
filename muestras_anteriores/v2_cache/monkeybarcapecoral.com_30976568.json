@@ -1,0 +1,55 @@
+{
+  "pages": [
+    {
+      "url": "http://www.monkeybarcapecoral.com/about",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "========= Site Content =========\nHome\nAbout\nMenu\nContact\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nAbout\nnavigation placeholders\nAbout\nWe have good customer service, with quality food and drinks.\nLocal Gourmet\nThe Monkey Bar Steak & Seafood was purchased by Claudia Garcia  in November 2006.\nClaudia has over 20 years of hospitality experience from working as the Food and Beverage Director at Pink Shell Beach Resort to managing many country clubs.\nJuan was born and raised here in Southwest Florida. He has a bachelors degree in Business Management from Florida Gulf Coast University.\nEXCELLENT FOOD\nGREAT CUSTOMER SERVICE\nDELICIOUS COCKTAILS\n1428 Lafayette St\nCape Coral, Florida 33904\nContact Us\n(239) 549-8800\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: 3038ef06\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": []
+    },
+    {
+      "url": "http://www.monkeybarcapecoral.com/contact",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "========= Site Content =========\nHome\nAbout\nMenu\nContact\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nCopy of Contact\nnavigation placeholders\nAddress\n1428 Lafayette St\nCape Coral, Florida 33904\nPhone\n(239) 549-8800\nContact\nContact Us\nName\nPhone\nEmail\nMessage\nThank you for contacting us.\nWe will get back to you as soon as possible\nOops, there was an error sending your message.\nPlease try again later\n1428 Lafayette St\nCape Coral, Florida 33904\nContact Us\n(239) 549-8800\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: 3038ef06\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "http://www.monkeybarcapecoral.com/",
+    "http://www.monkeybarcapecoral.com/about",
+    "http://www.monkeybarcapecoral.com/contact",
+    "http://www.monkeybarcapecoral.com/menu"
+  ],
+  "candidate_links": [
+    "http://www.monkeybarcapecoral.com/about",
+    "http://www.monkeybarcapecoral.com/contact"
+  ],
+  "visited": [
+    "http://www.monkeybarcapecoral.com/",
+    "http://www.monkeybarcapecoral.com/about",
+    "http://www.monkeybarcapecoral.com/contact",
+    "http://www.monkeybarcapecoral.com/staff",
+    "http://www.monkeybarcapecoral.com/team",
+    "http://www.monkeybarcapecoral.com/board",
+    "http://www.monkeybarcapecoral.com/directory",
+    "http://www.monkeybarcapecoral.com/events",
+    "http://www.monkeybarcapecoral.com/sitemap.xml",
+    "http://www.monkeybarcapecoral.com/council",
+    "http://www.monkeybarcapecoral.com/leadership",
+    "http://www.monkeybarcapecoral.com/management",
+    "http://www.monkeybarcapecoral.com/producers",
+    "http://www.monkeybarcapecoral.com/support",
+    "http://www.monkeybarcapecoral.com/crew",
+    "http://www.monkeybarcapecoral.com/members",
+    "http://www.monkeybarcapecoral.com/bios",
+    "http://www.monkeybarcapecoral.com/people",
+    "http://www.monkeybarcapecoral.com/artists",
+    "http://www.monkeybarcapecoral.com/musicians",
+    "http://www.monkeybarcapecoral.com/faculty",
+    "http://www.monkeybarcapecoral.com/administration",
+    "http://www.monkeybarcapecoral.com/about",
+    "http://www.monkeybarcapecoral.com/contact"
+  ],
+  "base_url": "http://www.monkeybarcapecoral.com/"
+}

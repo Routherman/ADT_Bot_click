@@ -1,0 +1,525 @@
+{
+  "site_url": "https://valkariagardens.us/",
+  "domain": "valkariagardens.us",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://valkariagardens.us/",
+    "https://valkariagardens.us/about-us",
+    "https://valkariagardens.us/events",
+    "https://valkariagardens.us/contact-us",
+    "https://valkariagardens.us/new-arrivals",
+    "https://valkariagardens.us/specials",
+    "https://valkariagardens.us/pottery",
+    "https://valkariagardens.us/landscaping",
+    "https://valkariagardens.us/gallery"
+  ],
+  "candidates": [
+    "https://valkariagardens.us/contact-us",
+    "https://valkariagardens.us/about-us",
+    "https://valkariagardens.us/events",
+    "https://valkariagardens.us/",
+    "https://valkariagardens.us/contact",
+    "https://valkariagardens.us/contact/",
+    "https://valkariagardens.us/contact-us/",
+    "https://valkariagardens.us/contactus",
+    "https://valkariagardens.us/contactus/",
+    "https://valkariagardens.us/about",
+    "https://valkariagardens.us/about/",
+    "https://valkariagardens.us/about-us/",
+    "https://valkariagardens.us/visit",
+    "https://valkariagardens.us/visit/",
+    "https://valkariagardens.us/location",
+    "https://valkariagardens.us/location/",
+    "https://valkariagardens.us/directions",
+    "https://valkariagardens.us/directions/"
+  ],
+  "per_page": {
+    "https://valkariagardens.us/contact-us": {
+      "title": "Contact Us",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "valkariagardensllc@gmail.com"
+      ],
+      "phones": [
+        "(321) 215-5535"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/about-us": {
+      "title": "About Us",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/events": {
+      "title": "Events",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/events"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/events"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/": {
+      "title": "Valkaria Gardens",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/contact": {
+      "title": "Contact Us",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/contact"
+          ]
+        }
+      },
+      "emails": [
+        "valkariagardensllc@gmail.com"
+      ],
+      "phones": [
+        "(321) 215-5535"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/contact/": {
+      "title": "Contact Us",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "valkariagardensllc@gmail.com"
+      ],
+      "phones": [
+        "(321) 215-5535"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/contact-us/": {
+      "title": "Contact Us",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "valkariagardensllc@gmail.com"
+      ],
+      "phones": [
+        "(321) 215-5535"
+      ],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/contactus": {
+      "title": "Valkaria Gardens",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/contactus/": {
+      "title": "Valkaria Gardens",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/about": {
+      "title": "About Us",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/about/": {
+      "title": "About Us",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/about-us/": {
+      "title": "About Us",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/visit": {
+      "title": "Valkaria Gardens",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/visit/": {
+      "title": "Valkaria Gardens",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/location": {
+      "title": "Valkaria Gardens",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/location/": {
+      "title": "Valkaria Gardens",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/directions": {
+      "title": "Valkaria Gardens",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    },
+    "https://valkariagardens.us/directions/": {
+      "title": "Valkaria Gardens",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://valkariagardens.us/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/profile.php",
+        "https://www.instagram.com/valkariagardensllc/"
+      ]
+    }
+  }
+}

@@ -1,0 +1,613 @@
+{
+  "site_url": "https://palatkayachtclub.org/",
+  "domain": "palatkayachtclub.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://palatkayachtclub.org/",
+    "https://www.palatkayachtclub.org/about-us/",
+    "https://www.palatkayachtclub.org/membership-applications/",
+    "https://www.palatkayachtclub.org/contact-us/",
+    "https://www.palatkayachtclub.org",
+    "https://www.palatkayachtclub.org/",
+    "https://www.palatkayachtclub.org/news-tiles-view/",
+    "https://www.palatkayachtclub.org/68th-mug-race-photos/",
+    "https://www.palatkayachtclub.org/officers-directors/",
+    "https://www.palatkayachtclub.org/members-only/",
+    "https://www.palatkayachtclub.org/links/",
+    "https://www.palatkayachtclub.org/recipes/",
+    "https://www.palatkayachtclub.org/classifieds/",
+    "https://www.palatkayachtclub.org/for-members/members-only/"
+  ],
+  "candidates": [
+    "https://www.palatkayachtclub.org/contact-us/",
+    "https://www.palatkayachtclub.org/about-us/",
+    "https://www.palatkayachtclub.org/membership-applications/",
+    "https://palatkayachtclub.org/",
+    "https://palatkayachtclub.org/contact",
+    "https://palatkayachtclub.org/contact/",
+    "https://palatkayachtclub.org/contact-us",
+    "https://palatkayachtclub.org/contact-us/",
+    "https://palatkayachtclub.org/contactus",
+    "https://palatkayachtclub.org/contactus/",
+    "https://palatkayachtclub.org/about",
+    "https://palatkayachtclub.org/about/",
+    "https://palatkayachtclub.org/about-us",
+    "https://palatkayachtclub.org/about-us/",
+    "https://palatkayachtclub.org/visit",
+    "https://palatkayachtclub.org/visit/",
+    "https://palatkayachtclub.org/location",
+    "https://palatkayachtclub.org/location/",
+    "https://palatkayachtclub.org/directions",
+    "https://palatkayachtclub.org/directions/"
+  ],
+  "per_page": {
+    "https://www.palatkayachtclub.org/contact-us/": {
+      "title": "Contact Us – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palatkayachtclub.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://www.palatkayachtclub.org/about-us/": {
+      "title": "History – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palatkayachtclub.org/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://www.palatkayachtclub.org/membership-applications/": {
+      "title": "Becoming a Member – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palatkayachtclub.org/membership-applications/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.palatkayachtclub.org/membership-applications/"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/": {
+      "title": "Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/contact": {
+      "title": "Contact Us – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/contact/": {
+      "title": "Contact Us – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/contact-us": {
+      "title": "Contact Us – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/contact-us/": {
+      "title": "Contact Us – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/contactus": {
+      "title": "Page not found – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/contactus/": {
+      "title": "Page not found – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/about": {
+      "title": "History – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/about"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/about/": {
+      "title": "History – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/about/"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/about-us": {
+      "title": "History – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/about-us/": {
+      "title": "History – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/visit": {
+      "title": "Page not found – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/visit"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/visit/": {
+      "title": "Page not found – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/location": {
+      "title": "Page not found – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/location"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/location/": {
+      "title": "Page not found – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/location/"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/directions": {
+      "title": "Page not found – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/directions"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    },
+    "https://palatkayachtclub.org/directions/": {
+      "title": "Page not found – Palatka Yacht Club",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://palatkayachtclub.org/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "commodore@palatkayachtclub.org",
+        "whee4got@aol.com"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/PalatkaYachtClub"
+      ]
+    }
+  }
+}

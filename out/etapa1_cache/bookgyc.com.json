@@ -1,0 +1,755 @@
+{
+  "site_url": "https://bookgyc.com/",
+  "domain": "bookgyc.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://bookgyc.com/",
+    "https://bookgyc.com/yachts/52-prestige/",
+    "https://bookgyc.com/yachts/galeon-53/",
+    "https://bookgyc.com/yachts/55-azimut-julia-valentine/",
+    "https://bookgyc.com/yachts/55-searay/",
+    "https://bookgyc.com/yachts/60-azimut-tito/",
+    "https://bookgyc.com/yachts/62-explorer/",
+    "https://bookgyc.com/yachts/63-marquis/",
+    "https://bookgyc.com/yachts/65-numarine-2/",
+    "https://bookgyc.com/yachts/68-azimut-the-one/",
+    "https://bookgyc.com/yachts/70-azimut/",
+    "https://bookgyc.com/yachts/75-prestige/",
+    "https://bookgyc.com/yachts/77-azimut/",
+    "https://bookgyc.com/yachts/78-azimut-nena/",
+    "https://bookgyc.com/yachts/80-numarine/",
+    "https://bookgyc.com/yachts/78-sunseeker-do-it-anyway/",
+    "https://bookgyc.com/yachts/82-pershing/",
+    "https://bookgyc.com/yachts/82-sunseeker-alaina/",
+    "https://bookgyc.com/yachts/88-princess-pfo/",
+    "https://bookgyc.com/yachts/88-sirena-2021/",
+    "https://bookgyc.com/yachts/94-azimut-2022/",
+    "https://bookgyc.com/yachts/94-lazzara-iv-tranquility/",
+    "https://bookgyc.com/yachts/100-san-lorenzo-2022/",
+    "https://bookgyc.com/yachts/100-princess-2023/",
+    "https://bookgyc.com/yachts/108-mangusta-forza/",
+    "https://bookgyc.com/yachts/112-lazzara/",
+    "https://bookgyc.com/our-fleet/",
+    "https://bookgyc.com/exotic-cars/",
+    "https://bookgyc.com/villas/",
+    "https://bookgyc.com/destinations/",
+    "https://bookgyc.com/destinations/miami/",
+    "https://bookgyc.com/destinations/the-bahamas/",
+    "https://bookgyc.com/destinations/the-florida-keys/",
+    "https://bookgyc.com/special-events/",
+    "https://bookgyc.com/special-events/corporate-parties/",
+    "https://bookgyc.com/special-events/wedding-parties/",
+    "https://bookgyc.com/special-events/bachelor-parties/",
+    "https://bookgyc.com/special-events/holiday-parties/",
+    "https://bookgyc.com/special-events/birthday-parties/",
+    "https://bookgyc.com/special-events/anniversaries/",
+    "https://bookgyc.com/contact-us/",
+    "https://bookgyc.com/our-fleet",
+    "https://bookgyc.com/destinations",
+    "https://bookgyc.com/exotic-cars/rolls-royce-dawn/",
+    "https://bookgyc.com/exotic-cars/lamborghini-urus/",
+    "https://bookgyc.com/exotic-cars/mclaren-720s/",
+    "https://bookgyc.com/exotic-cars/rolls-royce-cullinan-black/",
+    "https://bookgyc.com/exotic-cars/lamborghini-huracan-green/",
+    "https://bookgyc.com/exotic-cars/lamborghini-urus-blue/",
+    "https://bookgyc.com/exotic-cars/rolls-royce-wraith-black/",
+    "https://bookgyc.com/exotic-cars/ferrari-488-spyder-red/",
+    "https://bookgyc.com/exotic-cars/bentley-bentayga-white/",
+    "https://bookgyc.com/villas/the-golden-villa/"
+  ],
+  "candidates": [
+    "https://bookgyc.com/contact-us/",
+    "https://bookgyc.com/special-events/wedding-parties/",
+    "https://bookgyc.com/",
+    "https://bookgyc.com/special-events/",
+    "https://bookgyc.com/special-events/anniversaries/",
+    "https://bookgyc.com/special-events/bachelor-parties/",
+    "https://bookgyc.com/special-events/birthday-parties/",
+    "https://bookgyc.com/special-events/corporate-parties/",
+    "https://bookgyc.com/special-events/holiday-parties/",
+    "https://bookgyc.com/contact",
+    "https://bookgyc.com/contact/",
+    "https://bookgyc.com/contact-us",
+    "https://bookgyc.com/contactus",
+    "https://bookgyc.com/contactus/",
+    "https://bookgyc.com/about",
+    "https://bookgyc.com/about/",
+    "https://bookgyc.com/about-us",
+    "https://bookgyc.com/about-us/",
+    "https://bookgyc.com/visit",
+    "https://bookgyc.com/visit/",
+    "https://bookgyc.com/location",
+    "https://bookgyc.com/location/",
+    "https://bookgyc.com/directions",
+    "https://bookgyc.com/directions/"
+  ],
+  "per_page": {
+    "https://bookgyc.com/contact-us/": {
+      "title": "Contact Us - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/special-events/wedding-parties/": {
+      "title": "Small Yacht Wedding Charter in Miami | Private Yacht Wedding",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/special-events/wedding-parties/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/": {
+      "title": "Luxury Yacht Rental in Miami, FL | Book GYC LLC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": []
+    },
+    "https://bookgyc.com/special-events/": {
+      "title": "Special Events - Book GYC Yacht Charters Miami",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 1,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/special-events/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/special-events/anniversaries/": {
+      "title": "Anniversaries Parties - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/special-events/anniversaries/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/special-events/bachelor-parties/": {
+      "title": "Yacht Bachelor Party Charter in Miami | Rent a Luxury Boat",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/special-events/bachelor-parties/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/special-events/birthday-parties/": {
+      "title": "Yacht Birthday Party Charter in Miami | Private Yacht Party",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/special-events/birthday-parties/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/special-events/corporate-parties/": {
+      "title": "Corporate Parties - Book GYC Yacht Rentals",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/special-events/corporate-parties/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/special-events/holiday-parties/": {
+      "title": "Yacht Holiday Party Charters in Miami | Luxury Boat Rentals",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/special-events/holiday-parties/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/contact": {
+      "title": "Contact Us - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/contact"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/contact/": {
+      "title": "Contact Us - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/contact-us": {
+      "title": "Contact Us - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/contactus": {
+      "title": "Page not found - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/contactus/": {
+      "title": "Page not found - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/about": {
+      "title": "Page not found - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/about"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/about/": {
+      "title": "Page not found - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/about/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/about-us": {
+      "title": "Page not found - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/about-us/": {
+      "title": "Page not found - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/visit": {
+      "title": "Page not found - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/visit"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/visit/": {
+      "title": "Page not found - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/location": {
+      "title": "Page not found - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/location"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/location/": {
+      "title": "Page not found - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/location/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/directions": {
+      "title": "Page not found - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/directions"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    },
+    "https://bookgyc.com/directions/": {
+      "title": "Page not found - Book GYC",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://bookgyc.com/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "salesteam@bookgyc.com"
+      ],
+      "phones": [
+        "(786) 673-5580"
+      ],
+      "socials": [
+        "https://www.instagram.com/bookgyc"
+      ]
+    }
+  }
+}

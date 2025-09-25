@@ -1,0 +1,156 @@
+# Documentación de Scripts y Flujos de Ejecución (Actualizada)
+
+Este documento resume para qué sirve cada script .py del proyecto, cómo usarlos desde PowerShell (Windows) y qué archivos de salida generan. Incluye notas sobre caché, logs y el modo de navegación con Selenium.
+
+
+## 1) ¿Para qué sirve cada script?
+
+- nav_pro.py
+   - Rol: Orquestador principal de Etapa 1 (navegación del sitio) y, opcionalmente, Etapa 2/3 (búsqueda externa v2) por dominio.
+   - Qué hace:
+      - Navega secciones visibles del sitio (site map reducido) y calcula señales: florida_ok, puntajes, emails y teléfonos encontrados.
+      - Controla un “gate” para ejecutar o no la búsqueda externa (Etapa 2/3) según un umbral BAND_THRESHOLD.
+      - Cuando se usa “--use-v2”, invoca nav_busqueda_externa_v2.process_domain para enriquecer contactos con búsquedas web, SERPs y PDFs.
+      - Escribe artefactos por dominio bajo out/etapa2_cache/<domain>/ y JSONs consolidados.
+   - Entradas: CSVs bajo csv/ con columna de URL (varios nombres soportados: Sitio Web, Website, URL, etc.).
+   - Salidas:
+      - out/etapa1_v1.json (navegación base + señales internas)
+      - out/etapa1_2_V2_V3.json y/o out/etapa1_2_V2_V3/<domain>.json (cuando se ejecuta v2)
+      - out/etapa2_cache/<domain>/ (capturas/artefactos por dominio)
+      - logs en logs/ y progress en out/progress.log
+
+- nav_busqueda_externa_v2.py
+   - Rol: Etapa 2 y 3 (búsqueda web externa + enriquecimiento) con caché y extracción desde SERPs y páginas destino.
+   - Qué hace:
+      - Motores: Bing, Yahoo, Google (rotación de User-Agent y reintentos/backoff).
+      - Cachea todo: búsquedas (clave primaria “dominio + prompt”), fetch de páginas destino (incluye PDFs si pdfminer.six está instalado) y fuentes de enriquecimiento.
+      - Extrae emails desde SERP (texto) y desde las páginas que cliquea.
+      - Tolerancia a subdominios internos y patrones ampliados (contact, staff, directory, leadership, newsletter, committee…).
+      - Caso especial jaxgcc.com: activa un modo “navegado SERP” con Selenium (vía navegar_secciones.py) que abre Bing, cliquea resultados del dominio y toma capturas; los emails encontrados se integran a los contactos.
+   - Entradas: dominio (argumento CLI) o llamado desde nav_pro.
+   - Salidas: out/etapa1_2_V2_V3.json (consolidado) y cachés en cache/.
+
+- navegar_secciones.py
+   - Rol: Navegación con Selenium para un sitio o para SERPs específicas (ver función especial de Bing).
+   - Funciones clave:
+      - navegar_y_extraer(url): abre la web, acepta cookies, recorre enlaces de navegación visibles, toma capturas y extrae emails/personas/roles. Salida: out/extract.json y out/emails.csv.
+      - navegar_serp_bing_y_extraer_emails(domain, query=None, max_results=10): abre Bing, busca site:domain, filtra resultados del mismo dominio, navega, toma capturas y devuelve emails. Evidencias en out/navegado_<dominio>/.
+   - Requiere Chrome (o Brave) y un ChromeDriver compatible (ruta configurada en CHROMEDRIVER_PATH).
+
+- exportar_etapa1.py
+   - Rol: Generar exportaciones de Etapa 1 a Excel y JSON con métricas y estadísticas.
+   - Qué hace: limpia/valida emails, normaliza redes sociales, calcula estadísticas de puntajes y genera out/exports/exportacion_etapa1_*.xlsx|.json.
+   - Nota: usa variable de entorno SCRORE_MIN_EXPORT_STAGE1 (umbral mínimo para filtrar en export). Si no existe, usa 5.0 por defecto.
+
+- completar_source_csv.py
+   - Rol: Completar el campo source_csv en out/etapa1_v1.json encontrando la fila origen en los CSVs de csv/.
+   - Qué hace: carga todos los CSV de csv/, mapea por URL/dominio y actualiza out/etapa1_v1.json con la fila y rubro.
+
+- menu_progreso.py
+   - Rol: Mostrar un menú de progreso por CSV y ayudar a continuar procesamiento donde se dejó.
+   - Qué hace: para cada CSV en csv/, muestra total/procesados/pendientes y permite seleccionar uno para continuar. Devuelve también las URLs pendientes.
+
+- api_enrichment.py
+   - Rol: Abstracción de enriquecimiento (Lusha, ContactOut, RocketReach) con logging por API y caché local.
+   - Estado: implementaciones simuladas (TODO: integrar APIs reales). Se invoca desde nav_busqueda_externa_v2.process_domain.
+
+
+## 2) Requisitos previos
+
+- Python 3.9+ en Windows.
+- Paquetes recomendados:
+   - requests, beautifulsoup4, selenium, pandas, python-dateutil, openpyxl (para Excel), pdfminer.six (opcional, PDFs).
+- Navegador:
+   - Google Chrome (recomendado). Alternativa: Brave (ajustar USE_BRAVE/BRAVE_PATH en navegar_secciones.py).
+- Driver:
+   - ChromeDriver compatible con tu versión de Chrome. Ubicación por defecto: Bot_Click/chromedriver_win32/chromedriver.exe.
+
+
+## 3) Flujos de trabajo recomendados
+
+- Flujo automatizado (recomendado):
+   1) Procesar un CSV con navegación interna y, si aplica, búsqueda externa v2.
+       Ejemplo (opcional):
+       ```powershell
+       # Ejecuta navegación y, con --use-v2, también búsqueda externa por dominio
+       python nav_pro.py --csv "csv\rubro_wedding_venues_florida.csv" --use-v2
+       ```
+   2) Generar exportación (Excel + JSON) de Etapa 1:
+       ```powershell
+       python exportar_etapa1.py
+       ```
+   3) Reprocesar sitios sin emails válidos (si fuese necesario):
+       ```powershell
+       python nav_pro.py --reprocess-zero-emails
+       ```
+
+- Flujo diagnóstico (por sitio/dominio):
+   - Navegación Selenium directa de un sitio:
+      ```powershell
+      python navegar_secciones.py https://ejemplo.com
+      ```
+   - Búsqueda externa v2 para un dominio específico:
+      ```powershell
+      # Genera/actualiza out/etapa1_2_V2_V3.json con el dominio indicado
+      python nav_busqueda_externa_v2.py ejemplo.com --output out\etapa1_2_V2_V3.json
+      ```
+   - Modo SERP de Bing específico (jaxgcc.com) está integrado y se ejecuta automáticamente desde v2; si necesitas correrlo manualmente:
+      ```powershell
+      # Como referencia: la función interna es navegar_serp_bing_y_extraer_emails('jaxgcc.com')
+      # Las capturas y emails se guardan en out\navegado_jaxgcc_com\
+      ```
+
+- Uso del menú de progreso:
+   ```powershell
+   python menu_progreso.py
+   ```
+   - Muestra resumen por CSV y permite seleccionar uno para continuar más adelante en tu propio flujo.
+
+
+## 4) Artefactos y salidas
+
+- out/etapa1_v1.json: resultados de navegación interna por sitio (Etapa 1).
+- out/etapa1_2_V2_V3.json y out/etapa1_2_V2_V3/<dominio>.json: resultados de búsqueda externa y contactos enriquecidos (Etapa 2/3).
+- out/etapa2_cache/<dominio>/: evidencias por dominio (capturas, marcadores de skip, etc.).
+- out/extract.json y out/emails.csv: resultados de navegar_secciones.py sobre una URL individual.
+- out/navegado_<dominio>/: capturas y emails del modo SERP de Bing (cuando se usa).
+- out/exports/: exportación consolidada (Excel y JSON) de Etapa 1.
+- cache/: caché legible (búsquedas, fetch de páginas, enriquecimiento), clave primaria “dominio + prompt”.
+- logs/: logs por motor/API y de ejecución general (busqueda_externa.log, lusha_log.log, etc.).
+
+
+## 5) Variables y configuración útil
+
+- BAND_THRESHOLD: umbral para decidir si ejecutar Etapa 2 (búsqueda externa) en nav_pro (por defecto 40 si no está definido).
+- HEADLESS (navegar_secciones.py): si False, verás el navegador; si True, corre en segundo plano.
+- USE_BRAVE/BRAVE_PATH (navegar_secciones.py): para usar Brave en lugar de Chrome.
+- CHROMEDRIVER_PATH: ruta del ChromeDriver.
+- SCRORE_MIN_EXPORT_STAGE1 (exportar_etapa1.py): mínimo de score para incluir en export (default 5.0 si no está definido).
+
+
+## 6) Consejos y resolución de problemas
+
+- ChromeDriver incompatible: actualiza el driver para que coincida con tu versión de Chrome y ajusta CHROMEDRIVER_PATH si lo mueves.
+- Captchas/bloqueos de buscadores: v2 tiene backoff y UA rotatorio; si persiste, sube PAUSE_MIN/PAUSE_MAX en v2 o limita patrones.
+- PDFs: instala pdfminer.six para extraer texto de PDFs; si falla, el flujo continúa con otros recursos.
+- Caché: para reintentar desde cero una búsqueda/página, borra la entrada de cache/ correspondiente (por ejemplo, search:bing:site:dominio...).
+- Logs: revisa logs/busqueda_externa.log y out/etapa2_cache/<dominio>/ para ver el recorrido, y out/navegado_<dominio>/ para el modo SERP.
+
+
+## 7) Ejemplos de uso (opcionales)
+
+```powershell
+# Ejecutar procesamiento completo de un CSV con búsqueda externa v2
+python nav_pro.py --csv "csv\rubro_casinos_with_live_entertainment_florida.csv" --use-v2
+
+# Probar sólo la búsqueda externa para un dominio
+python nav_busqueda_externa_v2.py crazyunclemikes.com --output out\etapa1_2_V2_V3.json
+
+# Navegar un sitio y ver capturas/emails extraídos
+python navegar_secciones.py https://www.jaxgcc.com/
+
+# Generar exportación de Etapa 1
+python exportar_etapa1.py
+```
+
+— Fin —

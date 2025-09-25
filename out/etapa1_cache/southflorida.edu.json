@@ -1,0 +1,708 @@
+{
+  "site_url": "https://southflorida.edu/",
+  "domain": "southflorida.edu",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://southflorida.edu/",
+    "https://www.southflorida.edu/college/welcome/about-sfsc",
+    "https://www.southflorida.edu/college/welcome/about-sfsc/student-achievement-data",
+    "https://www.southflorida.edu/college/calendar",
+    "https://www.southflorida.edu/future-students/registrar/contact-us",
+    "https://www.southflorida.edu/future-students/veterans/contact-information",
+    "https://www.southflorida.edu/current-students/degrees-programs/academics/fire-science/faqs",
+    "https://www.southflorida.edu/current-students/degrees-programs/special-programs/leadership-highlands",
+    "https://www.southflorida.edu/current-students/advising-counseling-center/faq",
+    "https://www.southflorida.edu/current-students/advising-counseling-center/contact-us",
+    "https://www.southflorida.edu/current-students/financial-aid-scholarships/contact-us",
+    "https://www.southflorida.edu/current-students/financial-aid-scholarships/faq",
+    "https://www.southflorida.edu/current-students/library/book-study-rooms",
+    "https://www.southflorida.edu/current-students/library/schedule-appointment-w-librarian",
+    "https://www.southflorida.edu/current-students/testing-center/policies-procedures",
+    "https://www.southflorida.edu/community/athletics/baseball/schedule-results",
+    "https://www.southflorida.edu/community/athletics/cross-country/schedule-results",
+    "https://www.southflorida.edu/community/athletics/softball/schedule-results",
+    "https://www.southflorida.edu/community/athletics/volleyball/schedule-results",
+    "https://www.southflorida.edu/community/services-community/dental-hygiene-clinic/policies",
+    "https://www.southflorida.edu/faculty-staff/afc/calendar",
+    "https://www.southflorida.edu/support-sfsc/about-the-foundation",
+    "https://www.southflorida.edu/news/lake-placid-center-celebrates-a-century-of-learning-on-oct-18",
+    "https://www.southflorida.edu/news/spectacular-2025-2026-season-at-the-wildstein-center-for-the-performing-arts",
+    "https://www.southflorida.edu/news/museum-of-florida-art-and-culture-2025-2026-season-opens-sept-10",
+    "https://www.southflorida.edu/news/sfsc-graduates-new-law-enforcement-officers",
+    "https://www.southflorida.edu/news/performing-arts-presents-the-young-peoples-theater-2025-2026-season",
+    "https://southflorida.edu/college/calendar",
+    "https://www.southflorida.edu/events/event/fall-term-last-day-of-classes",
+    "https://www.southflorida.edu/events/event/fall-term-grades-are-due-in-the-office-of-the-registrar-by-noon-2"
+  ],
+  "candidates": [
+    "https://www.southflorida.edu/current-students/advising-counseling-center/contact-us",
+    "https://www.southflorida.edu/current-students/financial-aid-scholarships/contact-us",
+    "https://www.southflorida.edu/future-students/registrar/contact-us",
+    "https://www.southflorida.edu/future-students/veterans/contact-information",
+    "https://www.southflorida.edu/college/welcome/about-sfsc",
+    "https://www.southflorida.edu/college/welcome/about-sfsc/student-achievement-data",
+    "https://www.southflorida.edu/support-sfsc/about-the-foundation",
+    "https://southflorida.edu/college/calendar",
+    "https://www.southflorida.edu/college/calendar",
+    "https://www.southflorida.edu/events/event/fall-term-grades-are-due-in-the-office-of-the-registrar-by-noon-2",
+    "https://www.southflorida.edu/events/event/fall-term-last-day-of-classes",
+    "https://www.southflorida.edu/faculty-staff/afc/calendar",
+    "https://www.southflorida.edu/community/athletics/baseball/schedule-results",
+    "https://www.southflorida.edu/community/athletics/cross-country/schedule-results",
+    "https://www.southflorida.edu/community/athletics/softball/schedule-results",
+    "https://www.southflorida.edu/community/athletics/volleyball/schedule-results",
+    "https://www.southflorida.edu/current-students/library/schedule-appointment-w-librarian",
+    "https://www.southflorida.edu/community/services-community/dental-hygiene-clinic/policies",
+    "https://www.southflorida.edu/current-students/advising-counseling-center/faq",
+    "https://www.southflorida.edu/current-students/degrees-programs/academics/fire-science/faqs",
+    "https://www.southflorida.edu/current-students/degrees-programs/special-programs/leadership-highlands",
+    "https://www.southflorida.edu/current-students/financial-aid-scholarships/faq",
+    "https://www.southflorida.edu/current-students/library/book-study-rooms",
+    "https://www.southflorida.edu/current-students/testing-center/policies-procedures",
+    "https://www.southflorida.edu/news/lake-placid-center-celebrates-a-century-of-learning-on-oct-18",
+    "https://www.southflorida.edu/news/museum-of-florida-art-and-culture-2025-2026-season-opens-sept-10",
+    "https://www.southflorida.edu/news/performing-arts-presents-the-young-peoples-theater-2025-2026-season",
+    "https://www.southflorida.edu/news/sfsc-graduates-new-law-enforcement-officers",
+    "https://www.southflorida.edu/news/spectacular-2025-2026-season-at-the-wildstein-center-for-the-performing-arts",
+    "https://southflorida.edu/",
+    "https://southflorida.edu/contact",
+    "https://southflorida.edu/contact/",
+    "https://southflorida.edu/contact-us",
+    "https://southflorida.edu/contact-us/",
+    "https://southflorida.edu/contactus",
+    "https://southflorida.edu/contactus/",
+    "https://southflorida.edu/about",
+    "https://southflorida.edu/about/",
+    "https://southflorida.edu/about-us",
+    "https://southflorida.edu/about-us/",
+    "https://southflorida.edu/visit",
+    "https://southflorida.edu/visit/",
+    "https://southflorida.edu/location",
+    "https://southflorida.edu/location/",
+    "https://southflorida.edu/directions",
+    "https://southflorida.edu/directions/"
+  ],
+  "per_page": {
+    "https://www.southflorida.edu/current-students/advising-counseling-center/contact-us": {
+      "title": "South Florida State College",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/current-students/advising-counseling-center/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/current-students/advising-counseling-center/contact-us"
+          ]
+        },
+        "schedule": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/current-students/advising-counseling-center/contact-us"
+          ]
+        },
+        "acts": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/current-students/advising-counseling-center/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "alexandra.corso@southflorida.edu",
+        "asena.mott@southflorida.edu",
+        "capuanod@southflorida.edu",
+        "cernai@southflorida.edu",
+        "charla.ellerker@southflorida.edu",
+        "diana.fernandez@southflorida.edu",
+        "felecia.dozier@southflorida.edu",
+        "fordm@southflorida.edu",
+        "greenc@southflorida.edu",
+        "tina.gottus@southflorida.edu"
+      ],
+      "phones": [
+        "863-453-6661",
+        "863-784-7033",
+        "863-784-7041",
+        "863-784-7042",
+        "863-784-7061",
+        "863-784-7081",
+        "863-784-7167",
+        "863-784-7176",
+        "863-784-7196",
+        "863-784-7331",
+        "863-784-7431"
+      ],
+      "socials": []
+    },
+    "https://www.southflorida.edu/current-students/financial-aid-scholarships/contact-us": {
+      "title": "South Florida State College",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/current-students/financial-aid-scholarships/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/current-students/financial-aid-scholarships/contact-us"
+          ]
+        },
+        "schedule": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/current-students/financial-aid-scholarships/contact-us"
+          ]
+        },
+        "acts": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/current-students/financial-aid-scholarships/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "cloudk@southflorida.edu",
+        "kelly.sweet@southflorida.edu",
+        "marcia.conliffe@southflorida.edu"
+      ],
+      "phones": [
+        "863-453-6661",
+        "863-784-7108",
+        "863-784-7134",
+        "863-784-7222"
+      ],
+      "socials": []
+    },
+    "https://www.southflorida.edu/future-students/registrar/contact-us": {
+      "title": "South Florida State College",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/future-students/registrar/contact-us"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/future-students/registrar/contact-us"
+          ]
+        },
+        "schedule": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/future-students/registrar/contact-us"
+          ]
+        },
+        "acts": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/future-students/registrar/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "registrationdept@southflorida.edu"
+      ],
+      "phones": [
+        "863-453-6661"
+      ],
+      "socials": []
+    },
+    "https://www.southflorida.edu/future-students/veterans/contact-information": {
+      "title": "South Florida State College",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/future-students/veterans/contact-information"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/future-students/veterans/contact-information"
+          ]
+        },
+        "schedule": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/future-students/veterans/contact-information"
+          ]
+        },
+        "acts": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/future-students/veterans/contact-information"
+          ]
+        }
+      },
+      "emails": [
+        "robert.hampton@southflorida.edu"
+      ],
+      "phones": [
+        "863-453-6661",
+        "863-784-7128",
+        "863-784-7131",
+        "863-784-7134",
+        "863-784-7254"
+      ],
+      "socials": []
+    },
+    "https://www.southflorida.edu/college/welcome/about-sfsc": {
+      "title": "South Florida State College",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/college/welcome/about-sfsc"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/college/welcome/about-sfsc"
+          ]
+        },
+        "schedule": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/college/welcome/about-sfsc"
+          ]
+        },
+        "acts": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/college/welcome/about-sfsc"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-453-6661"
+      ],
+      "socials": []
+    },
+    "https://www.southflorida.edu/college/welcome/about-sfsc/student-achievement-data": {
+      "title": "South Florida State College",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/college/welcome/about-sfsc/student-achievement-data"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/college/welcome/about-sfsc/student-achievement-data"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/college/welcome/about-sfsc/student-achievement-data"
+          ]
+        },
+        "schedule": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/college/welcome/about-sfsc/student-achievement-data"
+          ]
+        },
+        "acts": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/college/welcome/about-sfsc/student-achievement-data"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-453-6661"
+      ],
+      "socials": []
+    },
+    "https://www.southflorida.edu/support-sfsc/about-the-foundation": {
+      "title": "South Florida State College",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/support-sfsc/about-the-foundation"
+          ]
+        },
+        "calendar": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/support-sfsc/about-the-foundation"
+          ]
+        },
+        "schedule": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/support-sfsc/about-the-foundation"
+          ]
+        },
+        "acts": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/support-sfsc/about-the-foundation"
+          ]
+        }
+      },
+      "emails": [
+        "foundation@southflorida.edu",
+        "oundation@southflorida.edu"
+      ],
+      "phones": [
+        "863-453-3133",
+        "863-453-6661"
+      ],
+      "socials": [
+        "https://www.facebook.com/SFSC.Foundation/"
+      ]
+    },
+    "https://southflorida.edu/college/calendar": {
+      "title": "South Florida State College",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southflorida.edu/college/calendar"
+          ]
+        },
+        "calendar": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southflorida.edu/college/calendar"
+          ]
+        },
+        "schedule": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southflorida.edu/college/calendar"
+          ]
+        },
+        "acts": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://southflorida.edu/college/calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-453-6661"
+      ],
+      "socials": []
+    },
+    "https://www.southflorida.edu/college/calendar": {
+      "title": "South Florida State College",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/college/calendar"
+          ]
+        },
+        "calendar": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/college/calendar"
+          ]
+        },
+        "schedule": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/college/calendar"
+          ]
+        },
+        "acts": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.southflorida.edu/college/calendar"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-453-6661"
+      ],
+      "socials": []
+    }
+  }
+}

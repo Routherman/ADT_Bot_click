@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-17T02:58:44.134981",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-17T02:58:40.369824",
+      "company": {
+        "name": null,
+        "domain": "canaverallight.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 16095664,
+          "description": "MORE THAN 155 YEARS AGO, \nBEFORE THE PORT, BEFORE THE MISSILES,\nBEFORE THE ROCKET LAUNCHES\n\nIn the shadow of our historic lighthouse, modern Space Flight was launched. Start your exploration of the history of Cape Canaveral and its link to America’s space program at the Cape Canaveral Lighthouse.\n\nOur lighthouse stands proudly on Space Launch Delta 45's Cape Canaveral Space Force Station, the World’s Premier Gateway to Space. The lighthouse is owned by the United States Space Force and is still maintained as an active aid to navigation by the United States Coast Guard.\n\nLATITUDE: 28.46037\nLONGITUDE: -80.543422\n151 FEET TALL\nDAYMARK: 3 BLACK & 3 WHITE HORIZONTAL BANDS\nCHARACTERISTIC: 2 FLASHES IN 5 SECONDS, FOLLOWED BY 15 SECONDS OF DARKNESS\n\nOur amazing 151 foot tall lighthouse is still active after over 155 years protecting our mariners and coast. She has evolved from oil lamp, to automation, to electricity over the years and still continues to serve. Since she sits on the Cape Canaveral Space Force Station (CCSFS) property, the public is not allowed to drive on site without an escort, therefore all visits must be booked via our website, several days in advance. \n\nWe offer tours for individuals, adult and children's groups of 10 or more, and educational tours for all school aged students. All tours take 2 to 4 hours, depending on the tour you select and we offer them several days per week.  \n\nOpen House for CCSFS badged personnel occurs every Wednesday from 10:00 – 1:00.  Hangar C will also be open during these hours.\n\nOnce you get here, you'll get to explore our Historical Lighthouse, Keepers Cottage and grounds, and visit Hangar C, where you’ll see restored launch systems and rockets, some of which can only be seen here. Lastly, you’ll get to tour the Cape Canaveral Space Force Museum, and visit our great little Gift Shop!",
+          "domain": "canaverallight.org",
+          "employees": "51 - 200",
+          "founded": "2002",
+          "fqdn": "www.canaverallight.org",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2023/month=11/day=14/j_loyiwmwn1vixekixos.11893b7175550bec1f16b2fff33183c7c85f8056.file_loykgqqka7uuledke.logo_cached.svg",
+          "name": "Cape Canaveral Lighthouse Foundation",
+          "revenueRange": [
+            1000000,
+            10000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/cape-canaveral-lighthouse-foundation"
+            }
+          },
+          "address": "Cape Canaveral North America United States US 100 Space Port Way; Cape Canaveral, Florida 32920, US Florida FL -80.60476684570312,28.405839920043945 ",
+          "location": {
+            "city": "Cape Canaveral",
+            "country": "United States",
+            "fullLocation": "Cape Canaveral North America United States US 100 Space Port Way; Cape Canaveral, Florida 32920, US Florida FL -80.60476684570312,28.405839920043945 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "100 Space Port Way; Cape Canaveral, Florida 32920, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8412,
+                "description": "Museums and art galleries"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 712120,
+                "description": "Historical Sites"
+              }
+            ]
+          },
+          "website": "https://canaverallight.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-17T02:58:41.550725",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-17T02:58:44.130796",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

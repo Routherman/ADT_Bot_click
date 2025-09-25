@@ -1,0 +1,136 @@
+{
+  "timestamp": "2025-09-24T18:14:53.130874",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T18:14:48.263244",
+      "company": {
+        "name": null,
+        "domain": "playtheyards.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 69443936,
+          "description": "Welcome to Ponte Vedra Beach’s newest outdoor sports and social venue. The Yards is an innovative reimagining of the traditional country club. The first of its kind in the region, The Yards features a completely renovated and redesigned 12-hole golf course, tennis center, and brand new pickleball facility, The Pickle Garden. In addition to the sports facilities, The Yards also has a covered patio pavilion overlooking the beautiful course that is perfect for any occasion, as well as another multi-purpose event space coming in 2024. The Yards welcomes members, their guests, and visitors from all across the country to come enjoy the greater Ponte Vedra area and all it has to offer. Play The Yards!\n\nStay in the know! Follow @playtheyards on\n- Instagram\n- Facebook\n- TikTok\n- YouTube\n\nSubscribe to our mailing list here: http://eepurl.com/heZ9QT",
+          "domain": "playtheyards.com",
+          "employees": "11 - 50",
+          "founded": "2020",
+          "fqdn": "www.playtheyards.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/4/49/449907c89316e5c5739497fd164f910c",
+          "name": "The Yards",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/playtheyards"
+            }
+          },
+          "address": "Ponte Vedra Beach North America United States US 254 Alta Mar Dr; Ponte Vedra Beach, Florida 32082, US Florida FL -81.3856430053711,30.23969078063965 ",
+          "location": {
+            "city": "Ponte Vedra Beach",
+            "country": "United States",
+            "fullLocation": "Ponte Vedra Beach North America United States US 254 Alta Mar Dr; Ponte Vedra Beach, Florida 32082, US Florida FL -81.3856430053711,30.23969078063965 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "254 Alta Mar Dr; Ponte Vedra Beach, Florida 32082, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://playtheyards.com",
+          "specialities": [
+            "entertainment",
+            "events",
+            "golf",
+            "pickleball",
+            "tennis"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T18:14:50.632239",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T18:14:53.125040",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

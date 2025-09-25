@@ -1,0 +1,75 @@
+{
+  "pages": [
+    {
+      "url": "http://www.theislandplayers.org/plan-your-visit",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "========= Site Content =========\nHome\nTickets\n77th Season\nJanus\nA Doublewide, Texas Christmas\nMurder by Misadventure\nThe Second Time Around\nThe Outsider\nInfo\nBox Office\nSeating\nParking\nCurrent Season\nAbout Us\nFAQs\nHistory\nBoard\nDonate\nGet Involved!\nAuditions\nVolunteers\nScholarships\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nAbout Us\nnavigation placeholders\nThe Island Players, Inc.\n10009 Gulf Drive\nAnna Maria, Florida 34216 | (941) 778-5755\nCopyright 2025 © All Rights Reserved.\nAdd full CSS and Javascript before the close tag of the body if needed\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: f22177354d4941c6a5ab48f3aff465d5\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup\nBegin Product Custom HTML Markup\nEnd Product Custom HTML Markup",
+      "emails": []
+    },
+    {
+      "url": "http://www.theislandplayers.org/board",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "========= Site Content =========\nHome\nTickets\n77th Season\nJanus\nA Doublewide, Texas Christmas\nMurder by Misadventure\nThe Second Time Around\nThe Outsider\nInfo\nBox Office\nSeating\nParking\nCurrent Season\nAbout Us\nFAQs\nHistory\nBoard\nDonate\nGet Involved!\nAuditions\nVolunteers\nScholarships\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nBoard\nnavigation placeholders\nBOARD OF DIRECTORS\nIsland Players 2024-2025\nDenise Handley\nPRESIDENT\nConnie Camboni                 TREASURER\nEllen Devine                         RECORDING SECRETARY\n2024-2025 BOARD MEMBERS\nHONORARY LIFETIME BOARD MEMBERS\nSue George                                                                  Linda Davis\nRita Lamoreux                                                                                     Peg Faarup\nLaura Morales                                                             Ruth Stevens\nCheryl Jarosiewicz\nOFF STAGE LADIES\nEllen Devine\nPRESIDENT\nDenise Handley     PRESIDENT Connie Camboni    TREASURER\nEllen Devine\nRECORDING SECRETARY\n2024-2025 BOARD MEMBERS\nSue George\nCheryl Jarosiewicz\nRita Lamoreux\nLaura Morales\nHONORARY LIFETIME BOARD MEMBERS\nLinda Davis\nDorothy Eder\nPeg Faarup\nRuth Stevens\nOFF STAGE LADIES\nEllen Devine              PRESIDENT\nThe Island Players, Inc.\n10009 Gulf Drive\nAnna Maria, Florida 34216 | (941) 778-5755\nCopyright 2025 © All Rights Reserved.\nAdd full CSS and Javascript before the close tag of the body if needed\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: f22177354d4941c6a5ab48f3aff465d5\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup\nBegin Product Custom HTML Markup\nEnd Product Custom HTML Markup",
+      "emails": []
+    },
+    {
+      "url": "https://www.facebook.com/p/Island-Players-100057576305101/",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "http://www.theislandplayers.org/online-tickets",
+    "http://www.theislandplayers.org/history",
+    "http://www.theislandplayers.org/FAQs",
+    "http://www.theislandplayers.org/auditions",
+    "http://www.theislandplayers.org/parking",
+    "http://www.theislandplayers.org/",
+    "http://www.theislandplayers.org/box-office7a95727f",
+    "http://www.theislandplayers.org/seating-chart",
+    "http://www.theislandplayers.org/scholarships-2025",
+    "http://www.theislandplayers.org/current-season-77",
+    "http://www.theislandplayers.org/copy-of-about-us",
+    "http://www.theislandplayers.org/plan-your-visit",
+    "http://www.theislandplayers.org/board",
+    "http://www.theislandplayers.org/donate",
+    "http://www.theislandplayers.org/volunteers"
+  ],
+  "candidate_links": [
+    "http://www.theislandplayers.org/plan-your-visit",
+    "http://www.theislandplayers.org/board",
+    "https://www.facebook.com/p/Island-Players-100057576305101/"
+  ],
+  "visited": [
+    "http://www.theislandplayers.org/",
+    "http://www.theislandplayers.org/about",
+    "http://www.theislandplayers.org/contact",
+    "http://www.theislandplayers.org/staff",
+    "http://www.theislandplayers.org/team",
+    "http://www.theislandplayers.org/board",
+    "http://www.theislandplayers.org/directory",
+    "http://www.theislandplayers.org/events",
+    "http://www.theislandplayers.org/sitemap.xml",
+    "http://www.theislandplayers.org/council",
+    "http://www.theislandplayers.org/leadership",
+    "http://www.theislandplayers.org/management",
+    "http://www.theislandplayers.org/producers",
+    "http://www.theislandplayers.org/support",
+    "http://www.theislandplayers.org/crew",
+    "http://www.theislandplayers.org/members",
+    "http://www.theislandplayers.org/bios",
+    "http://www.theislandplayers.org/people",
+    "http://www.theislandplayers.org/artists",
+    "http://www.theislandplayers.org/musicians",
+    "http://www.theislandplayers.org/faculty",
+    "http://www.theislandplayers.org/administration",
+    "http://www.theislandplayers.org/plan-your-visit",
+    "http://www.theislandplayers.org/board",
+    "https://www.facebook.com/p/Island-Players-100057576305101/"
+  ],
+  "base_url": "http://www.theislandplayers.org/"
+}

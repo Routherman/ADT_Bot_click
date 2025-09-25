@@ -1,0 +1,169 @@
+{
+  "timestamp": "2025-09-25T05:16:50.829023",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T05:16:47.022708",
+      "company": {
+        "name": null,
+        "domain": "saddlebrook.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 121015,
+          "description": "Saddlebrook Resort in Tampa Florida, just 30 miles north of Tampa International airport, offers an ideal and award winning resort setting with luxury accommodations and facilities for corporate events, meetings and conferences, spa getaways, family reunions, kids camp, and Florida golf and tennis vacations.",
+          "domain": "saddlebrook.com",
+          "employees": "501 - 1000",
+          "founded": "1980",
+          "fqdn": "www.saddlebrook.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/7/f3/7f35ea02f1a17c3cee20b34c294c9e29",
+          "name": "Saddlebrook Resort",
+          "revenueRange": [
+            250000000,
+            500000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/saddlebrook"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/saddlebrook-resort"
+            }
+          },
+          "address": "Wesley Chapel North America United States US 5700 Saddlebrook Way; Wesley Chapel, FL 33543, US Florida FL -82.32787322998047,28.239730834960938 ",
+          "location": {
+            "city": "Wesley Chapel",
+            "country": "United States",
+            "fullLocation": "Wesley Chapel North America United States US 5700 Saddlebrook Way; Wesley Chapel, FL 33543, US Florida FL -82.32787322998047,28.239730834960938 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "5700 Saddlebrook Way; Wesley Chapel, FL 33543, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://saddlebrook.com",
+          "specialities": [
+            "accommodation",
+            "catering",
+            "conference services",
+            "conventions",
+            "dining",
+            "events",
+            "family reunions",
+            "fitness",
+            "golf",
+            "green lodging",
+            "incentives",
+            "meetings",
+            "spa",
+            "stress management",
+            "team building",
+            "tennis",
+            "vacations",
+            "weddings"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "currency": "USD",
+                "roundAmount": 72500000,
+                "roundType": "Debt Financing",
+                "roundDate": "Dec 17, 2024"
+              }
+            ],
+            "totalRounds": 1,
+            "totalRoundsAmount": 72500000,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundType": "Debt Financing",
+            "lastRoundAmount": 72500000,
+            "lastRoundDate": "Dec 17, 2024"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T05:16:48.251151",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T05:16:50.824642",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

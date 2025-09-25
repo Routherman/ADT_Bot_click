@@ -1,0 +1,203 @@
+{
+  "timestamp": "2025-09-20T23:19:15.147651",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T23:19:11.666441",
+      "company": {
+        "name": null,
+        "domain": "carnival.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 6976,
+          "description": "Since our founding in 1972, Carnival Cruise Line — \"The World’s Most Popular Cruise Line®” — carries millions of passengers every year. We offer a fun and unique career destination for a wide range of professionals in Marketing, IT, Accounting/Audit, Finance, Marine Operations and Human Resources, just to mention a few. We also offer remote opportunities flexibility for select positions. \n\nHeadquartered in sunny South Florida, team members have access to a multi-station cafeteria, Starbucks (with cafecitos! - It's a Miami thing...), car wash, on-site gas delivery service, dry-cleaning pick-up, and a full-service gym. We offer top of line benefits including: health, dental, 401K matching, commitment to continued learning & development, employee stock purchase discount, cruise discounts for employees and more! We are committed to a culture of diversity, equity and inclusion for our shoreside and shipboard team members, as well as our guests.  \n\nWe are proud to be part of a family of companies owned by Carnival Corporation & plc, a Fortune 200 Company, which includes sister lines Princess Cruises, Holland America Line and Cunard Line, among others. We pride ourselves on delivering fun, memorable vacations to our guests by offering a wide array of quality cruises which present outstanding value for the money.",
+          "domain": "carnival.com",
+          "employees": "10001 - 100000",
+          "founded": "1972",
+          "fqdn": "www.carnival.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=29/j_lvl979a0x75u3ej9p.7af45df45daa123695c555c3830e85d65ba4db10.file_lvl989k82oh53jp16j.logo_cached.jpg",
+          "name": "Carnival Cruise Line",
+          "revenueRange": [
+            10000000000,
+            100000000000
+          ],
+          "mainIndustry": "Transportation, Logistics, Supply Chain & Storage",
+          "subIndustry": "Maritime Transportation",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/carnival-corporation"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/carnival-cruise-lines"
+            }
+          },
+          "address": "Miami North America United States US 3655 NW 87th Avenue; Miami, Florida 33178, US Florida FL -80.19365692138672,25.774269104003906 ",
+          "location": {
+            "city": "Miami",
+            "country": "United States",
+            "fullLocation": "Miami North America United States US 3655 NW 87th Avenue; Miami, Florida 33178, US Florida FL -80.19365692138672,25.774269104003906 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "3655 NW 87th Avenue; Miami, Florida 33178, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 4412,
+                "description": "Deep sea foreign transportation of freight"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 483112,
+                "description": "Deep Sea Passenger Transportation"
+              }
+            ]
+          },
+          "website": "https://carnival.com",
+          "specialities": [
+            "accounting",
+            "advertising",
+            "analytics",
+            "cruises",
+            "finance",
+            "hospitality",
+            "information technology",
+            "marine operations",
+            "maritime",
+            "marketing",
+            "travel",
+            "vacations"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "currency": "USD",
+                "roundAmount": 2000000000,
+                "roundType": "Post-IPO Debt",
+                "roundDate": "Jan 28, 2025"
+              },
+              {
+                "currency": "EUR",
+                "roundAmount": 500000000,
+                "roundType": "Post-IPO Debt",
+                "roundDate": "Apr 16, 2024"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 1300000000,
+                "roundType": "Post-IPO Debt",
+                "roundDate": "Aug 1, 2023"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 1000000000,
+                "roundType": "Post-IPO Equity",
+                "roundDate": "Nov 15, 2022"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 2030000000,
+                "roundType": "Post-IPO Debt",
+                "roundDate": "Oct 18, 2022"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 339000000,
+                "roundType": "Post-IPO Debt",
+                "roundDate": "Aug 22, 2022"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 1000000000,
+                "roundType": "Post-IPO Debt",
+                "roundDate": "May 25, 2022"
+              },
+              {
+                "roundType": "Post-IPO Equity",
+                "roundDate": "Apr 7, 2020"
+              }
+            ],
+            "totalRounds": 8,
+            "totalRoundsAmount": 8200054472,
+            "currency": "USD",
+            "isIpo": true,
+            "lastRoundType": "Post-IPO Debt",
+            "lastRoundAmount": 2000000000,
+            "lastRoundDate": "Jan 28, 2025"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T23:19:12.370834",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T23:19:15.143291",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

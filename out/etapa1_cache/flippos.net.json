@@ -1,0 +1,727 @@
+{
+  "site_url": "https://flippos.net/",
+  "domain": "flippos.net",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://flippos.net/",
+    "https://www.flippos.net/blog/",
+    "https://www.flippos.net",
+    "https://www.flippos.net/sunrise/",
+    "https://www.flippos.net/hallandale/",
+    "https://www.flippos.net/fort-lauderdale/",
+    "https://www.flippos.net/fort-lauderdale",
+    "https://www.flippos.net/hallandale",
+    "https://www.flippos.net/sunrise",
+    "https://www.flippos.net/meet-flippo/",
+    "https://www.flippos.net/photo-gallery/",
+    "https://www.flippos.net/our-story/",
+    "https://www.flippos.net/flippos-faqs/",
+    "https://www.flippos.net/waiver/",
+    "https://www.flippos.net/join-the-team/",
+    "https://www.flippos.net/our-partners/",
+    "https://www.flippos.net/promise-to-parents/",
+    "https://www.flippos.net/attractions/",
+    "https://www.flippos.net/attractions/jungle-gym/",
+    "https://www.flippos.net/attractions/toddler-zone/",
+    "https://www.flippos.net/attractions/laser-maze/",
+    "https://www.flippos.net/attractions/time-freak/",
+    "https://www.flippos.net/attractions/ball-blaster/",
+    "https://www.flippos.net/attractions/sports-court/",
+    "https://www.flippos.net/attractions/arcades/",
+    "https://www.flippos.net/weekly-specials/",
+    "https://www.flippos.net/privacy-policy/",
+    "https://www.flippos.net/terms-of-use/",
+    "https://www.flippos.net/e-sign-agreement/",
+    "https://www.flippos.net/blog/family-entertainment-center/celebrate-national-siblings-day-spectacular-family-party/",
+    "https://www.flippos.net/blog/ball-blaster/plan-exciting-play-date-flippos/",
+    "https://www.flippos.net/blog/events-at-flippos/get-action-next-friday-spend-evening-iron-man-flippos/",
+    "https://www.flippos.net/blog/family-entertainment-center/child-superhero-role-model/",
+    "https://www.flippos.net/blog/family-entertainment-center/mommy-classes-fort-lauderdale-nearby-areas-flippos-kids-indoor-playground-cafe/",
+    "https://www.flippos.net/blog/page/2/",
+    "https://www.flippos.net/blog/page/4/",
+    "https://www.flippos.net/blog/ball-blaster/",
+    "https://www.flippos.net/blog/birthday-parties-fl/",
+    "https://www.flippos.net/blog/events-at-flippos/",
+    "https://www.flippos.net/blog/family-entertainment-center/",
+    "https://www.flippos.net/blog/tips/"
+  ],
+  "candidates": [
+    "https://www.flippos.net/blog/events-at-flippos/",
+    "https://www.flippos.net/blog/events-at-flippos/get-action-next-friday-spend-evening-iron-man-flippos/",
+    "https://www.flippos.net/blog/",
+    "https://www.flippos.net/blog/ball-blaster/",
+    "https://www.flippos.net/blog/ball-blaster/plan-exciting-play-date-flippos/",
+    "https://www.flippos.net/blog/birthday-parties-fl/",
+    "https://www.flippos.net/blog/family-entertainment-center/",
+    "https://www.flippos.net/blog/family-entertainment-center/celebrate-national-siblings-day-spectacular-family-party/",
+    "https://www.flippos.net/blog/family-entertainment-center/child-superhero-role-model/",
+    "https://www.flippos.net/blog/family-entertainment-center/mommy-classes-fort-lauderdale-nearby-areas-flippos-kids-indoor-playground-cafe/",
+    "https://www.flippos.net/blog/page/2/",
+    "https://www.flippos.net/blog/page/4/",
+    "https://www.flippos.net/blog/tips/",
+    "https://flippos.net/",
+    "https://flippos.net/contact",
+    "https://flippos.net/contact/",
+    "https://flippos.net/contact-us",
+    "https://flippos.net/contact-us/",
+    "https://flippos.net/contactus",
+    "https://flippos.net/contactus/",
+    "https://flippos.net/about",
+    "https://flippos.net/about/",
+    "https://flippos.net/about-us",
+    "https://flippos.net/about-us/",
+    "https://flippos.net/visit",
+    "https://flippos.net/visit/",
+    "https://flippos.net/location",
+    "https://flippos.net/location/",
+    "https://flippos.net/directions",
+    "https://flippos.net/directions/"
+  ],
+  "per_page": {
+    "https://www.flippos.net/blog/events-at-flippos/": {
+      "title": "Events at Flippo's Archives - Flippo's",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/events-at-flippos/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/events-at-flippos/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-639-9599"
+      ],
+      "socials": []
+    },
+    "https://www.flippos.net/blog/events-at-flippos/get-action-next-friday-spend-evening-iron-man-flippos/": {
+      "title": "Get Into Action And Spend An Evening With Iron Man At Flippo's - Flippo'sFlippo's",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/events-at-flippos/get-action-next-friday-spend-evening-iron-man-flippos/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/events-at-flippos/get-action-next-friday-spend-evening-iron-man-flippos/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-639-9599"
+      ],
+      "socials": []
+    },
+    "https://www.flippos.net/blog/": {
+      "title": "Flippo’s Fort Lauderdale FL and nearby areas Blog",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-639-9599"
+      ],
+      "socials": []
+    },
+    "https://www.flippos.net/blog/ball-blaster/": {
+      "title": "Ball Blaster Archives - Flippo'sFlippo's",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/ball-blaster/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/ball-blaster/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-639-9599"
+      ],
+      "socials": []
+    },
+    "https://www.flippos.net/blog/ball-blaster/plan-exciting-play-date-flippos/": {
+      "title": "Plan An Exciting Play Date At Flippo's - Flippo'sFlippo's",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/ball-blaster/plan-exciting-play-date-flippos/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/ball-blaster/plan-exciting-play-date-flippos/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-639-9599"
+      ],
+      "socials": []
+    },
+    "https://www.flippos.net/blog/birthday-parties-fl/": {
+      "title": "Birthday Parties Archives - Flippo's",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/birthday-parties-fl/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/birthday-parties-fl/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-639-9599"
+      ],
+      "socials": []
+    },
+    "https://www.flippos.net/blog/family-entertainment-center/": {
+      "title": "Family Entertainment Center Archives - Flippo's",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/family-entertainment-center/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/family-entertainment-center/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-639-9599"
+      ],
+      "socials": []
+    },
+    "https://www.flippos.net/blog/family-entertainment-center/celebrate-national-siblings-day-spectacular-family-party/": {
+      "title": "Celebrate National Siblings Day With A Spectacular Family Party - Flippo'sFlippo's",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/family-entertainment-center/celebrate-national-siblings-day-spectacular-family-party/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/family-entertainment-center/celebrate-national-siblings-day-spectacular-family-party/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-639-9599"
+      ],
+      "socials": []
+    },
+    "https://www.flippos.net/blog/family-entertainment-center/child-superhero-role-model/": {
+      "title": "Is It Good If You're Child Has a Superhero as a Role Model?Flippo's",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/family-entertainment-center/child-superhero-role-model/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/family-entertainment-center/child-superhero-role-model/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/family-entertainment-center/child-superhero-role-model/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-639-9599"
+      ],
+      "socials": []
+    },
+    "https://www.flippos.net/blog/family-entertainment-center/mommy-classes-fort-lauderdale-nearby-areas-flippos-kids-indoor-playground-cafe/": {
+      "title": "Mommy And Me Classes In Fort Lauderdale And Nearby Areas At Flippo's Kid's Indoor Playground And Café - Flippo'sFlippo's",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/family-entertainment-center/mommy-classes-fort-lauderdale-nearby-areas-flippos-kids-indoor-playground-cafe/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/family-entertainment-center/mommy-classes-fort-lauderdale-nearby-areas-flippos-kids-indoor-playground-cafe/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-639-9599"
+      ],
+      "socials": []
+    },
+    "https://www.flippos.net/blog/page/2/": {
+      "title": "Flippo’s Fort Lauderdale FL and nearby areas Blog",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/page/2/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/page/2/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-639-9599"
+      ],
+      "socials": []
+    },
+    "https://www.flippos.net/blog/page/4/": {
+      "title": "Flippo’s Fort Lauderdale FL and nearby areas Blog",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/page/4/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/page/4/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-639-9599"
+      ],
+      "socials": []
+    },
+    "https://www.flippos.net/blog/tips/": {
+      "title": "Tips Archives - Flippo's",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/tips/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.flippos.net/blog/tips/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-639-9599"
+      ],
+      "socials": []
+    },
+    "https://flippos.net/": {
+      "title": "Flippos's Family Fun Center, Fort Lauderdale FL and nearby areas",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://flippos.net/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://flippos.net/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "954-639-9599"
+      ],
+      "socials": []
+    },
+    "https://flippos.net/contact": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://flippos.net/contact/": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://flippos.net/contact-us": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://flippos.net/contact-us/": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://flippos.net/contactus": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://flippos.net/contactus/": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://flippos.net/about": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://flippos.net/about/": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://flippos.net/about-us": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://flippos.net/about-us/": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://flippos.net/visit": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://flippos.net/visit/": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://flippos.net/location": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://flippos.net/location/": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://flippos.net/directions": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://flippos.net/directions/": {
+      "title": "Page not found - Flippo'sFlippo's",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

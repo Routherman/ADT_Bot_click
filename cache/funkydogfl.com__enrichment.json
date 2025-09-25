@@ -1,0 +1,115 @@
+{
+  "timestamp": "2025-09-23T13:51:11.186132",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T13:51:07.458044",
+      "company": {
+        "name": null,
+        "domain": "funkydogfl.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 80499039,
+          "description": "We are an improv comedy troupe and theater based in Melbourne, FL. We perform weekly shows, teach classes and host private events, corporate trainings, workshops  and fundraisers. As a 501(c)(3) non-profit organization our mission is to share improv education, performances and artistic collaboration with the community in a family-friendly environment.",
+          "domain": "funkydogfl.com",
+          "employees": "1 - 10",
+          "founded": "2020",
+          "fqdn": "www.funkydogfl.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/9/d1/9d14e156492552d252d0f1944696a6e2",
+          "name": "Funky Dog Improv",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Entertainment Providers",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/funky-dog-improv"
+            }
+          },
+          "address": "Melbourne North America United States US 587 W Eau Gallie Blvd; #101; Melbourne, Florida 32935, US Florida FL -80.60810852050781,28.083629608154297 ",
+          "location": {
+            "city": "Melbourne",
+            "country": "United States",
+            "fullLocation": "Melbourne North America United States US 587 W Eau Gallie Blvd; #101; Melbourne, Florida 32935, US Florida FL -80.60810852050781,28.083629608154297 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "587 W Eau Gallie Blvd; #101; Melbourne, Florida 32935, US"
+          },
+          "website": "https://funkydogfl.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T13:51:08.551306",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T13:51:11.182852",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

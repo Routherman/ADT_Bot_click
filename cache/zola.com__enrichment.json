@@ -1,0 +1,195 @@
+{
+  "timestamp": "2025-09-24T22:18:06.763609",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T22:18:02.748556",
+      "company": {
+        "name": null,
+        "domain": "zola.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 3281271,
+          "description": "We're Zola, the wedding company that’ll do anything for love, and we're reinventing the wedding planning and registry experience. Wherever love leads you—from engagement to wedding and decorating your first home—we’re there, combining compassionate customer service with modern tools and technology.\n\nFounded by many of the early team members from Gilt Groupe, Zola is recognized as today’s fastest growing wedding registry. With the launch of Zola Weddings, the company is now poised to become a dominating player in the wedding industry.\n\nVisit zola.com for more information.",
+          "domain": "zola.com",
+          "employees": "51 - 200",
+          "founded": "2013",
+          "fqdn": "www.zola.com",
+          "logoUrl": "https://logo.lusha.co/brightdata/year=2024/month=04/day=30/j_lvlvj2vh1yv1ee0hye.a735ce946204490a76739cf4848b2740458707b1.file_lvlwk9521kpzcgl5rw.logo_cached.jpg",
+          "name": "Zola",
+          "revenueRange": [],
+          "mainIndustry": "Technology, Information & Media",
+          "subIndustry": "Internet Publishing",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/zola"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/zola-com"
+            }
+          },
+          "address": "New York City North America United States US 7 World Trade Center; 39th Floor; New York, NY 10007, US New York NY -74.00596618652344,40.714271545410156 ",
+          "location": {
+            "city": "New York City",
+            "country": "United States",
+            "fullLocation": "New York City North America United States US 7 World Trade Center; 39th Floor; New York, NY 10007, US New York NY -74.00596618652344,40.714271545410156 ",
+            "state": "New York",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "7 World Trade Center; 39th Floor; New York, NY 10007, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7375,
+                "description": "Information retrieval services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 513110,
+                "description": "Newspaper Publishers"
+              },
+              {
+                "naics": 513120,
+                "description": "Periodical Publishers"
+              },
+              {
+                "naics": 513130,
+                "description": "Book Publishers"
+              },
+              {
+                "naics": 513199,
+                "description": "All Other Publishers"
+              }
+            ]
+          },
+          "website": "https://zola.com",
+          "funding": {
+            "rounds": [
+              {
+                "roundType": "Series D",
+                "roundDate": "May 22, 2020"
+              },
+              {
+                "roundType": "Private Equity Round",
+                "roundDate": "May 1, 2020"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 100000000,
+                "roundType": "Series D",
+                "roundDate": "Apr 1, 2019"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 100000000,
+                "roundType": "Series D",
+                "roundDate": "May 1, 2018"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 25000000,
+                "roundType": "Series C",
+                "roundDate": "Nov 22, 2016"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 10000000,
+                "roundType": "Series B",
+                "roundDate": "Nov 12, 2015"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 2599999,
+                "roundType": "Series A",
+                "roundDate": "Oct 20, 2014"
+              },
+              {
+                "currency": "USD",
+                "roundAmount": 3250000,
+                "roundType": "Series A",
+                "roundDate": "Nov 5, 2013"
+              }
+            ],
+            "totalRounds": 8,
+            "totalRoundsAmount": 240849999,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundType": "Private Equity Round",
+            "lastRoundDate": "May 1, 2020"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T22:18:04.068348",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T22:18:06.756561",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

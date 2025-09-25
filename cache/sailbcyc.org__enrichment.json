@@ -1,0 +1,112 @@
+{
+  "timestamp": "2025-09-21T10:22:41.396190",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T10:22:37.759479",
+      "company": {
+        "name": null,
+        "domain": "sailbcyc.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 15428075,
+          "description": "Welcoming, active sailing club with easy access to Bay and Gulf, cruising, racing, sail school, Sea Scouts, a fleet of club boats, dinners, and more.",
+          "domain": "sailbcyc.org",
+          "employees": "1 - 10",
+          "founded": "1952",
+          "fqdn": "www.sailbcyc.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/4/19/4193c915218d27c493a9a1a91a855ff1",
+          "name": "Boca Ciega Yacht Club",
+          "revenueRange": [],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/boca-ciega-yacht-club-inc"
+            }
+          },
+          "address": "Gulfport North America United States US 4600 Tifton Dr S; Gulfport, Florida, US Florida FL -82.70343017578125,27.74835968017578 ",
+          "location": {
+            "city": "Gulfport",
+            "country": "United States",
+            "fullLocation": "Gulfport North America United States US 4600 Tifton Dr S; Gulfport, Florida, US Florida FL -82.70343017578125,27.74835968017578 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "4600 Tifton Dr S; Gulfport, Florida, US"
+          },
+          "website": "https://sailbcyc.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T10:22:38.934696",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T10:22:41.391849",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

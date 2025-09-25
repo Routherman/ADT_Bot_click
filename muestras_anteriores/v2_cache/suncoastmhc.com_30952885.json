@@ -1,0 +1,48 @@
+{
+  "pages": [
+    {
+      "url": "https://www.suncoastmhc.com/newsletter",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nSuncoast Community Management\nHome\nLakeland\nBulletin Board\nFAQ\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nBulletin Board\nPlease click on the photo below for the park you live in\nTarpon Springs\nTarpon Springs, Florida\nButton\nOrmond Beach\nOrmond Beach, Florida\nMobile homes make a cheap and efficient place to live for many people. Unfortunately, they are not so efficient when it comes to energy needs. Not only do mobile homes have a tendency to become very hot during the summer, but they lose all of their heat during the winter. This makes the winter heating costs very high for anyone living in a manufactured home, but it doesn't have to be this way. There are steps you can take that will make your mobile home much more energy efficient.\nStep 1\nInstall under-pinning on your mobile home. This is a basic part of living in a manufactured home, but is something that many people neglect and overlook. Putting under-pinning on the mobile home not only improves the appearance of your home, but prevents cold winds from blowing under the home. Restricting these winds helps keep the floor of your home warm.\nStep 2\nEnhance the insulation in your home. Most mobile homes have poor insulation. Many have no insulation at all. Improving your home's insulation can be a large project that consumes most of a weekend, but you will reap the benefits for years. Carefully remove the paneling from the interior walls of your mobile home. Fill the walls with a high quality insulation made from foam or fiberglass. Replace the wood panels on the walls when the inside is well insulated. Also insulate the ceiling if it is possible to remove ceiling panels.\nStep 3\nConsider upgrading your windows. Most mobile homes have very cheap windows. Cheap windows not only allow heat to escape, but also allow cold air to penetrate your home. Replacing your old windows with new storm windows will help heat your mobile home during winter and remain more energy efficient all year.\nGeneral Questions\nCall us:\nFlorida West Coast\nEric (863) 399-0122\nContact Us By Mail\nMailing address:\n36181 East Lake Road #119\nPalm Harbor, FL 34685\nFollow Us\nClick here to Apply\n/\nTenants click here\nAdd full CSS and Javascript before the close tag of the body if needed\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: 2df0b0484e4e497188e13ac514bf3aef\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup\nBegin Product Custom HTML Markup\nEnd Product Custom HTML Markup",
+      "emails": [
+        "ericpm.suncoastmhc@gmail.com"
+      ]
+    }
+  ],
+  "all_links": [
+    "https://www.suncoastmhc.com/newsletter",
+    "https://www.suncoastmhc.com/siesta-palm-estates",
+    "https://www.suncoastmhc.com/",
+    "https://www.suncoastmhc.com/faq"
+  ],
+  "candidate_links": [
+    "https://www.suncoastmhc.com/newsletter"
+  ],
+  "visited": [
+    "https://www.suncoastmhc.com/new-port-richey",
+    "https://www.suncoastmhc.com/about",
+    "https://www.suncoastmhc.com/contact",
+    "https://www.suncoastmhc.com/staff",
+    "https://www.suncoastmhc.com/team",
+    "https://www.suncoastmhc.com/board",
+    "https://www.suncoastmhc.com/directory",
+    "https://www.suncoastmhc.com/events",
+    "https://www.suncoastmhc.com/sitemap.xml",
+    "https://www.suncoastmhc.com/council",
+    "https://www.suncoastmhc.com/leadership",
+    "https://www.suncoastmhc.com/management",
+    "https://www.suncoastmhc.com/producers",
+    "https://www.suncoastmhc.com/support",
+    "https://www.suncoastmhc.com/crew",
+    "https://www.suncoastmhc.com/members",
+    "https://www.suncoastmhc.com/bios",
+    "https://www.suncoastmhc.com/people",
+    "https://www.suncoastmhc.com/artists",
+    "https://www.suncoastmhc.com/musicians",
+    "https://www.suncoastmhc.com/faculty",
+    "https://www.suncoastmhc.com/administration",
+    "https://www.suncoastmhc.com/newsletter"
+  ],
+  "base_url": "https://www.suncoastmhc.com/new-port-richey"
+}

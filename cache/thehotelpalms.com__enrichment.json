@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-23T21:40:02.388398",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T21:39:58.786720",
+      "company": {
+        "name": null,
+        "domain": "thehotelpalms.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 16165903,
+          "description": "Tucked into idyllic Atlantic Beach, Florida and three blocks from the ocean, Hotel Palms is a modern, beachside motor court hotel. Hotel Palms is a boutique hotel within walking distance to the shops and restaurants of Beaches Town Center, a beachside community in the heart of Atlantic and Neptune Beach. Reclaimed wood headboards, palm trees, concrete floors, and uncluttered design inspire visions of beach house living. \n\nA short drive to Jacksonville Beach, Hotel Palms is the only boutique hotel located in the Jacksonville Beach area. Ideal for intimate outdoor weddings, parties, and events, Hotel Palms is also located near the Mayport Naval Station and Mayo Clinic.\n\nFrom the local beers served in The Lounge to the outdoor shower in the courtyard, the design, amenities and Hotel Palms experience have been carefully considered to make guests feel like locals all while enjoying a restful and relaxing stay.\n\nHere are just a few things the Hotel Palms has to offer:\n\nBeer and wine lounge\nPrivate courtyard\nCustomizable Unlikely Local itineraries\nOutdoor shower\nPatio seating\nOutdoor fireplace\nBreakfast delivery\nComplimentary wifi\nFree beach cruiser and foam board rentals\n\nFrom bike riding through the neighboring residential areas and eating at locally owned restaurants to day tripping to the nearby towns of historic St. Augustine and Fernandina Beach, the Hotel Palms knowledgeable and accommodating staff is always available to create customizable itineraries, known as the Unlikely Local℠ experience.So, pack your bag but travel lightly as our rooms, amenities, and location are all you’ll need to feel like a local, if just for a weekend.",
+          "domain": "thehotelpalms.com",
+          "employees": "1 - 10",
+          "founded": "1947",
+          "fqdn": "www.thehotelpalms.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/09/b09c064432ed75ad316a48c1b9a82996",
+          "name": "The Hotel Palms",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/the-hotel-palms"
+            }
+          },
+          "address": "Atlantic Beach North America United States US 28 Sherry Drive; Atlantic Beach, FL 32233, US Florida FL -81.39869689941406,30.334409713745117 ",
+          "location": {
+            "city": "Atlantic Beach",
+            "country": "United States",
+            "fullLocation": "Atlantic Beach North America United States US 28 Sherry Drive; Atlantic Beach, FL 32233, US Florida FL -81.39869689941406,30.334409713745117 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "28 Sherry Drive; Atlantic Beach, FL 32233, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://thehotelpalms.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T21:40:00.061480",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T21:40:02.381600",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

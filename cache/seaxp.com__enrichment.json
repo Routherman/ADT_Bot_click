@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-09-21T00:29:33.240178",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-21T00:29:29.792840",
+      "company": {
+        "name": null,
+        "domain": "seaxp.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 16043056,
+          "description": "Sea Experience Diving Schools is a leisure, travel & tourism company based out of 801 Seabreeze Blvd, Fort Lauderdale, Florida, United States.",
+          "domain": "seaxp.com",
+          "employees": "1 - 10",
+          "fqdn": "www.seaxp.com",
+          "logoUrl": "https://logo.lusha.co/d/company_16043056_logo.svg",
+          "name": "Sea Experience Diving Schools",
+          "revenueRange": [],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Recreational Facilities",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/sea-experience-diving-schools"
+            }
+          },
+          "address": "Fort Lauderdale North America United States US 801 Seabreeze Blvd; Fort Lauderdale, Florida 33316, US Florida FL -80.14337921142578,26.122310638427734 ",
+          "location": {
+            "city": "Fort Lauderdale",
+            "country": "United States",
+            "fullLocation": "Fort Lauderdale North America United States US 801 Seabreeze Blvd; Fort Lauderdale, Florida 33316, US Florida FL -80.14337921142578,26.122310638427734 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "801 Seabreeze Blvd; Fort Lauderdale, Florida 33316, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7999,
+                "description": "Amusement and recreation, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 713990,
+                "description": "All Other Amusement and Recreation Industries"
+              }
+            ]
+          },
+          "website": "https://seaxp.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-21T00:29:30.481506",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-21T00:29:33.236294",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

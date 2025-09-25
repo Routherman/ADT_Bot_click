@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-19T23:14:45.381130",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T23:14:41.583203",
+      "company": {
+        "name": null,
+        "domain": "greencovesprings.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 1763646,
+          "description": "Our community is on the St. Johns River about 30 miles south of downtown Jacksonville and 20 miles west of historic St. Augustine. If you're looking for the official source of information about the City of Green Cove Springs, please visit our homepage at www.greencovesprings.com.",
+          "domain": "greencovesprings.com",
+          "employees": "51 - 200",
+          "fqdn": "www.greencovesprings.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/b/5c/b5c3ddeee1a91d51106f7eb8a82e27d0",
+          "name": "City of Green Cove Springs",
+          "revenueRange": [
+            500000000,
+            1000000000
+          ],
+          "mainIndustry": "Government",
+          "subIndustry": "Government Relations Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/city-of-green-cove-springs"
+            }
+          },
+          "address": "Green Cove Springs North America United States US 321 Walnut St.; Green Cove Springs, Florida 32043, US Florida FL -81.67814636230469,29.991910934448242 ",
+          "location": {
+            "city": "Green Cove Springs",
+            "country": "United States",
+            "fullLocation": "Green Cove Springs North America United States US 321 Walnut St.; Green Cove Springs, Florida 32043, US Florida FL -81.67814636230469,29.991910934448242 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "321 Walnut St.; Green Cove Springs, Florida 32043, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 9111,
+                "description": "Executive offices"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 921120,
+                "description": "Legislative Bodies"
+              }
+            ]
+          },
+          "website": "https://greencovesprings.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T23:14:42.914176",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T23:14:45.373694",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,786 @@
+{
+  "site_url": "https://simpsonlakes.com/",
+  "domain": "simpsonlakes.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://simpsonlakes.com/",
+    "https://simpsonlakes.com/weddings/",
+    "https://simpsonlakes.com/events/",
+    "https://simpsonlakes.com/faqs/",
+    "https://simpsonlakes.com/about/",
+    "https://simpsonlakes.com/contact/",
+    "https://simpsonlakes.com/home",
+    "https://simpsonlakes.com/faqs",
+    "https://simpsonlakes.com/contact",
+    "http://www.simpsonlakes.com/contact"
+  ],
+  "candidates": [
+    "http://www.simpsonlakes.com/contact",
+    "https://simpsonlakes.com/contact",
+    "https://simpsonlakes.com/contact/",
+    "https://simpsonlakes.com/about/",
+    "https://simpsonlakes.com/events/",
+    "https://simpsonlakes.com/weddings/",
+    "https://simpsonlakes.com/faqs",
+    "https://simpsonlakes.com/faqs/",
+    "https://simpsonlakes.com/",
+    "https://simpsonlakes.com/contact-us",
+    "https://simpsonlakes.com/contact-us/",
+    "https://simpsonlakes.com/contactus",
+    "https://simpsonlakes.com/contactus/",
+    "https://simpsonlakes.com/about",
+    "https://simpsonlakes.com/about-us",
+    "https://simpsonlakes.com/about-us/",
+    "https://simpsonlakes.com/visit",
+    "https://simpsonlakes.com/visit/",
+    "https://simpsonlakes.com/location",
+    "https://simpsonlakes.com/location/",
+    "https://simpsonlakes.com/directions",
+    "https://simpsonlakes.com/directions/"
+  ],
+  "per_page": {
+    "http://www.simpsonlakes.com/contact": {
+      "title": "Contact Us",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "http://www.simpsonlakes.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/contact": {
+      "title": "Contact Us",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/contact/": {
+      "title": "Contact Us",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/about/": {
+      "title": "About Simpson Lakes",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/about/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/about/"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/events/": {
+      "title": "Hold An Event at Simpson Lakes",
+      "band_hits": {
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/events/"
+          ]
+        },
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 1,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/weddings/": {
+      "title": "Weddings at Simpson Lakes",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/weddings/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/weddings/"
+          ]
+        },
+        "sound system": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/weddings/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/weddings/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/faqs": {
+      "title": "Simpson Lakes FAQs",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/faqs"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/faqs"
+          ]
+        },
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/faqs"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/faqs/": {
+      "title": "Simpson Lakes FAQs",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/faqs/"
+          ]
+        },
+        "show": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/faqs/"
+          ]
+        },
+        "schedule": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/faqs/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/": {
+      "title": "Welcome to Simpson Lakes",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/"
+          ]
+        },
+        "concert": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/"
+          ]
+        },
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 0,
+            "body": 7,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/"
+          ]
+        },
+        "sound system": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/contact-us": {
+      "title": "404 Not Found | Simpson Lakes",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/contact-us/": {
+      "title": "404 Not Found | Simpson Lakes",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/contactus": {
+      "title": "404 Not Found | Simpson Lakes",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/contactus/": {
+      "title": "404 Not Found | Simpson Lakes",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/about": {
+      "title": "About Simpson Lakes",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/about"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/about"
+          ]
+        },
+        "schedule": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/about-us": {
+      "title": "404 Not Found | Simpson Lakes",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/about-us/": {
+      "title": "404 Not Found | Simpson Lakes",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/visit": {
+      "title": "404 Not Found | Simpson Lakes",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/visit/": {
+      "title": "404 Not Found | Simpson Lakes",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/location": {
+      "title": "404 Not Found | Simpson Lakes",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/location/": {
+      "title": "404 Not Found | Simpson Lakes",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/directions": {
+      "title": "404 Not Found | Simpson Lakes",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    },
+    "https://simpsonlakes.com/directions/": {
+      "title": "404 Not Found | Simpson Lakes",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://simpsonlakes.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/Simpson-Lakes-100277868417101",
+        "https://www.instagram.com/simpsonlakes.events/"
+      ]
+    }
+  }
+}

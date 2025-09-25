@@ -1,0 +1,542 @@
+{
+  "site_url": "https://stayhihotels.com/",
+  "domain": "stayhihotels.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://stayhihotels.com/",
+    "https://reservations.stayhihotels.com/signin?;start=searchres&chain=20060&level=chain",
+    "https://www.stayhihotels.com",
+    "https://www.stayhihotels.com/wp-login.php?action=lostpassword&redirect_to=https%3A%2F%2Fwww.stayhihotels.com%2F",
+    "https://www.stayhihotels.com/guest-relations/",
+    "https://www.stayhihotels.com/locations/",
+    "https://www.stayhihotels.com/group-travel/",
+    "https://www.stayhihotels.com/inncentive-rewards/",
+    "https://www.stayhihotels.com/inncentive-rewards/login/",
+    "https://www.stayhihotels.com/property/red-carpet-inn-suites-bellmawr/",
+    "https://www.stayhihotels.com/property/scottish-inns-suites-harrisburg-pa/",
+    "https://www.stayhihotels.com/property/scottish-inns-atlanta-ga/",
+    "https://www.stayhihotels.com/property/scottish-inns-suites-shenandoah-tx/",
+    "https://www.stayhihotels.com/",
+    "https://www.stayhihotels.com/inncentive/",
+    "https://www.stayhihotels.com/wp-login.php",
+    "https://www.stayhihotels.com/wp-login.php?action=lostpassword&redirect_to=https%3A%2F%2Fwww.stayhihotels.com%2Flocations%2F",
+    "https://www.stayhihotels.com/locations/AL/",
+    "https://www.stayhihotels.com/property/scottish-inns-clanton-al/",
+    "https://www.stayhihotels.com/property/red-carpet-inn-oxford-al/",
+    "https://www.stayhihotels.com/property/scottish-inns-troy-al/",
+    "https://www.stayhihotels.com/locations/AR/",
+    "https://www.stayhihotels.com/property/red-carpet-inn-hot-springs-ar/",
+    "https://www.stayhihotels.com/property/scottish-inns-jonesboro-ar/",
+    "https://www.stayhihotels.com/property/scottish-inns-suites-springdale-ar/",
+    "https://www.stayhihotels.com/locations/CA/",
+    "https://www.stayhihotels.com/property/scottish-inns-long-beach-ca/",
+    "https://www.stayhihotels.com/property/scottish-inns-vallejo-ca/",
+    "https://www.stayhihotels.com/locations/CT/",
+    "https://www.stayhihotels.com/property/passport-inn-suites-chaplin-ct/",
+    "https://www.stayhihotels.com/property/passport-inn-suites-middletown-ct/",
+    "https://www.stayhihotels.com/property/red-carpet-inn-norwalk-ct/",
+    "https://www.stayhihotels.com/property/red-carpet-inn-stamford-ct/",
+    "https://www.stayhihotels.com/locations/FL/",
+    "https://www.stayhihotels.com/property/red-carpet-inn-daytona-beach-fl/",
+    "https://www.stayhihotels.com/property/red-carpet-inn-fort-lauderdale-fl/",
+    "https://www.stayhihotels.com/property/scottish-inns-jacksonville-fl/",
+    "https://www.stayhihotels.com/property/scottish-inns-okeechobee-fl/",
+    "https://www.stayhihotels.com/property/red-carpet-inn-starke-fl/",
+    "https://www.stayhihotels.com/locations/GA/",
+    "https://www.stayhihotels.com/property/red-carpet-inn-augusta-ga/",
+    "https://www.stayhihotels.com/property/scottish-inns-augusta-ga/",
+    "https://www.stayhihotels.com/property/scottish-inns-commerce-ga/",
+    "https://www.stayhihotels.com/property/scottish-inns-jonesboro-ga/"
+  ],
+  "candidates": [
+    "https://stayhihotels.com/",
+    "https://stayhihotels.com/contact",
+    "https://stayhihotels.com/contact/",
+    "https://stayhihotels.com/contact-us",
+    "https://stayhihotels.com/contact-us/",
+    "https://stayhihotels.com/contactus",
+    "https://stayhihotels.com/contactus/",
+    "https://stayhihotels.com/about",
+    "https://stayhihotels.com/about/",
+    "https://stayhihotels.com/about-us",
+    "https://stayhihotels.com/about-us/",
+    "https://stayhihotels.com/visit",
+    "https://stayhihotels.com/visit/",
+    "https://stayhihotels.com/location",
+    "https://stayhihotels.com/location/",
+    "https://stayhihotels.com/directions",
+    "https://stayhihotels.com/directions/"
+  ],
+  "per_page": {
+    "https://stayhihotels.com/": {
+      "title": "hihotels | Scottish Inns | Red Carpet Inn | Master Hosts Inns",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/contact": {
+      "title": "Page not found - hihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/contact/": {
+      "title": "Page not found - hihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/contact-us": {
+      "title": "Page not found - hihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/contact-us/": {
+      "title": "Page not found - hihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/contactus": {
+      "title": "Page not found - hihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/contactus/": {
+      "title": "Page not found - hihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/about": {
+      "title": "Page not found - hihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/about/": {
+      "title": "Page not found - hihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/about-us": {
+      "title": "Page not found - hihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/about-us/": {
+      "title": "Page not found - hihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/visit": {
+      "title": "Page not found - hihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/visit/": {
+      "title": "Page not found - hihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/location": {
+      "title": "Affordable Hotel Locations | Locations | stayhihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/location/": {
+      "title": "Affordable Hotel Locations | Locations | stayhihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/directions": {
+      "title": "Page not found - hihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    },
+    "https://stayhihotels.com/directions/": {
+      "title": "Page not found - hihotels",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://stayhihotels.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "800-251-1962"
+      ],
+      "socials": [
+        "https://www.facebook.com/Stayhihotels",
+        "https://www.instagram.com/stayhihotels"
+      ]
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-17T11:52:39.890067",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-17T11:52:35.986666",
+      "company": {
+        "name": null,
+        "domain": "peacerivergardens.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 80400466,
+          "description": "Abutting the Peace River, this 30-acre waterfront oasis encompasses the diversity of five ecosystems including marshlands, wetlands, mangroves, uplands, a tidal basin and an island amphitheater. Flowering trees and plants bloom throughout the year, and more than 15,000 sq. ft. of boardwalks and docks provide optimum viewing of the Garden’s massive sculptures.\n\nOur Mission\nTo provide a natural setting along the Peace River showcasing world-class sculptures and spectacular botanicals to inspire creativity throughout the community\n\nOur Vision & Guiding Principles\nTo share ideals of gardening in a sub-tropical region, to educate our community on local flora and preservation, to share our location with local wildlife, and to inspire an artistic spirit in others by curating sculptures and fine art from around the world.\n\nOur Solution\n30 acres of preserved native habitats will provide a home to many aquatic and terrestrial species, best seen from our expansive boardwalks. Flowering trees and plants will bloom year round amidst sculptures from across the globe.\n\nThe Plan: Year-After-Year Expansion\nThe Peace River Botanical & Sculpture Gardens will open in phases. The first phase opened in Fall 2017, and features the Sculpture Garden, 840 linear feet of boardwalks, the Peace River observation deck, Butterfly House, the Gardens Community Center with refreshment stand and gift shop, water garden, and terraces and lawn to hold memorable events.\n\nIn Fall of 2021, we cleared trails along our island to showcase the beautiful landscape of Florida offering our shady oaks and the chance to witness an abundance of birds and other wildlife along with unique air plants and native foliage. We have also added a thriving nursery where you can purchase a variety of unique finds that we propagate on our property.",
+          "domain": "peacerivergardens.org",
+          "employees": "11 - 50",
+          "founded": "2017",
+          "fqdn": "www.peacerivergardens.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/e/82/e82b510269b2324370b9f10577637c83",
+          "name": "Peace River Botanical & Sculpture Gardens",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/peace-river-botanical-sculpture-gardens"
+            }
+          },
+          "address": "Punta Gorda North America United States US 5800 Riverside Dr; Punta Gorda, Florida 33982, US Florida FL -82.04537200927734,26.929779052734375 ",
+          "location": {
+            "city": "Punta Gorda",
+            "country": "United States",
+            "fullLocation": "Punta Gorda North America United States US 5800 Riverside Dr; Punta Gorda, Florida 33982, US Florida FL -82.04537200927734,26.929779052734375 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "5800 Riverside Dr; Punta Gorda, Florida 33982, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8412,
+                "description": "Museums and art galleries"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 712110,
+                "description": "Museums"
+              }
+            ]
+          },
+          "website": "https://peacerivergardens.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-17T11:52:37.220280",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-17T11:52:39.886342",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

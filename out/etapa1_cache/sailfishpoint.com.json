@@ -1,0 +1,694 @@
+{
+  "site_url": "https://sailfishpoint.com/",
+  "domain": "sailfishpoint.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://sailfishpoint.com/",
+    "https://sailfishpoint.com/contact/",
+    "https://sailfishpoint.com/photo-gallery/",
+    "https://sailfishpoint.com/news-events/",
+    "https://sailfishpoint.com/location/",
+    "https://sailfishpoint.com/location/interactive-map/",
+    "https://sailfishpoint.com/location/hutchinson-island/",
+    "https://sailfishpoint.com/location/boating-fishing/",
+    "https://sailfishpoint.com/location/dining-shopping/",
+    "https://sailfishpoint.com/location/arts-entertainment/",
+    "https://sailfishpoint.com/oceanfront-club/",
+    "https://sailfishpoint.com/oceanfront-club/dining-experiences/",
+    "https://sailfishpoint.com/properties/",
+    "https://sailfishpoint.com/properties/single-family-homes/",
+    "https://sailfishpoint.com/properties/townhomes/",
+    "https://sailfishpoint.com/properties/condominiums/",
+    "https://sailfishpoint.com/marina/",
+    "https://sailfishpoint.com/marina/yacht-club/",
+    "https://sailfishpoint.com/golf/",
+    "https://sailfishpoint.com/golf/golf-club/",
+    "https://sailfishpoint.com/community/",
+    "https://landing.sailfishpoint.com/",
+    "https://sailfishpoint.com/properties/properties-all-listings/",
+    "https://sailfishpoint.com/see-how-this-intersection-of-floridas-ocean-river-and-lagoon-is-nearly-picture-perfect/"
+  ],
+  "candidates": [
+    "https://sailfishpoint.com/contact/",
+    "https://sailfishpoint.com/",
+    "https://sailfishpoint.com/news-events/",
+    "https://sailfishpoint.com/contact",
+    "https://sailfishpoint.com/contact-us",
+    "https://sailfishpoint.com/contact-us/",
+    "https://sailfishpoint.com/contactus",
+    "https://sailfishpoint.com/contactus/",
+    "https://sailfishpoint.com/about",
+    "https://sailfishpoint.com/about/",
+    "https://sailfishpoint.com/about-us",
+    "https://sailfishpoint.com/about-us/",
+    "https://sailfishpoint.com/visit",
+    "https://sailfishpoint.com/visit/",
+    "https://sailfishpoint.com/location",
+    "https://sailfishpoint.com/location/",
+    "https://sailfishpoint.com/directions",
+    "https://sailfishpoint.com/directions/"
+  ],
+  "per_page": {
+    "https://sailfishpoint.com/contact/": {
+      "title": "Contact Sailfish Point Realty | South Florida Real Estate",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/contact/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "561-523-6148",
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/": {
+      "title": "Sailfish Point | Private Club Community | Stuart Florida",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/news-events/": {
+      "title": "News & Events - Sailfish Point | Southeast Florida",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/news-events/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/news-events/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/contact": {
+      "title": "Contact Sailfish Point Realty | South Florida Real Estate",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/contact"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "561-523-6148",
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/contact-us": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/contact-us/": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/contactus": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/contactus/": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/about": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/about/": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/about-us": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/about-us/": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/visit": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/visit/": {
+      "title": "",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/location": {
+      "title": "Sailfish Point Location | Private Southeast Florida Community",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/location"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/location"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/location"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/location"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/location/": {
+      "title": "Sailfish Point Location | Private Southeast Florida Community",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/location/"
+          ]
+        },
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/location/"
+          ]
+        },
+        "show": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/location/"
+          ]
+        },
+        "artists": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/location/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/directions": {
+      "title": "Directions to Sailfish Point - SailfishPoint",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    },
+    "https://sailfishpoint.com/directions/": {
+      "title": "Directions to Sailfish Point - SailfishPoint",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailfishpoint.com/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-225-6200"
+      ],
+      "socials": [
+        "https://www.facebook.com/sailfishpointrealty",
+        "https://www.instagram.com/sailfish_point_realty/"
+      ]
+    }
+  }
+}

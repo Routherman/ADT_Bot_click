@@ -1,0 +1,124 @@
+{
+  "timestamp": "2025-09-25T03:27:48.975114",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T03:27:45.246317",
+      "company": {
+        "name": null,
+        "domain": "myhlc.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 1297018,
+          "domain": "myhlc.org",
+          "employees": "1 - 10",
+          "fqdn": "www.myhlc.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/d/f2/df295b5ec6e6905d475b33c72025742f",
+          "name": "Heartland Library Cooperative",
+          "revenueRange": [],
+          "mainIndustry": "Technology, Information & Media",
+          "subIndustry": "Information Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/heartland-library-cooperative"
+            }
+          },
+          "address": "Sebring North America United States US 319 W Center Ave; Sebring, Florida 33870, US Florida FL -81.44091033935547,27.495590209960938 ",
+          "location": {
+            "city": "Sebring",
+            "country": "United States",
+            "fullLocation": "Sebring North America United States US 319 W Center Ave; Sebring, Florida 33870, US Florida FL -81.44091033935547,27.495590209960938 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "319 W Center Ave; Sebring, Florida 33870, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7379,
+                "description": "Computer related services, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 519290,
+                "description": "Web Search Portals and All Other Information Services"
+              }
+            ]
+          },
+          "website": "https://myhlc.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T03:27:46.434273",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T03:27:48.971586",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

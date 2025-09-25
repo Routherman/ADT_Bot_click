@@ -1,0 +1,107 @@
+{
+  "timestamp": "2025-09-24T17:59:21.715976",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T17:59:17.896745",
+      "company": {
+        "name": null,
+        "domain": "sjccjax.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 3924862,
+          "description": "San Jose Country Club is a private gathering place for our families and guests who cherish and share high quality lifestyle standards. We are a country club inspired by our rich tradition, and are committed to delivering impeccable personalized service, offering excellent facilities and innovative programs which support our members' interests in golf, tennis, fitness, dining, social and more. Our elegant atmosphere provide an ideal location for business meetings, building relationships with clients and staff, and celebrating successes.",
+          "domain": "sjccjax.com",
+          "employees": "51 - 200",
+          "founded": "1947",
+          "fqdn": "www.sjccjax.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/7/58/75802da01b991bd8e11ccb1b4270139d",
+          "name": "San Jose Country Club",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Recreational Facilities",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/san-jose-country-club"
+            }
+          },
+          "address": "Jacksonville North America United States US 7529 San Jose Blvd; Jacksonville, Florida 32217-3599, US Florida FL -81.65564727783203,30.33218002319336 ",
+          "location": {
+            "city": "Jacksonville",
+            "country": "United States",
+            "fullLocation": "Jacksonville North America United States US 7529 San Jose Blvd; Jacksonville, Florida 32217-3599, US Florida FL -81.65564727783203,30.33218002319336 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "7529 San Jose Blvd; Jacksonville, Florida 32217-3599, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7999,
+                "description": "Amusement and recreation, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 713990,
+                "description": "All Other Amusement and Recreation Industries"
+              }
+            ]
+          },
+          "website": "https://sjccjax.com",
+          "specialities": [
+            "banqueting",
+            "business entertaining",
+            "business meetings",
+            "dining",
+            "family activities",
+            "fitness",
+            "golf",
+            "golf accessories",
+            "golf lessons",
+            "holiday events",
+            "junior golf",
+            "junior tennis",
+            "kids activities",
+            "personal training",
+            "social events",
+            "swimming",
+            "tennis",
+            "tennis lessons",
+            "weddings"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "not_found",
+      "last_check": "2025-09-24T17:59:19.189180",
+      "http_status": 500,
+      "raw_text": "{\n    \"message\": \"Server Error\"\n}"
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T17:59:21.708326",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "timestamp": "2025-09-20T22:51:04.279292",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T22:51:01.305226",
+      "company": {
+        "name": null,
+        "domain": "escapelounges.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 10828056,
+          "description": "Escape the hustle and bustle of the airport terminal and enjoy the calming atmosphere of the Escape Lounge. Whether travelling for business or pleasure, there’s simply no better way to get your journey off to a flying start. \n\n10 global Escape Lounges are available in the UK and US at the following airports:\n\n- Manchester International Airport (all 3 terminals)\n- London Stansted Airport\n- East Midlands International Airport\n- Minneapolis International Airport\n- Bradley International Airport \n- Oakland International Airport\n- Reno-Tahoe International Airport\n\n\nRelax\nThe Escape Lounge offers the perfect environment to unwind before you fly. Take some time out with that book you’ve been meaning to finish, catch up on the news with our range of complimentary newspapers and magazines, or simply sit back, relax and enjoy our calming, tranquil space.\n\nFood & Drink\nDesigned exclusively for Escape Lounges, our complimentary buffet and made to order hot dishes are prepared using only the very best locally sourced ingredients. An upgrade menu is also available, providing a wider range of hot meal options.\n\nJoin us for breakfast and choose from a delicious selection of cereals, fresh fruit, warm croissants and freshly prepared breakfast rolls. Our brunch and afternoon menu consists of freshly baked pies, pastries, grazing boards, salads and handmade sandwiches served alongside our soup of the day, and for those with a sweet tooth, a choice of cakes and biscuits are available.\n\nOur complimentary bar is well stocked with an assortment of alcoholic drinks such as wines, beer and spirits, alongside tea, coffee, soft drinks and fresh fruit juices. Premium drinks are available to purchase for that special occasion.\n\n\nConnect\nWe understand that when you’re flying on business, every second counts. At Escape, you’ll find unlimited complimentary Wi-Fi, work spaces and charging points for all your devices.",
+          "domain": "escapelounges.com",
+          "employees": "51 - 200",
+          "fqdn": "www.escapelounges.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/5/60/5608e227346e097006ac144e3497e806",
+          "name": "Escape Lounges",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Transportation, Logistics, Supply Chain & Storage",
+          "subIndustry": "Airlines, Airports & Air Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/escape-lounges"
+            }
+          },
+          "address": "Manchester Europe United Kingdom GB Manchester International Airport; Manchester, Greater Manchester M90 1AA, GB -2.2374300956726074,53.48094940185547 ",
+          "location": {
+            "city": "Manchester",
+            "country": "United Kingdom",
+            "fullLocation": "Manchester Europe United Kingdom GB Manchester International Airport; Manchester, Greater Manchester M90 1AA, GB -2.2374300956726074,53.48094940185547 ",
+            "state": "",
+            "stateCode": "GB",
+            "countryIso2": "GB",
+            "rawLocation": "Manchester International Airport; Manchester, Greater Manchester M90 1AA, GB"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 4512,
+                "description": "Air transportation, scheduled"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 481211,
+                "description": "Nonscheduled Chartered Passenger Air Transportation"
+              }
+            ]
+          },
+          "website": "https://escapelounges.com",
+          "specialities": [
+            "airport lounges"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T22:51:02.031810",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T22:51:04.274695",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

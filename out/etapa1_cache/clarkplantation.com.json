@@ -1,0 +1,127 @@
+{
+  "site_url": "https://clarkplantation.com/",
+  "domain": "clarkplantation.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://clarkplantation.com/",
+    "https://www.clarkplantation.com/contact",
+    "https://www.clarkplantation.com",
+    "https://www.clarkplantation.com/gallery-1",
+    "https://www.clarkplantation.com/informationandpricing",
+    "https://www.clarkplantation.com/questions-answers",
+    "https://www.clarkplantation.com/testimonials"
+  ],
+  "candidates": [
+    "https://www.clarkplantation.com/contact",
+    "https://clarkplantation.com/"
+  ],
+  "per_page": {
+    "https://www.clarkplantation.com/contact": {
+      "title": "Contact | Clarkplantation2021",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://www.clarkplantation.com/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "352-304-9652"
+      ],
+      "socials": [
+        "https://www.facebook.com/ClarkPlantation2016/",
+        "https://www.instagram.com/clarkplantation/",
+        "https://www.youtube.com/channel/UCWYBb-KdINMnonvbNwA-c4w"
+      ]
+    },
+    "https://clarkplantation.com/": {
+      "title": "Clark Plantation Event Venue | Wedding Venue | 3700 Southwest 202nd Street, Newberry, FL, USA",
+      "band_hits": {
+        "event": {
+          "total": 6,
+          "zones": {
+            "title": 1,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://clarkplantation.com/"
+          ]
+        },
+        "schedule": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://clarkplantation.com/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/ClarkPlantation2016/",
+        "https://www.instagram.com/clarkplantation/",
+        "https://www.youtube.com/channel/UCWYBb-KdINMnonvbNwA-c4w"
+      ]
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "timestamp": "2025-09-20T01:12:43.395922",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T01:12:39.704624",
+      "company": {
+        "name": null,
+        "domain": "blackprong.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 40946217,
+          "description": "While providing a second-to-none lodging experience, we strive to provide the highest level of customer service to each of our guests.",
+          "domain": "blackprong.com",
+          "employees": "1 - 10",
+          "founded": "2019",
+          "fqdn": "www.blackprong.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/7/4b/74bb008866d98abc39c043a44cdb1ee3",
+          "name": "Black Prong",
+          "revenueRange": [],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/black-prong-equestrian-village"
+            }
+          },
+          "address": "Bronson North America United States US 450 SE County Road 337; Bronson, Florida 32621, US Florida FL -82.64232635498047,29.44774055480957 ",
+          "location": {
+            "city": "Bronson",
+            "country": "United States",
+            "fullLocation": "Bronson North America United States US 450 SE County Road 337; Bronson, Florida 32621, US Florida FL -82.64232635498047,29.44774055480957 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "450 SE County Road 337; Bronson, Florida 32621, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://blackprong.com",
+          "specialities": [
+            "arenas",
+            "boende",
+            "carriage driving",
+            "concert halls",
+            "cottages",
+            "private events",
+            "social events",
+            "staycation",
+            "vacations",
+            "weddings"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T01:12:41.036394",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T01:12:43.391476",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

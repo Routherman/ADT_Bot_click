@@ -1,0 +1,625 @@
+{
+  "site_url": "https://riverhawkmusic.com/",
+  "domain": "riverhawkmusic.com",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://riverhawkmusic.com/",
+    "https://riverhawkmusic.com/contact.html",
+    "https://riverhawkmusic.com/where.is.html",
+    "https://riverhawkmusic.com/kidsinfo.htm",
+    "https://riverhawkmusic.com/RH17 tickets.htm",
+    "https://riverhawkmusic.com/info.htm",
+    "https://riverhawkmusic.com/slideshows.htm",
+    "https://riverhawkmusic.com/past.performers2016.html",
+    "https://riverhawkmusic.com/index.html",
+    "https://riverhawkmusic.com/W%20&%20S/wingsphotopage.htm",
+    "https://riverhawkmusic.com/camp_map.html",
+    "https://riverhawkmusic.com/vending.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/index.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2004.slideshow/photos/index_4.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2005.slideshow/photos/index.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2006.slideshow/photos/index.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2007.slideshow/photos/index.html",
+    "https://riverhawkmusic.com/ticketing/SB18.advance.done.htm",
+    "https://riverhawkmusic.com/images/Slideshows/slideshows.htm",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_080_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_126_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/D_Addario_1_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_081_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_156_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_082_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_084_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_085_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_088_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_089_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_090_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_091_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_092_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_094_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_093_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_095_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index_2.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index_3.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index_4.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index_5.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index_6.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/006_6_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/009_9_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/010_10_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/011_11_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/012_12_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/015_15_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/018_18_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/019_19_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/022_22_large.html"
+  ],
+  "candidates": [
+    "https://riverhawkmusic.com/contact.html",
+    "https://riverhawkmusic.com/",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/006_6_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/009_9_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/010_10_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/011_11_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/012_12_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/015_15_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/018_18_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/019_19_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/022_22_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/index.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/D_Addario_1_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_080_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_081_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_082_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_084_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_085_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_088_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_089_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_090_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_091_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_092_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_093_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_094_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_095_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_126_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_156_large.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index_2.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index_3.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index_4.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index_5.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index_6.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2004.slideshow/photos/index_4.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2005.slideshow/photos/index.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2006.slideshow/photos/index.html",
+    "https://riverhawkmusic.com/images/Slideshows/RH2007.slideshow/photos/index.html",
+    "https://riverhawkmusic.com/images/Slideshows/slideshows.htm",
+    "https://riverhawkmusic.com/past.performers2016.html",
+    "https://riverhawkmusic.com/slideshows.htm",
+    "https://riverhawkmusic.com/contact",
+    "https://riverhawkmusic.com/contact/",
+    "https://riverhawkmusic.com/contact-us",
+    "https://riverhawkmusic.com/contact-us/",
+    "https://riverhawkmusic.com/contactus",
+    "https://riverhawkmusic.com/contactus/",
+    "https://riverhawkmusic.com/about",
+    "https://riverhawkmusic.com/about/",
+    "https://riverhawkmusic.com/about-us",
+    "https://riverhawkmusic.com/about-us/",
+    "https://riverhawkmusic.com/visit",
+    "https://riverhawkmusic.com/visit/",
+    "https://riverhawkmusic.com/location",
+    "https://riverhawkmusic.com/location/",
+    "https://riverhawkmusic.com/directions",
+    "https://riverhawkmusic.com/directions/"
+  ],
+  "per_page": {
+    "https://riverhawkmusic.com/contact.html": {
+      "title": "RIVERHAWK MUSIC FESTIVAL",
+      "band_hits": {
+        "booking": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://riverhawkmusic.com/contact.html"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://riverhawkmusic.com/contact.html"
+          ]
+        },
+        "bands": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://riverhawkmusic.com/contact.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "863-984-8445"
+      ],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/": {
+      "title": "RIVERHAWK MUSIC FESTIVAL",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.youtube.com/playlist"
+      ]
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/006_6_large.html": {
+      "title": "Riverhawk 2003",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/009_9_large.html": {
+      "title": "Riverhawk 2003",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/010_10_large.html": {
+      "title": "Riverhawk 2003",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/011_11_large.html": {
+      "title": "Riverhawk 2003",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/012_12_large.html": {
+      "title": "Riverhawk 2003",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/015_15_large.html": {
+      "title": "Riverhawk 2003",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/018_18_large.html": {
+      "title": "Riverhawk 2003",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/019_19_large.html": {
+      "title": "Riverhawk 2003",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/content/022_22_large.html": {
+      "title": "Riverhawk 2003",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH slideshows/RH2003.slideshow/photos/index.html": {
+      "title": "Riverhawk 2003",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/D_Addario_1_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_080_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_081_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_082_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_084_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_085_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_088_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_089_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_090_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_091_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_092_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_093_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_094_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_095_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_126_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/content/RiverHawk_Fest2_156_large.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index_2.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index_3.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index_4.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index_5.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2002.slideshow/photos/index_6.html": {
+      "title": "Riverhawk 2002",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2004.slideshow/photos/index_4.html": {
+      "title": "Riverhawk 2004",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2005.slideshow/photos/index.html": {
+      "title": "Riverhawk 2005",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2006.slideshow/photos/index.html": {
+      "title": "Riverhawk 2006",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/RH2007.slideshow/photos/index.html": {
+      "title": "Riverhawk 2007",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/images/Slideshows/slideshows.htm": {
+      "title": "RIVERHAWK MUSIC FESTIVAL",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/past.performers2016.html": {
+      "title": "RIVERHAWK MUSIC FESTIVAL",
+      "band_hits": {
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://riverhawkmusic.com/past.performers2016.html"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "http://www.youtube.com/watch",
+        "https://www.facebook.com/BarelyMetro",
+        "https://www.facebook.com/BigCosmoRandyJudy",
+        "https://www.facebook.com/HabaneroHoneys",
+        "https://www.facebook.com/Mamajowali",
+        "https://www.facebook.com/packwayhandle",
+        "https://www.facebook.com/pmansband",
+        "https://www.facebook.com/themudflappers"
+      ]
+    },
+    "https://riverhawkmusic.com/slideshows.htm": {
+      "title": "RIVERHAWK MUSIC FESTIVAL",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/contact": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/contact/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/contact-us": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/contact-us/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/contactus": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/contactus/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/about": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/about/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/about-us": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/about-us/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/visit": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/visit/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/location": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/location/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/directions": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://riverhawkmusic.com/directions/": {
+      "title": "404 Not Found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

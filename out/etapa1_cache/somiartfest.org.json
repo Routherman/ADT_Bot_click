@@ -1,0 +1,678 @@
+{
+  "site_url": "https://somiartfest.org/",
+  "domain": "somiartfest.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://somiartfest.org/",
+    "https://somiartfest.org/about/",
+    "https://somiartfest.org/contact/",
+    "https://somiartfest.org/patron/",
+    "https://somiartfest.org/artist-list/",
+    "https://somiartfest.org/festival-program/",
+    "https://somiartfest.org/for-artists/",
+    "https://somiartfest.org/vendors/",
+    "https://somiartfest.org/volunteer/",
+    "https://somiartfest.org/become-a-sponsor/",
+    "https://somiartfest.org/award-winners/",
+    "https://somiartfest.org/sponsors/",
+    "https://somiartfest.org/artist-list/page/2/",
+    "https://somiartfest.org/artist-list/page/3/",
+    "https://somiartfest.org/artist-list/page/13/",
+    "https://somiartfest.org/sponsor-level/presenting-sponsor/",
+    "https://somiartfest.org/artist-list/page/4/",
+    "https://somiartfest.org/artist-list/page/5/"
+  ],
+  "candidates": [
+    "https://somiartfest.org/contact/",
+    "https://somiartfest.org/about/",
+    "https://somiartfest.org/",
+    "https://somiartfest.org/for-artists/",
+    "https://somiartfest.org/contact",
+    "https://somiartfest.org/contact-us",
+    "https://somiartfest.org/contact-us/",
+    "https://somiartfest.org/contactus",
+    "https://somiartfest.org/contactus/",
+    "https://somiartfest.org/about",
+    "https://somiartfest.org/about-us",
+    "https://somiartfest.org/about-us/",
+    "https://somiartfest.org/visit",
+    "https://somiartfest.org/visit/",
+    "https://somiartfest.org/location",
+    "https://somiartfest.org/location/",
+    "https://somiartfest.org/directions",
+    "https://somiartfest.org/directions/"
+  ],
+  "per_page": {
+    "https://somiartfest.org/contact/": {
+      "title": "Contact - SOMI Art Fest",
+      "band_hits": {
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [
+        "305-769-5977"
+      ],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/about/": {
+      "title": "About - SOMI Art Fest",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/about/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/about/"
+          ]
+        },
+        "artists": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/about/"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/": {
+      "title": "Home - SOMI Art Fest",
+      "band_hits": {
+        "live music": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/"
+          ]
+        },
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/"
+          ]
+        },
+        "artists": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/"
+          ]
+        },
+        "beer garden": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/for-artists/": {
+      "title": "For Artists - SOMI Art Fest",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/for-artists/"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/for-artists/"
+          ]
+        },
+        "artists": {
+          "total": 9,
+          "zones": {
+            "title": 1,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/for-artists/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/for-artists/"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/contact": {
+      "title": "Contact - SOMI Art Fest",
+      "band_hits": {
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [
+        "305-769-5977"
+      ],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/contact-us": {
+      "title": "Page Not Found - SOMI Art Fest",
+      "band_hits": {
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/contact-us/": {
+      "title": "Page Not Found - SOMI Art Fest",
+      "band_hits": {
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/contactus": {
+      "title": "Page Not Found - SOMI Art Fest",
+      "band_hits": {
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/contactus/": {
+      "title": "Page Not Found - SOMI Art Fest",
+      "band_hits": {
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/about": {
+      "title": "About - SOMI Art Fest",
+      "band_hits": {
+        "event": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/about"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/about"
+          ]
+        },
+        "artists": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/about"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/about-us": {
+      "title": "Page Not Found - SOMI Art Fest",
+      "band_hits": {
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/about-us/": {
+      "title": "Page Not Found - SOMI Art Fest",
+      "band_hits": {
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/visit": {
+      "title": "Page Not Found - SOMI Art Fest",
+      "band_hits": {
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/visit"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/visit/": {
+      "title": "Page Not Found - SOMI Art Fest",
+      "band_hits": {
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/location": {
+      "title": "Location - SOMI Art Fest",
+      "band_hits": {
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/location"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/location/": {
+      "title": "Location - SOMI Art Fest",
+      "band_hits": {
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/location/"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/directions": {
+      "title": "Page Not Found - SOMI Art Fest",
+      "band_hits": {
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/directions"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    },
+    "https://somiartfest.org/directions/": {
+      "title": "Page Not Found - SOMI Art Fest",
+      "band_hits": {
+        "artists": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://somiartfest.org/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "info@somiartfest.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SOMIArtFest/",
+        "https://www.instagram.com/somiartfest/"
+      ]
+    }
+  }
+}

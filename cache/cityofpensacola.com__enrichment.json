@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-09-25T00:15:35.310677",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T00:15:31.675362",
+      "company": {
+        "name": null,
+        "domain": "cityofpensacola.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 10877526,
+          "description": "Official LinkedIn page for the City of Pensacola, Florida. All content is subject to Florida public records laws and may be retained and produced upon request.\n\nLocated in Florida’s panhandle, Pensacola is surrounded by 50-plus miles of coastline which includes the emerald-green Gulf of Mexico waters and crystal clear-bay areas.  This makes Pensacola the perfect combination of a relaxed beach town and bustling metropolitan center. The temperate, climate, and a friendly community driven toward success present an unparalleled quality of life.  \n\nThe city has a proud military heritage, thanks to the Naval Air Station. In addition to being the \"Cradle of Naval Aviation,\" the Pensacola Bay Area is proud to call itself home to the renowned Blue Angels, officially known as the U.S. Navy Flight Demonstration Squadron.  Welcoming family or friends for a visit is convenient with our local Pensacola International Airport which offers nonstop air service to nine major U.S. cities, over 1300 domestic flights, and 21 international flights via six major airlines.\n\nThere is no shortage of entertainment, and Pensacola prides itself on its diverse and emerging cultures.  Annual festivals, events, and performances display the region’s greatest musicians, food, artists, shows, and vendors that captivate the heart and history of the area.  Residents benefit from an abundance of resources, from the more than 40 primary and secondary schools which boast some of the highest standardized test scores in the state, to area hospitals and retirement homes which have won numerous awards and continuously rank among the best in the state. Pensacola’s heritage includes a mix of many different cultures, making it the ideal place to learn, grow, work, and play. The variety of opportunities available in Pensacola attracts people from all backgrounds to the region. From military personnel to snowbirds, the area is rich in life, commerce, and southern culture.",
+          "domain": "cityofpensacola.com",
+          "employees": "501 - 1000",
+          "fqdn": "www.cityofpensacola.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/d/8f/d8f9da5b9b1593284288b9469b7104b8",
+          "name": "City of Pensacola Government",
+          "revenueRange": [],
+          "mainIndustry": "Government",
+          "subIndustry": "Government Administration",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/city-of-pensacola-government"
+            }
+          },
+          "address": "Pensacola North America United States US 222 W Main Street; Pensacola, Fl 32502, US Florida FL -87.21691131591797,30.421310424804688 ",
+          "location": {
+            "city": "Pensacola",
+            "country": "United States",
+            "fullLocation": "Pensacola North America United States US 222 W Main Street; Pensacola, Fl 32502, US Florida FL -87.21691131591797,30.421310424804688 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "222 W Main Street; Pensacola, Fl 32502, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 9111,
+                "description": "Executive offices"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 921110,
+                "description": "Executive Offices"
+              }
+            ]
+          },
+          "website": "https://cityofpensacola.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T00:15:32.863832",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T00:15:35.306761",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

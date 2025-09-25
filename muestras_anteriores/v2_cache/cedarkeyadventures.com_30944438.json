@@ -1,0 +1,54 @@
+{
+  "pages": [
+    {
+      "url": "http://cedarkeyadventures.com/location",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "========= Site Content =========\nHome\nGolf Cart Rentals\nGolf Cart Rentals\nAirport Golf Cart Rentals\nKayak Rentals\nFAQs\nContact\n727-410-2112\n[email protected]\nBOOK NOW\nHome\nGolf Cart Rentals\nGolf Cart Rentals\nAirport Golf Cart Rentals\nKayak Rentals\nFAQs\nContact\nBOOK NOW\nnavigation placeholders\nContact Us\nA black and white envelope icon on a white background.\nEmail\n[email protected]\nA black and white drawing of a phone on a white background.\nPhone\n727-410-2112\nA black and white map pin on a white background.\nOffice\n609 1st St, Cedar Key, FL 32625\nDrop Us A Line!\nName\nPhone\nEmail\nMessage\nThank you for contacting us.\nWe will get back to you as soon as possible\nUh oh, there was an error sending your message.\nPlease try again later\nCedar Key Adventures\nAddress:\n609 1st St, Cedar Key, FL 32625\nEmail:\n[email protected]\nPhone:\n727-410-2112\nQuick Links\nHome\nGolf Cart Rentals\nGolf Cart Rentals\nAirport Golf Cart Rentals\nKayak Rentals\nFAQs\nContact\nBook Now!\n© 2025 Cedar Key Adventures. All Rights Reserved.\nAdd full CSS and Javascript before the close tag of the body if needed\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: 53667a23\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "http://cedarkeyadventures.com/",
+    "http://cedarkeyadventures.com/new-page",
+    "http://cedarkeyadventures.com/kayak-rentals",
+    "http://cedarkeyadventures.com/book-now",
+    "http://cedarkeyadventures.com/all-rentals---kayaks",
+    "http://cedarkeyadventures.com/golf-cart-rentals",
+    "http://cedarkeyadventures.com/all-rentals",
+    "http://cedarkeyadventures.com/all-rentals---golf-carets",
+    "http://cedarkeyadventures.com/location",
+    "http://cedarkeyadventures.com/cdn-cgi/l/email-protection#1d5e78797c6f5678645c796b787369686f786e5d7a707c7471337e7270",
+    "http://cedarkeyadventures.com/cdn-cgi/l/email-protection#86c5e3e2e7f4cde3ffc7e2f0e3e8f2f3f4e3f5c6e1ebe7efeaa8e5e9eb",
+    "http://cedarkeyadventures.com/airport-golf-cart-rentals"
+  ],
+  "candidate_links": [
+    "http://cedarkeyadventures.com/location"
+  ],
+  "visited": [
+    "http://cedarkeyadventures.com/",
+    "http://cedarkeyadventures.com/about",
+    "http://cedarkeyadventures.com/contact",
+    "http://cedarkeyadventures.com/staff",
+    "http://cedarkeyadventures.com/team",
+    "http://cedarkeyadventures.com/board",
+    "http://cedarkeyadventures.com/directory",
+    "http://cedarkeyadventures.com/events",
+    "http://cedarkeyadventures.com/sitemap.xml",
+    "http://cedarkeyadventures.com/council",
+    "http://cedarkeyadventures.com/leadership",
+    "http://cedarkeyadventures.com/management",
+    "http://cedarkeyadventures.com/producers",
+    "http://cedarkeyadventures.com/support",
+    "http://cedarkeyadventures.com/crew",
+    "http://cedarkeyadventures.com/members",
+    "http://cedarkeyadventures.com/bios",
+    "http://cedarkeyadventures.com/people",
+    "http://cedarkeyadventures.com/artists",
+    "http://cedarkeyadventures.com/musicians",
+    "http://cedarkeyadventures.com/faculty",
+    "http://cedarkeyadventures.com/administration",
+    "http://cedarkeyadventures.com/location"
+  ],
+  "base_url": "http://cedarkeyadventures.com/"
+}

@@ -1,0 +1,484 @@
+{
+  "queries": [
+    "site:sweetwaterinn.com sweetwaterinn.com email",
+    "site:sweetwaterinn.com sweetwaterinn.com contact"
+  ],
+  "emails": [
+    "events@sweetwaterinn.com",
+    "info@sweetwaterinn.com",
+    "reserve@sweetwaterinn.com"
+  ],
+  "email_items": [
+    {
+      "email": "info@sweetwaterinn.com",
+      "sources": [
+        {
+          "source_url": "https://sweetwaterinn.com/",
+          "title": "Sweetwater Inn | Bed and Breakfast in Gainesville Florida",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/accommodations-gainesville-fl/",
+          "title": "Accommodations | Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/contact-us/",
+          "title": "Contact Us - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/employment/",
+          "title": "Employment - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/frequently-asked-questions-events/",
+          "title": "Frequently Asked Questions Events - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/policies/",
+          "title": "Guest Policies - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/wedding-packages/",
+          "title": "Wedding Packages - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/?post_type=specials",
+          "title": "Specials",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/our-story/",
+          "title": "Our Story - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/specials/wedding-package-prime-weekend/",
+          "title": "Wedding Package: Prime Weekend* - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/specials/wedding-package-non-weekend/",
+          "title": "Wedding Package: Non Weekend* - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/gainesville-specials/",
+          "title": "Specials and Packages - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/specials/wedding-package-non-prime-weekend/",
+          "title": "Wedding Package: Non-Prime Weekend* - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/accommodations-gainesville-fl/gainesville-cottages/",
+          "title": "Cottages | Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/blog/mardi-gras-wine-tasting-event/",
+          "title": "Mardi Gras Wine Tasting Event - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/wedding-inquiry/",
+          "title": "Wedding Inquiry - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/in-house-events/",
+          "title": "In House Events - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/dining-at-sweetwater-branch-inn/",
+          "title": "Dining - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/blog/around-the-world-wine-tasting-event/",
+          "title": "Around the World Wine Tasting Event - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/events/",
+          "title": "Events - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/blog/gainesville-in-july/",
+          "title": "Experience July in Gainesville: Events & Outdoor Fun!",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/view-wedding-galleries/",
+          "title": "Wedding Galleries - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/blog/join-us-mothers-day-brunch/",
+          "title": "Join us for Mother's Day Brunch - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/accommodations-gainesville-fl/guest-rooms/",
+          "title": "Guest Rooms | Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/accommodation/piccadilly-suite/",
+          "title": "Piccadilly Suite - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/accommodation/cornelia-room/",
+          "title": "Cornelia Room - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/accommodation/lesters-place-cottage/",
+          "title": "Lester’s Place Cottage - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/accommodation/island-grove-cottage/",
+          "title": "Island Grove Cottage - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/accommodation/heirloom-suite/",
+          "title": "Heirloom Suite - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/accommodation/auroras-room/",
+          "title": "Aurora’s Room - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/accommodation/pleasant-place-cottage/",
+          "title": "Pleasant Place Cottage - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/specials/picnic-basket-for-two/",
+          "title": "Picnic Basket For Two - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/accommodation/victorias-cottage/",
+          "title": "Victoria’s Cottage - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/accommodation/lillys-cottage/",
+          "title": "Lilly’s Cottage - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/weddings-and-receptions/",
+          "title": "Wedding Venues - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/accommodation/giovannas-room/",
+          "title": "Giovanna’s Room - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/accommodation/luisa-room/",
+          "title": "Luisa Room - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/accommodation/blue-moon-room/",
+          "title": "Blue Moon Room - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        }
+      ]
+    },
+    {
+      "email": "events@sweetwaterinn.com",
+      "sources": [
+        {
+          "source_url": "https://sweetwaterinn.com/contact-us/",
+          "title": "Contact Us - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/employment/",
+          "title": "Employment - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/wedding-packages/",
+          "title": "Wedding Packages - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/?post_type=specials",
+          "title": "Specials",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/specials/wedding-package-prime-weekend/",
+          "title": "Wedding Package: Prime Weekend* - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/specials/wedding-package-non-weekend/",
+          "title": "Wedding Package: Non Weekend* - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/specials/wedding-package-non-prime-weekend/",
+          "title": "Wedding Package: Non-Prime Weekend* - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/blog/join-us-mothers-day-brunch/",
+          "title": "Join us for Mother's Day Brunch - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/specials/picnic-basket-for-two/",
+          "title": "Picnic Basket For Two - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        }
+      ]
+    },
+    {
+      "email": "reserve@sweetwaterinn.com",
+      "sources": [
+        {
+          "source_url": "https://sweetwaterinn.com/contact-us/",
+          "title": "Contact Us - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/blog/mardi-gras-wine-tasting-event/",
+          "title": "Mardi Gras Wine Tasting Event - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        },
+        {
+          "source_url": "https://sweetwaterinn.com/blog/around-the-world-wine-tasting-event/",
+          "title": "Around the World Wine Tasting Event - Sweetwater Inn",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email"
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "Server Part",
+      "role": "time Experience not required Assist Director and Banquet Manager on ev",
+      "email": "",
+      "sources": [
+        {
+          "source_url": "https://sweetwaterinn.com/employment/",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email",
+          "source": "text",
+          "context": "tact us with your resume, and we’ll be happy to keep you in mind. Available Positions Banquet Staff/Server Part-time Experience not required Assist Director and Banquet Manager on event days with pre-event setup, execution of event, and post-event breakdown. Events primarily take p"
+        }
+      ]
+    },
+    {
+      "name": "event setup",
+      "role": "Assist Director and Banquet Manager on event days with pre",
+      "email": "",
+      "sources": [
+        {
+          "source_url": "https://sweetwaterinn.com/employment/",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email",
+          "source": "text",
+          "context": "appy to keep you in mind. Available Positions Banquet Staff/Server Part-time Experience not required Assist Director and Banquet Manager on event days with pre-event setup, execution of event, and post-event breakdown. Events primarily take place onsite at Sweetwater Bra"
+        }
+      ]
+    },
+    {
+      "name": "you may rent additional",
+      "role": "nt director will help you create the perfect floor plan. If you choose",
+      "email": "",
+      "sources": [
+        {
+          "source_url": "https://sweetwaterinn.com/frequently-asked-questions-events/",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email",
+          "source": "text",
+          "context": "48” round, 60” round, 4’ banquet, 6’ banquet, 8’ banquet, bar height and serpentine shapes. Your event director will help you create the perfect floor plan. If you choose, you may rent additional linens, chairs, and other accessories to match your theme from another vendor. However, the tables,"
+        }
+      ]
+    },
+    {
+      "name": "of your wedding rehearsal",
+      "role": "reception and day-after brunch. By booking all three events with us, i",
+      "email": "",
+      "sources": [
+        {
+          "source_url": "https://sweetwaterinn.com/wedding-packages/",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email",
+          "source": "text",
+          "context": "n Saturday. Plan your weekend Turn your perfect day into a perfect weekend Let Sweetwater take care of your wedding rehearsal, reception and day-after brunch. By booking all three events with us, it takes away the stress and allows you to focus on what’s really important: getting married! Our eve"
+        }
+      ]
+    },
+    {
+      "name": "it takes away the",
+      "role": "-after brunch. By booking all three events with us",
+      "email": "",
+      "sources": [
+        {
+          "source_url": "https://sweetwaterinn.com/wedding-packages/",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email",
+          "source": "text",
+          "context": "ect day into a perfect weekend Let Sweetwater take care of your wedding rehearsal, reception and day-after brunch. By booking all three events with us, it takes away the stress and allows you to focus on what’s really important: getting married! Our event staff will ma"
+        }
+      ]
+    },
+    {
+      "name": "famous Sovereign Restaurant. This",
+      "role": "of Florida, I worked with Chef Elmo at the once",
+      "email": "",
+      "sources": [
+        {
+          "source_url": "https://sweetwaterinn.com/our-story/",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email",
+          "source": "text",
+          "context": "dening and cooking became my favorite after-school activities. Later, while attending the University of Florida, I worked with Chef Elmo at the once-famous Sovereign Restaurant. This is where I began the process of educating myself about food preparation and kitchen management. Aft"
+        }
+      ]
+    },
+    {
+      "name": "Catering Staff",
+      "role": "including 1 Banquet Manager 1 Event Director Saturday McKenzie Hall We",
+      "email": "",
+      "sources": [
+        {
+          "source_url": "https://sweetwaterinn.com/specials/wedding-package-prime-weekend/",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email",
+          "source": "text",
+          "context": "lcoholic Beverages: Water and Iced Tea 1 Bartender Real plates, silverware, glassware, and linens 4 Catering Staff, including 1 Banquet Manager 1 Event Director Saturday McKenzie Hall Wedding 4 Hour Event Time 2.5 Hours of Setup Time ½ Hour Cleanup/Breakdown Time Ceremony Space if Need"
+        }
+      ]
+    },
+    {
+      "name": "Catering Staff",
+      "role": "including 1 Banquet Manager 1 Event Director Day 2 McKenzie Hall Weddi",
+      "email": "",
+      "sources": [
+        {
+          "source_url": "https://sweetwaterinn.com/specials/wedding-package-non-weekend/",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email",
+          "source": "text",
+          "context": "lcoholic Beverages: Water and Iced Tea 1 Bartender Real plates, silverware, glassware, and linens 4 Catering Staff, including 1 Banquet Manager 1 Event Director Day 2 McKenzie Hall Wedding 4 Hour Event Time 2.5 Hours of Setup Time ½ Hour Cleanup/Breakdown Time Ceremony Space if Needed "
+        }
+      ]
+    },
+    {
+      "name": "On Specials",
+      "role": "r Event Director Inquire about your wedding Other Specials Massage Add",
+      "email": "",
+      "sources": [
+        {
+          "source_url": "https://sweetwaterinn.com/specials/wedding-package-non-weekend/",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email",
+          "source": "text",
+          "context": " Includes Non-Alcoholic Beverages: Water, Iced Tea, and Orange Juice Catering Staff & Banquet Manager Event Director Inquire about your wedding Other Specials Massage Add-On Specials → Accommodations The Sweetwater Branch Inn combines the best of Victorian charm and modern amenitie"
+        }
+      ]
+    },
+    {
+      "name": "Prime Weekend",
+      "role": "t Director Inquire about your wedding Other Specials ← Wedding Package",
+      "email": "",
+      "sources": [
+        {
+          "source_url": "https://sweetwaterinn.com/specials/wedding-package-non-prime-weekend/",
+          "engine": "yahoo",
+          "query": "site:sweetwaterinn.com sweetwaterinn.com email",
+          "source": "text",
+          "context": "des Non-Alcoholic Beverages: Water, Iced Tea, and Orange Juice Catering Staff & Banquet Manager Event Director Inquire about your wedding Other Specials ← Wedding Package: Prime Weekend* Mother’s Day Brunch at Sweetwater Branch Inn → Accommodations The Sweetwater Branch Inn combines t"
+        }
+      ]
+    }
+  ],
+  "trace": [
+    {
+      "engine": "yahoo",
+      "serp_url": "https://search.yahoo.com/search?p=site%3Asweetwaterinn.com+sweetwaterinn.com+email",
+      "query": "site:sweetwaterinn.com sweetwaterinn.com email",
+      "emails": 3
+    },
+    {
+      "engine": "yahoo",
+      "serp_url": "https://search.yahoo.com/search?p=site%3Asweetwaterinn.com+sweetwaterinn.com+email",
+      "query": "site:sweetwaterinn.com sweetwaterinn.com email",
+      "emails": 3
+    }
+  ]
+}

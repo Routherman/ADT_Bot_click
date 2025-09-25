@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-09-23T00:05:02.226818",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-23T00:04:58.458350",
+      "company": {
+        "name": null,
+        "domain": "flacracker.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 40655155,
+          "description": "A place to feed your soul and belly at the same time. With a lifestyle driven by the roots of Old Florida, the Florida Cracker Culture takes you back to a simpler time in life where everyone is treated like family with true southern hospitality.",
+          "domain": "flacracker.com",
+          "employees": "11 - 50",
+          "fqdn": "www.flacracker.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/0/78/078d46da30ba93503f93af888e1fe8ef",
+          "name": "Florida Cracker Restaurants",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Food & Beverage Services",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/florida-cracker-kitchen"
+            }
+          },
+          "address": "Brooksville North America United States US Brooksville, Florida Florida FL -82.38990783691406,28.555540084838867 ",
+          "location": {
+            "city": "Brooksville",
+            "country": "United States",
+            "fullLocation": "Brooksville North America United States US Brooksville, Florida Florida FL -82.38990783691406,28.555540084838867 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Brooksville, Florida"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://flacracker.com/kitchen"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-23T00:04:59.633164",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-23T00:05:02.223331",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

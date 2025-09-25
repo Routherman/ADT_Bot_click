@@ -1,0 +1,63 @@
+{
+  "pages": [
+    {
+      "url": "http://www.oaklodgemhc.com/contact-us",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nServing Pensacola & the Surrounding Areas\nFollow Us On:\nHome\nAbout\nCurrent Listings\nSales\nLocation\nContact Us\nCall Us Today!\n(866) 709-1672\n|\n(850) 456-4433\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nContact Us\nnavigation placeholders\nContact Us\nThank you for visiting our website. Please fill out the following form to request information about our affordable housing or to provide feedback about our site. When you are finished, click the 'Submit' button to send us your message. You will see a confirmation below.\nContact Form\nFirst Name*\nLast Name*\nEmail*\nPhone*\nComments*\nThank you for contacting us.\nWe will get back to you as soon as possible.\nOops, there was an error sending your message.\nPlease try again later.\nContact\nOaklodge Manufactured Home Community\n, in\nPensacola, Florida,\naffordable\nmanufactured homes\nfor rent or for sale.\nServices Area:\nPensacola & the Surrounding Areas\nPhone:\n(866) 709-1672\n|\n(850) 456-4433\nEmail:\ninfo@oaklodgemhc.com\nBusiness Hours:\nMon - Fri: 8:00 AM - 4:00 PM CST\nOr By Appointment\nFor billing C@B Enterprises LLC\nQuick Links\nHome\nAbout\nCurrent Listings\nSales\nLocation\nContact Us\nContact Information\nServing Pensacola & the Surrounding Areas\n(866) 709-1672\n|\n(850) 456-4433\ninfo@oaklodgemhc.com\nFor billing C@B Enterprises LLC\nBusiness Hours\nMon - Fri: 8:00 AM - 4:00 PM CST\nOr By Appointment\nSales Application\n© 2025\nOaklodge Manufactured Home Community\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: cd0757c6\nShare by:\nEnd Script tags\nBegin Body End Markup\nEnd Body End Markup\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": [
+        "info@oaklodgemhc.com"
+      ]
+    },
+    {
+      "url": "http://www.oaklodgemhc.com/about",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nServing Pensacola & the Surrounding Areas\nFollow Us On:\nHome\nAbout\nCurrent Listings\nSales\nLocation\nContact Us\nCall Us Today!\n(866) 709-1672\n|\n(850) 456-4433\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nAbout\nnavigation placeholders\nAbout\nAbout Us\nOaklodge Mobile Home Park is a family park located close to the Naval Air Station in Pensacola, Florida. World class beaches are within miles of the entrance to Oaklodge. We have one lot rental left for a home or a recreational vehicle. We have homes for sale and rent. Why rent an apartment when you can rent or buy a home? On site professional management, On site professional maintenance, Paved streets, Street lights, Great neighbors, Off street parking, Guest parking, Locked mailboxes, Attractive wooded home sites, City water and sewer, School bus stops within the community and more!!!!\nContact Oaklodge Manufactured Home Community\nto rent or buy a\nmanufactured home\nin beautiful, sunny\nPensacola, Florida\n.\nSales Application\nQuick Links\nHome\nAbout\nCurrent Listings\nSales\nLocation\nContact Us\nContact Information\nServing Pensacola & the Surrounding Areas\n(866) 709-1672\n|\n(850) 456-4433\ninfo@oaklodgemhc.com\nFor billing C@B Enterprises LLC\nBusiness Hours\nMon - Fri: 8:00 AM - 4:00 PM CST\nOr By Appointment\nSales Application\n© 2025\nOaklodge Manufactured Home Community\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: cd0757c6\nShare by:\nEnd Script tags\nBegin Body End Markup\nEnd Body End Markup\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": [
+        "info@oaklodgemhc.com"
+      ]
+    }
+  ],
+  "all_links": [
+    "http://www.oaklodgemhc.com/sales",
+    "mailto:info@oaklodgemhc.com",
+    "http://www.oaklodgemhc.com/contact-us",
+    "http://www.oaklodgemhc.com/rental-application",
+    "http://www.oaklodgemhc.com/about",
+    "http://www.oaklodgemhc.com/",
+    "http://www.oaklodgemhc.com/location",
+    "http://www.oaklodgemhc.com/current-listings"
+  ],
+  "candidate_links": [
+    "http://www.oaklodgemhc.com/contact-us",
+    "http://www.oaklodgemhc.com/about"
+  ],
+  "visited": [
+    "http://www.oaklodgemhc.com/",
+    "http://www.oaklodgemhc.com/about",
+    "http://www.oaklodgemhc.com/contact",
+    "http://www.oaklodgemhc.com/staff",
+    "http://www.oaklodgemhc.com/team",
+    "http://www.oaklodgemhc.com/board",
+    "http://www.oaklodgemhc.com/directory",
+    "http://www.oaklodgemhc.com/events",
+    "http://www.oaklodgemhc.com/sitemap.xml",
+    "http://www.oaklodgemhc.com/council",
+    "http://www.oaklodgemhc.com/leadership",
+    "http://www.oaklodgemhc.com/management",
+    "http://www.oaklodgemhc.com/producers",
+    "http://www.oaklodgemhc.com/support",
+    "http://www.oaklodgemhc.com/crew",
+    "http://www.oaklodgemhc.com/members",
+    "http://www.oaklodgemhc.com/bios",
+    "http://www.oaklodgemhc.com/people",
+    "http://www.oaklodgemhc.com/artists",
+    "http://www.oaklodgemhc.com/musicians",
+    "http://www.oaklodgemhc.com/faculty",
+    "http://www.oaklodgemhc.com/administration",
+    "http://www.oaklodgemhc.com/contact-us",
+    "http://www.oaklodgemhc.com/about"
+  ],
+  "base_url": "http://www.oaklodgemhc.com/"
+}

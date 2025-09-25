@@ -1,0 +1,143 @@
+{
+  "timestamp": "2025-09-17T11:13:58.187124",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-17T11:13:54.427984",
+      "company": {
+        "name": null,
+        "domain": "visualartcenter.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 91515563,
+          "description": "The Visual Arts Center serves Charlotte County and beyond, with three major galleries, 6 classrooms, jewelry, glass, pottery & technology studios, an extensive arts library, Gift Gallery, Art and Supply Store and VAC logo items. Our 12,000 square foot facility provides the best art classes, instructors and exhibit opportunities for the community. Our courses are designed for all ages and skill levels, and we offer classes and workshops in a variety of arts media throughout the year.",
+          "domain": "visualartcenter.org",
+          "employees": "1 - 10",
+          "founded": "1984",
+          "fqdn": "www.visualartcenter.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/5/e7/5e7df94869984d8685941eae05f47ccc",
+          "name": "The Visual Arts Center of Punta Gorda",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Education",
+          "subIndustry": "Schools",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/the-visual-arts-center-of-punta-gorda"
+            }
+          },
+          "address": "Punta Gorda North America United States US 210 Maud St; Punta Gorda, Florida 33950, US Florida FL -82.04537200927734,26.929779052734375 ",
+          "location": {
+            "city": "Punta Gorda",
+            "country": "United States",
+            "fullLocation": "Punta Gorda North America United States US 210 Maud St; Punta Gorda, Florida 33950, US Florida FL -82.04537200927734,26.929779052734375 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "210 Maud St; Punta Gorda, Florida 33950, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8299,
+                "description": "Schools and educational services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 611610,
+                "description": "Fine Arts Schools"
+              }
+            ]
+          },
+          "website": "https://visualartcenter.org",
+          "specialities": [
+            "barbed wire",
+            "drawing",
+            "fiber",
+            "fused glass",
+            "jewelry",
+            "oil painting",
+            "painting",
+            "photography",
+            "pottery",
+            "stained glass",
+            "watercolor",
+            "weaving"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-17T11:13:55.553835",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-17T11:13:58.180856",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

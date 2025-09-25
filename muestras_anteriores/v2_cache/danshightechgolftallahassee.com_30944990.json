@@ -1,0 +1,50 @@
+{
+  "pages": [
+    {
+      "url": "http://www.danshightechgolftallahassee.com/contact-us",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nHome\nServices\nCustom Golf Clubs\nGolf Club Fittings\nGolf Club Repairs\nTestimonials\nContact Us\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nContact Us\nnavigation placeholders\nDan's High Tech Golf\nContact Us\nCustom Golf Clubs for Golfers in Tallahassee, FL\nGolfers from all over Tallahassee, FL rely on us for\ncustom golf clubs\n,\ngolf club fittings\n, and\ngolf club repairs\n. Call us today to learn more about any of the services we offer. Count on us for PXG club repairs and fittings!\nContact Us\nName:\nEmail:\nPhone:\nMessage:\nThank you for contacting us.\nWe will get back to you as soon as possible.\nOops, there was an error sending your message.\nPlease try again later.\nIf you’re interested in a custom fitting, be sure to schedule an appointment.\n3401 Maple Nut Ln.\nTallahassee, FL 32312\n﻿\nCall us for an appointment\nPhone:\n(850) 508-4840\nOur Contact info\n3401 Maple Nut Ln.\nTallahassee, FL 32312\nCall us for an appointment\nPhone:\n(850) 508-4840\nOur Services\nCustom Golf Clubs\nGolf Club Fittings\nGolf Club Repairs\n© 2025\nAll Rights Reserved | Dan's High Tech Golf\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-new\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: abdc8c2e\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": [
+        "dyoakam@comcast.net"
+      ]
+    }
+  ],
+  "all_links": [
+    "http://www.danshightechgolftallahassee.com/",
+    "http://www.danshightechgolftallahassee.com/testimonials",
+    "http://www.danshightechgolftallahassee.com/golf-club-fittings",
+    "http://www.danshightechgolftallahassee.com/custom-golf-clubs",
+    "http://www.danshightechgolftallahassee.com/contact-us",
+    "http://www.danshightechgolftallahassee.com/golf-club-repairs"
+  ],
+  "candidate_links": [
+    "http://www.danshightechgolftallahassee.com/contact-us"
+  ],
+  "visited": [
+    "http://www.danshightechgolftallahassee.com/",
+    "http://www.danshightechgolftallahassee.com/about",
+    "http://www.danshightechgolftallahassee.com/contact",
+    "http://www.danshightechgolftallahassee.com/staff",
+    "http://www.danshightechgolftallahassee.com/team",
+    "http://www.danshightechgolftallahassee.com/board",
+    "http://www.danshightechgolftallahassee.com/directory",
+    "http://www.danshightechgolftallahassee.com/events",
+    "http://www.danshightechgolftallahassee.com/sitemap.xml",
+    "http://www.danshightechgolftallahassee.com/council",
+    "http://www.danshightechgolftallahassee.com/leadership",
+    "http://www.danshightechgolftallahassee.com/management",
+    "http://www.danshightechgolftallahassee.com/producers",
+    "http://www.danshightechgolftallahassee.com/support",
+    "http://www.danshightechgolftallahassee.com/crew",
+    "http://www.danshightechgolftallahassee.com/members",
+    "http://www.danshightechgolftallahassee.com/bios",
+    "http://www.danshightechgolftallahassee.com/people",
+    "http://www.danshightechgolftallahassee.com/artists",
+    "http://www.danshightechgolftallahassee.com/musicians",
+    "http://www.danshightechgolftallahassee.com/faculty",
+    "http://www.danshightechgolftallahassee.com/administration",
+    "http://www.danshightechgolftallahassee.com/contact-us"
+  ],
+  "base_url": "http://www.danshightechgolftallahassee.com/"
+}

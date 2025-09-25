@@ -1,0 +1,126 @@
+{
+  "timestamp": "2025-09-25T04:03:38.362842",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-25T04:03:34.696739",
+      "company": {
+        "name": null,
+        "domain": "kingcretot.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 85515292,
+          "description": "Our story began in 2015 when the American guy met the French guy. Before we met, we both lived near Miami, Florida, and were already living fabulous lives. I spoke some French and Fabrice spoke some English. Surrounded by American, Caribbean, Latin, European, and other cultures, it was never too difficult to communicate in this type of environment.  Nearly everyone spoke a variation of English, often mixed with their native language.   \n\nFabrice and I dated for six months before we got married and started a new adventure in California, where we lived for nearly five years. \n\nWhile in California Fabrice worked independently as a French tutor while I continued my work as a college professor and language instructor. During this time we began to collect data from our experiences, \n\nwhat we learned was that; \nMost people possess the capacity to learn to speak another language - just look around you.   \nMost people are reluctant to speak because they lack confidence, positive encouragement, and a good language guide.  \nA good amount of communication barriers exist because we are often culturally ignorant and unaware of nuances, phrases, and even pronunciation. And lastly,  \nBy combining language with culture with a deliberate focus on confidence through various real-life situational challenges and exercises, we are convinced that people can achieve their language objectives faster, with more efficiency, and can use language in a variety of useful ways.  \n\n\nThis understanding created the idea for KingCretot Experience, a safe, fun, and professional space to experience language and culture as a combined experience. It is here where you will learn to speak with CONFIDENCE and learn a language that you can use in everyday life, in a variety of situations.  Our vision, of course, stretches beyond the e-learning platform and we look forward to sharing, in the future, some of these awesome possibilities.    \n\nWelcome to KingCretot Experience\nFabrice and Jonathan King-Cretot",
+          "domain": "kingcretot.com",
+          "employees": "1 - 10",
+          "founded": "2022",
+          "fqdn": "www.kingcretot.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/4/0c/40ca2ad4f2edd1a3c2556b58a7e9ecaa",
+          "name": "KingCretot Experience",
+          "revenueRange": [],
+          "mainIndustry": "Education",
+          "subIndustry": "E-Learning Providers",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/kingcretot-experience"
+            }
+          },
+          "address": "Sarasota North America United States US Sarasota, FL, US Florida FL -82.53064727783203,27.336429595947266 ",
+          "location": {
+            "city": "Sarasota",
+            "country": "United States",
+            "fullLocation": "Sarasota North America United States US Sarasota, FL, US Florida FL -82.53064727783203,27.336429595947266 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "Sarasota, FL, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8299,
+                "description": "Schools and educational services"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 61142,
+                "description": "Computer Training"
+              }
+            ]
+          },
+          "website": "https://kingcretot.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-25T04:03:35.899072",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-25T04:03:38.358492",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

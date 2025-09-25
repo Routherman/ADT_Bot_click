@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-09-24T19:00:06.785645",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T19:00:02.047220",
+      "company": {
+        "name": null,
+        "domain": "sweetfieldsfarm.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "errors": {
+          "message": "Company was not found."
+        }
+      }
+    },
+    "contactout": {
+      "status": "not_found",
+      "last_check": "2025-09-24T19:00:03.460242",
+      "http_status": 500,
+      "raw_text": "{\n    \"message\": \"Server Error\"\n}"
+    },
+    "rocketreach": {
+      "status": "not_found",
+      "last_check": "2025-09-24T19:00:06.779727",
+      "http_status": 400,
+      "raw_text": "{\"detail\":\"Not found.\"}"
+    }
+  }
+}

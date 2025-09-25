@@ -1,0 +1,152 @@
+{
+  "timestamp": "2025-09-17T04:32:47.575515",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-17T04:32:43.113487",
+      "company": {
+        "name": null,
+        "domain": "youngatartmuseum.org",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 3300372,
+          "description": "Young At Art Museum fondly referred to as YAA has been a staple in Broward County since 1989. YAA's mission is to enrich our community through artistic, interactive experiences for all ages which inspire creativity and encourage an understanding of the world in which we live. The museum, located inside the Broward Mall, showcases immersive contemporary exhibits along with artmaking stations meant to create meaningful bonds between families and visitors alike. Programming such as classes, workshops, and camps, create a platform of arts for learning. Community Initiatives to low-income communities for children experiencing homelessness, at-risk teen girls, and Title I students allow for equitable and accessible art experiences. Young At Art is a 501 c3 non-profit charity and all donations are tax deductible. Support the power of art to change lives!",
+          "domain": "youngatartmuseum.org",
+          "employees": "11 - 50",
+          "founded": "1989",
+          "fqdn": "www.youngatartmuseum.org",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/3/90/390e299e2a8f554861035ae7543d2f18",
+          "name": "Young At Art Museum",
+          "revenueRange": [],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Museums, Historical Sites, & Zoos",
+          "social": {
+            "crunchbase": {
+              "url": "https://www.crunchbase.com/organization/young-at-art-museum"
+            },
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/young-at-art-museum"
+            }
+          },
+          "address": "North America United States US 8000 W. Broward Blvd,; Suite 1208; Plantation, Florida - FL 33388, US ",
+          "location": {
+            "city": "",
+            "country": "United States",
+            "fullLocation": "North America United States US 8000 W. Broward Blvd,; Suite 1208; Plantation, Florida - FL 33388, US ",
+            "state": "",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "8000 W. Broward Blvd,; Suite 1208; Plantation, Florida - FL 33388, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 8412,
+                "description": "Museums and art galleries"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 712110,
+                "description": "Museums"
+              }
+            ]
+          },
+          "website": "https://youngatartmuseum.org",
+          "specialities": [
+            "art",
+            "community outreach",
+            "education",
+            "special events"
+          ],
+          "funding": {
+            "rounds": [
+              {
+                "currency": "USD",
+                "roundAmount": 50000,
+                "roundType": "Grant",
+                "roundDate": "Nov 14, 2024"
+              }
+            ],
+            "totalRounds": 1,
+            "totalRoundsAmount": 50000,
+            "currency": "USD",
+            "isIpo": false,
+            "lastRoundType": "Grant",
+            "lastRoundAmount": 50000,
+            "lastRoundDate": "Nov 14, 2024"
+          }
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-17T04:32:44.320692",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-17T04:32:47.569235",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

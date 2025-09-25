@@ -1,0 +1,114 @@
+{
+  "timestamp": "2025-09-18T07:50:44.813304",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-18T07:50:40.675461",
+      "company": {
+        "name": null,
+        "domain": "jointherevolution.net",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 63190124,
+          "description": "Celebrating its 15th Anniversary season in 2019, Fort Lauderdale’s Revolution Live has been living the music in South Florida since 2004. Acts such as Lady Gaga, The Weeknd, Katy Perry, and Paramore played the rock club’s legendary stage for an intimate audience before they broke out as stars; artists of all genres, from punk to … Continue reading \"Home\"",
+          "domain": "jointherevolution.net",
+          "employees": "11 - 50",
+          "fqdn": "www.jointherevolution.net",
+          "logoUrl": "https://logo.lusha.co/d/company_63190124_logo.svg",
+          "name": "Revolution Live",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/revolution-live"
+            }
+          },
+          "address": "Fort Lauderdale North America United States US 100 SW 3RD AVE; Fort Lauderdale, Florida 33312, us Florida FL -80.14337921142578,26.122310638427734 ",
+          "location": {
+            "city": "Fort Lauderdale",
+            "country": "United States",
+            "fullLocation": "Fort Lauderdale North America United States US 100 SW 3RD AVE; Fort Lauderdale, Florida 33312, us Florida FL -80.14337921142578,26.122310638427734 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "100 SW 3RD AVE; Fort Lauderdale, Florida 33312, us"
+          },
+          "website": "https://jointherevolution.net"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-18T07:50:42.313169",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-18T07:50:44.809667",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

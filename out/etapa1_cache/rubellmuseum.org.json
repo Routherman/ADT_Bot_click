@@ -1,0 +1,721 @@
+{
+  "site_url": "https://rubellmuseum.org/",
+  "domain": "rubellmuseum.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://rubellmuseum.org/",
+    "https://rubellmuseum.org/miami/about-rubell-museum-miami",
+    "https://rubellmuseum.org/miami/visit-miami",
+    "https://rubellmuseum.org/dc/about-rubell-museum-dc",
+    "https://rubellmuseum.org/dc/visit-dc",
+    "https://rubellmuseum.org/about-us",
+    "https://rubellmuseum.org/about-us/founders",
+    "https://rubellmuseum.org/miami",
+    "https://rubellmuseum.org/miami/miami-exhibitions",
+    "https://rubellmuseum.org/miami-exhibitions-2/vanessa-raw-this-is-how-the-light-gets-in",
+    "https://rubellmuseum.org/miami-exhibitions-2/recent-acquisitions",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2022-23-yayoi-kusama",
+    "https://rubellmuseum.org/miami/miami-exhibitions/past-exhibitions-miami",
+    "https://rubellmuseum.org/miami/plan-an-event-miami",
+    "https://rubellmuseum.org/dc",
+    "https://rubellmuseum.org/exhibitions-dc",
+    "https://rubellmuseum.org/dc/plan-an-event-dc",
+    "https://rubellmuseum.org/2024",
+    "https://rubellmuseum.org/miami-exhibitions-2",
+    "https://rubellmuseum.org/main-page-exhibitions/main-traveling-exhibition",
+    "https://rubellmuseum.org/main-artist-in-residence-program",
+    "https://rubellmuseum.org/support",
+    "https://rubellmuseum.org/get-tickets-main",
+    "https://rubellmuseum.org/traveling-exhibitions",
+    "https://rubellmuseum.org/artist-in-residence-program",
+    "https://rubellmuseum.org/internship-miami",
+    "https://store.rubellmuseum.org/",
+    "https://rubellmuseum.org/exhibitions-dc/dc-2025-26-basil-kincaid",
+    "https://rubellmuseum.org/exhibitions-dc/dc-2025-26-material-witness",
+    "https://rubellmuseum.org/exhibitions-dc/dc-past-exhibitions-2",
+    "https://rubellmuseum.org/2024-vanessa-raw",
+    "https://rubellmuseum.org/miami-exhibitions-2/recent-acquisitions?view=article&id=1636:2024-patrick-goddard&catid=193:2024-new-acquisitions",
+    "https://rubellmuseum.org/miami-exhibitions-2/recent-acquisitions?view=article&id=1665:2024-olaolu-slawn&catid=193:2024-new-acquisitions",
+    "https://rubellmuseum.org/miami-exhibitions-2/recent-acquisitions?view=article&id=1632:2024-emmanuel-louisnord-desir&catid=193:2024-new-acquisitions",
+    "https://rubellmuseum.org/miami-exhibitions-2/recent-acquisitions?view=article&id=1640:2024-february-james&catid=193:2024-new-acquisitions",
+    "https://rubellmuseum.org/miami-exhibitions-2/recent-acquisitions?view=article&id=1649:2024-murjoni-merriweather&catid=193:2024-new-acquisitions",
+    "https://rubellmuseum.org/miami-exhibitions-2/recent-acquisitions?view=article&id=1666:2024-michelle-uckotter&catid=193:2024-new-acquisitions",
+    "https://rubellmuseum.org/miami-exhibitions-2/recent-acquisitions?view=article&id=1633:2024-omari-douglin&catid=193:2024-new-acquisitions",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1630:2024-maurizio-cattelan&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1651:2024-richard-prince&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1641:2024-rashid-johnson&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1631:2024-alexandre-diop&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1657:2024-andra-ursuta&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1659:2024-la-monte-westmoreland&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1656:2024-diamond-stingily&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1646:2024-glenn-ligon&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1653:2024-cady-noland&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1629:2024-miriam-cahn&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1648:2024-juanita-mcneely&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1742:2025-vanessa-raw&catid=97:exhibitions",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1655:2024-tschabalala-self&catid=192:collection-highlights",
+    "https://rubellmuseum.org/2019-lisa-yuskavage",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1635:2024-luis-frangella&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1678:2024-judy-glantzman&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1645:2024-stephen-lack&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1652:2024-rick-prol&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1627:2024-jean-michel-basquiat&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1638:2024-keith-haring&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1660:2024-david-wojnarowicz&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1734:2025-yoshitomo-nara&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1624:2024-el-anatsui&catid=192:collection-highlights",
+    "https://rubellmuseum.org/30a-mark-bradford",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1647:2024-rodney-mcmillian&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1741:2025-rosemarie-trockel&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1654:2024-sterling-ruby&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1679:2024-christian-boltanski&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1680:2024-walter-dahn&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1643:2024-anselm-kiefer&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1644:2024-josh-kline&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1664:2024-thomas-zipp&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1661:2024-kennedy-yanko&catid=192:collection-highlights",
+    "https://rubellmuseum.org/miami-exhibitions-2/2024-25-collection-highlights?view=article&id=1662:2024-cajsa-von-zeipel&catid=192:collection-highlights"
+  ],
+  "candidates": [
+    "https://rubellmuseum.org/about-us",
+    "https://rubellmuseum.org/about-us/founders",
+    "https://rubellmuseum.org/dc/about-rubell-museum-dc",
+    "https://rubellmuseum.org/miami/about-rubell-museum-miami",
+    "https://rubellmuseum.org/dc/visit-dc",
+    "https://rubellmuseum.org/miami/visit-miami",
+    "https://rubellmuseum.org/",
+    "https://rubellmuseum.org/dc/plan-an-event-dc",
+    "https://rubellmuseum.org/miami/plan-an-event-miami",
+    "https://rubellmuseum.org/contact",
+    "https://rubellmuseum.org/contact/",
+    "https://rubellmuseum.org/contact-us",
+    "https://rubellmuseum.org/contact-us/",
+    "https://rubellmuseum.org/contactus",
+    "https://rubellmuseum.org/contactus/",
+    "https://rubellmuseum.org/about",
+    "https://rubellmuseum.org/about/",
+    "https://rubellmuseum.org/about-us/",
+    "https://rubellmuseum.org/visit",
+    "https://rubellmuseum.org/visit/",
+    "https://rubellmuseum.org/location",
+    "https://rubellmuseum.org/location/",
+    "https://rubellmuseum.org/directions",
+    "https://rubellmuseum.org/directions/"
+  ],
+  "per_page": {
+    "https://rubellmuseum.org/about-us": {
+      "title": "About",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/about-us"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/about-us"
+          ]
+        },
+        "artists": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "info@rubellmuseum.org"
+      ],
+      "phones": [
+        "(202) 964-8254",
+        "(305) 573-6090",
+        "202-964-8254",
+        "305-573-6090"
+      ],
+      "socials": [
+        "https://www.instagram.com/rubellmuseum/",
+        "https://www.instagram.com/rubellmuseumdc/"
+      ]
+    },
+    "https://rubellmuseum.org/about-us/founders": {
+      "title": "Founders",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/about-us/founders"
+          ]
+        },
+        "artists": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/about-us/founders"
+          ]
+        }
+      },
+      "emails": [
+        "info@rubellmuseum.org",
+        "infodc@rubellmuseum.org",
+        "press@rubellmuseum.org"
+      ],
+      "phones": [
+        "(202) 964-8254",
+        "(305) 573-6090"
+      ],
+      "socials": [
+        "https://www.instagram.com/rubellmuseum/",
+        "https://www.instagram.com/rubellmuseumdc/"
+      ]
+    },
+    "https://rubellmuseum.org/dc/about-rubell-museum-dc": {
+      "title": "About Rubell Museum DC",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/dc/about-rubell-museum-dc"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/dc/about-rubell-museum-dc"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/dc/about-rubell-museum-dc"
+          ]
+        },
+        "artists": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/dc/about-rubell-museum-dc"
+          ]
+        }
+      },
+      "emails": [
+        "info@rubellmuseum.org",
+        "infodc@rubellmuseum.org",
+        "press@rubellmuseum.org"
+      ],
+      "phones": [
+        "(202) 964-8254",
+        "(305) 573-6090",
+        "202-964-8254"
+      ],
+      "socials": [
+        "https://www.instagram.com/rubellmuseum/",
+        "https://www.instagram.com/rubellmuseumdc/"
+      ]
+    },
+    "https://rubellmuseum.org/miami/about-rubell-museum-miami": {
+      "title": "About Rubell Museum Miami",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/miami/about-rubell-museum-miami"
+          ]
+        },
+        "performance": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/miami/about-rubell-museum-miami"
+          ]
+        },
+        "artists": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/miami/about-rubell-museum-miami"
+          ]
+        }
+      },
+      "emails": [
+        "info@rubellmuseum.org",
+        "infodc@rubellmuseum.org",
+        "press@rubellmuseum.org"
+      ],
+      "phones": [
+        "(202) 964-8254",
+        "(305) 573-6090",
+        "305-573-6090"
+      ],
+      "socials": [
+        "https://www.instagram.com/rubellmuseum/",
+        "https://www.instagram.com/rubellmuseumdc/"
+      ]
+    },
+    "https://rubellmuseum.org/dc/visit-dc": {
+      "title": "Visit DC",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/dc/visit-dc"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/dc/visit-dc"
+          ]
+        }
+      },
+      "emails": [
+        "info@rubellmuseum.org",
+        "infodc@rubellmuseum.org",
+        "press@rubellmuseum.org"
+      ],
+      "phones": [
+        "(202) 964-8254",
+        "(305) 573-6090"
+      ],
+      "socials": [
+        "https://www.instagram.com/rubellmuseum/",
+        "https://www.instagram.com/rubellmuseumdc/"
+      ]
+    },
+    "https://rubellmuseum.org/miami/visit-miami": {
+      "title": "Visit Miami",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/miami/visit-miami"
+          ]
+        }
+      },
+      "emails": [
+        "info@rubellmuseum.org",
+        "infodc@rubellmuseum.org",
+        "press@rubellmuseum.org"
+      ],
+      "phones": [
+        "(202) 964-8254",
+        "(305) 573-6090"
+      ],
+      "socials": [
+        "https://www.instagram.com/rubellmuseum/",
+        "https://www.instagram.com/rubellmuseumdc/"
+      ]
+    },
+    "https://rubellmuseum.org/": {
+      "title": "Rubell Museum",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/"
+          ]
+        }
+      },
+      "emails": [
+        "info@rubellmuseum.org",
+        "infodc@rubellmuseum.org",
+        "press@rubellmuseum.org"
+      ],
+      "phones": [
+        "(202) 964-8254",
+        "(305) 573-6090"
+      ],
+      "socials": [
+        "https://www.instagram.com/rubellmuseum/",
+        "https://www.instagram.com/rubellmuseumdc/"
+      ]
+    },
+    "https://rubellmuseum.org/dc/plan-an-event-dc": {
+      "title": "Plan an Event in DC",
+      "band_hits": {
+        "event": {
+          "total": 7,
+          "zones": {
+            "title": 1,
+            "body": 6,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/dc/plan-an-event-dc"
+          ]
+        },
+        "stage": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/dc/plan-an-event-dc"
+          ]
+        },
+        "lighting": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/dc/plan-an-event-dc"
+          ]
+        }
+      },
+      "emails": [
+        "eventsdc@rubellmuseum.org"
+      ],
+      "phones": [
+        "(202) 667-1212",
+        "(202) 964-8254",
+        "(305) 573-6090",
+        "202-543-7878",
+        "202-587-2745",
+        "202-596-8445",
+        "301-588-9200",
+        "571-426-1880"
+      ],
+      "socials": [
+        "https://www.instagram.com/rubellmuseum/",
+        "https://www.instagram.com/rubellmuseumdc/"
+      ]
+    },
+    "https://rubellmuseum.org/miami/plan-an-event-miami": {
+      "title": "Plan an Event in Miami",
+      "band_hits": {
+        "event": {
+          "total": 4,
+          "zones": {
+            "title": 1,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/miami/plan-an-event-miami"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "(202) 964-8254",
+        "(305) 573-6090"
+      ],
+      "socials": [
+        "https://www.instagram.com/rubellmuseum/",
+        "https://www.instagram.com/rubellmuseumdc/"
+      ]
+    },
+    "https://rubellmuseum.org/contact": {
+      "title": "404 - Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rubellmuseum.org/contact/": {
+      "title": "404 - Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rubellmuseum.org/contact-us": {
+      "title": "404 - Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rubellmuseum.org/contact-us/": {
+      "title": "404 - Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rubellmuseum.org/contactus": {
+      "title": "404 - Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rubellmuseum.org/contactus/": {
+      "title": "404 - Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rubellmuseum.org/about": {
+      "title": "404 - Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rubellmuseum.org/about/": {
+      "title": "404 - Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rubellmuseum.org/about-us/": {
+      "title": "About",
+      "band_hits": {
+        "event": {
+          "total": 10,
+          "zones": {
+            "title": 0,
+            "body": 10,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/about-us/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/about-us/"
+          ]
+        },
+        "artists": {
+          "total": 13,
+          "zones": {
+            "title": 0,
+            "body": 13,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://rubellmuseum.org/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "info@rubellmuseum.org"
+      ],
+      "phones": [
+        "(202) 964-8254",
+        "(305) 573-6090",
+        "202-964-8254",
+        "305-573-6090"
+      ],
+      "socials": [
+        "https://www.instagram.com/rubellmuseum/",
+        "https://www.instagram.com/rubellmuseumdc/"
+      ]
+    },
+    "https://rubellmuseum.org/visit": {
+      "title": "404 - Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rubellmuseum.org/visit/": {
+      "title": "404 - Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rubellmuseum.org/location": {
+      "title": "Location",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(202) 964-8254",
+        "(305) 573-6090"
+      ],
+      "socials": [
+        "https://www.instagram.com/rubellmuseum/",
+        "https://www.instagram.com/rubellmuseumdc/"
+      ]
+    },
+    "https://rubellmuseum.org/location/": {
+      "title": "Location",
+      "band_hits": {},
+      "emails": [],
+      "phones": [
+        "(202) 964-8254",
+        "(305) 573-6090"
+      ],
+      "socials": [
+        "https://www.instagram.com/rubellmuseum/",
+        "https://www.instagram.com/rubellmuseumdc/"
+      ]
+    },
+    "https://rubellmuseum.org/directions": {
+      "title": "404 - Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://rubellmuseum.org/directions/": {
+      "title": "404 - Page not found",
+      "band_hits": {},
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

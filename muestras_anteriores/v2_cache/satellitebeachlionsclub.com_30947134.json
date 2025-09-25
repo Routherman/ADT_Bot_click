@@ -1,0 +1,74 @@
+{
+  "pages": [
+    {
+      "url": "https://www.satellitebeachlionsclub.com/contact",
+      "is_candidate": false,
+      "has_email": true,
+      "text": "========= Site Content =========\nHome\nWho We Are\nCommunity Events\nGallery\nEyeglass Drop Off Locations\nKidSight Vision Screening\nSBLC Sponsors\nContact\nTake Action\nJoin\nResource Quick List\nMembers Only (Password Required)\nSatellite Beach Lions Club\nDONATE\nJOIN\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nCONTACT\nnavigation placeholders\nContact\nWe’d love to hear from you.\nJust choose the most convenient method and we’ll get back to you as soon as we can.\nSatellite Beach Lions Club\nFor general questions:\nPhone:\n(321) 773-3607\n(This is Complete Air & Heat, but leave a message. A Lions Club member will call you back!)\nEmail:\nsatellitebeachlionsclub@gmail.com\nFor Membership inquiries:\nPhone: 321-773-3607\nEmail:\nmembership@sblionsclub.org\nMeetings\nWhen:\n1st and 3rd Tuesday of the month at\n6:30 p.m.\nWhere:\nSatellite Beach City Hall, 565 Cassia Blvd, Satellite Beach, FL  32937\n(Subject to change occasionally)\nContact Us\nName:\nPhone:\nEmail:\nMessage:\nThank you for contacting us.\nWe will get back to you as soon as possible\nOops, there was an error sending your message.\nPlease try again later\nWho We Are\nWhat We Do\nTake Action\nContact\nMeetings:\nWhen:\n1st & 3rd Tuesday, 6:30pm.\nWhere:\nSatellite Beach City Hall 565 Cassia Blvd Satellite Beach, FL 32937\nDONATE\nTAKE ACTION\nA COPY OF THE OFFICIAL REGISTRATION AND FINANCIAL INFORMATION MAY BE OBTAINED FROM THE DIVISION OF CONSUMER SERVICES BY CALLING TOLL-FREE WITHIN THE STATE. REGISTRATION DOES NOT IMPLY ENDORSEMENT, APPROVAL, OR RECOMMENDATION BY THE STATE. The toll-free number is 1-800-HELP-FLA (435-7352), and the website is\nFDACS.gov\n.\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: c2a3a590\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": [
+        "membership@sblionsclub.org",
+        "satellitebeachlionsclub@gmail.com"
+      ]
+    },
+    {
+      "url": "https://www.satellitebeachlionsclub.com/events",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "========= Site Content =========\nHome\nWho We Are\nCommunity Events\nGallery\nEyeglass Drop Off Locations\nKidSight Vision Screening\nSBLC Sponsors\nContact\nTake Action\nJoin\nResource Quick List\nMembers Only (Password Required)\nSatellite Beach Lions Club\nDONATE\nJOIN\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nCommunity Events\nnavigation placeholders\nNew events are coming in the fall.\nHere's what we have planned:\nSatellite Beach Founder's Day\n- The Satellite Beach Lions will be serving delicious hamburgers fresh off the grill at the City's annual Founder's Day celebration Nov. 1, 2025.\nSatellite Beach Lions Club Car Show\nNov. 15, 2025, at the American Muscle Car Museum in Melbourne - Flyer below.\nSatellite Beach Lions Club Annual Golf Tournament\n- Join us in April 2026 at the Cocoa Beach Golf Course for a fun day of golfing with door prizes, raffles, awards, and lunch! More info to come.\nPancake Breakfast Fundraiser\n- October 12, 2025, at Satellite Beach City Hall from 8-Noon.\nTri-Tip BBQ Fundraiser\nat the Beach - April 21, 2026\nHave a great summer!\nWho We Are\nWhat We Do\nTake Action\nContact\nMeetings:\nWhen:\n1st & 3rd Tuesday, 6:30pm.\nWhere:\nSatellite Beach City Hall 565 Cassia Blvd Satellite Beach, FL 32937\nDONATE\nTAKE ACTION\nA COPY OF THE OFFICIAL REGISTRATION AND FINANCIAL INFORMATION MAY BE OBTAINED FROM THE DIVISION OF CONSUMER SERVICES BY CALLING TOLL-FREE WITHIN THE STATE. REGISTRATION DOES NOT IMPLY ENDORSEMENT, APPROVAL, OR RECOMMENDATION BY THE STATE. The toll-free number is 1-800-HELP-FLA (435-7352), and the website is\nFDACS.gov\n.\nAdd full CSS and Javascript before the close tag of the body if needed\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: c2a3a590\nShare by:\nEnd Script tags\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": []
+    },
+    {
+      "url": "https://www.satellitebeachlionsclub.com/newpage",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "This page is\npassword-protected\nThis page is\npassword-protected\nEnter the password to view this page\nPassword must contain at least 1 characters\nPassword is incorrect. Please try again.",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "https://www.satellitebeachlionsclub.com/contact",
+    "https://www.satellitebeachlionsclub.com/",
+    "https://www.satellitebeachlionsclub.com/gallery",
+    "https://www.satellitebeachlionsclub.com/eyeglass-drop-off-locations",
+    "https://www.satellitebeachlionsclub.com/sblc-sponcers",
+    "https://www.satellitebeachlionsclub.com/who-we-are",
+    "https://www.satellitebeachlionsclub.com/take-action",
+    "https://www.satellitebeachlionsclub.com/what-we-do",
+    "https://www.satellitebeachlionsclub.com/events",
+    "https://www.satellitebeachlionsclub.com/kidsight",
+    "https://www.satellitebeachlionsclub.com/newpage",
+    "https://www.satellitebeachlionsclub.com/resource-quick-list"
+  ],
+  "candidate_links": [
+    "https://www.satellitebeachlionsclub.com/contact",
+    "https://www.satellitebeachlionsclub.com/events",
+    "https://www.satellitebeachlionsclub.com/newpage"
+  ],
+  "visited": [
+    "https://www.satellitebeachlionsclub.com/contact",
+    "https://www.satellitebeachlionsclub.com/about",
+    "https://www.satellitebeachlionsclub.com/staff",
+    "https://www.satellitebeachlionsclub.com/team",
+    "https://www.satellitebeachlionsclub.com/board",
+    "https://www.satellitebeachlionsclub.com/directory",
+    "https://www.satellitebeachlionsclub.com/events",
+    "https://www.satellitebeachlionsclub.com/sitemap.xml",
+    "https://www.satellitebeachlionsclub.com/council",
+    "https://www.satellitebeachlionsclub.com/leadership",
+    "https://www.satellitebeachlionsclub.com/management",
+    "https://www.satellitebeachlionsclub.com/producers",
+    "https://www.satellitebeachlionsclub.com/support",
+    "https://www.satellitebeachlionsclub.com/crew",
+    "https://www.satellitebeachlionsclub.com/members",
+    "https://www.satellitebeachlionsclub.com/bios",
+    "https://www.satellitebeachlionsclub.com/people",
+    "https://www.satellitebeachlionsclub.com/artists",
+    "https://www.satellitebeachlionsclub.com/musicians",
+    "https://www.satellitebeachlionsclub.com/faculty",
+    "https://www.satellitebeachlionsclub.com/administration",
+    "https://www.satellitebeachlionsclub.com/contact",
+    "https://www.satellitebeachlionsclub.com/events",
+    "https://www.satellitebeachlionsclub.com/newpage"
+  ],
+  "base_url": "https://www.satellitebeachlionsclub.com/contact"
+}

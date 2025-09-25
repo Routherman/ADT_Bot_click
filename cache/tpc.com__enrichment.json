@@ -1,0 +1,135 @@
+{
+  "timestamp": "2025-09-24T17:00:55.960777",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-24T17:00:52.059396",
+      "company": {
+        "name": null,
+        "domain": "tpc.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 51604580,
+          "description": "Owned, operated, and licensed by the PGA TOUR, the TPC Network is comprised of more than 30 premier private, resort and daily fee golf properties designed by some of golf’s most elite architects. Each TPC has hosted or has been designed to host TOUR-sponsored golf tournaments. Since TPC Sawgrass first opened its world-renowned PLAYERS Stadium Course in the fall of 1980, TPCs have provided the PGA TOUR with rent-free venues for tournaments, helping to boost championship golf purses and increasing charitable donations to grassroots non-profit organizations. At the same time, TPCs have provided recreational golfers with the unique opportunity to test their skills on the same layouts where the world’s best golfers compete.\nTPCs are known for their outstanding conditioning and amenities, as well as a commitment to environmental excellence. The TPC Network is also distinguished by its unwavering commitment to further the PGA TOUR’s giving back mission through support of charitable and community-based programs. For more information, please visit www.tpc.com.\nFor the most up-to-date news, follow the TPC Network on Twitter (@PlayTPC), Instagram (@PlayTPC) or Facebook.com/TPCNetwork.",
+          "domain": "tpc.com",
+          "employees": "1001 - 5000",
+          "founded": "1980",
+          "fqdn": "www.tpc.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/9/7d/97de2c66ef46bb7a484fa9a9a2253fb7",
+          "name": "TPC Network",
+          "revenueRange": [
+            250000000,
+            500000000
+          ],
+          "mainIndustry": "Entertainment",
+          "subIndustry": "Sports",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/tpc-network"
+            }
+          },
+          "address": "Ponte Vedra Beach North America United States US 112 PGA Tour Blvd; Ponte Vedra Beach, Florida 32082, US Florida FL -81.3856430053711,30.23969078063965 ",
+          "location": {
+            "city": "Ponte Vedra Beach",
+            "country": "United States",
+            "fullLocation": "Ponte Vedra Beach North America United States US 112 PGA Tour Blvd; Ponte Vedra Beach, Florida 32082, US Florida FL -81.3856430053711,30.23969078063965 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "112 PGA Tour Blvd; Ponte Vedra Beach, Florida 32082, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7999,
+                "description": "Amusement and recreation, nec"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 713990,
+                "description": "All Other Amusement and Recreation Industries"
+              }
+            ]
+          },
+          "website": "https://tpc.com",
+          "specialities": [
+            "golf",
+            "golf communities",
+            "golf course design",
+            "tee times"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-24T17:00:53.418995",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-24T17:00:55.952547",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "timestamp": "2025-09-19T07:28:40.411316",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T07:28:36.512590",
+      "company": {
+        "name": null,
+        "domain": "plantationoncrystalriver.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 1486391,
+          "description": "Plantation Resort on Crystal River is a unique destination. Surrounded by King’s Bay, Plantation on Crystal River was built in 1962 and is a charming resort offering an array of amenities. Whether you are a leisure traveler, corporate meeting planner, or family member looking for a relaxing getaway, this resort will exceed your expectations! With over 12,000 square feet of meeting room space, a luxurious full-service spa, both fine and casual dining options, three bars, an 18-hole championship golf course as well as a 9-hole executive lagoons course and an extensive dive shop offering fishing charters, tours, boat rentals and scuba diving certification, the Plantation on Crystal River is the perfect place to stay and play.",
+          "domain": "plantationoncrystalriver.com",
+          "employees": "51 - 200",
+          "founded": "1962",
+          "fqdn": "www.plantationoncrystalriver.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/4/b5/4b50f13e40549284fc2b83c177a590e4",
+          "name": "Plantation Resort On Crystal River",
+          "revenueRange": [
+            10000000,
+            50000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/plantation-golf-resort-%26-spa"
+            }
+          },
+          "address": "Crystal River North America United States US 9301 W Fort Island Trail; Crystal River, Florida 34429, US Florida FL -82.59259796142578,28.90247917175293 ",
+          "location": {
+            "city": "Crystal River",
+            "country": "United States",
+            "fullLocation": "Crystal River North America United States US 9301 W Fort Island Trail; Crystal River, Florida 34429, US Florida FL -82.59259796142578,28.90247917175293 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "9301 W Fort Island Trail; Crystal River, Florida 34429, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://plantationoncrystalriver.com",
+          "specialities": [
+            "boat rentals",
+            "buffet catering",
+            "dining",
+            "dive shop",
+            "eco tours",
+            "fishing charters",
+            "golf",
+            "hot tubs",
+            "kayaking",
+            "lagoon style pool",
+            "lawn games",
+            "scalloping",
+            "spa",
+            "sports bar",
+            "sup",
+            "tennis",
+            "tiki bar",
+            "volleyball"
+          ]
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T07:28:37.741104",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T07:28:40.407103",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

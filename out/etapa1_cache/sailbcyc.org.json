@@ -1,0 +1,802 @@
+{
+  "site_url": "https://sailbcyc.org/",
+  "domain": "sailbcyc.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://sailbcyc.org/",
+    "https://sailbcyc.org/about",
+    "https://sailbcyc.org/contacts",
+    "https://sailbcyc.org/becomemember",
+    "https://sailbcyc.org/memberapp",
+    "https://sailbcyc.org/mission",
+    "https://sailbcyc.org/history",
+    "https://sailbcyc.org/officers",
+    "https://sailbcyc.org/Past-Commodores",
+    "https://sailbcyc.org/Advocacy",
+    "https://sailbcyc.org/activities",
+    "https://sailbcyc.org/blessing",
+    "https://sailbcyc.org/ChristmasBoatParade",
+    "https://sailbcyc.org/raftup",
+    "https://sailbcyc.org/flagawards",
+    "https://sailbcyc.org/adultsailschool",
+    "https://sailbcyc.org/trainingboats",
+    "https://sailbcyc.org/sailschoolstaff",
+    "https://sailbcyc.org/sailschoolterms"
+  ],
+  "candidates": [
+    "https://sailbcyc.org/contacts",
+    "https://sailbcyc.org/about",
+    "https://sailbcyc.org/",
+    "https://sailbcyc.org/contact",
+    "https://sailbcyc.org/contact/",
+    "https://sailbcyc.org/contact-us",
+    "https://sailbcyc.org/contact-us/",
+    "https://sailbcyc.org/contactus",
+    "https://sailbcyc.org/contactus/",
+    "https://sailbcyc.org/about/",
+    "https://sailbcyc.org/about-us",
+    "https://sailbcyc.org/about-us/",
+    "https://sailbcyc.org/visit",
+    "https://sailbcyc.org/visit/",
+    "https://sailbcyc.org/location",
+    "https://sailbcyc.org/location/",
+    "https://sailbcyc.org/directions",
+    "https://sailbcyc.org/directions/"
+  ],
+  "per_page": {
+    "https://sailbcyc.org/contacts": {
+      "title": "BCYC / Boca Ciega Yacht Club - Contact & Directions",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/contacts"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/contacts"
+          ]
+        }
+      },
+      "emails": [
+        "membership@sailbcyc.org",
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [
+        "(727) 321-7295"
+      ],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/about": {
+      "title": "BCYC / Boca Ciega Yacht Club - About BCYC",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/about"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/about"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/about"
+          ]
+        }
+      },
+      "emails": [
+        "membership@sailbcyc.org",
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/": {
+      "title": "BCYC / Boca Ciega Yacht Club - Home",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/"
+          ]
+        },
+        "calendar": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.facebook.com/groups/1323702462252566/",
+        "https://www.facebook.com/gulfportyc",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/contact": {
+      "title": "BCYC / Boca Ciega Yacht Club - Page not found (404)",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/contact"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/contact"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/contact/": {
+      "title": "BCYC / Boca Ciega Yacht Club - Page not found (404)",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/contact/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/contact/"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/contact-us": {
+      "title": "BCYC / Boca Ciega Yacht Club - Page not found (404)",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/contact-us"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/contact-us"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/contact-us/": {
+      "title": "BCYC / Boca Ciega Yacht Club - Page not found (404)",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/contact-us/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/contactus": {
+      "title": "BCYC / Boca Ciega Yacht Club - Page not found (404)",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/contactus"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/contactus"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/contactus/": {
+      "title": "BCYC / Boca Ciega Yacht Club - Page not found (404)",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/contactus/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/contactus/"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/about/": {
+      "title": "BCYC / Boca Ciega Yacht Club - About BCYC",
+      "band_hits": {
+        "event": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/about/"
+          ]
+        },
+        "show": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/about/"
+          ]
+        },
+        "acts": {
+          "total": 2,
+          "zones": {
+            "title": 0,
+            "body": 2,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/about/"
+          ]
+        }
+      },
+      "emails": [
+        "membership@sailbcyc.org",
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/about-us": {
+      "title": "BCYC / Boca Ciega Yacht Club - Page not found (404)",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/about-us"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/about-us"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/about-us/": {
+      "title": "BCYC / Boca Ciega Yacht Club - Page not found (404)",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/about-us/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/about-us/"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/visit": {
+      "title": "BCYC / Boca Ciega Yacht Club - Page not found (404)",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/visit"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/visit"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/visit/": {
+      "title": "BCYC / Boca Ciega Yacht Club - Page not found (404)",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/visit/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/visit/"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/location": {
+      "title": "BCYC / Boca Ciega Yacht Club - Page not found (404)",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/location"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/location"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/location/": {
+      "title": "BCYC / Boca Ciega Yacht Club - Page not found (404)",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/location/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/location/"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/directions": {
+      "title": "BCYC / Boca Ciega Yacht Club - Page not found (404)",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/directions"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/directions"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    },
+    "https://sailbcyc.org/directions/": {
+      "title": "BCYC / Boca Ciega Yacht Club - Page not found (404)",
+      "band_hits": {
+        "event": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/directions/"
+          ]
+        },
+        "acts": {
+          "total": 1,
+          "zones": {
+            "title": 0,
+            "body": 1,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://sailbcyc.org/directions/"
+          ]
+        }
+      },
+      "emails": [
+        "webmaster@sailbcyc.org"
+      ],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/SailBCYC/",
+        "https://www.instagram.com/sailbcyc/"
+      ]
+    }
+  }
+}

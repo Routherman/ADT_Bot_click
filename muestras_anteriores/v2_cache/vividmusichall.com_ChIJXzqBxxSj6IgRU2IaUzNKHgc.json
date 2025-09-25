@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "url": "https://www.vividmusichall.com/PRIVATEEVENTS",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "========= Site Content =========\nHome\nShows\nGallery\nPrivate Events\nContact\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nPrivate Events\nnavigation placeholders\nPRIVATE EVENTS\nNew Title\nPERFECT FOR YOUR PRIVATE PARTY\nVivid Music Hall is the largest private venue in downtown Gainesville, and has everything you need to host your next party or event.\n﻿\nA spacious main downstairs area with a dance floor and two separate bars is supplemented with a large upstairs area with its own bar, and a smaller, private, VIP upstairs area with a lounge and private bathrooms.\n10,000\nSQUARE FOOT\nFACILITY\n1,050\nPERSON OCCUPANCY\n792\nSQUARE FOOT\nSTAGE\n3\nBAR AREAS\nLOCATION\nThe Heart of Downtown Gainesville\nIts central location makes it easy to find for guests, and there are plenty of dining options within walking distance!\nWant to know more about booking vivid music hall for your next event?\nCONTACT US\n#vividMusicHall\nTag us on Instagram & Facebook\n@\nvividmusichall\nVMH FAN CLUB\nEnter your email to join the club!\nBegin Mailchimp Signup Form\nBegin Mailchimp Signup Form\nreal people should not fill this in and expect good things - do not remove this or risk form bot signups\nEnd mc_embed_signup\n201 W University Ave, Gainesville, FL 32601\n© 2025\nAll Rights Reserved | Vivid Music Hall\nAdd full CSS and Javascript before the close tag of the body if needed\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: 6e82b6df\nShare by:\nEnd Script tags\nBegin Body End Markup\nEnd Body End Markup\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": []
+    },
+    {
+      "url": "https://www.vividmusichall.com/contact",
+      "is_candidate": false,
+      "has_email": false,
+      "text": "========= Site Content =========\nHome\nShows\nGallery\nPrivate Events\nContact\nPage title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts\nContact\nnavigation placeholders\ncontact\nName\nEmail\nMessage\nNew Field:\nJoin the Vivid Mailing List\nThank you for contacting us.\nWe will get back to you as soon as possible\nOops, there was an error sending your message.\nPlease try again later\n#vividMusicHall\nTag us on Instagram & Facebook\n@\nvividmusichall\nVMH FAN CLUB\nEnter your email to join the club!\nBegin Mailchimp Signup Form\nBegin Mailchimp Signup Form\nreal people should not fill this in and expect good things - do not remove this or risk form bot signups\nEnd mc_embed_signup\n201 W University Ave, Gainesville, FL 32601\n© 2025\nAll Rights Reserved | Vivid Music Hall\nAdd full CSS and Javascript before the close tag of the body if needed\nGoogle Fonts Include\nloadCSS function fonts.jsp\nRT CSS Include d-css-runtime-desktop-one-package-structured-global\nEnd of RT CSS Include\nSupport `img` size attributes\nSupport showing sticky element on page only\nThis is populated in Ajax navigation\nSite CSS\nFlex Sections CSS\n========= JS Section =========\nLoad jQuery\nEnd Load jQuery\nInjecting site-wide before scripts\nEnd Injecting site-wide to the head\nHEAD RT JS Include\nEnd of HEAD RT JS Include\nphotoswipe markup\nRoot element of PhotoSwipe. Must have class pswp.\nBackground of PhotoSwipe. \n         It's a separate element as animating opacity is faster than rgba().\nSlides wrapper with overflow:hidden.\nContainer that holds slides. \n            PhotoSwipe keeps only 3 of them in the DOM to save memory.\n            Don't modify these 3 pswp__item elements, data is added later on.\nDefault (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed.\nControls are self-explanatory. Order can be changed.\nPreloader demo http://codepen.io/dimsemenov/pen/yyBWoR\nelement will get class pswp__preloader--active when preloader is running\nAlias: 6e82b6df\nShare by:\nEnd Script tags\nBegin Body End Markup\nEnd Body End Markup\nSite Wide Html Markup\nSite Wide Html Markup",
+      "emails": []
+    }
+  ],
+  "all_links": [
+    "https://www.vividmusichall.com/PRIVATEEVENTS",
+    "https://www.vividmusichall.com/home",
+    "https://www.vividmusichall.com/#shows",
+    "https://www.vividmusichall.com/contact",
+    "https://www.vividmusichall.com/",
+    "https://www.vividmusichall.com/gallery"
+  ],
+  "candidate_links": [
+    "https://www.vividmusichall.com/PRIVATEEVENTS",
+    "https://www.vividmusichall.com/contact"
+  ],
+  "visited": [
+    "https://www.vividmusichall.com/",
+    "https://www.vividmusichall.com/about",
+    "https://www.vividmusichall.com/contact",
+    "https://www.vividmusichall.com/staff",
+    "https://www.vividmusichall.com/team",
+    "https://www.vividmusichall.com/board",
+    "https://www.vividmusichall.com/directory",
+    "https://www.vividmusichall.com/events",
+    "https://www.vividmusichall.com/sitemap.xml",
+    "https://www.vividmusichall.com/PRIVATEEVENTS",
+    "https://www.vividmusichall.com/contact"
+  ],
+  "base_url": "https://www.vividmusichall.com/"
+}

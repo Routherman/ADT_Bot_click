@@ -1,0 +1,935 @@
+{
+  "site_url": "https://cityofsebastian.org/",
+  "domain": "cityofsebastian.org",
+  "version": 3,
+  "band_keywords": [
+    "live music",
+    "concert",
+    "event",
+    "show",
+    "gig",
+    "performance",
+    "book a band",
+    "booking",
+    "music booking",
+    "hire a band",
+    "reserve a band",
+    "stage",
+    "sound system",
+    "audio equipment",
+    "lighting",
+    "stage rental",
+    "weekly music",
+    "monthly music",
+    "calendar",
+    "schedule",
+    "lineup",
+    "music venue",
+    "band night",
+    "open mic",
+    "live performance",
+    "dj set",
+    "bands",
+    "performers",
+    "artists",
+    "acts",
+    "music night",
+    "tribute band",
+    "local band",
+    "beer garden",
+    "patio music",
+    "outdoor stage",
+    "indoor stage",
+    "música en vivo",
+    "concierto",
+    "evento",
+    "escenario",
+    "banda",
+    "espectáculo"
+  ],
+  "sitemap_sample": [
+    "https://cityofsebastian.org/",
+    "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=24&CID=26,14,23",
+    "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=29&CID=26,14,23",
+    "https://cityofsebastian.org/Calendar.aspx?EID=4708",
+    "https://cityofsebastian.org/Calendar.aspx?EID=4709",
+    "https://cityofsebastian.org/calendar.aspx?CID=26,14,23",
+    "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=20&CID=22,14,25",
+    "https://cityofsebastian.org/Calendar.aspx?EID=4713",
+    "https://cityofsebastian.org/calendar.aspx?CID=22,14,25",
+    "https://cityofsebastian.org/directory.aspx",
+    "https://cityofsebastian.org/AlertCenter.aspx?AID=Traffic-Alert-Map-53",
+    "https://cityofsebastian.org/Search/Results",
+    "https://cityofsebastian.org/27/Government",
+    "https://cityofsebastian.org/101/Departments",
+    "https://cityofsebastian.org/35/Business",
+    "https://cityofsebastian.org/31/Services",
+    "https://cityofsebastian.org/9/How-Do-I",
+    "https://cityofsebastian.org/AgendaCenter",
+    "https://cityofsebastian.org/171/",
+    "https://cityofsebastian.org/274/Web-Channel---Live",
+    "https://cityofsebastian.org/467/Job-Listings",
+    "https://cityofsebastian.org/list.aspx",
+    "https://cityofsebastian.org/CivicAlerts.aspx?AID=344",
+    "https://cityofsebastian.org/CivicAlerts.aspx?CID=1",
+    "https://cityofsebastian.org/instagram",
+    "https://cityofsebastian.org/youtube",
+    "https://cityofsebastian.org/QuickLinks.aspx?CID=12",
+    "https://cityofsebastian.org/282/Board-Vacancies",
+    "https://cityofsebastian.org/229/Public-Records-Search",
+    "https://cityofsebastian.org/FormCenter/Code-Enforcement-5/Online-Complaint-Form-47",
+    "https://cityofsebastian.org/184/Building-Forms",
+    "https://cityofsebastian.org/295/Community-Development-Block-Grant-CDBG-P",
+    "https://email.cityofsebastian.org/owa/"
+  ],
+  "candidates": [
+    "https://cityofsebastian.org/Calendar.aspx?EID=4708",
+    "https://cityofsebastian.org/Calendar.aspx?EID=4709",
+    "https://cityofsebastian.org/Calendar.aspx?EID=4713",
+    "https://cityofsebastian.org/calendar.aspx?CID=22,14,25",
+    "https://cityofsebastian.org/calendar.aspx?CID=26,14,23",
+    "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=20&CID=22,14,25",
+    "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=24&CID=26,14,23",
+    "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=29&CID=26,14,23",
+    "https://cityofsebastian.org/directory.aspx",
+    "https://cityofsebastian.org/",
+    "https://cityofsebastian.org/contact",
+    "https://cityofsebastian.org/contact/",
+    "https://cityofsebastian.org/contact-us",
+    "https://cityofsebastian.org/contact-us/",
+    "https://cityofsebastian.org/contactus",
+    "https://cityofsebastian.org/contactus/",
+    "https://cityofsebastian.org/about",
+    "https://cityofsebastian.org/about/",
+    "https://cityofsebastian.org/about-us",
+    "https://cityofsebastian.org/about-us/",
+    "https://cityofsebastian.org/visit",
+    "https://cityofsebastian.org/visit/",
+    "https://cityofsebastian.org/location",
+    "https://cityofsebastian.org/location/",
+    "https://cityofsebastian.org/directions",
+    "https://cityofsebastian.org/directions/"
+  ],
+  "per_page": {
+    "https://cityofsebastian.org/Calendar.aspx?EID=4708": {
+      "title": "Calendar • Regular City Council Meeting w/CRA",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/Calendar.aspx?EID=4708"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/Calendar.aspx?EID=4708"
+          ]
+        },
+        "calendar": {
+          "total": 20,
+          "zones": {
+            "title": 1,
+            "body": 19,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/Calendar.aspx?EID=4708"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 253 205 0468",
+        "+1 253 215 8782",
+        "+1 301 715 8592",
+        "+1 305 224 1968",
+        "+1 309 205 3325",
+        "+1 312 626 6799",
+        "+1 346 248 7799",
+        "+1 360 209 5623",
+        "+1 386 347 5053",
+        "+1 507 473 4847",
+        "+1 564 217 2000",
+        "+1 646 931 3860",
+        "+1 669 444 9171",
+        "+1 669 900 6833",
+        "+1 689 278 1000",
+        "+1 719 359 4580",
+        "+1 929 436 2866",
+        "+13052241968",
+        "+13092053325",
+        "5143051934"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://cityofsebastian.org/Calendar.aspx?EID=4709": {
+      "title": "Calendar • Parks and Recreation Advisory Committee Meeting",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/Calendar.aspx?EID=4709"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/Calendar.aspx?EID=4709"
+          ]
+        },
+        "calendar": {
+          "total": 20,
+          "zones": {
+            "title": 1,
+            "body": 19,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/Calendar.aspx?EID=4709"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "+1 253 205 0468",
+        "+1 253 215 8782",
+        "+1 301 715 8592",
+        "+1 305 224 1968",
+        "+1 309 205 3325",
+        "+1 312 626 6799",
+        "+1 346 248 7799",
+        "+1 360 209 5623",
+        "+1 386 347 5053",
+        "+1 507 473 4847",
+        "+1 564 217 2000",
+        "+1 646 931 3860",
+        "+1 669 444 9171",
+        "+1 669 900 6833",
+        "+1 689 278 1000",
+        "+1 719 359 4580",
+        "+1 929 436 2866",
+        "+13052241968",
+        "+13092053325",
+        "6530770814"
+      ],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://cityofsebastian.org/Calendar.aspx?EID=4713": {
+      "title": "Calendar • International Coastal Cleanup Day Twin Piers and",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/Calendar.aspx?EID=4713"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/Calendar.aspx?EID=4713"
+          ]
+        },
+        "calendar": {
+          "total": 20,
+          "zones": {
+            "title": 1,
+            "body": 19,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/Calendar.aspx?EID=4713"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": [
+        "https://www.facebook.com/sharer/sharer.php"
+      ]
+    },
+    "https://cityofsebastian.org/calendar.aspx?CID=22,14,25": {
+      "title": "Calendar • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/calendar.aspx?CID=22,14,25"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/calendar.aspx?CID=22,14,25"
+          ]
+        },
+        "calendar": {
+          "total": 23,
+          "zones": {
+            "title": 1,
+            "body": 22,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/calendar.aspx?CID=22,14,25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/calendar.aspx?CID=26,14,23": {
+      "title": "Calendar • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 9,
+          "zones": {
+            "title": 0,
+            "body": 9,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/calendar.aspx?CID=26,14,23"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/calendar.aspx?CID=26,14,23"
+          ]
+        },
+        "calendar": {
+          "total": 23,
+          "zones": {
+            "title": 1,
+            "body": 22,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/calendar.aspx?CID=26,14,23"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=20&CID=22,14,25": {
+      "title": "Calendar • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 11,
+          "zones": {
+            "title": 0,
+            "body": 11,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=20&CID=22,14,25"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=20&CID=22,14,25"
+          ]
+        },
+        "calendar": {
+          "total": 23,
+          "zones": {
+            "title": 1,
+            "body": 22,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=20&CID=22,14,25"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=24&CID=26,14,23": {
+      "title": "Calendar • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=24&CID=26,14,23"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=24&CID=26,14,23"
+          ]
+        },
+        "calendar": {
+          "total": 23,
+          "zones": {
+            "title": 1,
+            "body": 22,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=24&CID=26,14,23"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=29&CID=26,14,23": {
+      "title": "Calendar • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "event": {
+          "total": 8,
+          "zones": {
+            "title": 0,
+            "body": 8,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=29&CID=26,14,23"
+          ]
+        },
+        "show": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=29&CID=26,14,23"
+          ]
+        },
+        "calendar": {
+          "total": 23,
+          "zones": {
+            "title": 1,
+            "body": 22,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/calendar.aspx?view=list&year=2025&month=9&day=29&CID=26,14,23"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/directory.aspx": {
+      "title": "Staff Directory • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/directory.aspx"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-228-7001",
+        "772-228-7054",
+        "772-388-4436",
+        "772-388-8203",
+        "772-388-8231",
+        "772-388-8246",
+        "772-581-0111",
+        "772-589-1009",
+        "772-589-5233",
+        "772-589-5330",
+        "772-589-5537"
+      ],
+      "socials": []
+    },
+    "https://cityofsebastian.org/": {
+      "title": "Sebastian, FL | Official Website",
+      "band_hits": {
+        "event": {
+          "total": 5,
+          "zones": {
+            "title": 0,
+            "body": 5,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/"
+          ]
+        },
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/"
+          ]
+        },
+        "calendar": {
+          "total": 4,
+          "zones": {
+            "title": 0,
+            "body": 4,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/contact": {
+      "title": "Custom404 • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/contact"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/contact/": {
+      "title": "Custom404 • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/contact/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/contact-us": {
+      "title": "Staff Directory • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/contact-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-228-7001",
+        "772-228-7054",
+        "772-388-4436",
+        "772-388-8203",
+        "772-388-8231",
+        "772-388-8246",
+        "772-581-0111",
+        "772-589-1009",
+        "772-589-5233",
+        "772-589-5330",
+        "772-589-5537"
+      ],
+      "socials": []
+    },
+    "https://cityofsebastian.org/contact-us/": {
+      "title": "Custom404 • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/contact-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/contactus": {
+      "title": "Staff Directory • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/contactus"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [
+        "772-228-7001",
+        "772-228-7054",
+        "772-388-4436",
+        "772-388-8203",
+        "772-388-8231",
+        "772-388-8246",
+        "772-581-0111",
+        "772-589-1009",
+        "772-589-5233",
+        "772-589-5330",
+        "772-589-5537"
+      ],
+      "socials": []
+    },
+    "https://cityofsebastian.org/contactus/": {
+      "title": "Custom404 • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/contactus/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/about": {
+      "title": "Custom404 • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/about"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/about/": {
+      "title": "Custom404 • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/about/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/about-us": {
+      "title": "Custom404 • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/about-us"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/about-us/": {
+      "title": "Custom404 • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/about-us/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/visit": {
+      "title": "Custom404 • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/visit"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/visit/": {
+      "title": "Custom404 • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/visit/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/location": {
+      "title": "Custom404 • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/location"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/location/": {
+      "title": "Custom404 • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/location/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/directions": {
+      "title": "Custom404 • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/directions"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    },
+    "https://cityofsebastian.org/directions/": {
+      "title": "Custom404 • Sebastian, FL • CivicEngage",
+      "band_hits": {
+        "show": {
+          "total": 3,
+          "zones": {
+            "title": 0,
+            "body": 3,
+            "menu": 0,
+            "footer": 0
+          },
+          "pages": [
+            "https://cityofsebastian.org/directions/"
+          ]
+        }
+      },
+      "emails": [],
+      "phones": [],
+      "socials": []
+    }
+  }
+}

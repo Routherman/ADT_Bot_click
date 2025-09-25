@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-20T22:39:38.804498",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T22:39:35.377388",
+      "company": {
+        "name": null,
+        "domain": "watertaxi.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 35506466,
+          "description": "Fort Lauderdale Water Taxi has been an icon in South Florida for over 30 years, offering year-round service, private charters, venue options, and special event transportation. Based in the Yachting Capital of the World, Fort Lauderdale, Water Taxi has the largest passenger fleet in South Florida.\n\nKnown as the “Venice of America,” Fort Lauderdale is best explored from the water. Our narrated excursions provide historical insights and fun facts about the city's attractions, including mansions and mega yachts. With 20 stops in Fort Lauderdale and one in Hollywood at the Margaritaville Hollywood Beach Resort, Water Taxi offers a unique way to see the city. We also operate a complimentary Water Trolley, supported by the City of Fort Lauderdale, with 8 stops along the River Route. \n\nCruise & Save: Over 60 partners across 20 stops—each one offering unique ways to save during your visit, and all of which enhance your time with Water Taxi. Each trip is a new experience, especially when you enhance your tours with our Cruise & Save program. Show your Water Taxi pass at any of these places for discounts on food, drinks, rentals, and more!",
+          "domain": "watertaxi.com",
+          "employees": "51 - 200",
+          "founded": "1996",
+          "fqdn": "www.watertaxi.com",
+          "logoUrl": "https://logo.lusha.co/d/company_35506466_logo.jpg",
+          "name": "Fort Lauderdale Water Taxi",
+          "revenueRange": [
+            100000000,
+            250000000
+          ],
+          "mainIndustry": "Transportation, Logistics, Supply Chain & Storage",
+          "subIndustry": "Maritime Transportation",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/water-taxi-of-fort-lauderdale-llc"
+            }
+          },
+          "address": "Fort Lauderdale North America United States US 1366 SE 17th St; Fort Lauderdale, Florida 33316, US Florida FL -80.14337921142578,26.122310638427734 ",
+          "location": {
+            "city": "Fort Lauderdale",
+            "country": "United States",
+            "fullLocation": "Fort Lauderdale North America United States US 1366 SE 17th St; Fort Lauderdale, Florida 33316, US Florida FL -80.14337921142578,26.122310638427734 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "1366 SE 17th St; Fort Lauderdale, Florida 33316, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 4489,
+                "description": "Water passenger transportation"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 487210,
+                "description": "Scenic and Sightseeing Transportation, Water"
+              }
+            ]
+          },
+          "website": "https://watertaxi.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T22:39:36.021920",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T22:39:38.799413",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

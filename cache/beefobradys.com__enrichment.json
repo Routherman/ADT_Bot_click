@@ -1,0 +1,129 @@
+{
+  "timestamp": "2025-09-19T16:26:23.173047",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-19T16:26:19.469164",
+      "company": {
+        "name": null,
+        "domain": "beefobradys.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 2935952,
+          "description": "In 1985, Jim Mellody dreamed up the idea of a neighborhood pub where friends and families could gather to enjoy good food and sports in a fun, comfortable atmosphere. Together, with his wife Jeanette, they embellished the Brady family name and created the now-famous Beef 'O' Brady’s®. Their first restaurant opened in Brandon, Florida. The regulars quickly nicknamed it \"Beef ’s®.\" \n\nInspired by a love of sports, Jim filled his restaurant with TVs and satellite dishes so patrons could enjoy watching a vast array of sporting events. He also covered the walls with authentic sports memorabilia he had collected through the years. As a final touch, he made sure a traditional Irish Blessing graced every menu, bidding good fortune and happy times to all who visited. \n\nAs the Beef's® story grew, so too did the menu. It was important to Jim that guests have variety (like the award-winning wings available in 12 signature sauces) as well as signature favorites with an Irish twist. \n\nToday, Beef 'O' Brady’s® is one of the fastest growing restaurants in the country. Some call it the \"Luck of the Irish.\" Jim would call it a darn good dream that took a lot of hard work.",
+          "domain": "beefobradys.com",
+          "employees": "5001 - 10000",
+          "founded": "1985",
+          "fqdn": "www.beefobradys.com",
+          "logoUrl": "https://logo.lusha.co/coresignal/202405/a/44/a44a215de3908fd1c54a4e1f870b0984",
+          "name": "Beef 'O' Brady's",
+          "revenueRange": [
+            250000000,
+            500000000
+          ],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Restaurants",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/beef-%27o%27-brady%27s"
+            }
+          },
+          "address": "Tampa North America United States US 5660 W Cypress St; Tampa, FL 33607, US Florida FL -82.45842742919922,27.947519302368164 ",
+          "location": {
+            "city": "Tampa",
+            "country": "United States",
+            "fullLocation": "Tampa North America United States US 5660 W Cypress St; Tampa, FL 33607, US Florida FL -82.45842742919922,27.947519302368164 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "5660 W Cypress St; Tampa, FL 33607, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 5812,
+                "description": "Eating places"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 722511,
+                "description": "Full-Service Restaurants"
+              }
+            ]
+          },
+          "website": "https://beefobradys.com"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-19T16:26:20.695323",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-19T16:26:23.168392",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}

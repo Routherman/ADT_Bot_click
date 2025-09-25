@@ -1,0 +1,126 @@
+{
+  "timestamp": "2025-09-20T17:22:10.307303",
+  "content": {
+    "lusha": {
+      "status": "ok",
+      "last_check": "2025-09-20T17:22:06.617630",
+      "company": {
+        "name": null,
+        "domain": "gulfportyachtclub.com",
+        "website": null,
+        "linkedin_url": null,
+        "industry": null,
+        "size": null,
+        "country": null,
+        "headquarter": null,
+        "founded_at": null,
+        "revenue": null,
+        "logo_url": null,
+        "locations": null,
+        "type": null,
+        "specialties": null
+      },
+      "raw": {
+        "data": {
+          "id": 2629587,
+          "description": "The Gulfport Yacht Club best club on the Coast! Wedding, Reunions, Parties, etc......\n\nMemberships include exclusive use of our club facilities for both social/sporting events, swimming, sailing, fishing, crabbing and the opportunity to privately store your boat.",
+          "domain": "gulfportyachtclub.org",
+          "employees": "11 - 50",
+          "founded": "1934",
+          "fqdn": "www.gulfportyachtclub.org",
+          "logoUrl": "https://logo.lusha.co/d/company_2629587_logo.svg",
+          "name": "Gulfport Yacht Club",
+          "revenueRange": [],
+          "mainIndustry": "Hospitality",
+          "subIndustry": "Hotels & Motels",
+          "social": {
+            "linkedin": {
+              "url": "https://www.linkedin.com/company/gulfport-yacht-club"
+            }
+          },
+          "address": "Gulfport North America United States US 4638Del Rio Way S; Gulfport, Florida 33711, US Florida FL -82.70343017578125,27.74835968017578 ",
+          "location": {
+            "city": "Gulfport",
+            "country": "United States",
+            "fullLocation": "Gulfport North America United States US 4638Del Rio Way S; Gulfport, Florida 33711, US Florida FL -82.70343017578125,27.74835968017578 ",
+            "state": "Florida",
+            "stateCode": "US",
+            "countryIso2": "US",
+            "rawLocation": "4638Del Rio Way S; Gulfport, Florida 33711, US"
+          },
+          "industryPrimaryGroupDetails": {
+            "sics": [
+              {
+                "sic": 7011,
+                "description": "Hotels and motels"
+              }
+            ],
+            "naics": [
+              {
+                "naics": 721110,
+                "description": "Hotels (except Casino Hotels) and Motels"
+              }
+            ]
+          },
+          "website": "https://gulfportyachtclub.org"
+        },
+        "meta": {}
+      }
+    },
+    "contactout": {
+      "status": "ok",
+      "last_check": "2025-09-20T17:22:07.847717",
+      "company": {
+        "name": "Test",
+        "domain": "test.com",
+        "website": "http://test.com",
+        "linkedin_url": "https://www.linkedin.com/company/test",
+        "industry": "Computer Software",
+        "size": 89,
+        "country": "United States",
+        "headquarter": "San Francisco, US",
+        "founded_at": 2015,
+        "revenue": "$5.4M",
+        "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+        "locations": [
+          "San Francisco, US"
+        ],
+        "type": "Privately Held",
+        "specialties": []
+      },
+      "raw": {
+        "message": "This is a sample response. To unlock full access, please book a call with our sales team: https://contactout.com/meeting?utm_source=api-access",
+        "status_code": 200,
+        "companies": [
+          {
+            "contactout.com": {
+              "li_vanity": "https://www.linkedin.com/company/test",
+              "name": "Test",
+              "domain": "test.com",
+              "description": "This company specializes in innovative software solutions to streamline business operations and enhance productivity.",
+              "website": "http://test.com",
+              "logo_url": "https://images.contactout.com/companies/328ffa89a83a83042329f8181b7fbfaf",
+              "type": "Privately Held",
+              "headquarter": "San Francisco, US",
+              "country": "United States",
+              "size": 89,
+              "founded_at": 2015,
+              "locations": [
+                "San Francisco, US"
+              ],
+              "industry": "Computer Software",
+              "specialties": [],
+              "revenue": "$5.4M"
+            }
+          }
+        ]
+      }
+    },
+    "rocketreach": {
+      "status": "unauthorized",
+      "last_check": "2025-09-20T17:22:10.303296",
+      "http_status": 403,
+      "message": "Clave inválida o plan sin acceso"
+    }
+  }
+}
