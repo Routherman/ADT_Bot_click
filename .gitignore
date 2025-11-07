@@ -1,0 +1,79 @@
+# --- Sensitive / credentials ---
+secrets/
+*.pem
+*.key
+*.p12
+*.der
+
+# Allow specific JSON config if needed (override below by whitelisting)
+# !some_public_config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+.envrc
+
+# Logs / temp
+logs/**
+*.log
+*.tmp
+*.swp
+out/*.tmp
+
+# Out: ignorar todas las subcarpetas pero permitir archivos en la raíz de out/
+out/*/ 
+
+# Cache
+.cache/
+.cache/**
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# PyInstaller spec
+*.spec
+
+# Node (if accidentally added)
+node_modules/
+
+# Additional ignores for this project (generated data & caches)
+# Raw cache JSON snapshots
+cache/
+cache/**
+
+# Bulk output artifacts (reports, metrics, backups)
+out/*.json
+out/*.jsonl
+out/*.csv
+out/*.db
+out/*.md
+out/etapa1_v1_bkp_*.json
+
+# Archives & binary bundles
+*.zip
+*.7z
+
+# Images / screenshots
+*.png
+
+# Misc local scripts & debug notes (keep if explicitly whitelisted)
+recargarServers y workers.txt
+server dns configuracion.txt
+
